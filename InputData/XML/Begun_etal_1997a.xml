@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Begun, D.R.<List>
+			<List>Ward, C.V.<List>
+			<List>Rose, M.D.<List>
+		</Author>
+		<Year>1997</Year>
+		<Title>Events in hominoid evolution</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>389-415</Pages>
+		<Booktitle>Function, Phylogeny, and Fossils: Miocene Hominoid Evolution and Adaptations</Booktitle>
+		<Publisher>Springer Science</Publisher>
+		<City>New York</City>
+		<Editor>
+			<List>Begun, D.R.<List>
+			<List>Ward, C.V.<List>
+			<List>Rose, M.D.<List>
+		</Editor>
+	</Source>
+	<Taxa number="14">
+		<List recon_name="Propliopithecus,Aegyptopithecus_zeuxis,Pliopithecus,Cercopithecoidea,Platyrrhini" recon_no="40888;100577;40887;40859;203516">Outgroup</List>
+		<List recon_name="Australopithecus" recon_no="40900">Australopithecus</List>
+		<List recon_name="Pan" recon_no="97177">Pan</List>
+		<List recon_name="Gorilla" recon_no="97178">Gorilla</List>
+		<List recon_name="Pongo" recon_no="40897">Pongo</List>
+		<List recon_name="Hylobates" recon_no="40891">Hylobates</List>
+		<List recon_name="Proconsul" recon_no="40895">Proconsul</List>
+		<List recon_name="Afropithecus_turkanensis" recon_no="97222">Afropithecus</List>
+		<List recon_name="Kenyapithecus" recon_no="100574">Kenyapithecus</List>
+		<List recon_name="Dryopithecus" recon_no="40893">Dryopithecus</List>
+		<List recon_name="Sivapithecus" recon_no="40898">Sivapithecus</List>
+		<List recon_name="Oreopithecus_bambolii" recon_no="364970">Oreopithecus</List>
+		<List recon_name="Lufengpithecus" recon_no="89270">Lufengpithecus</List>
+		<List recon_name="Ouranopithecus" recon_no="97181">Ouranopithecus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="240">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Begun_etal_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,11 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Rattus ,(Tupaia ,(Cynocephalus ,(((Lemur ,Propithecus ),(Loris ,Nycticebus )),(Tarsius ,((Pithecia ,(Aotus ,(Callithrix ,Saimiri ))),((Colobus ,(Cercopithecu ,(Macaca ,Papio ))),(Hylobates ,(Pongo ,(Gorilla ,(Pan ,Homo )))))))))));
+tree tnt_2 = [&U] 
+(Rattus ,((Cynocephalus ,Tupaia ),(((Lemur ,Propithecus ),(Loris ,Nycticebus )),(Tarsius ,((Pithecia ,(Aotus ,(Callithrix ,Saimiri ))),((Colobus ,(Cercopithecu ,(Macaca ,Papio ))),(Hylobates ,(Pongo ,(Gorilla ,(Pan ,Homo ))))))))));
+tree tnt_3 = [&U] 
+(Rattus ,(Cynocephalus ,Tupaia ,(((Lemur ,Propithecus ),(Loris ,Nycticebus )),(Tarsius ,((Pithecia ,(Aotus ,(Callithrix ,Saimiri ))),((Colobus ,(Cercopithecu ,(Macaca ,Papio ))),(Hylobates ,(Pongo ,(Gorilla ,(Pan ,Homo ))))))))));
+
+end ; 

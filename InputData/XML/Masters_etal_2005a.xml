@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Masters, J.C.</List>
+			<List>Anthony, N.M.</List>
+			<List>de Wit, M.J.</List>
+			<List>Mitchell, A.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>Reconstructing the evolutionary history of the Lorisidae using morphological, molecular, and geological data</Title>
+		<Journal>American Journal of Physical Anthropology</Journal>
+		<Volume>127</Volume>
+		<Pages>465-480</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List recon_name="Microcebus_murinus" recon_no="232487">Microcebus_murinus</List>
+		<List recon_name="Otolemur_crassicaudatus" recon_no="385164">Otolemur_crassicaudatus</List>
+		<List recon_name="Galagoides_demidoff" recon_no="385152">Galagoides_demidoff</List>
+		<List recon_name="Arctocebus_aureus" recon_no="236707">Arctocebus_aureus</List>
+		<List recon_name="Arctocebus_calabarensis" recon_no="232736">Arctocebus_calabarensis</List>
+		<List recon_name="Loris_tardigradus" recon_no="206247">Loris_tardigradus</List>
+		<List recon_name="Nycticebus_coucang" recon_no="234313">Nycticebus_coucang</List>
+		<List recon_name="Nycticebus_pygmaeus" recon_no="231977">Nycticebus_pygmaeus</List>
+		<List recon_name="Perodicticus_potto" recon_no="232729">Perodicticus_potto</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="36">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Masters_etal_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

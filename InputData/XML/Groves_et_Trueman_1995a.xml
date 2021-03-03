@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Groves, C.P.</List>
+			<List>Trueman, J.W.H.</List>			
+		</Author>
+		<Year>1995</Year>
+		<Title>Lemurid systematics revisited</Title>
+		<Journal>Journal of Human Evolution</Journal>
+		<Volume>28</Volume>
+		<Pages>427-437</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List recon_name="Indri_indri" recon_no="232456">Indri</List>
+		<List recon_name="Lepilemur" recon_no="143025">Lepilemur</List>
+		<List recon_name="Hapalemur" recon_no="143016">Hapalemur</List>
+		<List recon_name="Varecia_variegata" recon_no="237775">Varecia_variegata_variegata</List>
+		<List recon_name="Varecia_rubra" recon_no="385253">Varecia_variegata_rubra</List>
+		<List recon_name="Lemur_catta" recon_no="104138">Lemur_catta</List>
+		<List recon_name="Eulemur_mongoz" recon_no="239196">Eulemur_mongoz</List>
+		<List recon_name="Eulemur_macaco" recon_no="232779">Eulemur_macaco</List>
+		<List recon_name="Eulemur_rubriventer" recon_no="239198">Eulemur_rubriventer</List>
+		<List recon_name="Eulemur_coronatus" recon_no="239195">Eulemur_coronatus</List>
+		<List recon_name="Eulemur_fulvus" recon_no="239189">Eulemur_fulvus_fulvus</List>
+		<List recon_name="Eulemur_fulvus_albifrons" recon_no="239202">Eulemur_fulvus_albifrons</List>
+		<List recon_name="Eulemur_fulvus_rufus" recon_no="239204">Eulemur_fulvus_rufus</List>
+		<List recon_name="Eulemur_collaris" recon_no="239193">Eulemur_fulvus_collaris</List>
+		<List recon_name="Eulemur_albocollaris" recon_no="239191">Eulemur_fulvus_albocollaris</List>
+		<List recon_name="Eulemur_fulvus_sanfordi" recon_no="239201">Eulemur_fulvus_sanfordi</List>
+		<List recon_name="Propithecus_verreauxi" recon_no="385079">Propithecus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="53">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Groves_et_Trueman_1995a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

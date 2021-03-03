@@ -1,0 +1,11 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Aegyptopithecus ,(Proconsul ,(Victoriapithecu ,(Cercopithecinae ,((Microcolobus ,KNM_TH_48368 ),(Colobinae ,(KNM_BN_1251 ,Mesopithecus )))))));
+tree tnt_2 = [&U] 
+(Aegyptopithecus ,(Proconsul ,(Victoriapithecu ,(Cercopithecinae ,(Microcolobus ,(Colobinae ,(Mesopithecus ,(KNM_TH_48368 ,KNM_BN_1251 ))))))));
+tree tnt_3 = [&U] 
+(Aegyptopithecus ,(Proconsul ,(Victoriapithecu ,(Cercopithecinae ,(Microcolobus ,KNM_TH_48368 ,KNM_BN_1251 ,Colobinae ,Mesopithecus )))));
+
+end ; 

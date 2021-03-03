@@ -1,0 +1,37 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=23 NCHAR=24 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Victoriapithecus                000000000000000000000000
+Parapapio_lothagamensis         100000000000000000000000
+Macaca                          111111000000000000000000
+Cercocebus                      111110100000000000000000
+Lophocebus                      111111011111111110000000
+Mandrillus                      111111011110000001000000
+Papio                           111111011111111000000000
+Theropithecus                   111111011111100000111110
+Dinopithecus_ingens             111111011101000000110000
+Gorgopithecus                   111111011111111100000000
+Soromandrillus_quadratirostris  111111011110000001000000
+Parapapio_ado                   110000000000000000000000
+Parapapio_broomi                111100000000000000000001
+Parapapio_jonesi                111000000000000000000000
+Parapapio_whitei                111100000000000000000001
+Pliopapio_alemui                111111010000000000000000
+Procercocebus_antiquus          111110100000000000000000
+Theropithecus_brumpti           111111011111100000111100
+Theropithecus_oswaldi_darti     111111011111100000111110
+Theropithecus_baringensis       111111011111100000111000
+Lophocebus_cf_albigena          111111011111111110000000
+Papio_izodi                     111111011000000000000000
+Papio_angusticeps               111111011111110000100000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

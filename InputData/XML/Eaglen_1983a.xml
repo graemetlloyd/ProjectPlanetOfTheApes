@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Eaglen, R.H.</List>
+		</Author>
+		<Year>1983</Year>
+		<Title>Parallelism, Parsimony and the Phylogeny of the Lemuridae</Title>
+		<Journal>International Journal of Primatology</Journal>
+		<Volume>4</Volume>
+		<Pages>249-273</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">	
+		<List recon_name="Adapidae" recon_no="40749">Adapidae</List>
+		<List recon_name="Cheirogaleidae" recon_no="40781">Cheirogalidae</List>
+		<List recon_name="Indriidae" recon_no="40783">Indriidae</List>
+		<List recon_name="Hapalemur_griseus" recon_no="385317">Hapalemur_griseus</List>
+		<List recon_name="Hapalemur_simus" recon_no="385072">Hapalemur_simus</List>
+		<List recon_name="Lemur_catta" recon_no="104138">Lemur_catta</List>
+		<List recon_name="Lemur_macaco" recon_no="232521">Lemur_macaco</List>
+		<List recon_name="Lemur_rubriventer" recon_no="239197">Lemur_rubriventer</List>
+		<List recon_name="Varecia_variegata" recon_no="237775">Lemur_variegatus</List>
+		<List recon_name="Lemur_mongoz" recon_no="232505">Lemur_mongoz</List>
+		<List recon_name="Lepilemur" recon_no="143025">Lepilemur</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="30">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Eaglen_1983a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

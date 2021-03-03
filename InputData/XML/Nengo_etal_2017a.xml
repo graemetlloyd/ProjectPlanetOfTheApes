@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Nengo, I.</List>
+			<List>Tafforeau, P.</List>
+			<List>Gilbert, G.C.</List>
+			<List>Fleagle, J.G.</List>
+			<List>Miller, E.R.</List>
+			<List>Feibel, C.</List>
+			<List>Fox, D.L.</List>
+			<List>Feinberg, J.</List>
+			<List>Pugh, K.D.</List>
+			<List>Berruyer, C.</List>
+			<List>Mana, S.</List>
+			<List>Engle, Z.</List>
+			<List>Spoor, F.</List>
+		</Author>
+		<Year>2017</Year>
+		<Title>New infant cranium from the African Miocene sheds light on ape evolution</Title>
+		<Journal>Nature</Journal>
+		<Volume>548</Volume>
+		<Pages>169-174</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="47">
+		<List recon_name="Aotus_trivirgatus" recon_no="232711">Aotus</List>
+		<List recon_name="Saimiri_sciureus" recon_no="232446">Saimiri</List>
+		<List recon_name="Cebus_apella" recon_no="232441">Cebus</List>
+		<List recon_name="Pliobates_cataloniae" recon_no="384426">Pliobates</List>
+		<List recon_name="Dionysopithecus_shuangouensis" recon_no="143131">Dionysopithecus</List>
+		<List recon_name="Lomorupithecus_harrisoni" recon_no="143152">Lomorupithecus</List>
+		<List recon_name="Pliopithecus_vindobonensis" recon_no="143183">Epipliopithecus</List>
+		<List recon_name="Laccopithecus_robustus" recon_no="58366">Laccopithecus</List>
+		<List recon_name="Pliopithecus_antiquus" recon_no="64158">Pliopithecus</List>
+		<List recon_name="Catopithecus_browni" recon_no="97121">Catopithecus</List>
+		<List recon_name="Aegyptopithecus_zeuxis" recon_no="100577">Aegyptopithecus</List>
+		<List recon_name="Saadanius_hijazensis" recon_no="169688">Saadanius</List>
+		<List recon_name="Nyanzapithecus_alesi" recon_no="384465">Alesi</List>
+		<List recon_name="Dendropithecus_macinnesi" recon_no="385048">Dendropithecus</List>
+		<List recon_name="Simiolus_enjiessi" recon_no="132669">Simiolus</List>
+		<List recon_name="Micropithecus_clarki" recon_no="143127">Micropithecus</List>
+		<List recon_name="Kalepithecus_songhorensis" recon_no="143168">Kalepithecus</List>
+		<List recon_name="Limnopithecus_legetet" recon_no="385228">Limnopithecus_legetet</List>
+		<List recon_name="Limnopithecus_evansi" recon_no="385225">Limnopithecus_evansi</List>
+		<List recon_name="Rukwapithecus_fleaglei" recon_no="343427">Rukwapithecus</List>
+		<List recon_name="Nyanzapithecus_harrisoni" recon_no="385125">Nyanzapithecus_harrisoni</List>
+		<List recon_name="Nyanzapithecus_pickfordi" recon_no="385126">Nyanzapithecus_pickfordi</List>
+		<List recon_name="Nyanzapithecus_vancouveringorum" recon_no="143170">Nyanzapithecus_vancouveringorum</List>
+		<List recon_name="Rangwapithecus_gordoni" recon_no="385295">Rangwapithecus</List>
+		<List recon_name="Turkanapithecus_kalakolensis" recon_no="97226">Turkanapithecus</List>
+		<List recon_name="Proconsul_major" recon_no="157734">Proconsul_major</List>
+		<List recon_name="Proconsul_africanus" recon_no="157732">Proconsul_africanus</List>
+		<List recon_name="Proconsul_nyanzae" recon_no="157733">Ekembo_nyanzae</List>
+		<List recon_name="Proconsul_heseloni" recon_no="157735">Ekembo_heseloni</List>
+		<List recon_name="Equatorius_africanus" recon_no="185390">Equatorius</List>
+		<List recon_name="Morotopithecus_bishopi" recon_no="164184">Morotopithecus</List>
+		<List recon_name="Afropithecus_turkanensis" recon_no="97222">Afropithecus</List>
+		<List recon_name="Kenyapithecus_wickeri" recon_no="133716">Kenyapithecus</List>
+		<List recon_name="Hylobatidae" recon_no="40889">Hylobatidae</List>
+		<List recon_name="Pierolapithecus_catalaunicus" recon_no="157889">Pierolapithecus</List>
+		<List recon_name="Hispanopithecus" recon_no="97186">Hispanopithecus</List>
+		<List recon_name="Oreopithecus_bambolii" recon_no="364970">Oreopithecus</List>
+		<List recon_name="Lufengpithecus" recon_no="89270">Lufengpithecus</List>
+		<List recon_name="Ouranopithecus" recon_no="97181">Ouranopithecus</List>
+		<List recon_name="Sivapithecus" recon_no="40898">Sivapithecus</List>
+		<List recon_name="Pongo" recon_no="40897">Pongo</List>
+		<List recon_name="Pan_troglodytes" recon_no="157891">Pan</List>
+		<List recon_name="Gorilla_gorilla" recon_no="231497">Gorilla</List>
+		<List recon_name="Victoriapithecus_macinnesi" recon_no="135923">Victoriapithecus</List>
+		<List recon_name="Presbytis" recon_no="40875">Presbytis</List>
+		<List recon_name="Cercopithecus" recon_no="40862">Cercopithecus</List>
+		<List recon_name="Macaca" recon_no="40869">Macaca</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="265">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Nengo_etal_2017a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

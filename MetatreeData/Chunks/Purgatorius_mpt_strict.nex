@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(Purgatorius_coracis ,(Purgatorius_janisae ,(Purgatorius_sp_UCMP_153013_et_153027_et_177255_et_197482_et_197485_et_197486_et_197487_et_197489_et_197507_et_197508_et_197509_et_197511_et_197513_et_197515_et_197516_et_19751 ,(Purgatorius_titusi ,Purgatorius_unio )))));
+tree tnt_2 = [&U] 
+(allzero ,(Purgatorius_coracis ,Purgatorius_janisae ,Purgatorius_sp_UCMP_153013_et_153027_et_177255_et_197482_et_197485_et_197486_et_197487_et_197489_et_197507_et_197508_et_197509_et_197511_et_197513_et_197515_et_197516_et_19751 ,Purgatorius_titusi ,Purgatorius_unio ));
+
+end ; 

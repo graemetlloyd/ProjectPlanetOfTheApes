@@ -1,0 +1,122 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Chester, S.G.B.</List>
+			<List>Bloch, J.I.</List>
+			<List>Boyer, D.M.</List>
+			<List>Clemens, W.A.</List>	
+		</Author>
+		<Year>2015</Year>
+		<Title>Oldest known euarchontan tarsals and affinities of Paleocene Purgatorius to Primates</Title>
+		<Journal>Proceedings of the National Academy of Sciences</Journal>
+		<Volume>112</Volume>
+		<Pages>1487-1492</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="85">
+		<List recon_name="Nanolestes" recon_no="213202">Nanolestes</List>
+		<List recon_name="Peramus" recon_no="39884">Peramus</List>
+		<List recon_name="Vincelestes" recon_no="67458">Vincelestes</List>
+		<List recon_name="Kielantherium" recon_no="39918">Kielantherium</List>
+		<List recon_name="Deltatheridium" recon_no="39920">Deltatheridium</List>
+		<List recon_name="Mayulestes" recon_no="246572">Mayulestes</List>
+		<List recon_name="Pucadelphys" recon_no="246332">Pucadelphys</List>
+		<List recon_name="Acristatherium" recon_no="197846">Acristatherium</List>
+		<List recon_name="Eomaia" recon_no="67562">Eomaia</List>
+		<List recon_name="Prokennalestes" recon_no="137754">Prokennalestes</List>
+		<List recon_name="Murtoilestes" recon_no="94170">Murtoilestes</List>
+		<List recon_name="Bobolestes" recon_no="137731">Bobolestes</List>
+		<List recon_name="Montanalestes" recon_no="39911">Montanalestes</List>
+		<List recon_name="Sheikhdzheilia" recon_no="137735">Sheikhdzheilia</List>
+		<List recon_name="Alostera" recon_no="40219">Alostera</List>
+		<List recon_name="Lainodon" recon_no="53172">Lainodon</List>
+		<List recon_name="Avitotherium" recon_no="40220">Avitotherium</List>
+		<List recon_name="Gallolestes" recon_no="40252">Gallolestes</List>
+		<List recon_name="Parazhelestes" recon_no="183689">Parazhelestes</List>
+		<List recon_name="Aspanlestes" recon_no="137748">Aspanlestes</List>
+		<List recon_name="Zhelestes" recon_no="137964">Zhelestes</List>
+		<List recon_name="Paranyctoides" recon_no="40347">Paranyctoides</List>
+		<List recon_name="Eozhelestes" recon_no="137737">Eozhelestes</List>
+		<List recon_name="Cimolestes" recon_no="40235">Cimolestes</List>
+		<List recon_name="Maelestes" recon_no="143917">Maelestes</List>
+		<List recon_name="Batodon" recon_no="40393">Batodon</List>
+		<List recon_name="Bulaklestes" recon_no="81052">Bulaklestes</List>
+		<List recon_name="Daulestes" recon_no="81043">Daulestes</List>
+		<List recon_name="Uchkudukodon" recon_no="81049">Uchkudukodon</List>
+		<List recon_name="Kennalestes" recon_no="40214">Kennalestes</List>
+		<List recon_name="Asioryctes" recon_no="40213">Asioryctes</List>
+		<List recon_name="Ukhaatherium" recon_no="137752">Ukhaatherium</List>
+		<List recon_name="Deccanolestes_hislopi" recon_no="137961">Deccanolestes_hislopi</List>
+		<List recon_name="Deccanolestes" recon_no="53991">Deccanolestes_cf_hislopi</List>
+		<List recon_name="Deccanolestes_robustus" recon_no="137962">Deccanolestes_robustus</List>
+		<List recon_name="Deccanolestes_narmadensis" recon_no="202470">Deccanolestes_narmadensis</List>
+		<List recon_name="Kharmerungulatum" recon_no="111053">Kharmerungulatum</List>
+		<List recon_name="Afrodon_germanicus" recon_no="246746">Afrodon_germanicus</List>
+		<List recon_name="Afrodon_chleuhi" recon_no="118859">Afrodon_chleuhi</List>
+		<List recon_name="Kulbeckia" recon_no="137973">Kulbeckia</List>
+		<List recon_name="Zhangolestes" recon_no="102837">Zhangolestes</List>
+		<List recon_name="Alymlestes" recon_no="137749">Alymlestes</List>
+		<List recon_name="Zalambdalestes" recon_no="40217">Zalambdalestes</List>
+		<List recon_name="Barunlestes" recon_no="40216">Barunlestes</List>
+		<List recon_name="Gypsonictops" recon_no="40255">Gypsonictops</List>
+		<List recon_name="Leptictis" recon_no="40260">Leptictis</List>
+		<List recon_name="Purgatorius" recon_no="40704">Purgatorius</List>
+		<List recon_name="Protungulatum" recon_no="40211">Protungulatum</List>
+		<List recon_name="Oxyprimus" recon_no="42255">Oxyprimus</List>
+		<List recon_name="Vulpavus" recon_no="40991">Vulpavus</List>
+		<List recon_name="Miacis" recon_no="40979">Miacis</List>
+		<List recon_name="Gujaratia" recon_no="68274">Gujaratia</List>
+		<List recon_name="Hyopsodus" recon_no="42250">Hyopsodus</List>
+		<List recon_name="Meniscotherium" recon_no="42262">Meniscotherium</List>
+		<List recon_name="Phenacodus" recon_no="42288">Phenacodus</List>
+		<List recon_name="Ptilocercus" recon_no="97164">Ptilocercus</List>
+		<List recon_name="Plesiadapis" recon_no="40738">Plesiadapis</List>
+		<List recon_name="Notharctus" recon_no="40764">Notharctus</List>
+		<List recon_name="Adapis" recon_no="40750">Adapis</List>
+		<List recon_name="Tribosphenomys" recon_no="91624">Tribosphenomys</List>
+		<List recon_name="Paramys" recon_no="41408">Paramys</List>
+		<List recon_name="Rhombomylus" recon_no="41362">Rhombomylus</List>
+		<List recon_name="Gomphos" recon_no="41364">Gomphos</List>
+		<List recon_name="Mimotona" recon_no="41367">Mimotona</List>
+		<List recon_name="Blarina" recon_no="40457">Blarina</List>
+		<List recon_name="Erinaceus" recon_no="40375">Erinaceus</List>
+		<List recon_name="Solenodon" recon_no="159107">Solenodon</List>
+		<List recon_name="Eoryctes" recon_no="40226">Eoryctes</List>
+		<List recon_name="Potamogale" recon_no="231777">Potamogale</List>
+		<List recon_name="Orycteropus" recon_no="43318">Orycteropus</List>
+		<List recon_name="Rhynchocyon" recon_no="40309">Rhynchocyon</List>
+		<List recon_name="Procavia" recon_no="43295">Procavia</List>
+		<List recon_name="Moeritherium" recon_no="43238">Moeritherium</List>
+		<List recon_name="Chaetophractus" recon_no="43530">Chaetophractus</List>
+		<List recon_name="Bradypus" recon_no="72263">Bradypus</List>
+		<List recon_name="Tamandua" recon_no="83035">Tamandua</List>
+		<List recon_name="Dilambdogale" recon_no="344261">Dilambdogale</List>
+		<List recon_name="Widanelfarasia" recon_no="97118">Widanelfarasia</List>
+		<List recon_name="Todralestes" recon_no="246753">Todralestes</List>
+		<List recon_name="Microgale" recon_no="158496">Microgale</List>
+		<List recon_name="Foxomomys_fremdi" recon_no="358839">Foxomomys_fremdi</List>
+		<List recon_name="Dryomomys_szalayi" recon_no="92582">Dryomomys_szalayi</List>
+		<List recon_name="Tinimomys_graybulliensis" recon_no="52321">Tinimomys_graybulliensis</List>
+		<List recon_name="Carpolestes_simpsoni" recon_no="44951">Carpolestes_simpsoni</List>
+		<List recon_name="Cynocephalus" recon_no="236617">Cynocephalus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="415">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Chester_etal_2015aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

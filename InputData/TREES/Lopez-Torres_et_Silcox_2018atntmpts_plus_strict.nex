@@ -1,0 +1,19 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Purgatorius_coracis ,(((Arcius_zbyszewskii ,Arcius_Normandy ,((Arcius_rougieri ,(Arcius_fuscus ,Arcius_lapparenti )),(Arcius_UK ,Arcius_Spain ))),(Phenacolemur_archus ,(Ignacius_fremontensi ,Acidomomys_hebeticus ))),(Edworthia_lerbekmoi ,Paromomys_farrandi )));
+tree tnt_2 = [&U] 
+(Purgatorius_coracis ,(((Arcius_zbyszewskii ,Arcius_Normandy ,(Arcius_rougieri ,(Arcius_fuscus ,Arcius_lapparenti )),(Arcius_UK ,Arcius_Spain )),(Phenacolemur_archus ,(Ignacius_fremontensi ,Acidomomys_hebeticus ))),(Edworthia_lerbekmoi ,Paromomys_farrandi )));
+tree tnt_3 = [&U] 
+(Purgatorius_coracis ,(((Arcius_zbyszewskii ,(Arcius_Normandy ,(Arcius_rougieri ,(Arcius_fuscus ,Arcius_lapparenti )),(Arcius_UK ,Arcius_Spain ))),(Phenacolemur_archus ,(Ignacius_fremontensi ,Acidomomys_hebeticus ))),(Edworthia_lerbekmoi ,Paromomys_farrandi )));
+tree tnt_4 = [&U] 
+(Purgatorius_coracis ,(((Arcius_zbyszewskii ,(Arcius_UK ,Arcius_Spain ,Arcius_Normandy ,(Arcius_rougieri ,(Arcius_fuscus ,Arcius_lapparenti )))),(Phenacolemur_archus ,(Ignacius_fremontensi ,Acidomomys_hebeticus ))),(Edworthia_lerbekmoi ,Paromomys_farrandi )));
+tree tnt_5 = [&U] 
+(Purgatorius_coracis ,(((Arcius_zbyszewskii ,((Arcius_rougieri ,(Arcius_fuscus ,Arcius_lapparenti )),(Arcius_UK ,Arcius_Spain ,Arcius_Normandy ))),(Phenacolemur_archus ,(Ignacius_fremontensi ,Acidomomys_hebeticus ))),(Edworthia_lerbekmoi ,Paromomys_farrandi )));
+tree tnt_6 = [&U] 
+(Purgatorius_coracis ,(((Arcius_zbyszewskii ,Arcius_Normandy ,((Arcius_fuscus ,Arcius_lapparenti ),(Arcius_UK ,(Arcius_rougieri ,Arcius_Spain )))),(Phenacolemur_archus ,(Ignacius_fremontensi ,Acidomomys_hebeticus ))),(Edworthia_lerbekmoi ,Paromomys_farrandi )));
+tree tnt_7 = [&U] 
+(Purgatorius_coracis ,(((Arcius_rougieri ,Arcius_zbyszewskii ,Arcius_UK ,Arcius_Spain ,Arcius_Normandy ,(Arcius_fuscus ,Arcius_lapparenti )),(Phenacolemur_archus ,(Ignacius_fremontensi ,Acidomomys_hebeticus ))),(Edworthia_lerbekmoi ,Paromomys_farrandi )));
+
+end ; 

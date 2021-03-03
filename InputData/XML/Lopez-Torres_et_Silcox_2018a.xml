@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>López-Torres, S.</List>
+			<List>Silcox, M. T.</List>
+		</Author>
+		<Year>2018</Year>
+		<Title>The European Paromomyidae (Primates, Mammalia): taxonomy, phylogeny, and biogeographic implications</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>1-18</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List recon_name="Purgatorius_coracis" recon_no="246570">Purgatorius_coracis</List>
+		<List recon_name="Arcius_fuscus" recon_no="373286">Arcius_fuscus</List>
+		<List recon_name="Arcius_lapparenti" recon_no="347830">Arcius_lapparenti</List>
+		<List recon_name="Arcius_rougieri" recon_no="118746">Arcius_rougieri</List>
+		<List recon_name="Arcius_zbyszewskii" recon_no="118745">Arcius_zbyszewskii</List>
+		<List recon_name="Arcius_hookeri" recon_no="373288">Arcius_UK</List>
+		<List recon_name="Arcius_ilerdensis" recon_no="373289">Arcius_Spain</List>
+		<List recon_name="Arcius_sp_MAM_6_STV_2008" recon_no="118744">Arcius_Normandy</List>
+		<List recon_name="Phenacolemur_archus" recon_no="385414">Phenacolemur_archus</List>
+		<List recon_name="Ignacius_fremontensis" recon_no="47352">Ignacius_fremontensis</List>
+		<List recon_name="Acidomomys_hebeticus" recon_no="43719">Acidomomys_hebeticus</List>
+		<List recon_name="Edworthia_lerbekmoi" recon_no="172167">Edworthia_lerbekmoi</List>
+		<List recon_name="Paromomys_farrandi" recon_no="385154">Paromomys_farrandi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="53">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lopez-Torres_et_Silcox_2018a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

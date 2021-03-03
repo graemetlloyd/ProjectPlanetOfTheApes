@@ -1,0 +1,15 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Arctocebus_calabarensi ,(Loris_tardigradus ,(Nycticebus_pygmaeus ,(Nycticebus_coucang ,(Perodicticus_potto ,((Allocebus_trichotis ,(Microcebus_murinus ,Microcebus_rufus )),(Otolemur_crassicaudatu ,(Otolemur_garnettii ,((Galago_gallarum ,Galago_senegalensis ,(Galago_moholi ,(Galago_matschiei ,(Galagoides_alleni ,(Galagoides_granti ,Galagoides_zanzibaricu ,(Galagoides_demidoff ,Galagoides_thomasi )))))),(Galago_elegantulus ,Galago_pallidus ))))))))));
+tree tnt_2 = [&U] 
+(Arctocebus_calabarensi ,(Loris_tardigradus ,(Nycticebus_pygmaeus ,(Nycticebus_coucang ,(Perodicticus_potto ,((Allocebus_trichotis ,(Microcebus_murinus ,Microcebus_rufus )),(((Galago_gallarum ,Galago_senegalensis ,(Galago_moholi ,(Galago_matschiei ,(Galagoides_alleni ,(Galagoides_granti ,Galagoides_zanzibaricu ,(Galagoides_demidoff ,Galagoides_thomasi )))))),(Galago_elegantulus ,Galago_pallidus )),(Otolemur_crassicaudatu ,Otolemur_garnettii ))))))));
+tree tnt_3 = [&U] 
+(Arctocebus_calabarensi ,(Loris_tardigradus ,(Nycticebus_pygmaeus ,(Nycticebus_coucang ,(Perodicticus_potto ,((Allocebus_trichotis ,(Microcebus_murinus ,Microcebus_rufus )),(Otolemur_crassicaudatu ,(Otolemur_garnettii ,(((Galago_matschiei ,(Galago_moholi ,(Galagoides_alleni ,(Galagoides_granti ,Galagoides_zanzibaricu ,(Galagoides_demidoff ,Galagoides_thomasi ))))),(Galago_gallarum ,Galago_senegalensis )),(Galago_elegantulus ,Galago_pallidus ))))))))));
+tree tnt_4 = [&U] 
+(Arctocebus_calabarensi ,(Loris_tardigradus ,(Nycticebus_pygmaeus ,(Nycticebus_coucang ,(Perodicticus_potto ,((Allocebus_trichotis ,(Microcebus_murinus ,Microcebus_rufus )),((((Galago_matschiei ,(Galago_moholi ,(Galagoides_alleni ,(Galagoides_granti ,Galagoides_zanzibaricu ,(Galagoides_demidoff ,Galagoides_thomasi ))))),(Galago_gallarum ,Galago_senegalensis )),(Galago_elegantulus ,Galago_pallidus )),(Otolemur_crassicaudatu ,Otolemur_garnettii ))))))));
+tree tnt_5 = [&U] 
+(Arctocebus_calabarensi ,(Loris_tardigradus ,(Nycticebus_pygmaeus ,(Nycticebus_coucang ,(Perodicticus_potto ,((Allocebus_trichotis ,(Microcebus_murinus ,Microcebus_rufus )),(Otolemur_crassicaudatu ,Otolemur_garnettii ,((Galago_gallarum ,Galago_senegalensis ,(Galago_matschiei ,Galago_moholi ,(Galagoides_alleni ,(Galagoides_granti ,Galagoides_zanzibaricu ,(Galagoides_demidoff ,Galagoides_thomasi ))))),(Galago_elegantulus ,Galago_pallidus )))))))));
+
+end ; 

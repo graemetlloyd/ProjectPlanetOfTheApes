@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Proteopithecus ,(Catopithecus ,(Parvimico ,((Perupithecus ,(Branisella ,(Dolichocebus ,((((Callicebus ,((Panamacebus ,((Lagonamico ,(Callimico ,(Saguinus ,(Leontopithecus ,(Cebuella ,Callithrix ))))),(Aotus_dindensi ,Mohanamico ))),(Chilecebus ,(Aotus ,((Cebus ,Acrecebus ),((Proteropitheci ,((Pithecia ,(Cacajao ,Chiropotes )),(Nuciruptor ,Cebupithecia ))),(Ateles ,(Lagothrix ,(Brachyteles ,(Alouatta ,Stirtonia )))))))))),((Tremacebus ,(Saimiri ,Neosaimiri )),(Paralouatta ,(Antillothrix ,Xenothrix )))),(Homunculus ,Carlocebus )),(Mazzonicebus ,(Soriacebus ,Canaanimico )))))),((Aegyptopithecu ,(Hylobates ,(Miopithecus ,Presbytis ))),(Apidium ,Simonsius ))))));
+tree tnt_2 = [&U] 
+(Proteopithecus ,(Catopithecus ,(Parvimico ,((Perupithecus ,(Branisella ,(Dolichocebus ,((((Callicebus ,((Panamacebus ,((Lagonamico ,(Callimico ,(Saguinus ,(Leontopithecus ,(Cebuella ,Callithrix ))))),(Aotus_dindensi ,Mohanamico ))),(Chilecebus ,(Aotus ,((Cebus ,Acrecebus ),((Proteropitheci ,((Pithecia ,(Cacajao ,Chiropotes )),(Nuciruptor ,Cebupithecia ))),(Ateles ,(Lagothrix ,(Brachyteles ,(Alouatta ,Stirtonia )))))))))),((Tremacebus ,(Saimiri ,Neosaimiri )),(Paralouatta ,(Antillothrix ,Xenothrix )))),(Homunculus ,Carlocebus )),(Mazzonicebus ,(Soriacebus ,Canaanimico )))))),((Aegyptopithecu ,(Hylobates ,(Miopithecus ,Presbytis ))),(Apidium ,Simonsius ))))));
+
+end ; 

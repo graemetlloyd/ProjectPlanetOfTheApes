@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Beard, K.C.</List>
+			<List>Coster, P.M.C.</List>
+			<List>Salem, M.J.</List>
+			<List>Chaimanee, Y.</List>
+			<List>Jaeger, J.</List>
+		</Author>
+		<Year>2016</Year>
+		<Title>A new species of Apidium (Anthropoidea, Parapithecidae) from the Sirt Basin, central Libya: First record of Oligocene primates from Libya</Title>
+		<Journal>Journal of Human Evolution</Journal>
+		<Volume>90</Volume>
+		<Pages>29-37</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List recon_name="Biretia_megalopsis" recon_no="100642">Biretia_megalopsis</List>
+		<List recon_name="Simonsius_grangeri" recon_no="144356">Simonsius_grangeri</List>
+		<List recon_name="Parapithecus_fraasi" recon_no="144353">Parapithecus_fraasi</List>
+		<List recon_name="Apidium_bowni" recon_no="305789">Apidium_bowni</List>
+		<List recon_name="Apidium_moustafai" recon_no="172416">Apidium_moustafai</List>
+		<List recon_name="Apidium_zuetina" recon_no="331672">Apidium_zuetina</List>
+		<List recon_name="Apidium_phiomense" recon_no="100576">Apidium_phiomense</List>
+		<List recon_name="Qatrania_wingi" recon_no="100570">Qatrania_wingi</List>
+		<List recon_name="Qatrania_basiodontos" recon_no="295083">Qatrania_basiodontos</List>
+		<List recon_name="Biretia_fayumensis" recon_no="100641">Biretia_fayumensis</List>
+		<List recon_name="Biretia_piveteaui" recon_no="144313">Biretia_piveteaui</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="34">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Beard_etal_2016a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

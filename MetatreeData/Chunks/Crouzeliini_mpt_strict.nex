@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(Laccopithecus_robustus ,(Plesiopliopithecus_locker ,(Crouzelia_auscitanensis ,(Crouzelia_rhodanica ,(Anapithecus_hernyaki ,Egarapithecus_narcisoi ))))));
+tree tnt_2 = [&U] 
+(allzero ,(Laccopithecus_robustus ,(Plesiopliopithecus_locker ,(Crouzelia_auscitanensis ,Crouzelia_rhodanica ,(Anapithecus_hernyaki ,Egarapithecus_narcisoi )))));
+
+end ; 

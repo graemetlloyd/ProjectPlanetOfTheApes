@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(Apidium_bowni ,(Apidium_moustafa ,(Apidium_phiomens ,Apidium_zuetina ))));
+tree tnt_2 = [&U] 
+(allzero ,(Apidium_bowni ,(Apidium_moustafa ,(Apidium_phiomens ,Apidium_zuetina ))));
+
+end ; 

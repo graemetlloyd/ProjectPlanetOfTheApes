@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Teilhardina ,(Paraloris ,(Melaneremia ,(Pseudoloris ,(Nannopithex_humiliden ,((Nannopithex_zuccolae ,(Nannopithex_filholi ,(Necrolemur ,Microchoerus ))),(Vectipithex_raabi ,(Vectipithex_quaylei ,(Vectipithex_smithorum ,Vectipithex_ulmensis )))))))));
+tree tnt_2 = [&U] 
+(Teilhardina ,(Paraloris ,(Melaneremia ,(Pseudoloris ,(Nannopithex_humiliden ,((Nannopithex_zuccolae ,(Nannopithex_filholi ,(Necrolemur ,Microchoerus ))),(Vectipithex_raabi ,(Vectipithex_quaylei ,(Vectipithex_smithorum ,Vectipithex_ulmensis )))))))));
+
+end ; 

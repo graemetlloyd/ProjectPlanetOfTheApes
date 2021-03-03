@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Macaca_mulatta ,(Nomascus_leucogeny ,(((Gorilla_gorilla ,Gorilla_beringei ),(Homo_sapiens ,(Pan_paniscus ,Pan_troglodytes ))),(Gigantopithecus ,(Pongo_pygmaeus ,(Pongo_abelii ,Pongo_tapanuliensi ))))));
+tree tnt_2 = [&U] 
+(Macaca_mulatta ,(Nomascus_leucogeny ,(((Gorilla_gorilla ,Gorilla_beringei ),(Homo_sapiens ,(Pan_paniscus ,Pan_troglodytes ))),(Gigantopithecus ,(Pongo_pygmaeus ,(Pongo_abelii ,Pongo_tapanuliensi ))))));
+
+end ; 

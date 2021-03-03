@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Daubentonia ,((Cheirogaleidae ,((Lemur_catta ,(Hapalemur_griseu ,Hapalemur_simus )),(Lemur_fulvus ,Varecia_variegat ))),(Lepilemur ,Indriidae )));
+tree tnt_2 = [&U] 
+(Daubentonia ,((Cheirogaleidae ,((Lemur_catta ,(Hapalemur_griseu ,Hapalemur_simus )),(Lemur_fulvus ,Varecia_variegat ))),(Lepilemur ,Indriidae )));
+
+end ; 

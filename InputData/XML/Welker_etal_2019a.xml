@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Welker, F.</List> 
+			<List>Ramos-Madrigal, J.</List>
+			<List>Kuhlwilm, M.</List>
+			<List>Liao, W.</List> 
+			<List>Gutenbrunner, P.</List>
+			<List>Manuel, M.</List> 
+			<List>Samodova, D.</List>
+			<List>Mackie, M.</List>
+			<List>Allentoft, M.E.</List>
+			<List>Bacon, A.</List> 
+			<List>Collins, M.J.</List>
+			<List>Cox, J.</List>
+			<List>Lalueza-Fox, C.</List> 
+			<List>Olsen, J.V.</List> 
+			<List>Demeter, F.</List> 
+			<List>Wang, W.</List> 
+			<List>Marques-Bonet, T.</List>
+			<List>Cappellini, E.</List>
+		</Author>
+		<Year>2019</Year>
+		<Title>Enamel proteome shows that Gigantopithecus was an early diverging pongine</Title>
+		<Journal>Nature</Journal>
+		<Volume></Volume>
+		<Pages></Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List recon_name="Macaca_mulatta" recon_no="232541">Macaca_mulatta</List>
+		<List recon_name="Gorilla_gorilla" recon_no="231497">Gorilla_gorilla</List>
+		<List recon_name="Gorilla_beringei" recon_no="232980">Gorilla_beringei</List>
+		<List recon_name="Homo_sapiens" recon_no="83088">Homo_sapiens</List>
+		<List recon_name="Nomascus_leucogenys" recon_no="238884">Nomascus_leucogenys</List>
+		<List recon_name="Pan_paniscus" recon_no="236870">Pan_paniscus</List>
+		<List recon_name="Pan_troglodytes" recon_no="157891">Pan_troglodytes</List>
+		<List recon_name="Pongo_abelii" recon_no="232339">Pongo_abelii</List>
+		<List recon_name="Pongo_pygmaeus" recon_no="183261">Pongo_pygmaeus</List>
+		<List recon_name="Pongo_tapanuliensis" recon_no="399515">Pongo_tapanuliensis</List>
+		<List recon_name="Gigantopithecus_blacki" recon_no="360471">Gigantopithecus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="26">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Welker_etal_2019a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

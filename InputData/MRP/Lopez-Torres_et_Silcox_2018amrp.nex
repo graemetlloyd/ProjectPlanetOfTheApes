@@ -1,0 +1,27 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=13 NCHAR=14 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Purgatorius_coracis    00000000000000
+Arcius_fuscus          11111110000000
+Arcius_lapparenti      11111110000000
+Arcius_rougieri        11111101100000
+Arcius_zbyszewskii     11100000000000
+Arcius_UK              11111001011000
+Arcius_Spain           11111001111000
+Arcius_Normandy        11110000010000
+Phenacolemur_archus    11000000000100
+Ignacius_fremontensis  11000000000110
+Acidomomys_hebeticus   11000000000110
+Edworthia_lerbekmoi    10000000000001
+Paromomys_farrandi     10000000000001
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

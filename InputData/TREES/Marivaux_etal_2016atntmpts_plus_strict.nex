@@ -1,0 +1,11 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Simonsius ,(Apidium ,(((Branisella ,(((Chilecebus ,(((((Lagonimico ,(Callimico ,(Saguinus ,(Leontopithecus ,(Cebuella ,Callithrix ))))),(Aotus_dindensi ,Mohanamico )),(Aotus ,(Callicebus ,((Cebus ,Acrecebus ),((Proteropitheci ,((Pithecia ,(Cacajao ,Chiropotes )),(Nuciruptor ,Cebupithecia ))),(Ateles ,(Lagothrix ,(Brachyteles ,(Alouatta ,Stirtonia ))))))))),(Saimiri ,(Neosaimiri ,Panamacebus ))),(Antillothrix ,(Paralouatta ,Xenothrix )))),(Dolichocebus ,Tremacebus )),((Mazzonicebus ,(Soriacebus ,Canaanimico )),(Homunculus ,Carlocebus )))),(Perupithecus ,(Catopithecus ,Proteopithecus ))),(Aegyptopithecu ,(Hylobates ,(Miopithecus ,Presbytis ))))));
+tree tnt_2 = [&U] 
+(Simonsius ,(Apidium ,(((Branisella ,((Tremacebus ,(Dolichocebus ,(Chilecebus ,(((((Lagonimico ,(Callimico ,(Saguinus ,(Leontopithecus ,(Cebuella ,Callithrix ))))),(Aotus_dindensi ,Mohanamico )),(Aotus ,(Callicebus ,((Cebus ,Acrecebus ),((Proteropitheci ,((Pithecia ,(Cacajao ,Chiropotes )),(Nuciruptor ,Cebupithecia ))),(Ateles ,(Lagothrix ,(Brachyteles ,(Alouatta ,Stirtonia ))))))))),(Saimiri ,(Neosaimiri ,Panamacebus ))),(Antillothrix ,(Paralouatta ,Xenothrix )))))),((Mazzonicebus ,(Soriacebus ,Canaanimico )),(Homunculus ,Carlocebus )))),(Perupithecus ,(Catopithecus ,Proteopithecus ))),(Aegyptopithecu ,(Hylobates ,(Miopithecus ,Presbytis ))))));
+tree tnt_3 = [&U] 
+(Simonsius ,(Apidium ,(((Branisella ,((Dolichocebus ,Tremacebus ,(Chilecebus ,(((((Lagonimico ,(Callimico ,(Saguinus ,(Leontopithecus ,(Cebuella ,Callithrix ))))),(Aotus_dindensi ,Mohanamico )),(Aotus ,(Callicebus ,((Cebus ,Acrecebus ),((Proteropitheci ,((Pithecia ,(Cacajao ,Chiropotes )),(Nuciruptor ,Cebupithecia ))),(Ateles ,(Lagothrix ,(Brachyteles ,(Alouatta ,Stirtonia ))))))))),(Saimiri ,(Neosaimiri ,Panamacebus ))),(Antillothrix ,(Paralouatta ,Xenothrix ))))),((Mazzonicebus ,(Soriacebus ,Canaanimico )),(Homunculus ,Carlocebus )))),(Perupithecus ,(Catopithecus ,Proteopithecus ))),(Aegyptopithecu ,(Hylobates ,(Miopithecus ,Presbytis ))))));
+
+end ; 

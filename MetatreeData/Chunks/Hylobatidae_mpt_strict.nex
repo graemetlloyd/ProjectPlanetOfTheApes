@@ -1,0 +1,13 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(((Symphalangus_syndactylu ,(Hylobates_pileatus ,(Hylobates_lar ,(((Hylobates_abbotti ,(Hylobates_funereus ,Hylobates_muelleri )),(Hylobates_agilis ,Hylobates_albibarbis )),(Hylobates_klossii ,Hylobates_moloch ))))),((Nomascus_concolor ,(Nomascus_gabriellae ,(Nomascus_leucogenys ,Nomascus_siki ))),(Nomascus_hainanus ,Nomascus_nasutus ))),(Hoolock_hoolock ,(Hoolock_leuconedys ,Hoolock_tianxing ))));
+tree tnt_2 = [&U] 
+(allzero ,((Symphalangus_syndactylu ,(Hylobates_pileatus ,(Hylobates_lar ,(((Hylobates_abbotti ,(Hylobates_funereus ,Hylobates_muelleri )),(Hylobates_agilis ,Hylobates_albibarbis )),(Hylobates_klossii ,Hylobates_moloch ))))),(((Nomascus_concolor ,(Nomascus_gabriellae ,(Nomascus_leucogenys ,Nomascus_siki ))),(Nomascus_hainanus ,Nomascus_nasutus )),(Hoolock_hoolock ,(Hoolock_leuconedys ,Hoolock_tianxing )))));
+tree tnt_3 = [&U] 
+(allzero ,(((Symphalangus_syndactylu ,(Hylobates_pileatus ,(Hylobates_lar ,(((Hylobates_abbotti ,(Hylobates_funereus ,Hylobates_muelleri )),(Hylobates_agilis ,Hylobates_albibarbis )),(Hylobates_klossii ,Hylobates_moloch ))))),(Hoolock_hoolock ,(Hoolock_leuconedys ,Hoolock_tianxing ))),((Nomascus_concolor ,(Nomascus_gabriellae ,(Nomascus_leucogenys ,Nomascus_siki ))),(Nomascus_hainanus ,Nomascus_nasutus ))));
+tree tnt_4 = [&U] 
+(allzero ,((Symphalangus_syndactylu ,(Hylobates_pileatus ,(Hylobates_lar ,(((Hylobates_abbotti ,(Hylobates_funereus ,Hylobates_muelleri )),(Hylobates_agilis ,Hylobates_albibarbis )),(Hylobates_klossii ,Hylobates_moloch ))))),((Nomascus_concolor ,(Nomascus_gabriellae ,(Nomascus_leucogenys ,Nomascus_siki ))),(Nomascus_hainanus ,Nomascus_nasutus )),(Hoolock_hoolock ,(Hoolock_leuconedys ,Hoolock_tianxing ))));
+
+end ; 

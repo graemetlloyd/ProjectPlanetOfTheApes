@@ -1,0 +1,181 @@
+taxname=;
+mxram 4096;
+taxname +15;
+nstates num 32;
+xread
+''
+36 25
+& [numeric]
+Propliopithecus  1[01]1000020100000[01]1[12]011[012][01][01][01]10212010311
+Pan              0[01]11[012][012][01]00[12]10[01]01[01][01]1[01][12]11[01][12][01]13412000221
+Gorilla          0[01]11[01][012][012][12]02[01]00[12]11[01][12]02[12]11[12][01]13212010221
+Pongo            [01][01]11[012][02][02][01][01]110[01]02[01][01][12][01]21110013412010221
+Hylobates        1[01]2[01]0[01][01]00[12]00000[01]1[12]011[01][01]1[01]13312000221
+Aegyptopithecus  [01][01]20[01]00[12]010000011[12]011[02][01]1[01][01]0312010211
+Ouranopithecus   1[01]010001[01][12]1[01][01]0110[12]?[12][12]1[01]1112212010221
+Oreopithecus     ??0020010[12][01][01]1001[01][12]000??1013322110123
+Dryopithecus     [01][01]21[01][012][01][01]021[01]00[012][01][01][12]0[12]11[01][01]111112010221
+Griphopithecus   0001?2?1020100??????????????100?02??
+Lufengpithecus   [01][01]012[02][02]1[01]21[01][01]0[12]102?21111110302010221
+Sivapithecus     [01]?2[01][02][012][02]001[01][01]00[01]10[12]0[12]111[01][01]1311?010221
+Napak_Material   ??00?[02][12][12]1[12]10[01][01][012]???011[02]?1111???03?21?
+Afropithecus     [01]1200221[01]1[01][01]10[12]0[01]20[01][01]10[01][01]12010012210
+Turkanapithecus  ??00???1?11????001000?0111????1??1?1
+Dendropithecus   1[01]200[012][012][12]0[12]100001[01][12]0[01]1[02]011[01]1312010221
+Micropithecus    [01][01]100[01][01][12]01[01]000011[01]0[01]1[02]01110?12010121
+Kalepithecus     [01][01]2000[01][12]0[12][01]00001110[01]1[02]11[01][01]??1202?221
+Limnopithecus    [01][01]10[01][01][01][12]01[01]000011[01][01][01]1[02][01]1[01][01]1412010221
+Kenyapithecus    0[01]10[02][02][012][01][01][12]1[01][01]0[01]??[12]0[12]11[01]1[01]11?11020223
+Rangwapithecus   0[01]20[02][01]0101[01]0002?0[12]001001011422012121
+Proconsul        [01][01]2[01]0[01][012][12][01][12][01][01][01]0[12][01][01][12][01][01][12][02]011[01]0212011221
+Nyanzapithecus   ??00000[01]01[01]000[01]?1200100100????01?022
+Simiolus         [01][01]1000[01][12][01][12]10000?01?[01]1[02]?111131201012?
+Otavipithecus    ?????201111100111101120101???????201
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 -[/1 20 -[/1 21 -[/1 22 -[/1 23 -[/1 24 -[/1 25 -[/1 26 -[/1 27 -[/1 28 -[/1 29 -[/1 30 -[/1 31 -[/1 32 -[/1 33 -[/1 34 -[/1 35 ;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+hold 100000;
+shortread scratch.tre;
+bbreak=tbr; nelsen*; export -Singleton_2000atntmpts_plus_strict.nex; mrp;
+export Singleton_2000amrp.nex; 
+proc/;
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hooker, J.J.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>A new microchoerine omomyid (Primates, Mammalia) from the English early Eocene and it palaeobiogeographical implications</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>50</Volume>
+		<Pages>739-756</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List recon_name="Purgatorius_unio" recon_no="51270">Purgatorius</List>
+		<List recon_name="Altanius_orlovi" recon_no="101080">Altanius</List>
+		<List recon_name="Teilhardina_asiatica" recon_no="101085">Teilhardina_asiatica</List>
+		<List recon_name="Teilhardina_belgica" recon_no="53408">Teilhardina_belgica</List>
+		<List recon_name="Teilhardina_americana" recon_no="52105">Teilhardina_americana</List>
+		<List recon_name="Loveina_zephyri,Loveina_minuta" recon_no="47778;47774">Loveina</List>
+		<List recon_name="Steinius_vespertinus" recon_no="51772">Steinius</List>
+		<List recon_name="Omomys_carteri" recon_no="49314">Omomys</List>
+		<List recon_name="Jemezius_szalayi" recon_no="47419">Jemezius</List>
+		<List recon_name="Uintanius_ameghini,Uintanius_rutherfurdi" recon_no="52567;52568">Uintanius</List>
+		<List recon_name="Tetonius_homunculus" recon_no="52190">Tetonius</List>
+		<List recon_name="Melaneremia_bryanti" recon_no="101083">Melaneremia</List>
+		<List recon_name="Nannopithex_zuccolae" recon_no="101081">Nannopithex_zuccolae</List>
+		<List recon_name="Nannopithex_raabi" recon_no="352359">Nannopithex_raabi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="43">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hooker_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

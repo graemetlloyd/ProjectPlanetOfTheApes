@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Asioryctes_nemegetensi ,((Purgatorius ,(Micromomyidae ,(((Palaechthon_nacimienti ,Paromomyidae ),((Chronolestes_simul ,(Saxonellidae ,(Carpolestidae ,Plesiadapidae ))),(Altiatlasius_koulchii ,(Omomyidae ,(Altanius_orlovi ,Adapidae ))))),(Microsyopidae ,Berruvius )))),((Cynocephalidae ,(Elpidophorus ,Plagiomene )),(Ptilocercus_lowii ,Tupaia_glis ))));
+tree tnt_2 = [&U] 
+(Asioryctes_nemegetensi ,((Purgatorius ,(Micromomyidae ,(((Palaechthon_nacimienti ,Paromomyidae ),((Chronolestes_simul ,(Saxonellidae ,(Carpolestidae ,Plesiadapidae ))),(Altiatlasius_koulchii ,(Omomyidae ,(Altanius_orlovi ,Adapidae ))))),(Microsyopidae ,Berruvius )))),((Cynocephalidae ,(Elpidophorus ,Plagiomene )),(Ptilocercus_lowii ,Tupaia_glis ))));
+
+end ; 

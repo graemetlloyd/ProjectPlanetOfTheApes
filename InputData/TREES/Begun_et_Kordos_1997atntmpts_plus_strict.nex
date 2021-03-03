@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(East_African_early_Miocene_hominoi ,(Kenyapithecus ,((Ouranopithecus ,(Dryopithecus ,(Gorilla ,(Pan ,Australopithecus )))),(Sivapithecus ,Pongo ))));
+tree tnt_2 = [&U] 
+(East_African_early_Miocene_hominoi ,(Kenyapithecus ,((Ouranopithecus ,(Dryopithecus ,(Gorilla ,(Pan ,Australopithecus )))),(Sivapithecus ,Pongo ))));
+
+end ; 

@@ -1,0 +1,20 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=6 NCHAR=6 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Pliopithecus        000000
+Crouzelia           111110
+Plesiopliopithecus  111000
+Anapithecus         110101
+Laccopithecus       101000
+Egarapithecus       110111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

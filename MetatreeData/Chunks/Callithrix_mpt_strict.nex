@@ -1,0 +1,13 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(Callithrix_aurita ,(Callithrix_geoffroyi ,(Callithrix_kuhlii ,(Callithrix_jacchus ,Callithrix_penicillat )))));
+tree tnt_2 = [&U] 
+(allzero ,(Callithrix_aurita ,(Callithrix_kuhlii ,(Callithrix_geoffroyi ,(Callithrix_jacchus ,Callithrix_penicillat )))));
+tree tnt_3 = [&U] 
+(allzero ,(Callithrix_aurita ,((Callithrix_geoffroyi ,Callithrix_kuhlii ),(Callithrix_jacchus ,Callithrix_penicillat ))));
+tree tnt_4 = [&U] 
+(allzero ,(Callithrix_aurita ,(Callithrix_geoffroyi ,Callithrix_kuhlii ,(Callithrix_jacchus ,Callithrix_penicillat ))));
+
+end ; 

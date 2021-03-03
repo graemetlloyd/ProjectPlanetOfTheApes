@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gilbert, C.C.</List>
+			<List>Stanley, W.T.</List>
+			<List>Olson, L.E.</List>
+			<List>Davenport, T.R.B.</List>
+			<List>Sargis, E.J.</List>	
+		</Author>
+		<Year>2011</Year>
+		<Title>Morphological systematics of the kipunji (Rungwecebus kipunji)and the ontogenetic development of phylogenetically informativecharacters in the Papionini</Title>
+		<Journal>Journal of Human Evolution</Journal>
+		<Volume>60</Volume>
+		<Pages>731-745</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List recon_name="Allenopithecus_nigroviridis" recon_no="385063">Allenopithecus</List>
+		<List recon_name="Cercocebus_agilis,Cercocebus_torquatus" recon_no="385316;233932">Cercocebus</List>
+		<List recon_name="Lophocebus_albigena" recon_no="240334">Lophocebus</List>
+		<List recon_name="Macaca_fascicularis,Macaca_mulatta,Macaca_nemestrina,Macaca_sylvanus" recon_no="231530;232541;231528;232422">Macaca</List>
+		<List recon_name="Mandrillus_sphinx" recon_no="232550">Mandrillus</List>
+		<List recon_name="Papio_anubis,Papio_papio,Papio_ursinus,Papio_cynocephalus_kindae" recon_no="232556;232560;385206;386047">Papio</List>
+		<List recon_name="Theropithecus_gelada" recon_no="233450">Theropithecus</List>
+		<List recon_name="Rungwecebus_kipunji" recon_no="385291">Rungwecebus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="151">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gilbert_etal_2011aa</Filename>
+	<Parent>Gilbert_etal_2009aa</Parent>
+	<Sibling/>
+</SourceTree>

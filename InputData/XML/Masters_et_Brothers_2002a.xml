@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Masters, J.C.</List>
+			<List>Brothers, D.J.</List>		
+		</Author>
+		<Year>2002</Year>
+		<Title>Lack of Congruence Between Morphological and Molecular Data in Reconstructing the Phylogeny of the Galagonidae</Title>
+		<Journal>American Journal of Physical Anthropology</Journal>
+		<Volume>117</Volume>
+		<Pages>79-93</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List recon_name="Arctocebus_calabarensis" recon_no="232736">Arctocebus_calabarensis</List>
+		<List recon_name="Allocebus_trichotis" recon_no="384944">Allocebus_trichotis</List>
+		<List recon_name="Microcebus_murinus" recon_no="232487">Microcebus_murinus</List>
+		<List recon_name="Microcebus_rufus" recon_no="232494">Microcebus_rufus</List>
+		<List recon_name="Loris_tardigradus" recon_no="206247">Loris_tardigradus</List>
+		<List recon_name="Nycticebus_coucang" recon_no="234313">Nycticebus_coucang</List>
+		<List recon_name="Nycticebus_pygmaeus" recon_no="231977">Nycticebus_pygmaeus</List>
+		<List recon_name="Perodicticus_potto" recon_no="232729">Perodicticus_potto</List>
+		<List recon_name="Galago_alleni" recon_no="232724">Galagoides_alleni</List>
+		<List recon_name="Otolemur_crassicaudatus" recon_no="385164">Otolemur_crassicaudatus</List>
+		<List recon_name="Galagoides_demidoff" recon_no="385152">Galagoides_demidoff</List>
+		<List recon_name="Galago_elegantulus" recon_no="238586">Galago_elegantulus</List>
+		<List recon_name="Galago_gallarum" recon_no="236817">Galago_gallarum</List>
+		<List recon_name="Otolemur_garnettii" recon_no="385166">Otolemur_garnettii</List>
+		<List recon_name="Galago_granti" recon_no="385153">Galagoides_granti</List>
+		<List recon_name="Galago_matschiei" recon_no="385068">Galago_matschiei</List>
+		<List recon_name="Galago_moholi" recon_no="232726">Galago_moholi</List>
+		<List recon_name="Euoticus_pallidus" recon_no="385147">Galago_pallidus</List>
+		<List recon_name="Galago_senegalensis" recon_no="232725">Galago_senegalensis</List>
+		<List recon_name="Galagoides_thomasi" recon_no="386550">Galagoides_thomasi</List>
+		<List recon_name="Galago_zanzibaricus" recon_no="385869">Galagoides_zanzibaricus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="36">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Masters_et_Brothers_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

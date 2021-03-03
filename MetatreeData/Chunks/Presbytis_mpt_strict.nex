@@ -1,0 +1,207 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(Presbytis_femoralis ,(Presbytis_thomasi ,((((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_2 = [&U] 
+(allzero ,(Presbytis_femoralis ,(Presbytis_thomasi ,(((Presbytis_mitrata ,(Presbytis_comata ,(Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )))),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_3 = [&U] 
+(allzero ,(Presbytis_femoralis ,(Presbytis_thomasi ,((((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_4 = [&U] 
+(allzero ,(Presbytis_femoralis ,(Presbytis_thomasi ,(((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),(Presbytis_comata ,(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu )))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_5 = [&U] 
+(allzero ,(Presbytis_femoralis ,(Presbytis_thomasi ,(((Presbytis_comata ,(Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda ))),(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_6 = [&U] 
+(allzero ,(Presbytis_femoralis ,(Presbytis_thomasi ,(((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),((Presbytis_comata ,Presbytis_mitrata ),(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_7 = [&U] 
+(allzero ,(Presbytis_femoralis ,(Presbytis_thomasi ,((((Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_8 = [&U] 
+(allzero ,(Presbytis_femoralis ,(Presbytis_thomasi ,(((Presbytis_mitrata ,(Presbytis_comata ,(Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )))),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_9 = [&U] 
+(allzero ,(Presbytis_femoralis ,(Presbytis_thomasi ,((((Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_10 = [&U] 
+(allzero ,(Presbytis_femoralis ,(Presbytis_thomasi ,(((Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )),(Presbytis_comata ,(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu )))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_11 = [&U] 
+(allzero ,(Presbytis_femoralis ,(Presbytis_thomasi ,(((Presbytis_comata ,(Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda ))),(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_12 = [&U] 
+(allzero ,(Presbytis_femoralis ,(Presbytis_thomasi ,(((Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )),((Presbytis_comata ,Presbytis_mitrata ),(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_13 = [&U] 
+(allzero ,(Presbytis_femoralis ,(Presbytis_thomasi ,((((Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_14 = [&U] 
+(allzero ,(Presbytis_femoralis ,(Presbytis_thomasi ,(((Presbytis_mitrata ,(Presbytis_comata ,(Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )))),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_15 = [&U] 
+(allzero ,(Presbytis_femoralis ,(Presbytis_thomasi ,((((Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_16 = [&U] 
+(allzero ,(Presbytis_femoralis ,(Presbytis_thomasi ,(((Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )),(Presbytis_comata ,(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu )))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_17 = [&U] 
+(allzero ,(Presbytis_femoralis ,(Presbytis_thomasi ,(((Presbytis_comata ,(Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos ))),(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_18 = [&U] 
+(allzero ,(Presbytis_femoralis ,(Presbytis_thomasi ,(((Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )),((Presbytis_comata ,Presbytis_mitrata ),(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_19 = [&U] 
+(allzero ,(Presbytis_thomasi ,(Presbytis_femoralis ,((((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_20 = [&U] 
+(allzero ,(Presbytis_thomasi ,(Presbytis_femoralis ,(((Presbytis_mitrata ,(Presbytis_comata ,(Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )))),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_21 = [&U] 
+(allzero ,(Presbytis_thomasi ,(Presbytis_femoralis ,((((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_22 = [&U] 
+(allzero ,(Presbytis_thomasi ,(Presbytis_femoralis ,(((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),(Presbytis_comata ,(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu )))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_23 = [&U] 
+(allzero ,(Presbytis_thomasi ,(Presbytis_femoralis ,(((Presbytis_comata ,(Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda ))),(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_24 = [&U] 
+(allzero ,(Presbytis_thomasi ,(Presbytis_femoralis ,(((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),((Presbytis_comata ,Presbytis_mitrata ),(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_25 = [&U] 
+(allzero ,(Presbytis_thomasi ,(Presbytis_femoralis ,((((Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_26 = [&U] 
+(allzero ,(Presbytis_thomasi ,(Presbytis_femoralis ,(((Presbytis_mitrata ,(Presbytis_comata ,(Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )))),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_27 = [&U] 
+(allzero ,(Presbytis_thomasi ,(Presbytis_femoralis ,((((Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_28 = [&U] 
+(allzero ,(Presbytis_thomasi ,(Presbytis_femoralis ,(((Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )),(Presbytis_comata ,(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu )))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_29 = [&U] 
+(allzero ,(Presbytis_thomasi ,(Presbytis_femoralis ,(((Presbytis_comata ,(Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos ))),(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_30 = [&U] 
+(allzero ,(Presbytis_thomasi ,(Presbytis_femoralis ,(((Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )),((Presbytis_comata ,Presbytis_mitrata ),(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_31 = [&U] 
+(allzero ,(Presbytis_thomasi ,(Presbytis_femoralis ,((((Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_32 = [&U] 
+(allzero ,(Presbytis_thomasi ,(Presbytis_femoralis ,(((Presbytis_mitrata ,(Presbytis_comata ,(Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )))),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_33 = [&U] 
+(allzero ,(Presbytis_thomasi ,(Presbytis_femoralis ,((((Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_34 = [&U] 
+(allzero ,(Presbytis_thomasi ,(Presbytis_femoralis ,(((Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )),(Presbytis_comata ,(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu )))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_35 = [&U] 
+(allzero ,(Presbytis_thomasi ,(Presbytis_femoralis ,(((Presbytis_comata ,(Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda ))),(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_36 = [&U] 
+(allzero ,(Presbytis_thomasi ,(Presbytis_femoralis ,(((Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )),((Presbytis_comata ,Presbytis_mitrata ),(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_37 = [&U] 
+(allzero ,(((((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))),(Presbytis_femoralis ,Presbytis_thomasi )));
+tree tnt_38 = [&U] 
+(allzero ,((((Presbytis_mitrata ,(Presbytis_comata ,(Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )))),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))),(Presbytis_femoralis ,Presbytis_thomasi )));
+tree tnt_39 = [&U] 
+(allzero ,(((((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))),(Presbytis_femoralis ,Presbytis_thomasi )));
+tree tnt_40 = [&U] 
+(allzero ,((((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),(Presbytis_comata ,(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu )))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))),(Presbytis_femoralis ,Presbytis_thomasi )));
+tree tnt_41 = [&U] 
+(allzero ,((((Presbytis_comata ,(Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda ))),(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))),(Presbytis_femoralis ,Presbytis_thomasi )));
+tree tnt_42 = [&U] 
+(allzero ,((((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),((Presbytis_comata ,Presbytis_mitrata ),(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))),(Presbytis_femoralis ,Presbytis_thomasi )));
+tree tnt_43 = [&U] 
+(allzero ,(((((Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))),(Presbytis_femoralis ,Presbytis_thomasi )));
+tree tnt_44 = [&U] 
+(allzero ,((((Presbytis_mitrata ,(Presbytis_comata ,(Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )))),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))),(Presbytis_femoralis ,Presbytis_thomasi )));
+tree tnt_45 = [&U] 
+(allzero ,(((((Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))),(Presbytis_femoralis ,Presbytis_thomasi )));
+tree tnt_46 = [&U] 
+(allzero ,((((Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )),(Presbytis_comata ,(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu )))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))),(Presbytis_femoralis ,Presbytis_thomasi )));
+tree tnt_47 = [&U] 
+(allzero ,((((Presbytis_comata ,(Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda ))),(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))),(Presbytis_femoralis ,Presbytis_thomasi )));
+tree tnt_48 = [&U] 
+(allzero ,((((Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )),((Presbytis_comata ,Presbytis_mitrata ),(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))),(Presbytis_femoralis ,Presbytis_thomasi )));
+tree tnt_49 = [&U] 
+(allzero ,(((((Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))),(Presbytis_femoralis ,Presbytis_thomasi )));
+tree tnt_50 = [&U] 
+(allzero ,((((Presbytis_mitrata ,(Presbytis_comata ,(Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )))),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))),(Presbytis_femoralis ,Presbytis_thomasi )));
+tree tnt_51 = [&U] 
+(allzero ,(((((Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))),(Presbytis_femoralis ,Presbytis_thomasi )));
+tree tnt_52 = [&U] 
+(allzero ,((((Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )),(Presbytis_comata ,(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu )))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))),(Presbytis_femoralis ,Presbytis_thomasi )));
+tree tnt_53 = [&U] 
+(allzero ,((((Presbytis_comata ,(Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos ))),(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))),(Presbytis_femoralis ,Presbytis_thomasi )));
+tree tnt_54 = [&U] 
+(allzero ,((((Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )),((Presbytis_comata ,Presbytis_mitrata ),(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))),(Presbytis_femoralis ,Presbytis_thomasi )));
+tree tnt_55 = [&U] 
+(allzero ,(Presbytis_thomasi ,((((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_femoralis ,(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_56 = [&U] 
+(allzero ,(Presbytis_thomasi ,(((Presbytis_mitrata ,(Presbytis_comata ,(Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )))),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_femoralis ,(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_57 = [&U] 
+(allzero ,(Presbytis_thomasi ,((((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_femoralis ,(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_58 = [&U] 
+(allzero ,(Presbytis_thomasi ,(((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),(Presbytis_comata ,(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu )))),(Presbytis_femoralis ,(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_59 = [&U] 
+(allzero ,(Presbytis_thomasi ,(((Presbytis_comata ,(Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda ))),(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_femoralis ,(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_60 = [&U] 
+(allzero ,(Presbytis_thomasi ,(((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),((Presbytis_comata ,Presbytis_mitrata ),(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_femoralis ,(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_61 = [&U] 
+(allzero ,(Presbytis_thomasi ,((((Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_femoralis ,(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_62 = [&U] 
+(allzero ,(Presbytis_thomasi ,(((Presbytis_mitrata ,(Presbytis_comata ,(Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )))),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_femoralis ,(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_63 = [&U] 
+(allzero ,(Presbytis_thomasi ,((((Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_femoralis ,(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_64 = [&U] 
+(allzero ,(Presbytis_thomasi ,(((Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )),(Presbytis_comata ,(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu )))),(Presbytis_femoralis ,(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_65 = [&U] 
+(allzero ,(Presbytis_thomasi ,(((Presbytis_comata ,(Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos ))),(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_femoralis ,(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_66 = [&U] 
+(allzero ,(Presbytis_thomasi ,(((Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )),((Presbytis_comata ,Presbytis_mitrata ),(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_femoralis ,(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_67 = [&U] 
+(allzero ,(Presbytis_thomasi ,((((Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_femoralis ,(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_68 = [&U] 
+(allzero ,(Presbytis_thomasi ,(((Presbytis_mitrata ,(Presbytis_comata ,(Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )))),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_femoralis ,(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_69 = [&U] 
+(allzero ,(Presbytis_thomasi ,((((Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_femoralis ,(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_70 = [&U] 
+(allzero ,(Presbytis_thomasi ,(((Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )),(Presbytis_comata ,(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu )))),(Presbytis_femoralis ,(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_71 = [&U] 
+(allzero ,(Presbytis_thomasi ,(((Presbytis_comata ,(Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda ))),(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_femoralis ,(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_72 = [&U] 
+(allzero ,(Presbytis_thomasi ,(((Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )),((Presbytis_comata ,Presbytis_mitrata ),(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_femoralis ,(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata ))))));
+tree tnt_73 = [&U] 
+(allzero ,(Presbytis_thomasi ,((Presbytis_femoralis ,(((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_comata ,Presbytis_mitrata ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata )))));
+tree tnt_74 = [&U] 
+(allzero ,(Presbytis_thomasi ,((Presbytis_femoralis ,((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),(Presbytis_comata ,(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu ))))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata )))));
+tree tnt_75 = [&U] 
+(allzero ,(Presbytis_thomasi ,((Presbytis_femoralis ,((Presbytis_comata ,(Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda ))),(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu )))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata )))));
+tree tnt_76 = [&U] 
+(allzero ,(Presbytis_thomasi ,((Presbytis_femoralis ,((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),((Presbytis_comata ,Presbytis_mitrata ),(Presbytis_potenziani ,Presbytis_siberu )))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata )))));
+tree tnt_77 = [&U] 
+(allzero ,(Presbytis_thomasi ,((Presbytis_femoralis ,((Presbytis_mitrata ,(Presbytis_comata ,(Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )))),(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata )))));
+tree tnt_78 = [&U] 
+(allzero ,(Presbytis_thomasi ,((Presbytis_femoralis ,(((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata )))));
+tree tnt_79 = [&U] 
+(allzero ,(Presbytis_thomasi ,((Presbytis_femoralis ,(((Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_comata ,Presbytis_mitrata ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata )))));
+tree tnt_80 = [&U] 
+(allzero ,(Presbytis_thomasi ,((Presbytis_femoralis ,((Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )),(Presbytis_comata ,(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu ))))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata )))));
+tree tnt_81 = [&U] 
+(allzero ,(Presbytis_thomasi ,((Presbytis_femoralis ,((Presbytis_comata ,(Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda ))),(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu )))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata )))));
+tree tnt_82 = [&U] 
+(allzero ,(Presbytis_thomasi ,((Presbytis_femoralis ,((Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )),((Presbytis_comata ,Presbytis_mitrata ),(Presbytis_potenziani ,Presbytis_siberu )))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata )))));
+tree tnt_83 = [&U] 
+(allzero ,(Presbytis_thomasi ,((Presbytis_femoralis ,((Presbytis_mitrata ,(Presbytis_comata ,(Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )))),(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata )))));
+tree tnt_84 = [&U] 
+(allzero ,(Presbytis_thomasi ,((Presbytis_femoralis ,(((Presbytis_melalophos ,(Presbytis_bicolor ,Presbytis_rubicunda )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata )))));
+tree tnt_85 = [&U] 
+(allzero ,(Presbytis_thomasi ,((Presbytis_femoralis ,(((Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_comata ,Presbytis_mitrata ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata )))));
+tree tnt_86 = [&U] 
+(allzero ,(Presbytis_thomasi ,((Presbytis_femoralis ,((Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )),(Presbytis_comata ,(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu ))))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata )))));
+tree tnt_87 = [&U] 
+(allzero ,(Presbytis_thomasi ,((Presbytis_femoralis ,((Presbytis_comata ,(Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos ))),(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu )))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata )))));
+tree tnt_88 = [&U] 
+(allzero ,(Presbytis_thomasi ,((Presbytis_femoralis ,((Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )),((Presbytis_comata ,Presbytis_mitrata ),(Presbytis_potenziani ,Presbytis_siberu )))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata )))));
+tree tnt_89 = [&U] 
+(allzero ,(Presbytis_thomasi ,((Presbytis_femoralis ,((Presbytis_mitrata ,(Presbytis_comata ,(Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )))),(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata )))));
+tree tnt_90 = [&U] 
+(allzero ,(Presbytis_thomasi ,((Presbytis_femoralis ,(((Presbytis_rubicunda ,(Presbytis_bicolor ,Presbytis_melalophos )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_hosei ,(Presbytis_chrysomela ,Presbytis_frontata )))));
+tree tnt_91 = [&U] 
+(allzero ,(Presbytis_femoralis ,((((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_thomasi ,(Presbytis_chrysomela ,(Presbytis_frontata ,Presbytis_hosei ))))));
+tree tnt_92 = [&U] 
+(allzero ,(Presbytis_femoralis ,(((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),(Presbytis_comata ,(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu )))),(Presbytis_thomasi ,(Presbytis_chrysomela ,(Presbytis_frontata ,Presbytis_hosei ))))));
+tree tnt_93 = [&U] 
+(allzero ,(Presbytis_femoralis ,(((Presbytis_comata ,(Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda ))),(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_thomasi ,(Presbytis_chrysomela ,(Presbytis_frontata ,Presbytis_hosei ))))));
+tree tnt_94 = [&U] 
+(allzero ,(Presbytis_femoralis ,(((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),((Presbytis_comata ,Presbytis_mitrata ),(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_thomasi ,(Presbytis_chrysomela ,(Presbytis_frontata ,Presbytis_hosei ))))));
+tree tnt_95 = [&U] 
+(allzero ,(Presbytis_femoralis ,(((Presbytis_mitrata ,(Presbytis_comata ,(Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )))),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_thomasi ,(Presbytis_chrysomela ,(Presbytis_frontata ,Presbytis_hosei ))))));
+tree tnt_96 = [&U] 
+(allzero ,(Presbytis_femoralis ,((((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_thomasi ,(Presbytis_chrysomela ,(Presbytis_frontata ,Presbytis_hosei ))))));
+tree tnt_97 = [&U] 
+(allzero ,(Presbytis_femoralis ,((((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_comata ,Presbytis_mitrata )),(Presbytis_thomasi ,(Presbytis_frontata ,(Presbytis_chrysomela ,Presbytis_hosei ))))));
+tree tnt_98 = [&U] 
+(allzero ,(Presbytis_femoralis ,(((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),(Presbytis_comata ,(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu )))),(Presbytis_thomasi ,(Presbytis_frontata ,(Presbytis_chrysomela ,Presbytis_hosei ))))));
+tree tnt_99 = [&U] 
+(allzero ,(Presbytis_femoralis ,(((Presbytis_comata ,(Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda ))),(Presbytis_mitrata ,(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_thomasi ,(Presbytis_frontata ,(Presbytis_chrysomela ,Presbytis_hosei ))))));
+tree tnt_100 = [&U] 
+(allzero ,(Presbytis_femoralis ,(((Presbytis_bicolor ,(Presbytis_melalophos ,Presbytis_rubicunda )),((Presbytis_comata ,Presbytis_mitrata ),(Presbytis_potenziani ,Presbytis_siberu ))),(Presbytis_thomasi ,(Presbytis_frontata ,(Presbytis_chrysomela ,Presbytis_hosei ))))));
+tree tnt_101 = [&U] 
+(allzero ,(Presbytis_femoralis ,Presbytis_thomasi ,(Presbytis_comata ,Presbytis_mitrata ,(Presbytis_bicolor ,Presbytis_melalophos ,Presbytis_rubicunda ),(Presbytis_potenziani ,Presbytis_siberu )),(Presbytis_chrysomela ,Presbytis_frontata ,Presbytis_hosei )));
+
+end ; 

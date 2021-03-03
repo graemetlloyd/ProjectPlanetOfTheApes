@@ -1,0 +1,11 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Tarsius ,(((Branisella_boliviana ,(Soriacebus_ameghinorum ,(Tremacebus_harringtoni ,(Carlocebus_carmeni ,(Dolichocebus_gaimanensi ,((Aegyptopithecus_zeuxis ,(Hylobates_lar ,(Miopithecus_talapoin ,Presbytis_melalophos ))),(Apidium_phiomense ,Simonsius_grangeri ))))))),((Saimiri ,((Cebus ,(Aotus ,Callicebus )),((Proteropithecia ,(Pithecia ,(Chiropotes ,Cacajao ))),(Ateles ,(Lagothrix ,(Alouatta ,Brachyteles )))))),((Saguinus ,Callimico_goeldii ),(Leontopithecus ,(Callithrix ,Cebuella_pygmaea ))))),(Catopithecus_browni ,Proteopithecus_sylviae )));
+tree tnt_2 = [&U] 
+(Tarsius ,(Proteopithecus_sylviae ,(Catopithecus_browni ,(((Aegyptopithecus_zeuxis ,(Hylobates_lar ,(Miopithecus_talapoin ,Presbytis_melalophos ))),(Apidium_phiomense ,Simonsius_grangeri )),(((Saimiri ,((Cebus ,(Aotus ,Callicebus )),((Proteropithecia ,(Pithecia ,(Chiropotes ,Cacajao ))),(Ateles ,(Lagothrix ,(Alouatta ,Brachyteles )))))),((Saguinus ,Callimico_goeldii ),(Leontopithecus ,(Callithrix ,Cebuella_pygmaea )))),(Branisella_boliviana ,(Soriacebus_ameghinorum ,(Tremacebus_harringtoni ,(Dolichocebus_gaimanensi ,Carlocebus_carmeni )))))))));
+tree tnt_3 = [&U] 
+(Tarsius ,(Catopithecus_browni ,Proteopithecus_sylviae ,(Branisella_boliviana ,Dolichocebus_gaimanensi ,Tremacebus_harringtoni ,Soriacebus_ameghinorum ,Carlocebus_carmeni ,((Aegyptopithecus_zeuxis ,(Hylobates_lar ,(Miopithecus_talapoin ,Presbytis_melalophos ))),(Apidium_phiomense ,Simonsius_grangeri )),((Saimiri ,((Cebus ,(Aotus ,Callicebus )),((Proteropithecia ,(Pithecia ,(Chiropotes ,Cacajao ))),(Ateles ,(Lagothrix ,(Alouatta ,Brachyteles )))))),((Saguinus ,Callimico_goeldii ),(Leontopithecus ,(Callithrix ,Cebuella_pygmaea )))))));
+
+end ; 

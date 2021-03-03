@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(Mazzonicebus_almendrae ,(Canaanimico_amazonensi ,(Soriacebus_adrianae ,Soriacebus_ameghinorum ))));
+tree tnt_2 = [&U] 
+(allzero ,(Mazzonicebus_almendrae ,(Canaanimico_amazonensi ,(Soriacebus_adrianae ,Soriacebus_ameghinorum ))));
+
+end ; 

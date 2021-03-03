@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kimbel, W. H.</List>
+			<List>Johanson, D. C.</List>
+			<List>Rak, Y.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Implications for the Taxonomic and Phylogenetic Status of A. afarensis</Title>
+		<Journal></Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle>The Skull of Australopithecus Afarensis</Booktitle>
+		<Publisher>Oxford University Press</Publisher>
+		<City>Oxford</City>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List recon_name="Pan,Gorilla" recon_no="97177;97178">Chimp_gorilla</List>
+		<List recon_name="Australopithecus_afarensis" recon_no="83055">Australopithecus_afarensis</List>
+		<List recon_name="Australopithecus_africanus" recon_no="83066">Australopithecus_africanus</List>
+		<List recon_name="Australopithecus_aethiopicus" recon_no="83067">Australopithecus_aethiopicus</List>
+		<List recon_name="Australopithecus_robustus" recon_no="83069">Australopithecus_robustus</List>
+		<List recon_name="Australopithecus_boisei" recon_no="83068">Australopithecus_boisei</List>
+		<List recon_name="Homo_habilis" recon_no="83082">Homo_habilis</List>
+		<List recon_name="Homo_rudolfensis" recon_no="83081">Homo_rudolfensis</List>
+		<List recon_name="Homo_erectus" recon_no="376854">Homo_erectus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="82">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kimbel_etal_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

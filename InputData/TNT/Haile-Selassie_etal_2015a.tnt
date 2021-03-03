@@ -1,0 +1,31 @@
+taxname=;
+mxram 4096;
+taxname +27;
+nstates num 32;
+xread
+'File downloaded from graemetlloyd.com'
+19 16
+& [numeric]
+Pan                          0000000000000000000
+Sahelanthropus_tchadensis    ???01002?01?0110?11
+Ardipithecus_ramidus         0???000000101110011
+Australopithecus_anamensis   ??00000000101111021
+Australopithecus_afarensis   0000000100111111120
+Australopithecus_garhi       000000??????1142?2?
+Australopithecus_deyiremeda  0002011120121210131
+Australopithecus_africanus   0002000111211122221
+Paranthropus_aethiopicus     1210012221??124323?
+Paranthropus_boisei          1212012221322253232
+Paranthropus_robustus        1210012221212232232
+Kenyanthropus_platyops       100211???????1?0?2?
+Homo_rudolfensis             1002111211211222220
+Homo_habilis                 0101000221211211220
+Homo_erectus                 0002100221211210220
+Homo_sapiens                 0302100221??220022?
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 ;
+collapse [;
+ienum; nelsen*; export -Haile-Selassie_etal_2015atntmpts_plus_strict.nex; mrp;
+export Haile-Selassie_etal_2015amrp.nex; 
+proc/;
+

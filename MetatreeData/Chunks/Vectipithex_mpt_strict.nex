@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(Vectipithex_raabi ,(Vectipithex_quaylei ,(Vectipithex_smithoru ,Vectipithex_ulmensis ))));
+tree tnt_2 = [&U] 
+(allzero ,(Vectipithex_raabi ,(Vectipithex_quaylei ,(Vectipithex_smithoru ,Vectipithex_ulmensis ))));
+
+end ; 

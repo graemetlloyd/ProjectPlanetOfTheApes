@@ -1,0 +1,24 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=10 NCHAR=8 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Aegyptopithecus   00000000
+Proconsul         10000000
+Victoriapithecus  11000000
+Microcolobus      11111000
+KNM_TH_48368      11111100
+KNM_BN_1251       11110011
+Colobinae         11110010
+Cercopithecinae   11100000
+Mesopithecus      11110011
+KNM_NA_305        11111100
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

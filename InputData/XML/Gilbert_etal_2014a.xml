@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gilbert, C.C.</List>
+			<List>Bibid, F.</List>
+			<List>Hill, A.</List>
+			<List>Beech, M.J.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>Early guenon from the late Miocene Baynunah Formation, Abu Dhabi, with implications for cercopithecoid biogeography and evolution</Title>
+		<Journal>Proceedings of the National Academy of Sciences</Journal>
+		<Volume>111</Volume>
+		<Pages>10119-10124</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List recon_name="Aegyptopithecus_zeuxis" recon_no="100577">Aegyptopithecus</List>
+		<List recon_name="Proconsul" recon_no="40895">Proconsul</List>
+		<List recon_name="Victoriapithecus_macinnesi" recon_no="135923">Victoriapithecus</List>
+		<List recon_name="Cercopithecini_sp_indet_AUH_1321" recon_no="92691">AUH_1321</List>
+		<List recon_name="Macaca" recon_no="40869">Macaca</List>
+		<List recon_name="Cercocebus" recon_no="40861">Cercocebus</List>
+		<List recon_name="Allenopithecus_nigroviridis" recon_no="385063">Allenopithecus</List>
+		<List recon_name="Cercopithecus" recon_no="40862">Cercopithecus</List>
+		<List recon_name="Chlorocebus" recon_no="92693">Chlorocebus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="13">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gilbert_etal_2014a</Filename>
+	<Parent></Parent>
+	<Sibling/>
+</SourceTree>

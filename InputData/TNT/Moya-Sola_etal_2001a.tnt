@@ -1,0 +1,21 @@
+taxname=;
+mxram 4096;
+taxname +18;
+nstates num 32;
+xread
+''
+12 6
+& [numeric]
+Pliopithecus        000000000000
+Crouzelia           1211??01??20
+Plesiopliopithecus  1101??110010
+Anapithecus         110100000111
+Laccopithecus       110000010[01]12
+Egarapithecus       111111121111
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 ;
+collapse [;
+ienum; nelsen*; export -Moya-Sola_etal_2001atntmpts_plus_strict.nex; mrp;
+export Moya-Sola_etal_2001amrp.nex; 
+proc/;
+

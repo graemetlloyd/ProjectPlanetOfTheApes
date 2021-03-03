@@ -1,0 +1,33 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=19 NCHAR=15 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Aegyptopithecus            000000000000000
+Saadanius                  100000000000000
+Victoriapithecus           111100000000000
+Pliopithecoidea            111011000000000
+Dendropithecus             110110100000000
+Micropithecus              111111110000000
+Simiolus                   111111110000000
+Kamoyapithecus             111111111111100
+Afropithecus               111111111110010
+Heliopithecus              111111111111000
+Morotopithecus             111111111110010
+Turkanapithecus            111111111110000
+Proconsulnyanzae_heseloni  111111111111100
+Nyanzapithecus             111111111000000
+Rangwapithecus             111111111000000
+Nacholapithecus            111111111111100
+Equatorius                 111111111000000
+Pan                        111111111100001
+Hylobates                  111111111100001
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

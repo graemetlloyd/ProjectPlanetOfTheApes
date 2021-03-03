@@ -1,0 +1,25 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=11 NCHAR=9 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Macaca_mulatta       000000000
+Gorilla_gorilla      111100000
+Gorilla_beringei     111100000
+Homo_sapiens         111010000
+Nomascus_leucogenys  100000000
+Pan_paniscus         111011000
+Pan_troglodytes      111011000
+Pongo_abelii         110000111
+Pongo_pygmaeus       110000110
+Pongo_tapanuliensis  110000111
+Gigantopithecus      110000100
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

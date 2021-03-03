@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hooker, J. J.</List>
+			<List>Harrison, D. L.</List>		
+		</Author>
+		<Year>2008</Year>
+		<Title>A new clade of omomyid primates from the European Paleogene</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>28</Volume>
+		<Pages>826-840</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List recon_name="Teilhardina_belgica,Teilhardina_asiatica" recon_no="53408;101085">Teilhardina</List>
+		<List recon_name="Melaneremia" recon_no="101082">Melaneremia</List>
+		<List recon_name="Pseudoloris" recon_no="40821">Pseudoloris</List>
+		<List recon_name="Paraloris" recon_no="93591">Paraloris</List>
+		<List recon_name="Nannopithex_zuccolae" recon_no="101081">Nannopithex_zuccolae</List>
+		<List recon_name="Nannopithex_filholi" recon_no="348251">Nannopithex_filholi</List>
+		<List recon_name="Necrolemur" recon_no="40818">Necrolemur</List>
+		<List recon_name="Microchoerus" recon_no="40816">Microchoerus</List>
+		<List recon_name="Nannopithex_humilidens" recon_no="385352">Nannopithex_humilidens</List>
+		<List recon_name="Vectipithex_raabi" recon_no="352358">Vectipithex_raabi</List>
+		<List recon_name="Vectipithex_quaylei" recon_no="352356">Vectipithex_quaylei</List>
+		<List recon_name="Vectipithex_smithorum" recon_no="352354">Vectipithex_smithorum</List>
+		<List recon_name="Vectipithex_ulmensis" recon_no="352355">Vectipithex_ulmensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="49">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hooker_et_Harrison_2008a</Filename>
+	<Parent>Hooker_2007a</Parent>
+	<Sibling/>
+</SourceTree>

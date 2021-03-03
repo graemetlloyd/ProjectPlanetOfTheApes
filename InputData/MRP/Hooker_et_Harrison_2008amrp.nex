@@ -1,0 +1,27 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=13 NCHAR=11 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Teilhardina             00000000000
+Melaneremia             11000000000
+Pseudoloris             11100000000
+Paraloris               10000000000
+Nannopithex_zuccolae    11111100000
+Nannopithex_filholi     11111110000
+Necrolemur              11111111000
+Microchoerus            11111111000
+Nannopithex_humilidens  11110000000
+Vectipithex_raabi       11111000100
+Vectipithex_quaylei     11111000110
+Vectipithex_smithorum   11111000111
+Vectipithex_ulmensis    11111000111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

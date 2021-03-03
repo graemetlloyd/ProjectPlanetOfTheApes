@@ -1,0 +1,13 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Donrussellia ,((Cantius ,Lushius ),((Marcgodinotius ,Asiadapis ),((Europolemur ,Anchomomys ),(Periconodon ,((Rencunius ,(Yunnanadapis ,(Guangxilemur_singsilai ,(Wailekia ,Guangxilemur_tongi ,(Siamoadapis ,((Ramadapis_sahnii ,(Sinoadapis_carnosus ,(Sinoadapis_shihuibaensi ,(Sivaladapis_palaeindicu ,Sivaladapis_nagrii )))),(Indraloris_kamlialensis ,(Indraloris_himalayensis ,Indraloris_sp_Large )))))))),((Hoanghonius ,Laomaki ),(Paukkaungia ,Kyitchaungia ))))))));
+tree tnt_2 = [&U] 
+(Donrussellia ,((Cantius ,Lushius ),((Marcgodinotius ,Asiadapis ),((Europolemur ,Anchomomys ),(Periconodon ,((Rencunius ,(Yunnanadapis ,(Guangxilemur_singsilai ,(Wailekia ,Guangxilemur_tongi ,(Siamoadapis ,(Ramadapis_sahnii ,(Indraloris_kamlialensis ,((Sinoadapis_carnosus ,(Sinoadapis_shihuibaensi ,(Sivaladapis_palaeindicu ,Sivaladapis_nagrii ))),(Indraloris_himalayensis ,Indraloris_sp_Large ))))))))),((Hoanghonius ,Laomaki ),(Paukkaungia ,Kyitchaungia ))))))));
+tree tnt_3 = [&U] 
+(Donrussellia ,((Cantius ,Lushius ),((Marcgodinotius ,Asiadapis ),((Europolemur ,Anchomomys ),(Periconodon ,((Rencunius ,(Yunnanadapis ,(Guangxilemur_singsilai ,(Wailekia ,Guangxilemur_tongi ,(Siamoadapis ,((Ramadapis_sahnii ,((Sivaladapis_palaeindicu ,Sivaladapis_nagrii ),(Sinoadapis_carnosus ,Sinoadapis_shihuibaensi ))),(Indraloris_kamlialensis ,(Indraloris_himalayensis ,Indraloris_sp_Large )))))))),((Hoanghonius ,Laomaki ),(Paukkaungia ,Kyitchaungia ))))))));
+tree tnt_4 = [&U] 
+(Donrussellia ,((Cantius ,Lushius ),((Marcgodinotius ,Asiadapis ),((Europolemur ,Anchomomys ),(Periconodon ,((Rencunius ,(Yunnanadapis ,(Guangxilemur_singsilai ,(Wailekia ,Guangxilemur_tongi ,(Siamoadapis ,(Ramadapis_sahnii ,Indraloris_kamlialensis ,(Sinoadapis_carnosus ,Sinoadapis_shihuibaensi ,(Sivaladapis_palaeindicu ,Sivaladapis_nagrii )),(Indraloris_himalayensis ,Indraloris_sp_Large ))))))),((Hoanghonius ,Laomaki ),(Paukkaungia ,Kyitchaungia ))))))));
+
+end ; 

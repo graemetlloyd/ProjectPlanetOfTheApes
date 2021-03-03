@@ -1,0 +1,11 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Ukhaatherium ,(((Leptictidae ,Gypsonictops ),(Pararyctes ,(Ottoryctes ,Paleoryctes ))),((((Echinosorex ,(Erinaceus ,Hemiechinus )),(Solenodon ,(Sorex_sp ,Suncus_murinus ))),(Genetta_sp ,(Uintacyon ,Vulpavus_profectus ))),((Rhombomylus ,(Jepsenella ,(Labidolemur_kayi ,(Apatemys ,(Carcinella_sigei ,(Heterohyus_nanus ,Sinclairella )))))),((Cynocephalus_volan ,(Ptilocercus_lowii ,Tupaia_glis )),(Purgatorius ,((Paromomyidae ,((Carpolestidae ,Plesiadapidae ),(Altanius_orlovi ,(Adapidae ,Omomyidae )))),(Microsyopidae ,Micromomyidae ))))))));
+tree tnt_2 = [&U] 
+(Ukhaatherium ,(((Leptictidae ,Gypsonictops ),(Paleoryctes ,(Ottoryctes ,Pararyctes ))),((((Echinosorex ,(Erinaceus ,Hemiechinus )),(Solenodon ,(Sorex_sp ,Suncus_murinus ))),(Genetta_sp ,(Uintacyon ,Vulpavus_profectus ))),((Rhombomylus ,(Jepsenella ,(Labidolemur_kayi ,(Apatemys ,(Carcinella_sigei ,(Heterohyus_nanus ,Sinclairella )))))),((Cynocephalus_volan ,(Ptilocercus_lowii ,Tupaia_glis )),(Purgatorius ,((Paromomyidae ,((Carpolestidae ,Plesiadapidae ),(Altanius_orlovi ,(Adapidae ,Omomyidae )))),(Microsyopidae ,Micromomyidae ))))))));
+tree tnt_3 = [&U] 
+(Ukhaatherium ,(((Leptictidae ,Gypsonictops ),(Ottoryctes ,Pararyctes ,Paleoryctes )),((((Echinosorex ,(Erinaceus ,Hemiechinus )),(Solenodon ,(Sorex_sp ,Suncus_murinus ))),(Genetta_sp ,(Uintacyon ,Vulpavus_profectus ))),((Rhombomylus ,(Jepsenella ,(Labidolemur_kayi ,(Apatemys ,(Carcinella_sigei ,(Heterohyus_nanus ,Sinclairella )))))),((Cynocephalus_volan ,(Ptilocercus_lowii ,Tupaia_glis )),(Purgatorius ,((Paromomyidae ,((Carpolestidae ,Plesiadapidae ),(Altanius_orlovi ,(Adapidae ,Omomyidae )))),(Microsyopidae ,Micromomyidae ))))))));
+
+end ; 

@@ -1,0 +1,23 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Aegyptopithecus ,(Proconsul ,(Victoriapithecu ,((Allenopithecus ,(Nanopithecus ,(Chlorocebus ,(Cercopithecus ,(AUH_1321 ,Miopithecus ))))),(Macaca ,Cercocebus )))));
+tree tnt_2 = [&U] 
+(Aegyptopithecus ,(Proconsul ,(Victoriapithecu ,((Allenopithecus ,(Chlorocebus ,(Nanopithecus ,(Miopithecus ,(AUH_1321 ,Cercopithecus ))))),(Macaca ,Cercocebus )))));
+tree tnt_3 = [&U] 
+(Aegyptopithecus ,(Proconsul ,(Victoriapithecu ,((Allenopithecus ,(Chlorocebus ,(Cercopithecus ,(AUH_1321 ,(Miopithecus ,Nanopithecus ))))),(Macaca ,Cercocebus )))));
+tree tnt_4 = [&U] 
+(Aegyptopithecus ,(Proconsul ,(Victoriapithecu ,((Allenopithecus ,(Nanopithecus ,(Miopithecus ,(AUH_1321 ,(Cercopithecus ,Chlorocebus ))))),(Macaca ,Cercocebus )))));
+tree tnt_5 = [&U] 
+(Aegyptopithecus ,(Proconsul ,(Victoriapithecu ,((Allenopithecus ,((Chlorocebus ,(AUH_1321 ,Cercopithecus )),(Miopithecus ,Nanopithecus ))),(Macaca ,Cercocebus )))));
+tree tnt_6 = [&U] 
+(Aegyptopithecus ,(Proconsul ,(Victoriapithecu ,((Allenopithecus ,((Nanopithecus ,(AUH_1321 ,Miopithecus )),(Cercopithecus ,Chlorocebus ))),(Macaca ,Cercocebus )))));
+tree tnt_7 = [&U] 
+(Aegyptopithecus ,(Proconsul ,(Victoriapithecu ,((Allenopithecus ,(Cercopithecus ,(Chlorocebus ,(AUH_1321 ,(Miopithecus ,Nanopithecus ))))),(Macaca ,Cercocebus )))));
+tree tnt_8 = [&U] 
+(Aegyptopithecus ,(Proconsul ,(Victoriapithecu ,((Allenopithecus ,(Cercopithecus ,(Chlorocebus ,(Nanopithecus ,(AUH_1321 ,Miopithecus ))))),(Macaca ,Cercocebus )))));
+tree tnt_9 = [&U] 
+(Aegyptopithecus ,(Proconsul ,(Victoriapithecu ,((Allenopithecus ,(AUH_1321 ,Cercopithecus ,Chlorocebus ,Miopithecus ,Nanopithecus )),(Macaca ,Cercocebus )))));
+
+end ; 

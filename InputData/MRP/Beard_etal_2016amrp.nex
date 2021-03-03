@@ -1,0 +1,25 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=11 NCHAR=7 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Biretia_megalopsis    0000000
+Simonsius_grangeri    1110000
+Parapithecus_fraasi   1110000
+Apidium_bowni         1101100
+Apidium_moustafai     1101110
+Apidium_zuetina       1101111
+Apidium_phiomense     1101111
+Qatrania_wingi        1101000
+Qatrania_basiodontos  1101000
+Biretia_fayumensis    1000000
+Biretia_piveteaui     1000000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

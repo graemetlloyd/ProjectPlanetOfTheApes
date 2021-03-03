@@ -1,0 +1,38 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=24 NCHAR=25 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Gorilla_gorilla             0000000000000000000000000
+Pan_troglodytes             1100000000000000000000000
+Sahelanthropus_tchadensis   1011100000000000000000000
+Ardipithecus_ramidus        1110010000000000000000000
+Australopithecus_anamensis  1111011000000000000000000
+Australopithecus_afarensis  1111111100000000000000000
+Australopithecus_garhi      1111111110000000000000000
+Australopithecus_africanus  1111111111100000000000000
+Paranthropus_aethiopicus    1111111111000001000000000
+Paranthropus_robustus       1111111111000001100000000
+Paranthropus_boisei         1111111111000001100000000
+Australopithecus_sediba     1111111111110000000000000
+Homo_habilis                1111111111111100000000000
+small_bodied_Dmanisi        1111111111111000010000000
+Kenyanthropus_platyops      1111111111111110000000000
+Homo_rudolfensis            1111111111111110000000000
+Homo_erectus                1111111111111000011001000
+Homo_floresiensis           1111111111111000011001000
+Homo_antecessor             1111111111111000011100000
+Homo_ergaster               1111111111111000011110000
+Homo_heidelbergensis        1111111111111000011110110
+Homo_neanderthalensis       1111111111111000011110110
+Homo_sapiens                1111111111111000011110101
+D4500                       1111111111111000011110101
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

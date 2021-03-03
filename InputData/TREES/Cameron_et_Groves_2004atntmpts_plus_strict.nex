@@ -1,0 +1,23 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Kenyapithecus ,(Graecopithecus ,(Dryopithecus ,(Pongo ,(Gorilla ,(Pan ,(Ardipithecus_ramidus ,(Australopithecus_anamensi ,(Praeanthropus ,(Australopithecus_garhi ,(Sahelanthropus ,((Australopithecus_Rak_1983 ,((Kenyanthropus_platyops ,Kenyanthropus_rudolfensis ),(Homo_habilis ,(Homo_ergaster ,Homo_sapiens )))),(Paranthropus_walkeri ,(Paranthropus_boisei ,Paranthropus_robutus ))))))))))))));
+tree tnt_2 = [&U] 
+(Kenyapithecus ,(Graecopithecus ,(Dryopithecus ,(Pongo ,(Gorilla ,(Pan ,(Ardipithecus_ramidus ,(Australopithecus_anamensi ,(Praeanthropus ,(Sahelanthropus ,((Australopithecus_garhi ,(Australopithecus_Rak_1983 ,((Kenyanthropus_platyops ,Kenyanthropus_rudolfensis ),(Homo_habilis ,(Homo_ergaster ,Homo_sapiens ))))),(Paranthropus_walkeri ,(Paranthropus_boisei ,Paranthropus_robutus )))))))))))));
+tree tnt_3 = [&U] 
+(Kenyapithecus ,((Dryopithecus ,Graecopithecus ),(Pongo ,(Gorilla ,(Pan ,(Ardipithecus_ramidus ,(Australopithecus_anamensi ,(Praeanthropus ,(Australopithecus_garhi ,(Sahelanthropus ,((Australopithecus_Rak_1983 ,((Kenyanthropus_platyops ,Kenyanthropus_rudolfensis ),(Homo_habilis ,(Homo_ergaster ,Homo_sapiens )))),(Paranthropus_walkeri ,(Paranthropus_boisei ,Paranthropus_robutus )))))))))))));
+tree tnt_4 = [&U] 
+(Kenyapithecus ,((Dryopithecus ,Graecopithecus ),(Pongo ,(Gorilla ,(Pan ,(Ardipithecus_ramidus ,(Australopithecus_anamensi ,(Praeanthropus ,(Sahelanthropus ,((Australopithecus_garhi ,(Australopithecus_Rak_1983 ,((Kenyanthropus_platyops ,Kenyanthropus_rudolfensis ),(Homo_habilis ,(Homo_ergaster ,Homo_sapiens ))))),(Paranthropus_walkeri ,(Paranthropus_boisei ,Paranthropus_robutus ))))))))))));
+tree tnt_5 = [&U] 
+(Kenyapithecus ,((Pongo ,(Dryopithecus ,Graecopithecus )),(Gorilla ,(Pan ,(Ardipithecus_ramidus ,(Australopithecus_anamensi ,(Praeanthropus ,(Australopithecus_garhi ,(Sahelanthropus ,((Australopithecus_Rak_1983 ,((Kenyanthropus_platyops ,Kenyanthropus_rudolfensis ),(Homo_habilis ,(Homo_ergaster ,Homo_sapiens )))),(Paranthropus_walkeri ,(Paranthropus_boisei ,Paranthropus_robutus ))))))))))));
+tree tnt_6 = [&U] 
+(Kenyapithecus ,((Pongo ,(Dryopithecus ,Graecopithecus )),(Gorilla ,(Pan ,(Ardipithecus_ramidus ,(Australopithecus_anamensi ,(Praeanthropus ,(Sahelanthropus ,((Australopithecus_garhi ,(Australopithecus_Rak_1983 ,((Kenyanthropus_platyops ,Kenyanthropus_rudolfensis ),(Homo_habilis ,(Homo_ergaster ,Homo_sapiens ))))),(Paranthropus_walkeri ,(Paranthropus_boisei ,Paranthropus_robutus )))))))))));
+tree tnt_7 = [&U] 
+(Kenyapithecus ,(Graecopithecus ,(Pongo ,(Dryopithecus ,(Gorilla ,(Pan ,(Ardipithecus_ramidus ,(Australopithecus_anamensi ,(Praeanthropus ,(Australopithecus_garhi ,(Sahelanthropus ,((Australopithecus_Rak_1983 ,((Kenyanthropus_platyops ,Kenyanthropus_rudolfensis ),(Homo_habilis ,(Homo_ergaster ,Homo_sapiens )))),(Paranthropus_walkeri ,(Paranthropus_boisei ,Paranthropus_robutus ))))))))))))));
+tree tnt_8 = [&U] 
+(Kenyapithecus ,(Graecopithecus ,(Pongo ,(Dryopithecus ,(Gorilla ,(Pan ,(Ardipithecus_ramidus ,(Australopithecus_anamensi ,(Praeanthropus ,(Sahelanthropus ,((Australopithecus_garhi ,(Australopithecus_Rak_1983 ,((Kenyanthropus_platyops ,Kenyanthropus_rudolfensis ),(Homo_habilis ,(Homo_ergaster ,Homo_sapiens ))))),(Paranthropus_walkeri ,(Paranthropus_boisei ,Paranthropus_robutus )))))))))))));
+tree tnt_9 = [&U] 
+(Kenyapithecus ,(Dryopithecus ,Graecopithecus ,Pongo ,(Gorilla ,(Pan ,(Ardipithecus_ramidus ,(Australopithecus_anamensi ,(Praeanthropus ,(Sahelanthropus ,Australopithecus_garhi ,(Australopithecus_Rak_1983 ,((Kenyanthropus_platyops ,Kenyanthropus_rudolfensis ),(Homo_habilis ,(Homo_ergaster ,Homo_sapiens )))),(Paranthropus_walkeri ,(Paranthropus_boisei ,Paranthropus_robutus ))))))))));
+
+end ; 

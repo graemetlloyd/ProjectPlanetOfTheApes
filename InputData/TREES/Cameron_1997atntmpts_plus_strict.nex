@@ -1,0 +1,11 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Outgroup ,(Hungary ,((Spain ,(Pongo ,Sivapithecu )),(Pan ,(Greece ,Gorilla )))));
+tree tnt_2 = [&U] 
+(Outgroup ,((Hungary ,(Spain ,(Pongo ,Sivapithecu ))),(Pan ,(Greece ,Gorilla ))));
+tree tnt_3 = [&U] 
+(Outgroup ,(Hungary ,(Spain ,(Pongo ,Sivapithecu )),(Pan ,(Greece ,Gorilla ))));
+
+end ; 

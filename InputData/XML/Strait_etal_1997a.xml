@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Strait, D.S.</List>
+			<List>Grine, F.E.</List>
+			<List>Moniz, M.A.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>A reappraisal of early hominid phylogeny</Title>
+		<Journal>Journal of Human Evolution</Journal>
+		<Volume>32</Volume>
+		<Pages>17-82</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List recon_name="Pan_troglodytes,Gorilla_gorilla" recon_no="157891;231497">Pan_Gorilla</List>
+		<List recon_name="Australopithecus_afarensis" recon_no="83055">Australopithecus_afarensis</List>
+		<List recon_name="Australopithecus_aethiopicus" recon_no="83067">Australopithecus_aethiopicus</List>
+		<List recon_name="Australopithecus_africanus" recon_no="83066">Australopithecus_africanus</List>
+		<List recon_name="Australopithecus_robustus" recon_no="83069">Australopithecus_robustus</List>
+		<List recon_name="Australopithecus_boisei" recon_no="83068">Australopithecus_boisei</List>
+		<List recon_name="Homo_habilis" recon_no="83082">Homo_habilis</List>
+		<List recon_name="Homo_rudolfensis" recon_no="83081">Homo_rudolfensis</List>
+		<List recon_name="Homo_ergaster" recon_no="83083">Homo_ergaster</List>
+		<List recon_name="Homo_sapiens" recon_no="83088">Homo_sapiens</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="60">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Strait_etal_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

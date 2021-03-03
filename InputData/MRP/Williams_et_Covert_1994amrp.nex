@@ -1,0 +1,22 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=8 NCHAR=8 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Teilhardina_americana     00000000
+Tetonoides_pearcei        10000000
+Anemorhysis_savagei       11000000
+Anemorhysis_sublettensis  11111100
+Anemorhysis_wortmani      11111100
+Anemorhysis_pattersoni    11100010
+Anemorhysis_natronensis   11110011
+Trogolemur_myodes         11111011
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Colobus ,(Hylobates ,(Papio ,(Pongo_pygmaeus ,(Gorilla_gorilla ,(Pan_troglodytes ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensi ,(Australopithecus_afarensi ,(Australopithecus_garhi ,(((Kenyanthropus_platyops ,Homo_rudolfensis ),(Homo_habilis ,(Homo_ergaster ,Homo_sapiens ))),(Australopithecus_africanu ,(Paranthropus_aethiopicus ,(Paranthropus_robustus ,Paranthropus_boisei )))))))))))))));
+tree tnt_2 = [&U] 
+(Colobus ,(Hylobates ,(Papio ,(Pongo_pygmaeus ,(Gorilla_gorilla ,(Pan_troglodytes ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensi ,(Australopithecus_afarensi ,(Australopithecus_garhi ,(((Kenyanthropus_platyops ,Homo_rudolfensis ),(Homo_habilis ,(Homo_ergaster ,Homo_sapiens ))),(Australopithecus_africanu ,(Paranthropus_aethiopicus ,(Paranthropus_robustus ,Paranthropus_boisei )))))))))))))));
+
+end ; 

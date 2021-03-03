@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Ukhaatherium ,((((Leptictidae ,Gypsonictops ),(Rhombomylus ,((Cynocephalus_volans ,(Ptilocercus_lowii ,Tupaia_glis )),(Purgatorius ,((Plesiadapidae ,(Carpolestidae ,(Altanius_orlovi ,(Adapidae ,Omomyidae )))),((Plesiolestes_nacimient ,(Paromomyidae ,Torrejonia_wilsoni )),(Microsyopidae ,Micromomyidae ))))))),(Paleoryctes ,(Ottoryctes ,Pararyctes ))),(((Echinosorex ,(Erinaceus ,Hemiechinus )),(Solenodon ,(Sorex_cinereus_sorex_s ,Suncus_murinus ))),(Genetta ,(Uintacyon ,Vulpavus_profectus )))));
+tree tnt_2 = [&U] 
+(Ukhaatherium ,((((Leptictidae ,Gypsonictops ),(Rhombomylus ,((Cynocephalus_volans ,(Ptilocercus_lowii ,Tupaia_glis )),(Purgatorius ,((Plesiadapidae ,(Carpolestidae ,(Altanius_orlovi ,(Adapidae ,Omomyidae )))),((Plesiolestes_nacimient ,(Paromomyidae ,Torrejonia_wilsoni )),(Microsyopidae ,Micromomyidae ))))))),(Paleoryctes ,(Ottoryctes ,Pararyctes ))),(((Echinosorex ,(Erinaceus ,Hemiechinus )),(Solenodon ,(Sorex_cinereus_sorex_s ,Suncus_murinus ))),(Genetta ,(Uintacyon ,Vulpavus_profectus )))));
+
+end ; 

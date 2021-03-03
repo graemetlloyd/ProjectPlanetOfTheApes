@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Silcox, M.T.</List>
+			<List>Krause, D.W.</List>
+			<List>Mass, M.C.</List>
+			<List>Fox, R.C.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>New Specimens of Elphidotarsius russelli (Mammalia, ?Primates, Carpolestidae) and a Revision of Plesiadapoid Relationships</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>21</Volume>
+		<Pages>132-152</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List recon_name="Purgatorius_unio" recon_no="51270">Purgatorius_unio</List>
+		<List recon_name="Purgatorius_janisae" recon_no="51268">Purgatorius_janisae</List>
+		<List recon_name="Pandemonium_dis" recon_no="49731">Pandemonium_dis</List>
+		<List recon_name="Chronolestes_simul" recon_no="144290">Chronolestes_simul</List>
+		<List recon_name="Elphidotarsius_florencae" recon_no="46063">Elphidotarsius_florencae</List>
+		<List recon_name="Elphidotarsius_wightoni" recon_no="46066">Elphidotarsius_wightoni</List>
+		<List recon_name="Elphidotarsius_shotgunensis" recon_no="46065">Elphidotarsius_shotgunensis</List>
+		<List recon_name="Elphidotarsius_russelli" recon_no="46064">Elphidotarsius_russelli</List>
+		<List recon_name="Carpodaptes_hazelae" recon_no="44940">Carpodaptes_hazelae</List>
+		<List recon_name="Pronothodectes_matthewi" recon_no="50864">Pronothodectes_matthewi</List>
+		<List recon_name="Pronothodectes_jepi" recon_no="50863">Pronothodectes_jepi</List>
+		<List recon_name="Pronothodectes_gaoi" recon_no="50861">Pronothodectes_gaoi</List>
+		<List recon_name="Saxonella_crepaturae" recon_no="136762">Saxonella_crepaturae</List>
+		<List recon_name="Saxonella_naylori" recon_no="51402">Saxonella_naylori</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="73">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Silcox_etal_2001b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

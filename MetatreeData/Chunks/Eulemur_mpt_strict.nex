@@ -1,0 +1,11 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(Eulemur_rubrivente ,((Eulemur_mongoz ,((Eulemur_rufifrons ,(Eulemur_sanfordi ,(Eulemur_albifrons ,Eulemur_fulvus ))),(Eulemur_rufus ,(Eulemur_cinereicep ,Eulemur_collaris )))),(Eulemur_coronatus ,(Eulemur_flavifrons ,Eulemur_macaco )))));
+tree tnt_2 = [&U] 
+(allzero ,(Eulemur_rubrivente ,((Eulemur_mongoz ,((Eulemur_rufifrons ,(Eulemur_fulvus ,(Eulemur_albifrons ,Eulemur_sanfordi ))),(Eulemur_rufus ,(Eulemur_cinereicep ,Eulemur_collaris )))),(Eulemur_coronatus ,(Eulemur_flavifrons ,Eulemur_macaco )))));
+tree tnt_3 = [&U] 
+(allzero ,(Eulemur_rubrivente ,((Eulemur_mongoz ,((Eulemur_rufifrons ,(Eulemur_albifrons ,Eulemur_fulvus ,Eulemur_sanfordi )),(Eulemur_rufus ,(Eulemur_cinereicep ,Eulemur_collaris )))),(Eulemur_coronatus ,(Eulemur_flavifrons ,Eulemur_macaco )))));
+
+end ; 

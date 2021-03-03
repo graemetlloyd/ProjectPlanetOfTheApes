@@ -1,0 +1,23 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Teilhardina ,((Cantius ,(Notharctus ,(Hesperolemur ,(Bugtipithecus ,((Arsinoea ,(Proteopithecus ,Serapia )),(Qatrania ,Apidium )),(((Catopithecus ,Oligopithecus ),(Propliopithecu ,Aegyptopithecu )),(Siamopithecus ,(Pondaungia ,(Ganlea ,Myanmarpithecu )))))))),(Eosimias ,Bahinia ,Afrotarsius )));
+tree tnt_2 = [&U] 
+(Teilhardina ,((Cantius ,(Notharctus ,(Hesperolemur ,(Bugtipithecus ,((Serapia ,(Arsinoea ,Proteopithecus )),(Qatrania ,Apidium )),(((Catopithecus ,Oligopithecus ),(Propliopithecu ,Aegyptopithecu )),(Siamopithecus ,(Pondaungia ,(Ganlea ,Myanmarpithecu )))))))),(Eosimias ,Bahinia ,Afrotarsius )));
+tree tnt_3 = [&U] 
+(Teilhardina ,((Cantius ,(Notharctus ,(Hesperolemur ,(Bugtipithecus ,((Arsinoea ,(Proteopithecus ,Serapia )),(Qatrania ,Apidium )),((Catopithecus ,(Oligopithecus ,(Propliopithecu ,Aegyptopithecu ))),(Siamopithecus ,(Pondaungia ,(Ganlea ,Myanmarpithecu )))))))),(Eosimias ,Bahinia ,Afrotarsius )));
+tree tnt_4 = [&U] 
+(Teilhardina ,((Cantius ,(Notharctus ,(Hesperolemur ,(((Arsinoea ,(Proteopithecus ,Serapia )),(Qatrania ,Apidium )),(Bugtipithecus ,((Catopithecus ,(Oligopithecus ,(Propliopithecu ,Aegyptopithecu ))),(Siamopithecus ,Pondaungia ,(Ganlea ,Myanmarpithecu )))))))),(Eosimias ,Bahinia ,Afrotarsius )));
+tree tnt_5 = [&U] 
+(Teilhardina ,((Cantius ,(Notharctus ,(Hesperolemur ,(Bugtipithecus ,((Arsinoea ,(Proteopithecus ,Serapia )),(Qatrania ,Apidium )),((Catopithecus ,(Oligopithecus ,(Propliopithecu ,Aegyptopithecu ))),(Siamopithecus ,Pondaungia ,(Ganlea ,Myanmarpithecu ))))))),(Eosimias ,Bahinia ,Afrotarsius )));
+tree tnt_6 = [&U] 
+(Teilhardina ,((Cantius ,(Notharctus ,(Hesperolemur ,(Bugtipithecus ,((Serapia ,(Arsinoea ,Proteopithecus )),(Qatrania ,Apidium )),((Catopithecus ,(Oligopithecus ,(Propliopithecu ,Aegyptopithecu ))),(Siamopithecus ,(Pondaungia ,(Ganlea ,Myanmarpithecu )))))))),(Eosimias ,Bahinia ,Afrotarsius )));
+tree tnt_7 = [&U] 
+(Teilhardina ,((Cantius ,(Notharctus ,(Hesperolemur ,(((Serapia ,(Arsinoea ,Proteopithecus )),(Qatrania ,Apidium )),(Bugtipithecus ,((Catopithecus ,(Oligopithecus ,(Propliopithecu ,Aegyptopithecu ))),(Siamopithecus ,Pondaungia ,(Ganlea ,Myanmarpithecu )))))))),(Eosimias ,Bahinia ,Afrotarsius )));
+tree tnt_8 = [&U] 
+(Teilhardina ,((Cantius ,(Notharctus ,(Hesperolemur ,(Bugtipithecus ,((Serapia ,(Arsinoea ,Proteopithecus )),(Qatrania ,Apidium )),((Catopithecus ,(Oligopithecus ,(Propliopithecu ,Aegyptopithecu ))),(Siamopithecus ,Pondaungia ,(Ganlea ,Myanmarpithecu ))))))),(Eosimias ,Bahinia ,Afrotarsius )));
+tree tnt_9 = [&U] 
+(Teilhardina ,((Cantius ,(Notharctus ,(Hesperolemur ,(Bugtipithecus ,((Arsinoea ,Proteopithecus ,Serapia ),(Qatrania ,Apidium )),((Catopithecus ,Oligopithecus ,(Propliopithecu ,Aegyptopithecu )),(Siamopithecus ,Pondaungia ,(Ganlea ,Myanmarpithecu ))))))),(Eosimias ,Bahinia ,Afrotarsius )));
+
+end ; 

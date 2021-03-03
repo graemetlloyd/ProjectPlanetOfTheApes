@@ -1,0 +1,47 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=33 NCHAR=31 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Aotus_trivirgatus                0000000000000000000000000000000
+Saimiri_sciureus                 1100000000000000000000000000000
+Cebus_apella                     1100000000000000000000000000000
+Aegyptopithecus_zeuxis           1011000000000000000000000000000
+Dionysopithecus_shuangouensis    1011110000000000000000000000000
+Lomorupithecus_harrisoni         1011111100000000000000000000000
+Epipliopithecus_vindobonensis    1011111100000000000000000000000
+Victoriapithecus_macinnesi       1011100011100000000000000000000
+Macaca_sp                        1011100011111000000000000000000
+Proconsul_major                  1011100011000111110000000000000
+Proconsul_africanus              1011100011000111110000000000000
+Nyanzapithecus_harrisoni         1011100011000100001111110000000
+Nyanzapithecus_pickfordi         1011100011000100001111110000000
+Equatorius_africanus             1011100011000111000000001100000
+Afropithecus_turkanensis         1011100011000111000000001011000
+Nyanzapithecus_vancouveringorum  1011100011000100001111100000000
+Simiolus_enjiessi                1011100011000100001100000000000
+Micropithecus_clarki             1011100010000000000000000000000
+Dendropithecus_macinnesi         1011100011000100001000000000000
+Rangwapithecus_gordoni           1011100011000100001111000000000
+Turkanapithecus_kalakolensis     1011100011000100001110000000000
+Proconsul_nyanzae                1011100011000111100000000000000
+Proconsul_heseloni               1011100011000110000000000000000
+Gorilla_gorilla                  1011100011000111000000001110111
+Pan_troglodytes                  1011100011000111000000001110111
+Pongo_pygmaeus                   1011100011000111000000001110110
+Hylobates_sp                     1011100011000111000000001110100
+Presbytis_sp                     1011100011110000000000000000000
+Cercopithecus_sp                 1011100011111000000000000000000
+Morotopithecus_bishopi           1011100011000111000000001011000
+Laccopithecus_robustus           1011111000000000000000000000000
+Catopithecus_browni              1010000000000000000000000000000
+Simiolus_minutus                 1011100011000100001100000000000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

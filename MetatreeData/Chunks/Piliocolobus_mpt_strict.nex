@@ -1,0 +1,31 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(Piliocolobus_badius ,((Piliocolobus_tholloni ,((Piliocolobus_foai ,(Piliocolobus_rufomitratu ,Piliocolobus_tephroscele )),(Piliocolobus_gordonorum ,Piliocolobus_kirkii ))),(Piliocolobus_pennantii ,Piliocolobus_preussi ))));
+tree tnt_2 = [&U] 
+(allzero ,(Piliocolobus_badius ,(((Piliocolobus_foai ,(Piliocolobus_rufomitratu ,Piliocolobus_tephroscele )),(Piliocolobus_gordonorum ,Piliocolobus_kirkii )),(Piliocolobus_tholloni ,(Piliocolobus_pennantii ,Piliocolobus_preussi )))));
+tree tnt_3 = [&U] 
+(allzero ,((Piliocolobus_badius ,((Piliocolobus_foai ,(Piliocolobus_rufomitratu ,Piliocolobus_tephroscele )),(Piliocolobus_gordonorum ,Piliocolobus_kirkii ))),(Piliocolobus_tholloni ,(Piliocolobus_pennantii ,Piliocolobus_preussi ))));
+tree tnt_4 = [&U] 
+(allzero ,((Piliocolobus_tholloni ,(Piliocolobus_badius ,((Piliocolobus_foai ,(Piliocolobus_rufomitratu ,Piliocolobus_tephroscele )),(Piliocolobus_gordonorum ,Piliocolobus_kirkii )))),(Piliocolobus_pennantii ,Piliocolobus_preussi )));
+tree tnt_5 = [&U] 
+(allzero ,((Piliocolobus_badius ,(Piliocolobus_tholloni ,((Piliocolobus_foai ,(Piliocolobus_rufomitratu ,Piliocolobus_tephroscele )),(Piliocolobus_gordonorum ,Piliocolobus_kirkii )))),(Piliocolobus_pennantii ,Piliocolobus_preussi )));
+tree tnt_6 = [&U] 
+(allzero ,((Piliocolobus_badius ,(Piliocolobus_tholloni ,(Piliocolobus_pennantii ,Piliocolobus_preussi ))),((Piliocolobus_foai ,(Piliocolobus_rufomitratu ,Piliocolobus_tephroscele )),(Piliocolobus_gordonorum ,Piliocolobus_kirkii ))));
+tree tnt_7 = [&U] 
+(allzero ,(Piliocolobus_badius ,(((Piliocolobus_tephroscele ,(Piliocolobus_foai ,Piliocolobus_rufomitratu )),(Piliocolobus_gordonorum ,Piliocolobus_kirkii )),(Piliocolobus_tholloni ,(Piliocolobus_pennantii ,Piliocolobus_preussi )))));
+tree tnt_8 = [&U] 
+(allzero ,(Piliocolobus_badius ,((Piliocolobus_tholloni ,((Piliocolobus_tephroscele ,(Piliocolobus_foai ,Piliocolobus_rufomitratu )),(Piliocolobus_gordonorum ,Piliocolobus_kirkii ))),(Piliocolobus_pennantii ,Piliocolobus_preussi ))));
+tree tnt_9 = [&U] 
+(allzero ,((Piliocolobus_badius ,(Piliocolobus_tholloni ,(Piliocolobus_pennantii ,Piliocolobus_preussi ))),((Piliocolobus_tephroscele ,(Piliocolobus_foai ,Piliocolobus_rufomitratu )),(Piliocolobus_gordonorum ,Piliocolobus_kirkii ))));
+tree tnt_10 = [&U] 
+(allzero ,((Piliocolobus_badius ,((Piliocolobus_tephroscele ,(Piliocolobus_foai ,Piliocolobus_rufomitratu )),(Piliocolobus_gordonorum ,Piliocolobus_kirkii ))),(Piliocolobus_tholloni ,(Piliocolobus_pennantii ,Piliocolobus_preussi ))));
+tree tnt_11 = [&U] 
+(allzero ,((Piliocolobus_tholloni ,(Piliocolobus_badius ,((Piliocolobus_tephroscele ,(Piliocolobus_foai ,Piliocolobus_rufomitratu )),(Piliocolobus_gordonorum ,Piliocolobus_kirkii )))),(Piliocolobus_pennantii ,Piliocolobus_preussi )));
+tree tnt_12 = [&U] 
+(allzero ,((Piliocolobus_badius ,(Piliocolobus_tholloni ,((Piliocolobus_tephroscele ,(Piliocolobus_foai ,Piliocolobus_rufomitratu )),(Piliocolobus_gordonorum ,Piliocolobus_kirkii )))),(Piliocolobus_pennantii ,Piliocolobus_preussi )));
+tree tnt_13 = [&U] 
+(allzero ,(Piliocolobus_badius ,Piliocolobus_tholloni ,((Piliocolobus_foai ,Piliocolobus_rufomitratu ,Piliocolobus_tephroscele ),(Piliocolobus_gordonorum ,Piliocolobus_kirkii )),(Piliocolobus_pennantii ,Piliocolobus_preussi )));
+
+end ; 

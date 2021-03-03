@@ -1,0 +1,34 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=20 NCHAR=16 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Tupaiids                                                           0000000000000000
+Galagos                                                            1111110000000000
+New_World_Monkeys                                                  1000001000000000
+Avahi_laniger                                                      1000001111100000
+Cheirogaleus_medius                                                1111110000000000
+Daubentonia_madagascariensis                                       1000000000000000
+Eulemur_coronatus                                                  1000001100011100
+Eulemur_fulvus_Eulemur_macaco                                      1000001100011000
+Eulemur_mongoz                                                     1000001100011000
+Eulemur_rubriventer                                                1000001100011100
+Hapalemur_griseus                                                  1000001100010011
+Hapalemur_simus                                                    1000001100010011
+Indri_indri                                                        1000001111100000
+Lemur_catta                                                        1000001100010010
+Lepilemur                                                          1000001110000000
+Mirza_coquereli                                                    1111000000000000
+Microcebus_murinus                                                 1111100000000000
+Phaner_furcifer                                                    1110000000000000
+Propithecus_diadema_Propithecus_tattersalli_Propithecus_verreauxi  1000001111000000
+Varecia_variegata                                                  1100000000000000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(Tetonius_homunculus ,(Tetonius_matthewi ,(Tetonius_mckennai ,(Tetonius_sp ,Tetonius_sp_SPECIMENNUMBE )))));
+tree tnt_2 = [&U] 
+(allzero ,(Tetonius_homunculus ,Tetonius_matthewi ,Tetonius_mckennai ,Tetonius_sp ,Tetonius_sp_SPECIMENNUMBE ));
+
+end ; 

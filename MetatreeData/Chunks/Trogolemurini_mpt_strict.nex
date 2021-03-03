@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(Trogolemur_amplior ,(Trogolemur_fragilis ,((Trogolemur_myodes ,Sphacorhysis_burntforkensi ),(Walshina_esmaraldensis ,(Walshina_mcgrewi ,Walshina_shifrae ))))));
+tree tnt_2 = [&U] 
+(allzero ,(Trogolemur_amplior ,(Trogolemur_fragilis ,(Trogolemur_myodes ,Sphacorhysis_burntforkensi ),(Walshina_esmaraldensis ,Walshina_mcgrewi ,Walshina_shifrae ))));
+
+end ; 

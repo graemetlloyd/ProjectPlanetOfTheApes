@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Beard K.C.</List>
+			<List>Wang J.W.</List>	
+		</Author>
+		<Year>1995</Year>
+		<Title>The first Asian plesiadapoids (Mammalia: Primatomorpha)</Title>
+		<Journal>Annals of the Carnegie Museum</Journal>
+		<Volume>64</Volume>
+		<Pages>1-33</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List recon_name="DELETE" recon_no="0">Ancestor</List>
+		<List recon_name="Plesiadapidae" recon_no="40733">Plesiadapidae</List>
+		<List recon_name="Saxonella" recon_no="40740">Saxonella</List>
+		<List recon_name="Chronolestes_simul" recon_no="144290">Chronolestes_simul</List>
+		<List recon_name="Elphidotarsius" recon_no="40746">Elphidotarsius_sp_cf_lorencae</List>
+		<List recon_name="Elphidotarsius_wightoni" recon_no="46066">Elphidotarsius_wightoni</List>
+		<List recon_name="Carpodaptes_hazelae" recon_no="44940">Carpodaptes_hazelae</List>
+		<List recon_name="Carpodaptes_jepseni" recon_no="44942">Carpodaptes_jepseni</List>
+		<List recon_name="Carpolestes" recon_no="40744">Carpolestes</List>
+		<List recon_name="Carpocristes_cygneus" recon_no="44929">Carpocristes_cygneus</List>
+		<List recon_name="Carpocristes_hobackensis" recon_no="44930">Carpocristes_hobackensis</List>
+		<List recon_name="Carpocristes_oriens" recon_no="144291">Carpocristes_oriens</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="27">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Beard_et_Wang_1995a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

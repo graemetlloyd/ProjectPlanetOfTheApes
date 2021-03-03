@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kay, R. F.</List>
+			<List>Fleagle, J. G.</List>
+			<List>Mitchell, T. R. T.</List>
+			<List>Colbert, M.</List>
+			<List>Bown, T.</List>
+			<List>Powers, D. W.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>The anatomy of Dolichocebus gaimanensis, a stem platyrrhine monkey from Argentina</Title>
+		<Journal>Journal of Human Evolution</Journal>
+		<Volume>54</Volume>
+		<Pages>323-382</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="31">
+		<List recon_name="Tarsius_bancanus_borneanus,Carlito_syrichta" recon_no="238710;238737">Tarsius</List>
+		<List recon_name="Aegyptopithecus_zeuxis" recon_no="100577">Aegyptopithecus_zeuxis</List>
+		<List recon_name="Apidium_phiomense" recon_no="100576">Apidium_phiomense</List>
+		<List recon_name="Catopithecus_browni" recon_no="97121">Catopithecus_browni</List>
+		<List recon_name="Proteopithecus_sylviae" recon_no="97123">Proteopithecus_sylviae</List>
+		<List recon_name="Simonsius_grangeri" recon_no="144356">Simonsius_grangeri</List>
+		<List recon_name="Aotus_sp_SPECIMENNUMBER,Aotus_lemurinus,Aotus_trivirgatus" recon_no="92614;384951;232711">Aotus</List>
+		<List recon_name="Saimiri_boliviensis,Saimiri_oerstedii,Saimiri_sciureus" recon_no="385262;385265;232446">Saimiri</List>
+		<List recon_name="Cebus_apella,Cebus_libidinosus,Cebus_albifrons,Cebus_capucinus,Cebus_olivaceus" recon_no="232441;385014;232539;232443;385026">Cebus</List>
+		<List recon_name="Callicebus_cupreus,Callicebus_moloch,Callicebus_ornatus,Callicebus_personatus,Callicebus_torquatus" recon_no="236616;384487;384490;384494;384498">Callicebus</List>
+		<List recon_name="Pithecia_monachus,Pithecia_pithecia" recon_no="232706;384930">Pithecia</List>
+		<List recon_name="Chiropotes_albinasus,Chiropotes_satanas" recon_no="232708;385412">Chiropotes</List>
+		<List recon_name="Cacajao_calvus,Cacajao_melanocephalus" recon_no="232704;232690">Cacajao</List>
+		<List recon_name="Propithecia_neuquenensis" recon_no="263298">Proteropithecia</List>
+		<List recon_name="Saguinus_midas,Saguinus_mystax,Saguinus_fuscicollis,Saguinus_geoffroyi,Saguinus_leucopus" recon_no="238652;236612;231758;385320;385321">Saguinus</List>
+		<List recon_name="Callithrix_penicillata,Callithrix_geoffroyi,Callithrix_jacchus" recon_no="385413;385102;232437">Callithrix</List>
+		<List recon_name="Cebuella_pygmaea" recon_no="236610">Cebuella_pygmaea</List>
+		<List recon_name="Callimico_goeldii" recon_no="233443">Callimico_goeldii</List>
+		<List recon_name="Leontopithecus_chrysomelas,Leontopithecus_rosalia" recon_no="385113;385319">Leontopithecus</List>
+		<List recon_name="Alouatta_caraya,Alouatta_palliata,Alouatta_pigra,Alouatta_belzebul,Alouatta_guariba,Alouatta_macconnelli,Alouatta_seniculus" recon_no="232533;235367;384959;232535;385059;385060;232537">Alouatta</List>
+		<List recon_name="Ateles_fusciceps,Ateles_geoffroyi,Ateles_marginatus,Ateles_paniscus" recon_no="240462;232528;384548;232428">Ateles</List>
+		<List recon_name="Brachyteles" recon_no="92604">Brachyteles</List>
+		<List recon_name="Lagothrix_cana,Lagothrix_lagotricha,Lagothrix_poeppigii" recon_no="232675;232530;385318">Lagothrix</List>
+		<List recon_name="Branisella_boliviana" recon_no="165990">Branisella_boliviana</List>
+		<List recon_name="Dolichocebus_gaimanensis" recon_no="100572">Dolichocebus_gaimanensis</List>
+		<List recon_name="Tremacebus_harringtoni" recon_no="337004">Tremacebus_harringtoni</List>
+		<List recon_name="Soriacebus_ameghinorum" recon_no="264170">Soriacebus_ameghinorum</List>
+		<List recon_name="Carlocebus_carmenensis" recon_no="264175">Carlocebus_carmeni</List>
+		<List recon_name="Hylobates_lar" recon_no="231499">Hylobates_lar</List>
+		<List recon_name="Miopithecus_talapoin" recon_no="385144">Miopithecus_talapoin</List>
+		<List recon_name="Presbytis_melalophos" recon_no="368198">Presbytis_melalophos</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="268">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kay_etal_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

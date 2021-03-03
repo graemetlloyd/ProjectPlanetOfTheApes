@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Chester, S.G.B.</List>
+			<List>Bloch, J.I.</List>
+			<List>Boyer, D.M.</List>
+			<List>Clemens, W.A.</List>	
+		</Author>
+		<Year>2015</Year>
+		<Title>Oldest known euarchontan tarsals and affinities of Paleocene Purgatorius to Primates</Title>
+		<Journal>Proceedings of the National Academy of Sciences</Journal>
+		<Volume>112</Volume>
+		<Pages>1487-1492</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List recon_name="Asioryctes_nemegtensis" recon_no="57288">Asioryctes_nemegetensis</List>
+		<List recon_name="Purgatorius_unio,Purgatorius_titusi,Purgatorius_janisae,Purgatorius_sp_UCMP_153013_et_153027_et_177255_et_197482_et_197485_et_197486_et_197487_et_197489_et_197507_et_197508_et_197509_et_197511_et_197513_et_197515_et_197516_et_197517" recon_no="51270;51269;51268;40704">Purgatorius</List>
+		<List recon_name="Palaechthon_nacimienti" recon_no="49619">Palaechthon_nacimienti</List>
+		<List recon_name="Paromomys_maturus,Paromomys_depressidens,Ignacius_graybullianus,Phenacolemur_jepseni,Acidomomys_hebeticus,Ignacius_clarkforkensis,Phenacolemur_simonsi,Phenacolemur_praecox,Phenacolemur_citatus" recon_no="50016;50015;47354;50327;43719;92580;50333;50331;50323">Paromomyidae</List>
+		<List recon_name="Chronolestes_simul" recon_no="144290">Chronolestes_simul</List>
+		<List recon_name="Elphidotarsius_florencae,Elphidotarsius_wightoni,Elphidotarsius_shotgunensis,Elphidotarsius_russelli,Carpolestes_simpsoni" recon_no="46063;46066;46065;46064;44951">Carpolestidae</List>
+		<List recon_name="Pronothodectes_matthewi,Pronothodectes_jepi,Pronothodectes_gaoi,Plesiadapis_tricuspidens,Plesiadapis_cookei,Plesiadapis_walbeckensis,Nannodectes_gidleyi,Nannodectes_intermedius" recon_no="50864;50863;50861;50444;50431;144256;48973;48974">Plesiadapidae</List>
+		<List recon_name="Saxonella_crepaturae,Saxonella_naylori" recon_no="136762;51402">Saxonellidae</List>
+		<List recon_name="Navajovius_kohlhaasae,Megadelphus_lundeliusi,Microsyops_knightensis,Niptomomys_doreenae,Microsyops_sp_SPECIMENNUMBER" recon_no="49006;47998;48552;49179;40718">Microsyopidae</List>
+		<List recon_name="Micromomys_fremdi,Micromomys_silvercouleei,Dryomomys_szalayi,Chalicomomys_antelucanus,Tinimomys_graybulliensis" recon_no="48517;48518;92582;45046;52321">Micromomyidae</List>
+		<List recon_name="Altiatlasius_koulchii" recon_no="144005">Altiatlasius_koulchii</List>
+		<List recon_name="Altanius_orlovi" recon_no="101080">Altanius_orlovi</List>
+		<List recon_name="Teilhardina_americana,Teilhardina_belgica,Shoshonius_cooperi" recon_no="52105;53408;51543">Omomyidae</List>
+		<List recon_name="Donrussellia_provincialis,Donrussellia_gallica,Cantius_abditus,Smilodectes_gracilis,Notharctus_tenebrosus" recon_no="145138;106869;44892;51609;49200">Adapidae</List>
+		<List recon_name="Elpidophorus_minor,Elpidophorus_patratus" recon_no="46068;46070">Elpidophorus</List>
+		<List recon_name="Plagiomene_multicuspis,Plagiomene" recon_no="50390;40326">Plagiomene</List>
+		<List recon_name="Cynocephalus_volans,Galeopterus_variegatus" recon_no="206240;206242">Cynocephalidae</List>
+		<List recon_name="Ptilocercus_lowii" recon_no="234229">Ptilocercus_lowii</List>
+		<List recon_name="Tupaia_glis" recon_no="234212">Tupaia_glis</List>
+		<List recon_name="Berruvius_gingerichi,Berruvius_lasseroni" recon_no="143999;144001">Berruvius</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="173">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Chester_etal_2015ab</Filename>
+	<Parent>Bloch_etal_2007a</Parent>
+	<Sibling/>
+</SourceTree>

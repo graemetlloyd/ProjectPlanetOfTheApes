@@ -1,0 +1,24 @@
+taxname=;
+mxram 4096;
+taxname +16;
+nstates num 32;
+xread
+''
+19 9
+& [numeric]
+Aegyptopithecus   00000001?1?000?0??1
+Proconsul         00000010?0?000?0??2
+Victoriapithecus  1111002001010021201
+Microcolobus      2212022011101121100
+KNM_TH_48368      221?11111110??????0
+KNM_BN_1251       ????????????2011010
+Colobinae         2212012012202121211
+Cercopithecinae   2212002100010111111
+Mesopithecus      2212112002102101001
+;
+ccode +[/1 0 +[/1 1 +[/1 2 +[/1 3 +[/1 4 +[/1 5 +[/1 6 +[/1 7 +[/1 8 +[/1 9 +[/1 10 +[/1 11 +[/1 12 +[/1 13 +[/1 14 +[/1 15 +[/1 16 +[/1 17 +[/1 18 ;
+collapse [;
+ienum; nelsen*; export -Rossie_etal_2013aatntmpts_plus_strict.nex; mrp;
+export Rossie_etal_2013aamrp.nex; 
+proc/;
+

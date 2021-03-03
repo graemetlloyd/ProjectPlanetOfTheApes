@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(TheropithecusOmopithecus_baringensis ,(TheropithecusOmopithecus_brumpti ,(Theropithecus_sp_M2974_et_MP44_et_MP217_et_MP222_et_NME_AL_58_dash_23_et_134_dash_5_et_142_dash_19_et_144_dash_1_et_153_dash_14_et_163_dash_11_et_186_dash_17_et_187_dash_10_et_196_dash_3_et_205_dash_1_et_208_dash_10_et_321_dash_12_et_416_dash_ ,(Theropithecus_gelada ,Theropithecus_oswaldi )))));
+tree tnt_2 = [&U] 
+(allzero ,(TheropithecusOmopithecus_baringensis ,(TheropithecusOmopithecus_brumpti ,(Theropithecus_gelada ,Theropithecus_oswaldi ,Theropithecus_sp_M2974_et_MP44_et_MP217_et_MP222_et_NME_AL_58_dash_23_et_134_dash_5_et_142_dash_19_et_144_dash_1_et_153_dash_14_et_163_dash_11_et_186_dash_17_et_187_dash_10_et_196_dash_3_et_205_dash_1_et_208_dash_10_et_321_dash_12_et_416_dash_ ))));
+
+end ; 

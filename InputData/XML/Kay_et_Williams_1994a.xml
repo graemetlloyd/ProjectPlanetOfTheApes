@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kay, R.F.</List>
+			<List>Williams, B.A.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>Dental evidence for anthropoid origins</Title>
+		<Journal></Journal>
+		<Volume></Volume>
+		<Pages>361-445</Pages>
+		<Booktitle>Anthropoid Origins</Booktitle>
+		<Publisher>Plenum Press</Publisher>
+		<City>New York</City>
+		<Editor>
+			<List>Fleagle, J.G.</List>
+			<List>Kay, R.F.</List>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List recon_name="Purgatorius_unio" recon_no="51270">Purgatorius_unio</List>
+		<List recon_name="Cantius_eppsi" recon_no="347832">Cantius_sp</List>
+		<List recon_name="Pronycticebus_gaudryi" recon_no="145090">Pronycticebus_gaudryi</List>
+		<List recon_name="Adapis_parisiensis" recon_no="57922">Adapis_parisiensis</List>
+		<List recon_name="Leptadapis_magnus" recon_no="127247">Leptadapis_magnus</List>
+		<List recon_name="Protoadapis_curvicuspidens" recon_no="144267">Protoadapis_curvicuspidens</List>
+		<List recon_name="Mahgarita_stevensi" recon_no="47857">Mahgarita_stevensi</List>
+		<List recon_name="Teilhardina_americana" recon_no="52105">Teilhardina_americana</List>
+		<List recon_name="Steinius_vespertinus" recon_no="51772">Steinius_vespertinus</List>
+		<List recon_name="Nannopithex_filholi,Nannopithex_sp_Halle_4254" recon_no="348251;40817">Nannopithex_sp</List>
+		<List recon_name="Ourayia_uintensis" recon_no="49508">Ourayia_uintensis</List>
+		<List recon_name="Omomys_carteri" recon_no="49314">Omomys_carteri</List>
+		<List recon_name="Tarsius" recon_no="101390">Tarsius_sp</List>
+		<List recon_name="Washakius_insignis" recon_no="52699">Washakius_insignis</List>
+		<List recon_name="Parapithecus_fraasi" recon_no="144353">Parapithecus_fraasi</List>
+		<List recon_name="Qatrania_wingi" recon_no="100570">Qatrania_wingi</List>
+		<List recon_name="Serapia_eocaena" recon_no="133673">Serapia_eocaena</List>
+		<List recon_name="Arsinoea_kallimos" recon_no="133675">Arsinoea_kallamos</List>
+		<List recon_name="Apidium_phiomense" recon_no="100576">Apidium_phiomense</List>
+		<List recon_name="Simonsius_grangeri" recon_no="144356">Simonsius_grangeri</List>
+		<List recon_name="Oligopithecus_savagei" recon_no="172415">Oligopithecus_savagei</List>
+		<List recon_name="Catopithecus_browni" recon_no="97121">Catopithecus_browni</List>
+		<List recon_name="Aegyptopithecus_zeuxis" recon_no="100577">Aegyptopithecus_zeuxis</List>
+		<List recon_name="Saguinus_oedipus" recon_no="385260">Saguinus_oedipus</List>
+		<List recon_name="Callimico_goeldii" recon_no="233443">Callimico_goeldii</List>
+		<List recon_name="Aotus_trivirgatus" recon_no="232711">Aotus_trivirgatus</List>
+		<List recon_name="Callicebus_moloch" recon_no="384487">Callicebus_moloch</List>
+		<List recon_name="Saimiri_sciureus" recon_no="232446">Saimiri_sciureus</List>
+		<List recon_name="Dolichocebus_gaimanensis" recon_no="100572">Dolichocebus_gaimanensis</List>
+		<List recon_name="Afrotarsius_chatrathi" recon_no="100568">Afrotarsius_chatrathi</List>
+		<List recon_name="Pondaungia_cotteri" recon_no="100581">Pondaungia_cotteri</List>
+		<List recon_name="Amphipithecus_mogaungensis" recon_no="100571">Amphipithecus_mogaungensis</List>
+		<List recon_name="Proteopithecus_sylviae" recon_no="97123">Proteopithecus_sylviae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="157">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kay_et_Williams_1994a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,30 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=16 NCHAR=15 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Propliopithecidae  000000000000000
+Hominidae          111111000000000
+Pan                111111111111000
+Gorilla            111111111111000
+Pongo              111111111100000
+Hylobatidae        111110000000000
+Proconsul          110000000000111
+Afropithecus       110000000000110
+Rangwapithecus     100000000000000
+Kenyapithecus      110000000000111
+Turkanapithecus    110000000000100
+Moroto_hominoid    111111110010000
+Dryopithecus       111100000000000
+Pliopithecus       111000000000000
+Sivapithecus       111100000000000
+Oreopithecus       111111101000000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

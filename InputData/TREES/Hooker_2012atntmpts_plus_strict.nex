@@ -1,0 +1,15 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Purgatorius ,((Teilhardina_asiatica ,(Teilhardina_belgica ,Teilhardina_magnolian ,(Teilhardina_brandti ,((Teilhardina_americana ,(Tetonius_matthewi ,((Altanius_orlovi ,Anemorhysis_savagei ),(Teilhardina_demissa ,(Jemezius_szalayi ,(Uintanius_rutherfurdi ,(Nannopithex_zuccolae ,Vectipithex_raabi ))))))),(Steinius ,(Loveina ,Omomys_carteri )))),(Paraloris ,(Melaneremia_bryanti ,Melaneremia_schrevei )))),(Cantius_eppsi ,Donrussellia )));
+tree tnt_2 = [&U] 
+(Purgatorius ,((Teilhardina_asiatica ,(Teilhardina_belgica ,Teilhardina_magnolian ,(Teilhardina_brandti ,((Teilhardina_americana ,(Tetonius_matthewi ,((Altanius_orlovi ,Anemorhysis_savagei ),(Teilhardina_demissa ,(Jemezius_szalayi ,Uintanius_rutherfurdi ))))),(Steinius ,(Loveina ,Omomys_carteri )))),(Paraloris ,(Melaneremia_schrevei ,(Melaneremia_bryanti ,(Nannopithex_zuccolae ,Vectipithex_raabi )))))),(Cantius_eppsi ,Donrussellia )));
+tree tnt_3 = [&U] 
+(Purgatorius ,((Teilhardina_asiatica ,(Teilhardina_belgica ,Teilhardina_magnolian ,((Teilhardina_brandti ,((Teilhardina_americana ,(Tetonius_matthewi ,((Altanius_orlovi ,Anemorhysis_savagei ),(Teilhardina_demissa ,(Jemezius_szalayi ,Uintanius_rutherfurdi ))))),(Steinius ,(Loveina ,Omomys_carteri )))),(Paraloris ,(Melaneremia_schrevei ,(Melaneremia_bryanti ,(Nannopithex_zuccolae ,Vectipithex_raabi ))))))),(Cantius_eppsi ,Donrussellia )));
+tree tnt_4 = [&U] 
+(Purgatorius ,((Teilhardina_asiatica ,(Teilhardina_belgica ,(Teilhardina_magnolian ,(Teilhardina_brandti ,((Teilhardina_americana ,(Tetonius_matthewi ,((Altanius_orlovi ,Anemorhysis_savagei ),(Teilhardina_demissa ,(Jemezius_szalayi ,Uintanius_rutherfurdi ))))),(Steinius ,(Loveina ,Omomys_carteri )))),(Paraloris ,(Melaneremia_schrevei ,(Melaneremia_bryanti ,(Nannopithex_zuccolae ,Vectipithex_raabi ))))))),(Cantius_eppsi ,Donrussellia )));
+tree tnt_5 = [&U] 
+(Purgatorius ,((Teilhardina_asiatica ,(Teilhardina_belgica ,Teilhardina_magnolian ,Teilhardina_brandti ,Teilhardina_americana ,Teilhardina_demissa ,Jemezius_szalayi ,Uintanius_rutherfurdi ,Tetonius_matthewi ,Melaneremia_bryanti ,Melaneremia_schrevei ,Paraloris ,(Altanius_orlovi ,Anemorhysis_savagei ),(Steinius ,(Loveina ,Omomys_carteri )),(Nannopithex_zuccolae ,Vectipithex_raabi ))),(Cantius_eppsi ,Donrussellia )));
+
+end ; 

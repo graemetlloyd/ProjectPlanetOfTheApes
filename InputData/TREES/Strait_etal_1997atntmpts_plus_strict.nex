@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Pan_Gorilla ,(Australopithecus_afarensis ,(Australopithecus_africanus ,((Australopithecus_aethiopithecu ,(Australopithecus_robustus ,Australopithecus_boisei )),(Homo_habilis ,(Homo_rudolfensis ,(Homo_ergaster ,Homo_sapiens )))))));
+tree tnt_2 = [&U] 
+(Pan_Gorilla ,(Australopithecus_afarensis ,(Australopithecus_africanus ,((Australopithecus_aethiopithecu ,(Australopithecus_robustus ,Australopithecus_boisei )),(Homo_habilis ,(Homo_rudolfensis ,(Homo_ergaster ,Homo_sapiens )))))));
+
+end ; 

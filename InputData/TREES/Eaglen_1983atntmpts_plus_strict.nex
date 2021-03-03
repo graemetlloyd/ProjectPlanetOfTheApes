@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Adapidae ,((Cheirogalidae ,Lepilemur ),(Lemur_variegatus ,((Lemur_catta ,(Indriidae ,(Hapalemur_griseu ,Hapalemur_simus ))),(Lemur_macaco ,Lemur_rubrivente ,Lemur_mongoz )))));
+tree tnt_2 = [&U] 
+(Adapidae ,((Cheirogalidae ,Lepilemur ),(Lemur_variegatus ,((Lemur_catta ,(Indriidae ,(Hapalemur_griseu ,Hapalemur_simus ))),(Lemur_macaco ,Lemur_rubrivente ,Lemur_mongoz )))));
+
+end ; 

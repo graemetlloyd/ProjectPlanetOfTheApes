@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Purgatorius ,(Pronothodectes ,(Elphidotarsius_florencae ,(Elphidotarsius_wightoni ,(Elphidotarsius_shotgunensi ,(Elphidotarsius_russelli ,(Carpodaptes_hazelae ,(Carpodaptes_cygneus ,((Carpodaptes_aulacodon ,(Carpomegodon_jepseni ,(Carpolestes_dubius ,(Carpolestes_nigridens ,Carpolestes_simpsoni )))),(Carpocristes_hobackensis ,Carpocristes_oriens ))))))))));
+tree tnt_2 = [&U] 
+(Purgatorius ,(Pronothodectes ,(Elphidotarsius_florencae ,(Elphidotarsius_wightoni ,(Elphidotarsius_shotgunensi ,(Elphidotarsius_russelli ,(Carpodaptes_hazelae ,(Carpodaptes_cygneus ,((Carpodaptes_aulacodon ,(Carpomegodon_jepseni ,(Carpolestes_dubius ,(Carpolestes_nigridens ,Carpolestes_simpsoni )))),(Carpocristes_hobackensis ,Carpocristes_oriens ))))))))));
+
+end ; 

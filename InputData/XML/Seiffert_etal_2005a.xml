@@ -1,0 +1,147 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Seiffert, E.R.</List>
+			<List>Simons, E.L.</List>
+			<List>Clyde, W.C.</List>
+			<List>Rossie, J.B.</List>
+			<List>Attia, Y.</List>
+			<List>Bown, T.M.</List>
+			<List>Chatrath, P.</List>
+			<List>Mathison, M.E.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>Basal Anthropoids from Egypt and the Antiquity of Africa's Higher Primate Radiation</Title>
+		<Journal>Science</Journal>
+		<Volume>310</Volume>
+		<Pages>300-304</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="106">
+		<List recon_name="Tupaia" recon_no="40296">Tupaia_spp</List>
+		<List recon_name="Abuqatrania_basiodontos" recon_no="166584">Abuqatrania_basiodontos</List>
+		<List recon_name="Absarokius" recon_no="40794">Absarokius_sp</List>
+		<List recon_name="Adapis_parisiensis" recon_no="57922">Adapis_parisiensis</List>
+		<List recon_name="Aegyptopithecus_zeuxis" recon_no="100577">Aegyptopithecus_zeuxis</List>
+		<List recon_name="Aframonius_dieides" recon_no="143110">Aframonius_dieides</List>
+		<List recon_name="Afrotarsius_chatrathi" recon_no="100568">Afrotarsius_chatrathi</List>
+		<List recon_name="Agerinia_roselli" recon_no="145150">Agerinia_roselli</List>
+		<List recon_name="Algeripithecus_minutus" recon_no="143122">Algeripithecus_minutus</List>
+		<List recon_name="Altanius_orlovi" recon_no="101080">Altanius_orlovi</List>
+		<List recon_name="Altiatlasius_koulchii" recon_no="144005">Altiatlasius_koulchii</List>
+		<List recon_name="Amphipithecus_mogaungensis" recon_no="100571">Amphipithecus_mogaungensis</List>
+		<List recon_name="Anaptomorphus" recon_no="40797">Anaptomorphus_sp</List>
+		<List recon_name="Anchomomys_gaillardi" recon_no="143989">Anchomomys_gaillardi</List>
+		<List recon_name="Anchomomys_milleri" recon_no="143990">Anchomomys_milleri</List>
+		<List recon_name="Anemorhysis_savagei" recon_no="384933">Anemorhysis_savagei</List>
+		<List recon_name="Aotus_trivirgatus" recon_no="232711">Aotus_trivirgatus</List>
+		<List recon_name="Apidium_moustafai" recon_no="172416">Apidium_moustafai</List>
+		<List recon_name="Apidium_phiomense" recon_no="100576">Apidium_phiomense</List>
+		<List recon_name="Arapahovius_gazini" recon_no="44207">Arapahovius_gazini</List>
+		<List recon_name="Arctocebus_calabarensis" recon_no="232736">Arctocebus_calabarensis</List>
+		<List recon_name="Arsinoea_kallimos" recon_no="133675">Arsinoea_kallimos</List>
+		<List recon_name="Aycrossia_lovei" recon_no="44399">Aycrossia_lovei</List>
+		<List recon_name="Bahinia_pondaungensis" recon_no="58155">Bahinia_pondaungensis</List>
+		<List recon_name="Biretia_fayumensis" recon_no="100641">Biretia_fayumensis</List>
+		<List recon_name="Biretia_megalopsis" recon_no="100642">Biretia_megalopsis</List>
+		<List recon_name="Branisella_boliviana" recon_no="165990">Branisella_boliviana</List>
+		<List recon_name="Bugtipithecus_inexpectans" recon_no="116948">Bugtipithecus_inexpectans</List>
+		<List recon_name="Caenopithecus_lemuroides" recon_no="384988">Caenopithecus_lemuroides</List>
+		<List recon_name="Cantius_abditus" recon_no="44892">Cantius_abditus</List>
+		<List recon_name="Catopithecus_browni" recon_no="97121">Catopithecus_browni</List>
+		<List recon_name="Cheirogaleus_major" recon_no="384941">Cheirogaleus_major</List>
+		<List recon_name="Djebelemur_martinezi" recon_no="144220">Djebelemur_martinezi</List>
+		<List recon_name="Donrussellia_gallica" recon_no="106869">Donrussellia_gallica</List>
+		<List recon_name="Donrussellia_provincialis" recon_no="145138">Donrussellia_provincialis</List>
+		<List recon_name="Dyseolemur_pacificus" recon_no="45954">Dyseolemur_pacificus</List>
+		<List recon_name="Eosimias_centennicus" recon_no="105205">Eosimias_centennicus</List>
+		<List recon_name="Eosimias_sinensis" recon_no="101397">Eosimias_sinensis</List>
+		<List recon_name="Europolemur_dunaifi" recon_no="145126">Europolemur_dunaifi</List>
+		<List recon_name="Galago_moholi" recon_no="232726">Galago_moholi</List>
+		<List recon_name="Galagoides_demidoff" recon_no="385152">Galagoides_demidoff</List>
+		<List recon_name="Hemiacodon_gracilis" recon_no="46847">Hemiacodon_gracilis</List>
+		<List recon_name="Hoanghonius_stehlini" recon_no="58316">Hoanghonius_stehlini</List>
+		<List recon_name="Karanisia_clarki" recon_no="90338">Karanisia_clarki</List>
+		<List recon_name="Komba_robustus" recon_no="385231">Komba_robustus</List>
+		<List recon_name="Lemur_catta" recon_no="104138">Lemur_catta</List>
+		<List recon_name="Lepilemur_mustelinus" recon_no="385148">Lepilemur_mustelinus</List>
+		<List recon_name="Leptadapis_magnus" recon_no="127247">Leptadapis_magnus</List>
+		<List recon_name="Loris_tardigradus" recon_no="206247">Loris_tardigradus</List>
+		<List recon_name="Loveina_zephyri" recon_no="47778">Loveina_zephyri</List>
+		<List recon_name="Macrotarsius_montanus" recon_no="47853">Macrotarsius_montanus</List>
+		<List recon_name="Mahgarita_stevensi" recon_no="47857">Mahgarita_stevensi</List>
+		<List recon_name="Microadapis_sciureus" recon_no="135235">Microadapis_sciureus</List>
+		<List recon_name="Microcebus_murinus" recon_no="232487">Microcebus_murinus</List>
+		<List recon_name="Microchoerus_erinaceus" recon_no="57923">Microchoerus_erinaceus</List>
+		<List recon_name="Moeripithecus_markgrafi" recon_no="145160">Moeripithecus_markgrafi</List>
+		<List recon_name="Myanmarpithecus_yarshensis" recon_no="106801">Myanmarpithecus_yarshensis</List>
+		<List recon_name="Nannopithex" recon_no="40817">Nannopithex_spp</List>
+		<List recon_name="Necrolemur" recon_no="40818">Necrolemur_spp</List>
+		<List recon_name="Nycticeboides_simpsoni" recon_no="385132">Nycticeboides_simpsoni</List>
+		<List recon_name="Nycticebus_coucang" recon_no="234313">Nycticebus_coucang</List>
+		<List recon_name="Oligopithecus_rogeri" recon_no="306557">Oligopithecus_rogeri</List>
+		<List recon_name="Oligopithecus_savagei" recon_no="172415">Oligopithecus_savagei</List>
+		<List recon_name="Omomys" recon_no="40819">Omomys_sp</List>
+		<List recon_name="Otolemur_crassicaudatus" recon_no="385164">Otolemur_crassicaudatus</List>
+		<List recon_name="Parapithecus_fraasi" recon_no="144353">Parapithecus_fraasi</List>
+		<List recon_name="Parapithecus_grangeri" recon_no="144355">Parapithecus_grangeri</List>
+		<List recon_name="Perodicticus_potto" recon_no="232729">Perodicticus_potto</List>
+		<List recon_name="Phenacopithecus_krishtalkai" recon_no="105209">Phenacopithecus_krishtalkai</List>
+		<List recon_name="Phenacopithecus_xueshii" recon_no="105208">Phenacopithecus_xueshii</List>
+		<List recon_name="Plesiadapis_tricuspidens,Pronothodectes_jepi" recon_no="50444;50863">Plesiadapis_tricuspidens_Pronothodectes_jepi</List>
+		<List recon_name="Plesiolestes_problematicus" recon_no="50457">Plesiolestes_problematicus</List>
+		<List recon_name="Plesiopithecus_teras" recon_no="133674">Plesiopithecus_teras</List>
+		<List recon_name="Pondaungia_cotteri" recon_no="100581">Pondaungia_cotteri</List>
+		<List recon_name="Pronycticebus_gaudryi" recon_no="145090">Pronycticebus_gaudryi</List>
+		<List recon_name="Propithecus" recon_no="143019">Propithecus_spp</List>
+		<List recon_name="Propliopithecus_chirobates" recon_no="184209">Propliopithecus_chirobates</List>
+		<List recon_name="Propliopithecus_haeckeli" recon_no="100582">Propliopithecus_haeckeli</List>
+		<List recon_name="Proteopithecus_sylviae" recon_no="97123">Proteopithecus_sylviae</List>
+		<List recon_name="Protoadapis_curvicuspidens" recon_no="144267">Protoadapis_curvicuspidens</List>
+		<List recon_name="Pseudoloris_parvulus" recon_no="67466">Pseudoloris_parvulus</List>
+		<List recon_name="Purgatorius_unio" recon_no="51270">Purgatorius_unio</List>
+		<List recon_name="Qatrania_wingi" recon_no="100570">Qatrania_wingi</List>
+		<List recon_name="Rencunius_zhoui" recon_no="113505">Rencunius_zhoui</List>
+		<List recon_name="Rooneyia_viejaensis" recon_no="51372">Rooneyia_viejaensis</List>
+		<List recon_name="Saharagalago_misrensis" recon_no="90336">Saharagalago_misrensis</List>
+		<List recon_name="Saimiri_sciureus" recon_no="232446">Saimiri_sciureus</List>
+		<List recon_name="Serapia_eocaena" recon_no="133673">Serapia_eocaena</List>
+		<List recon_name="Shoshonius_cooperi" recon_no="51543">Shoshonius_cooperi</List>
+		<List recon_name="Siamopithecus_eocaenus" recon_no="145178">Siamopithecus_eocaenus</List>
+		<List recon_name="Steinius_vespertinus" recon_no="51772">Steinius_vespertinus</List>
+		<List recon_name="Strigorhysis" recon_no="40828">Strigorhysis_sp</List>
+		<List recon_name="Propliopithecidae_SPECIMEN_NUMBER_Taqah" recon_no="92593">Taqah_propliopithecid</List>
+		<List recon_name="Tarsius_bancanus" recon_no="232742">Tarsius_bancanus</List>
+		<List recon_name="Teilhardina_americana" recon_no="52105">Teilhardina_americana</List>
+		<List recon_name="Teilhardina_asiatica" recon_no="101085">Teilhardina_asiatica</List>
+		<List recon_name="Teilhardina_belgica" recon_no="53408">Teilhardina_belgica</List>
+		<List recon_name="Tetonius" recon_no="40830">Tetonius_sp</List>
+		<List recon_name="Tetonoides" recon_no="52197">Tetonoides_sp</List>
+		<List recon_name="Trogolemur_myodes" recon_no="52522">Trogolemur_myodes</List>
+		<List recon_name="Uintanius_ameghini" recon_no="52567">Uintanius_ameghini</List>
+		<List recon_name="Varecia_variegata" recon_no="237775">Varecia_variegata</List>
+		<List recon_name="Wadilemur_elegans" recon_no="121440">Wadilemur_elegans</List>
+		<List recon_name="Wailekia_orientale" recon_no="131779">Wailekia_orientale</List>
+		<List recon_name="Washakius_insignis" recon_no="52699">Washakius_insignis</List>
+		<List recon_name="Xanthorhysis_tabrumi" recon_no="89728">Xanthorhysis_tabrumi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="360">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Seiffert_etal_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

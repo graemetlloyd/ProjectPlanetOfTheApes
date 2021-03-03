@@ -1,0 +1,27 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=13 NCHAR=13 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Purgatorius                0000000000000
+Donrussellia_provincialis  1111000000000
+Donrussellia_gallica       1111000000000
+Teilhardina_asiatica       1110111000000
+Teilhardina_belgica        1110111110000
+Teilhardina_brandti        1110110101000
+Teilhardina_magnoliana     1110100110000
+Teilhardina_americana      1110110101110
+Teilhardina_crassidens     1110110101111
+Tetonius_matthewi          1110110101111
+Steinius_vespertinus       1110110101100
+Palaechthon                1000000000000
+Altanius                   1100000000000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

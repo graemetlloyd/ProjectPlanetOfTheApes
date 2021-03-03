@@ -1,0 +1,35 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=21 NCHAR=19 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Asioryctes_nemegtensis  0000000000000000000
+Purgatorius             1100000000000000000
+Palaechthon_nacimienti  1111110000000000000
+Paromomyidae            1111110000000000000
+Chronolestes_simul      1111101100000000000
+Carpolestidae           1111101111000000000
+Plesiadapidae           1111101111000000000
+Saxonellidae            1111101110000000000
+Microsyopidae           1111000000100000000
+Micromomyidae           1110000000000000000
+Altiatlasius_koulchii   1111101000010000000
+Altanius_orlovi         1111101000011100000
+Omomyidae               1111101000011000000
+Adapidae                1111101000011100000
+Elpidophorus            1000000000000011110
+Plagiomene              1000000000000011110
+Cynocephalidae          1000000000000011100
+Ptilocercus_lowii       1000000000000010001
+Tupaia_glis             1000000000000010001
+Berruvius               1111000000100000000
+Chiroptera              1000000000000011000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

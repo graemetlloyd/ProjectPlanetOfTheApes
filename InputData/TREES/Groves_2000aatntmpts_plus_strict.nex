@@ -1,0 +1,47 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(outgroup ,((Dinopithecus ,((Gorgopithecus ,(Macaca_sylvanus ,(Parapapio ,(Lophocebus ,Miopithecus )))),((Macaca_nemestrina ,Procynocephalus ),(Theropithecus ,Paradolichopithecu ,(Papio ,(Mandrillus ,Cercocebus )))))),(Allenopithecus ,Cercopithecus )));
+tree tnt_2 = [&U] 
+(outgroup ,((Procynocephalus ,(Paradolichopithecu ,(Parapapio ,(Macaca_sylvanus ,(Miopithecus ,(Allenopithecus ,Cercopithecus ))))),(Dinopithecus ,Gorgopithecus )),(Macaca_nemestrina ,(Lophocebus ,((Papio ,Theropithecus ),(Mandrillus ,Cercocebus ))))));
+tree tnt_3 = [&U] 
+(outgroup ,(((Paradolichopithecu ,(Parapapio ,(Macaca_sylvanus ,(Miopithecus ,(Allenopithecus ,Cercopithecus ))))),(Dinopithecus ,Gorgopithecus )),((Macaca_nemestrina ,Procynocephalus ),(Lophocebus ,((Papio ,Theropithecus ),(Mandrillus ,Cercocebus ))))));
+tree tnt_4 = [&U] 
+(outgroup ,(Dinopithecus ,(((Macaca_sylvanus ,Gorgopithecus ,(Lophocebus ,Parapapio )),(Allenopithecus ,(Miopithecus ,Cercopithecus ))),((Macaca_nemestrina ,Procynocephalus ),(Theropithecus ,Paradolichopithecu ,(Papio ,(Mandrillus ,Cercocebus )))))));
+tree tnt_5 = [&U] 
+(outgroup ,(Dinopithecus ,(((Macaca_sylvanus ,(Parapapio ,(Lophocebus ,Gorgopithecus ))),(Allenopithecus ,(Miopithecus ,Cercopithecus ))),((Macaca_nemestrina ,Procynocephalus ),(Theropithecus ,Paradolichopithecu ,(Papio ,(Mandrillus ,Cercocebus )))))));
+tree tnt_6 = [&U] 
+(outgroup ,((((Macaca_sylvanus ,Gorgopithecus ,(Lophocebus ,Parapapio )),(Allenopithecus ,(Miopithecus ,Cercopithecus ))),(Macaca_nemestrina ,((Papio ,(Mandrillus ,Cercocebus )),(Theropithecus ,Paradolichopithecu )))),(Procynocephalus ,Dinopithecus )));
+tree tnt_7 = [&U] 
+(outgroup ,((((Macaca_sylvanus ,(Parapapio ,(Lophocebus ,Gorgopithecus ))),(Allenopithecus ,(Miopithecus ,Cercopithecus ))),(Macaca_nemestrina ,((Papio ,(Mandrillus ,Cercocebus )),(Theropithecus ,Paradolichopithecu )))),(Procynocephalus ,Dinopithecus )));
+tree tnt_8 = [&U] 
+(outgroup ,((((Gorgopithecus ,(Macaca_sylvanus ,(Parapapio ,(Lophocebus ,Paradolichopithecu )))),(Allenopithecus ,(Miopithecus ,Cercopithecus ))),(Macaca_nemestrina ,(Theropithecus ,(Papio ,(Mandrillus ,Cercocebus ))))),(Procynocephalus ,Dinopithecus )));
+tree tnt_9 = [&U] 
+(outgroup ,(Dinopithecus ,(((Gorgopithecus ,(Macaca_sylvanus ,(Parapapio ,(Lophocebus ,Paradolichopithecu )))),(Allenopithecus ,(Miopithecus ,Cercopithecus ))),((Macaca_nemestrina ,Procynocephalus ),(Theropithecus ,(Papio ,(Mandrillus ,Cercocebus )))))));
+tree tnt_10 = [&U] 
+(outgroup ,((((Macaca_sylvanus ,(Gorgopithecus ,(Lophocebus ,(Paradolichopithecu ,Parapapio )))),(Allenopithecus ,(Miopithecus ,Cercopithecus ))),(Macaca_nemestrina ,(Theropithecus ,(Papio ,(Mandrillus ,Cercocebus ))))),(Procynocephalus ,Dinopithecus )));
+tree tnt_11 = [&U] 
+(outgroup ,(Dinopithecus ,(((Macaca_sylvanus ,(Gorgopithecus ,(Lophocebus ,(Paradolichopithecu ,Parapapio )))),(Allenopithecus ,(Miopithecus ,Cercopithecus ))),((Macaca_nemestrina ,Procynocephalus ),(Theropithecus ,(Papio ,(Mandrillus ,Cercocebus )))))));
+tree tnt_12 = [&U] 
+(outgroup ,(Cercopithecus ,(Dinopithecus ,((Allenopithecus ,(Gorgopithecus ,(Macaca_sylvanus ,(Parapapio ,(Lophocebus ,Miopithecus ))))),((Macaca_nemestrina ,Procynocephalus ),(Theropithecus ,Paradolichopithecu ,(Papio ,(Mandrillus ,Cercocebus ))))))));
+tree tnt_13 = [&U] 
+(outgroup ,(Cercopithecus ,(((Allenopithecus ,(Gorgopithecus ,(Macaca_sylvanus ,(Parapapio ,(Lophocebus ,Miopithecus ))))),(Macaca_nemestrina ,((Papio ,(Mandrillus ,Cercocebus )),(Theropithecus ,Paradolichopithecu )))),(Procynocephalus ,Dinopithecus ))));
+tree tnt_14 = [&U] 
+(outgroup ,((Cercopithecus ,(Allenopithecus ,(Gorgopithecus ,(Macaca_sylvanus ,(Parapapio ,(Lophocebus ,Miopithecus )))))),(Dinopithecus ,((Macaca_nemestrina ,Procynocephalus ),(Theropithecus ,Paradolichopithecu ,(Papio ,(Mandrillus ,Cercocebus )))))));
+tree tnt_15 = [&U] 
+(outgroup ,((Cercopithecus ,(Allenopithecus ,(Gorgopithecus ,(Macaca_sylvanus ,(Parapapio ,(Lophocebus ,Miopithecus )))))),((Macaca_nemestrina ,((Papio ,(Mandrillus ,Cercocebus )),(Theropithecus ,Paradolichopithecu ))),(Procynocephalus ,Dinopithecus ))));
+tree tnt_16 = [&U] 
+(outgroup ,(Dinopithecus ,(((Gorgopithecus ,(Macaca_sylvanus ,(Parapapio ,(Lophocebus ,Miopithecus )))),(Allenopithecus ,Cercopithecus )),((Macaca_nemestrina ,Procynocephalus ),(Theropithecus ,Paradolichopithecu ,(Papio ,(Mandrillus ,Cercocebus )))))));
+tree tnt_17 = [&U] 
+(outgroup ,((((Gorgopithecus ,(Macaca_sylvanus ,(Parapapio ,(Lophocebus ,Miopithecus )))),(Allenopithecus ,Cercopithecus )),(Macaca_nemestrina ,((Papio ,(Mandrillus ,Cercocebus )),(Theropithecus ,Paradolichopithecu )))),(Procynocephalus ,Dinopithecus )));
+tree tnt_18 = [&U] 
+(outgroup ,((Lophocebus ,(Allenopithecus ,((Macaca_sylvanus ,(Paradolichopithecu ,Parapapio )),(Gorgopithecus ,(Dinopithecus ,((Macaca_nemestrina ,Procynocephalus ),(Theropithecus ,(Papio ,(Mandrillus ,Cercocebus ))))))))),(Miopithecus ,Cercopithecus )));
+tree tnt_19 = [&U] 
+(outgroup ,((Lophocebus ,(Allenopithecus ,(Gorgopithecus ,(Macaca_sylvanus ,Parapapio ),(Dinopithecus ,((Macaca_nemestrina ,Procynocephalus ),(Theropithecus ,Paradolichopithecu ,(Papio ,(Mandrillus ,Cercocebus )))))))),(Miopithecus ,Cercopithecus )));
+tree tnt_20 = [&U] 
+(outgroup ,((Lophocebus ,(Allenopithecus ,((Macaca_sylvanus ,Parapapio ),(Gorgopithecus ,(Dinopithecus ,((Macaca_nemestrina ,Procynocephalus ),(Theropithecus ,(Papio ,(Paradolichopithecu ,(Mandrillus ,Cercocebus )))))))))),(Miopithecus ,Cercopithecus )));
+tree tnt_21 = [&U] 
+(outgroup ,(Macaca_sylvanus ,Macaca_nemestrina ,Papio ,Theropithecus ,Lophocebus ,Allenopithecus ,Miopithecus ,Cercopithecus ,Procynocephalus ,Paradolichopithecu ,Dinopithecus ,Parapapio ,Gorgopithecus ,(Mandrillus ,Cercocebus )));
+
+end ; 

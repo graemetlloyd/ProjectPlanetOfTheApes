@@ -1,0 +1,182 @@
+taxname=;
+mxram 4096;
+taxname +24;
+nstates num 32;
+xread
+''
+40 26
+& [numeric]
+Donrussellia              0000200001010000011000000100110101101100
+Cantius                   0000200000001000000000011100010111101101
+Marcgodinotius            010110?0010200000211000?1?00101101112000
+Asiadapis                 0001101000020000011100000121111111111001
+Europolemur               0101411000010020022000010010110111001?11
+Anchomomys                010221100102002002?0000???012001??2??100
+Periconodon               0101210000021022011000000000112112111??1
+Rencunius                 120121?10001002211?0000?????0112110121?1
+Hoanghonius               120100010001012210?0000???20112210111001
+Wailekia                  1212?1010?????????????????20102001??2101
+Guangxilemur_tongi        ??????????????2211?1111????????????????2
+Guangxilemur_singsilai    120210?10?2???2211?11001????1001???????1
+Sivaladapis_palaeindicus  12121111102101111011112??021110111100012
+Sivaladapis_nagrii        1212111110200100111111200021100210001022
+Sinoadapis_carnosus       12121111112103000??1112???21000100111102
+Sinoadapis_shihuibaensis  1212111111210200111111200021100200112102
+Ramadapis_sahnii          1212111001??????????????????1000011110?1
+Indraloris_himalayensis   121211?01???????????????????0100020220?2
+Indraloris_kamlialensis   121?11?0111210000?21100?????0??0???????1
+Indraloris_sp_Large       ?2121??01?????????????????2?0100?????102
+Lushius                   ??????????1???101010000122?????????????1
+Siamoadapis               121210?10111001101?1101???211000??0??101
+Paukkaungia               020200?0010101??????????????1111??2????1
+Kyitchaungia              1202?0?00???????????????????1120???????1
+Yunnanadapis              1202111100110022111110000020010111012??1
+Laomaki                   12100001000001221100100100??000200000??0
+;
+ccode +[/1 0 +[/1 1 +[/1 2 +[/1 3 -[/1 4 -[/1 5 -[/1 6 +[/1 7 +[/1 8 +[/1 9 +[/1 10 +[/1 11 +[/1 12 +[/1 13 +[/1 14 +[/1 15 +[/1 16 +[/1 17 +[/1 18 +[/1 19 +[/1 20 +[/1 21 +[/1 22 +[/1 23 +[/1 24 +[/1 25 +[/1 26 +[/1 27 +[/1 28 +[/1 29 +[/1 30 +[/1 31 +[/1 32 +[/1 33 +[/1 34 +[/1 35 +[/1 36 +[/1 37 +[/1 38 +[/1 39 ;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+hold 100000;
+shortread scratch.tre;
+bbreak=tbr; nelsen*; export -Gilbert_etal_2017atntmpts_plus_strict.nex; mrp;
+export Gilbert_etal_2017amrp.nex; 
+proc/;
+

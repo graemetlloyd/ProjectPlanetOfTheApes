@@ -1,0 +1,207 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_leucopus ,(Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi )))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_2 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_leucopus ,(Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi )))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_3 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),(((Saguinus_leucopus ,(Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi )))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_4 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_5 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_6 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),(((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_7 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),((Saguinus_leucopus ,((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_8 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),((Saguinus_leucopus ,((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_9 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),((Saguinus_leucopus ,((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_10 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_leucopus ,((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger ))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_11 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_leucopus ,((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger ))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_12 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),(((Saguinus_leucopus ,((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger ))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_13 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),((((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_14 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),((((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_15 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),((((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_16 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),((Saguinus_leucopus ,(((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_17 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),((Saguinus_leucopus ,(((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_18 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),((Saguinus_leucopus ,(((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_19 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_leucopus ,(Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi )))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_20 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_leucopus ,(Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi )))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_21 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),(((Saguinus_leucopus ,(Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi )))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_22 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),((Saguinus_leucopus ,((Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_23 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),((Saguinus_leucopus ,((Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_24 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),((Saguinus_leucopus ,((Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_25 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_26 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_27 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),(((Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_28 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),(((Saguinus_leucopus ,(Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi )))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_29 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),(((Saguinus_leucopus ,(Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi )))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_30 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus )))),(((Saguinus_leucopus ,(Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi )))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_31 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),(((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_32 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),(((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_33 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus )))),(((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_34 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),((Saguinus_leucopus ,((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_35 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),((Saguinus_leucopus ,((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_36 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus )))),((Saguinus_leucopus ,((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_37 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),(((Saguinus_leucopus ,(Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi )))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_38 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),(((Saguinus_leucopus ,(Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi )))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_39 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus )))),(((Saguinus_leucopus ,(Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi )))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_40 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),(((Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_41 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),(((Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_42 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus )))),(((Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_43 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),((Saguinus_leucopus ,((Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_44 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),((Saguinus_leucopus ,((Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_45 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus )))),((Saguinus_leucopus ,((Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_46 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),(((Saguinus_leucopus ,((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger ))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_47 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),(((Saguinus_leucopus ,((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger ))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_48 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus )))),(((Saguinus_leucopus ,((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger ))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_49 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),((Saguinus_leucopus ,(((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_50 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),((Saguinus_leucopus ,(((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_51 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus )))),((Saguinus_leucopus ,(((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_52 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),((((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_53 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),((((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_54 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),((Leontocebus_nigricolli ,Saguinus_graellsi ),(Leontocebus_weddelli ,Saguinus_melanoleucus )))),((((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_55 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_leucopus ,(Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi )))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_56 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_leucopus ,(Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi )))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_57 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),(((Saguinus_leucopus ,(Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi )))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_58 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_59 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_60 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),(((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_61 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),((Saguinus_leucopus ,((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_62 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),((Saguinus_leucopus ,((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_63 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),((Saguinus_leucopus ,((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_64 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_leucopus ,(Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi )))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_65 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_leucopus ,(Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi )))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_66 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),(((Saguinus_leucopus ,(Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi )))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_67 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_68 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_69 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),(((Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_70 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),((Saguinus_leucopus ,((Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_71 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),((Saguinus_leucopus ,((Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_72 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),((Saguinus_leucopus ,((Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_73 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_leucopus ,((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger ))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_74 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_leucopus ,((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger ))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_75 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),(((Saguinus_leucopus ,((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger ))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_76 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),((Saguinus_leucopus ,(((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_77 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),((Saguinus_leucopus ,(((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_78 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),((Saguinus_leucopus ,(((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_79 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),((((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_80 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),((((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_81 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),(Saguinus_graellsi ,(Leontocebus_nigricolli ,(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),((((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_leucopus ,(Saguinus_geoffroyi ,Saguinus_oedipus ))),(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_82 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_leucopus ,(Saguinus_labiatus ,Saguinus_mystax ))))));
+tree tnt_83 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_leucopus ,(Saguinus_labiatus ,Saguinus_mystax ))))));
+tree tnt_84 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),(((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_leucopus ,(Saguinus_labiatus ,Saguinus_mystax ))))));
+tree tnt_85 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus )),((Saguinus_imperator ,Saguinus_leucopus ),(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_86 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),(((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus )),((Saguinus_imperator ,Saguinus_leucopus ),(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_87 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus )),((Saguinus_imperator ,Saguinus_leucopus ),(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_88 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_leucopus ,(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax ))))));
+tree tnt_89 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_leucopus ,(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax ))))));
+tree tnt_90 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),(((Saguinus_midas ,(Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_leucopus ,(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax ))))));
+tree tnt_91 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),((((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_leucopus ,(Saguinus_labiatus ,Saguinus_mystax ))))));
+tree tnt_92 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),((((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_leucopus ,(Saguinus_labiatus ,Saguinus_mystax ))))));
+tree tnt_93 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),((((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_leucopus ,(Saguinus_labiatus ,Saguinus_mystax ))))));
+tree tnt_94 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),((((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_leucopus ,(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax ))))));
+tree tnt_95 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),((((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_leucopus ,(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax ))))));
+tree tnt_96 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),((((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_leucopus ,(Saguinus_imperator ,(Saguinus_labiatus ,Saguinus_mystax ))))));
+tree tnt_97 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),((((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_geoffroyi ,Saguinus_oedipus )),((Saguinus_imperator ,Saguinus_leucopus ),(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_98 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_tripartitu ,(Leontocebus_lagonotus ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),((((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_geoffroyi ,Saguinus_oedipus )),((Saguinus_imperator ,Saguinus_leucopus ),(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_99 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,((Leontocebus_lagonotus ,Leontocebus_tripartitu ),(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus ))))),((((Saguinus_bicolor ,Saguinus_martinsi ),(Saguinus_midas ,Saguinus_niger )),(Saguinus_geoffroyi ,Saguinus_oedipus )),((Saguinus_imperator ,Saguinus_leucopus ),(Saguinus_labiatus ,Saguinus_mystax )))));
+tree tnt_100 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,(Leontocebus_tripartitu ,(Leontocebus_nigricolli ,(Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))))),(((Saguinus_niger ,(Saguinus_midas ,(Saguinus_bicolor ,Saguinus_martinsi ))),(Saguinus_geoffroyi ,Saguinus_oedipus )),(Saguinus_imperator ,(Saguinus_leucopus ,(Saguinus_labiatus ,Saguinus_mystax ))))));
+tree tnt_101 = [&U] 
+(allzero ,((Leontocebus_fuscicolli ,(Leontocebus_lagonotus ,Leontocebus_tripartitu ,(Leontocebus_nigricolli ,Saguinus_graellsi ,(Leontocebus_weddelli ,Saguinus_melanoleucus )))),(Saguinus_imperator ,Saguinus_leucopus ,(Saguinus_midas ,Saguinus_niger ,(Saguinus_bicolor ,Saguinus_martinsi )),(Saguinus_geoffroyi ,Saguinus_oedipus ),(Saguinus_labiatus ,Saguinus_mystax ))));
+
+end ; 

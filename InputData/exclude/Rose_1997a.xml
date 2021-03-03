@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rose, M.D.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>Functional and phylogenetic features of the forelimb in Miocene hominoids</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>79-100</Pages>
+		<Booktitle>Function, Phylogeny, and Fossils: Miocene Hominoid Evolution and Adaptations</Booktitle>
+		<Publisher>Springer Science</Publisher>
+		<City>New York</City>
+		<Editor>
+			<List>Begun, D.R.<List>
+			<List>Ward, C.V.<List>
+			<List>Rose, M.D.<List>
+			</Editor>
+	</Source>
+	<Taxa number="28">
+		<List recon_name="Cebus" recon_no="92615">Cebus</List>
+		<List recon_name="Alouatta_caraya,Alouatta_palliata,Alouatta_belzebul,Alouatta_guariba,Alouatta_macconnelli,Alouatta_seniculus" recon_no="232533;235367;232535;385059;385060;232537">Alouatta</List>
+		<List recon_name="Ateles" recon_no="92603">Ateles</List>
+		<List recon_name="Cercopithecus" recon_no="40862">Cercopithecus</List>
+		<List recon_name="Colobus" recon_no="40864">Colobus</List>
+		<List recon_name="Hylobates" recon_no="40891">Hylobates</List>
+		<List recon_name="Pongo" recon_no="40897">Pongo</List>
+		<List recon_name="Pan" recon_no="97177">Pan</List>
+		<List recon_name="Gorilla" recon_no="97178">Gorilla</List>
+		<List recon_name="Aegyptopithecus_zeuxis" recon_no="100577">Aegyptopithecus_zeuxis</List>
+		<List recon_name="Pliopithecus_vindobonensis" recon_no="143183">Pliopithecus_vindobonensis</List>
+		<List recon_name="Dendropithecus_macinnesi" recon_no="385048">Dendropithecus_macinnesi</List>
+		<List recon_name="Dionysopithecus" recon_no="143130">Dionysopithecus_sp</List>
+		<List recon_name="Simiolus_enjiessi" recon_no="132669">Simiolus_enjiessi</List>
+		<List recon_name="Nyanzapithecus_pickfordi" recon_no="385126">Nyanzapithecus_pickfordi</List>
+		<List recon_name="Turkanapithecus_kalakolensis" recon_no="97226">Turkanapithecus_kalakolensis</List>
+		<List recon_name="Afropithecus_turkanensis" recon_no="97222">Afropithecus_turkanensis</List>
+		<List recon_name="Proconsul_heseloni" recon_no="157735">Proconsul_heseloni</List>
+		<List recon_name="Proconsul_nyanzae" recon_no="157733">Proconsul_nyanzae</List>
+		<List recon_name="Proconsul_major" recon_no="157734">Proconsul_major</List>
+		<List recon_name="Kenyapithecus_africanus" recon_no="100575">Kenyapithecus_africanus</List>
+		<List recon_name="Kenyapithecus_wickeri" recon_no="133716">Kenyapithecus_wickeri</List>
+		<List recon_name="DELETE" recon_no="0">Austriacopithecus_weinfurti</List>
+		<List recon_name="Sivapithecus_parvada" recon_no="385356">Sivapithecus_parvada</List>
+		<List recon_name="Sivapithecus_indicus" recon_no="133688">Sivapithecus_indicus</List>
+		<List recon_name="Dryopithecus_fontani" recon_no="133702">Dryopithecus_fontani</List>
+		<List recon_name="Dryopithecus_brancoi" recon_no="143193">Dryopithecus_brancoi</List>
+		<List recon_name="Oreopithecus_bambolii" recon_no="364970">Oreopithecus_bambolii</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="31">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rose_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

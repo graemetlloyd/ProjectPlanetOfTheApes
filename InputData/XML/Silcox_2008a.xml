@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Silcox, M.T.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>The biogeographic origins of primates and euprimates: East, West, North, or South of Eden?</Title>
+		<Journal></Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>199-231</Pages>
+		<Booktitle>Mammalian Evolutionary Morphology</Booktitle>
+		<Publisher>Springer</Publisher>
+		<City>Netherlands, Dordrecht</City>
+		<Editor>
+				<List>Sargis, E.J.</List>
+				<List>Dagosto, M.</List>
+		</Editor>
+	</Source>
+	<Taxa number="39">
+		<List recon_name="Leptictidae" recon_no="40257">Leptictidae</List>
+		<List recon_name="Asioryctes_nemegtensis" recon_no="57288">Asioryctes_nemegtensis</List>
+		<List recon_name="Purgatorius_unio" recon_no="51270">Purgatorius_unio</List>
+		<List recon_name="Purgatorius_janisae" recon_no="51268">Purgatorius_janisae</List>
+		<List recon_name="Palaechthon_alticuspis" recon_no="49617">Palaechthon_alticuspis</List>
+		<List recon_name="Palaechthon_woodi" recon_no="49622">Palaechthon_woodi</List>
+		<List recon_name="Palaechthon_nacimienti" recon_no="49619">Palaechthon_nacimienti</List>
+		<List recon_name="Talpohenach_torrejonius" recon_no="51998">Talpohenach_torrejonius</List>
+		<List recon_name="Palenochtha_weissae" recon_no="49719">Palenochtha_weissae</List>
+		<List recon_name="Palenochtha_minor" recon_no="49718">Palenochtha_minor</List>
+		<List recon_name="Plesiolestes_problematicus" recon_no="50457">Plesiolestes_problematicus</List>
+		<List recon_name="Anasazia_williamsoni" recon_no="44028">Anasazia_williamsoni</List>
+		<List recon_name="Torrejonia" recon_no="40731">Torrejonia</List>
+		<List recon_name="Premnoides_douglassi" recon_no="50662">Premnoides_douglassi</List>
+		<List recon_name="Berruvius" recon_no="40715">Berruvius</List>
+		<List recon_name="Avenius_amatorum" recon_no="143996">Avenius_amatorum</List>
+		<List recon_name="Toliapina" recon_no="144002">Toliapina</List>
+		<List recon_name="Microsyopidae" recon_no="40713">Microsyopidae</List>
+		<List recon_name="Paromomyidae" recon_no="40312">Paromomyidae</List>
+		<List recon_name="Picrodontidae" recon_no="40709">Picrodontidae</List>
+		<List recon_name="Picromomys_petersonorum" recon_no="50356">Picromomys_petersonorum</List>
+		<List recon_name="Micromomyidae_indet_Gunnellskull" recon_no="40705">Micromomyidae_Gunnellskull</List>
+		<List recon_name="Micromomyidae_indet_Beardskull" recon_no="40705">Micromomyidae_Beardskull</List>
+		<List recon_name="Chronolestes_simul" recon_no="144290">Chronolestes_simul</List>
+		<List recon_name="Carpolestidae" recon_no="40741">Carpolestidae</List>
+		<List recon_name="Pandemonium_dis" recon_no="49731">Pandemonium_dis</List>
+		<List recon_name="Plesiadapidae" recon_no="40733">Plesiadapidae</List>
+		<List recon_name="Saxonellidae" recon_no="92575">Saxonellidae</List>
+		<List recon_name="Mixodectes" recon_no="40333">Mixodectes</List>
+		<List recon_name="Eudaemonema_cuspidata" recon_no="46385">Eudaemonema_cuspidata</List>
+		<List recon_name="Elpidophorus" recon_no="40324">Elpidophorus</List>
+		<List recon_name="Plagiomene" recon_no="40326">Plagiomene</List>
+		<List recon_name="Cynocephalidae" recon_no="66282">Cynocephalidae</List>
+		<List recon_name="Chiroptera" recon_no="40622">Chiroptera</List>
+		<List recon_name="Altiatlasius_koulchii" recon_no="144005">Altiatlasius_koulchii</List>
+		<List recon_name="Altanius_orlovi" recon_no="101080">Altanius_orlovi</List>
+		<List recon_name="Omomyidae" recon_no="40793">Omomyidae</List>
+		<List recon_name="Adapidae" recon_no="40749">Adapidae</List>
+		<List recon_name="Scandentia" recon_no="40294">Scandentia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="181">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Silcox_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

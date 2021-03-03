@@ -1,0 +1,13 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Aegyptopithecus ,(Saadanius ,(Pliopithecoidea ,(Victoriapithecus ,(Dendropithecus ,(Micropithecus ,Simiolus ,(Nyanzapithecus ,Rangwapithecus ,Equatorius ,((Turkanapithecus ,(Heliopithecus ,(Kamoyapithecus ,Proconsulnyanzae_heselon ,Nacholapithecus )),(Afropithecus ,Morotopithecus )),(Pan ,Hylobates )))))))));
+tree tnt_2 = [&U] 
+(Aegyptopithecus ,(Saadanius ,(Dendropithecus ,(Victoriapithecus ,(Pliopithecoidea ,(Micropithecus ,Simiolus ,(Nyanzapithecus ,Rangwapithecus ,Equatorius ,((Turkanapithecus ,(Heliopithecus ,(Kamoyapithecus ,Proconsulnyanzae_heselon ,Nacholapithecus )),(Afropithecus ,Morotopithecus )),(Pan ,Hylobates )))))))));
+tree tnt_3 = [&U] 
+(Aegyptopithecus ,(Saadanius ,(Victoriapithecus ,(Pliopithecoidea ,(Dendropithecus ,(Micropithecus ,Simiolus ,(Nyanzapithecus ,Rangwapithecus ,Equatorius ,((Turkanapithecus ,(Heliopithecus ,(Kamoyapithecus ,Proconsulnyanzae_heselon ,Nacholapithecus )),(Afropithecus ,Morotopithecus )),(Pan ,Hylobates )))))))));
+tree tnt_4 = [&U] 
+(Aegyptopithecus ,(Saadanius ,(Victoriapithecus ,Pliopithecoidea ,Dendropithecus ,(Micropithecus ,Simiolus ,(Nyanzapithecus ,Rangwapithecus ,Equatorius ,((Turkanapithecus ,(Heliopithecus ,(Kamoyapithecus ,Proconsulnyanzae_heselon ,Nacholapithecus )),(Afropithecus ,Morotopithecus )),(Pan ,Hylobates )))))));
+
+end ; 

@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Pugh, K.D.</List>
+			<List>Gilbert, C.C. </List>
+		</Author>
+		<Year>2018</Year>
+		<Title>Phylogenetic relationships of living and fossil African papionins: Combined evidence from morphology and molecules</Title>
+		<Journal>Journal of Human Evolution</Journal>
+		<Volume>123</Volume>
+		<Pages>35-51</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="36">
+		<List recon_name="Victoriapithecus_macinnesi" recon_no="135923">Victoriapithecus</List>
+		<List recon_name="Allenopithecus_nigroviridis" recon_no="385063">Allenopithecus</List>
+		<List recon_name="Parapapio_lothagamensis" recon_no="385489">Parapapio_lothagamensis</List>
+		<List recon_name="Macaca_mulatta,Macaca_fascicularis,Macaca_nemestrina,Macaca_sylvanus" recon_no="232541;231530;231528;232422">Macaca_sp</List>
+		<List recon_name="Cercocebus_agilis" recon_no="385316">Cercocebus_agilis</List>
+		<List recon_name="Cercocebus_atys" recon_no="385110">Cercocebus_atys</List>
+		<List recon_name="Cercocebus_chrysogaster" recon_no="385111">Cercocebus_chrysogaster</List>
+		<List recon_name="Cercocebus_torquatus" recon_no="233932">Cercocebus_torquatus</List>
+		<List recon_name="Lophocebus_albigena" recon_no="240334">Lophocebus_albigena</List>
+		<List recon_name="Lophocebus_aterrimus" recon_no="385202">Lophocebus_aterrimus</List>
+		<List recon_name="Mandrillus_leucophaeus" recon_no="232590">Mandrillus_leucophaeus</List>
+		<List recon_name="Mandrillus_sphinx" recon_no="232550">Mandrillus_sphinx</List>
+		<List recon_name="Papio_anubis" recon_no="232556">Papio_anubis</List>
+		<List recon_name="Papio_cynocephalus" recon_no="231526">Papio_cynocephalus</List>
+		<List recon_name="Papio_hamadryas" recon_no="232436">Papio_hamadryas</List>
+		<List recon_name="Papio_cynocephalus_kindae" recon_no="385428">Papio_kindae</List>
+		<List recon_name="Papio_papio" recon_no="232560">Papio_papio</List>
+		<List recon_name="Papio_ursinus" recon_no="385206">Papio_ursinus</List>
+		<List recon_name="Papio_robinsoni" recon_no="385510">Papio_robinsoni</List>
+		<List recon_name="Papio_angusticeps" recon_no="385297">Papio_angusticeps</List>
+		<List recon_name="Theropithecus_gelada" recon_no="233450">Theropithecus_gelada</List>
+		<List recon_name="Dinopithecus_ingens" recon_no="384937">Dinopithecus</List>
+		<List recon_name="Gorgopithecus_major" recon_no="385082">Gorgopithecus</List>
+		<List recon_name="Soromandrillus_quadratirostris" recon_no="385509">Soromandrillus</List>
+		<List recon_name="Parapapio_ado" recon_no="385490">Parapapio_ado</List>
+		<List recon_name="Parapapio_broomi" recon_no="385491">Parapapio_broomi</List>
+		<List recon_name="Parapapio_jonesi" recon_no="385492">Parapapio_jonesi</List>
+		<List recon_name="Parapapio_whitei" recon_no="385493">Parapapio_whitei</List>
+		<List recon_name="Pliopapio_alemui" recon_no="385499">Pliopapio</List>
+		<List recon_name="Procercocebus_antiquus" recon_no="385435">Procercocebus</List>
+		<List recon_name="Theropithecus_(Omopithecus)_brumpti" recon_no="385503">Theropithecus_brumpti</List>
+		<List recon_name="Theropithecus_oswaldi" recon_no="133587">Theropithecus_oswaldi_darti</List>
+		<List recon_name="Theropithecus_(Omopithecus)_baringensis" recon_no="385504">Theropithecus_baringensis</List>
+		<List recon_name="Lophocebus_sp_KNM_dash_ER_594_et_595_et_827_et_898_et_965_et_1661_et_3090_et_6014_et_6063_et_18922_et_40476_et_44260_et_44262_et_44317" recon_no="240333">Lophocebus_sp_nov</List>
+		<List recon_name="Papio_izodi" recon_no="385298">Papio_izodi</List>
+		<List recon_name="Rungwecebus_kipunji" recon_no="385291">Rungwecebus_kipunji</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="362">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Pugh_et_Gilbert_2018a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

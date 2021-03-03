@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Horovitz, I.</List>
+			<List>MacPhee, R.D.E.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>A phylogenetic study of living and fossil Platyrrhines</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3269</Volume>
+		<Pages>1-40</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="41">
+		<List recon_name="Carlito_syrichta" recon_no="238737">Tarsius</List>
+		<List recon_name="Leontopithecus" recon_no="92612">Leontopithecus</List>
+		<List recon_name="Saguinus" recon_no="92613">Saguinus</List>
+		<List recon_name="Callimico" recon_no="92610">Callimico</List>
+		<List recon_name="Callithrix" recon_no="92611">Callithrix</List>
+		<List recon_name="Cebuella" recon_no="159123">Cebuella</List>
+		<List recon_name="Aotus" recon_no="92614">Aotus</List>
+		<List recon_name="Cebus" recon_no="92615">Cebus</List>
+		<List recon_name="Cacajao" recon_no="92606">Cacajao</List>
+		<List recon_name="Pithecia" recon_no="92609">Pithecia</List>
+		<List recon_name="Chiropotes" recon_no="92608">Chiropotes</List>
+		<List recon_name="Saimiri" recon_no="92616">Saimiri</List>
+		<List recon_name="Alouatta_caraya,Alouatta_palliata,Alouatta_belzebul,Alouatta_guariba,Alouatta_macconnelli,Alouatta_seniculus" recon_no="232533;235367;232535;385059;385060;232537">Alouatta</List>
+		<List recon_name="Lagothrix" recon_no="92605">Lagothrix</List>
+		<List recon_name="Brachyteles" recon_no="92604">Brachyteles</List>
+		<List recon_name="Callicebus" recon_no="92607">Callicebus</List>
+		<List recon_name="Ateles" recon_no="92603">Ateles</List>
+		<List recon_name="Homo_sapiens" recon_no="83088">Homo</List>
+		<List recon_name="Hylobates_lar" recon_no="231499">Hylobates</List>
+		<List recon_name="Cercopithecoidea" recon_no="40859">Cercopithecoids</List>
+		<List recon_name="Aegyptopithecus_zeuxis" recon_no="100577">Aegyptopithecus_zeuxis</List>
+		<List recon_name="Cebupithecia_sarmientoi" recon_no="247698">Cebupithecia_sarmientoi</List>
+		<List recon_name="Paralouatta_varonai" recon_no="384942">Paralouatta_varnoi</List>
+		<List recon_name="Antillothrix_bernensis" recon_no="384963">Antillothrix_bernensis</List>
+		<List recon_name="Xenothrix_mcgregori" recon_no="384306">Xenothrix_mcgregori</List>
+		<List recon_name="Stirtonia_victoriae" recon_no="261792">Stirtonia_victoriae</List>
+		<List recon_name="Stirtonia_tatacoensis" recon_no="263001">Stirtonia_tatacoensis</List>
+		<List recon_name="Patasola_magdalenae" recon_no="269766">Patasola_magdalenae</List>
+		<List recon_name="Lagonimico_conclucatus" recon_no="267395">Lagonimico_conclucatus</List>
+		<List recon_name="Mohanamico_hershkovitzi" recon_no="358835">Mohanamico_hershkovitzi</List>
+		<List recon_name="Branisella_boliviana,Szalatavus_attricuspis" recon_no="165990;165992">Branisella_or_Szalatavus</List>
+		<List recon_name="Homunculus_patagonicus" recon_no="242914">Homunculus_patagonicus</List>
+		<List recon_name="Dolichocebus_gaimanensis" recon_no="100572">Dolichocebus_gaimanensis</List>
+		<List recon_name="Tremacebus_harringtoni" recon_no="337004">Tremacebus_harringtoni</List>
+		<List recon_name="Soriacebus_ameghinorum" recon_no="264170">Soriacebus_ameghinorum</List>
+		<List recon_name="Soriacebus_adrianae" recon_no="264171">Soriacebus_adrianae</List>
+		<List recon_name="Carlocebus_carmenensis" recon_no="264175">Carlocebus_carmenensis</List>
+		<List recon_name="Carlocebus_intermedius" recon_no="264176">Carlocebus_intermedius</List>
+		<List recon_name="Aotus_dindensis" recon_no="143115">Aotus_dindensis</List>
+		<List recon_name="Neosaimiri_fieldsi,Laventiana_annectens" recon_no="247867;163990">Neosaimiri_or_Laventiana</List>
+		<List recon_name="Nuciruptor_rubricae" recon_no="267426">Nuciruptor_rubricae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="86">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Horovitz_et_MacPhee_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

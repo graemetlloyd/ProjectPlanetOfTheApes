@@ -1,0 +1,17 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(Chiropotes_satanas ,(Chiropotes_albinasus ,(Chiropotes_utahickae ,(Chiropotes_chiropote ,Chiropotes_israelita )))));
+tree tnt_2 = [&U] 
+(allzero ,(Chiropotes_albinasus ,(Chiropotes_satanas ,(Chiropotes_utahickae ,(Chiropotes_chiropote ,Chiropotes_israelita )))));
+tree tnt_3 = [&U] 
+(allzero ,(Chiropotes_albinasus ,((Chiropotes_chiropote ,Chiropotes_israelita ),(Chiropotes_satanas ,Chiropotes_utahickae ))));
+tree tnt_4 = [&U] 
+(allzero ,(Chiropotes_albinasus ,(Chiropotes_utahickae ,(Chiropotes_satanas ,(Chiropotes_chiropote ,Chiropotes_israelita )))));
+tree tnt_5 = [&U] 
+(allzero ,(Chiropotes_albinasus ,(Chiropotes_utahickae ,(Chiropotes_chiropote ,(Chiropotes_israelita ,Chiropotes_satanas )))));
+tree tnt_6 = [&U] 
+(allzero ,(Chiropotes_albinasus ,Chiropotes_chiropote ,Chiropotes_israelita ,Chiropotes_satanas ,Chiropotes_utahickae ));
+
+end ; 

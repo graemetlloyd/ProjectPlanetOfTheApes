@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ross, C.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>The craniofacial evidence for anthropoid and tarsier relationships</Title>
+		<Journal></Journal>
+		<Volume></Volume>
+		<Pages>469-547</Pages>
+		<Booktitle>Anthropoid Origins</Booktitle>
+		<Publisher>Plenum Press</Publisher>
+		<City>New York</City>
+		<Editor>
+				<List>Fleagle, J.G.</List>
+				<List>Kay, R.F.</List>
+		</Editor>
+	</Source>
+	<Taxa number="17">
+		<List recon_name="Ignacius_graybullianus" recon_no="47354">Ignacius</List>
+		<List recon_name="Plesiadapis_tricuspidens" recon_no="50444">Plesiadapis</List>
+		<List recon_name="Tupaia_glis,Tupaia_tana" recon_no="234212;234224">Tupaia</List>
+		<List recon_name="Tetonius_homunculus" recon_no="52190">Tetonius</List>
+		<List recon_name="Necrolemur_antiquus" recon_no="347334">Necrolemur</List>
+		<List recon_name="Shoshonius_cooperi" recon_no="51543">Shoshonius</List>
+		<List recon_name="Rooneyia_viejaensis" recon_no="51372">Rooneyia</List>
+		<List recon_name="Adapis_sp_QU_408,Adapis_sp_QU_613" recon_no="40750;40750">Adapis</List>
+		<List recon_name="Notharctus_tenebrosus" recon_no="49200">Notharctus</List>
+		<List recon_name="Mahgarita_stevensi" recon_no="47857">Mahgarita</List>
+		<List recon_name="Aegyptopithecus_zeuxis" recon_no="100577">Aegyptopithecus</List>
+		<List recon_name="Carlito_syrichta,Tarsius_bancanus" recon_no="238737;232742">Tarsius</List>
+		<List recon_name="Aotus,Callithrix,Brachyteles_arachnoides,Pithecia_pithecia" recon_no="92614;92611;232531;384930">Platyrrhines</List>
+		<List recon_name="Nasalis_larvatus,Semnopithecus_johnii,Erythrocebus_patas,Macaca_fascicularis,Homo_sapiens" recon_no="231532;236474;92705;231530;83088">Catarrhines</List>
+		<List recon_name="Galago_senegalensis" recon_no="232725">Galago_senegalensis</List>
+		<List recon_name="Eulemur_fulvus" recon_no="239189">Lemur</List>
+		<List recon_name="Microcebus_murinus" recon_no="232487">Microcebus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="42">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ross_1994a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

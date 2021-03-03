@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Microcebus_murinus ,((Loris_tardigradus ,((Otolemur_crassicaudatu ,Galagoides_demidoff ),(Arctocebus_aureus ,Arctocebus_calabarensi ))),(Nycticebus_pygmaeus ,(Nycticebus_coucang ,Perodicticus_potto ))));
+tree tnt_2 = [&U] 
+(Microcebus_murinus ,((Loris_tardigradus ,((Otolemur_crassicaudatu ,Galagoides_demidoff ),(Arctocebus_aureus ,Arctocebus_calabarensi ))),(Nycticebus_pygmaeus ,(Nycticebus_coucang ,Perodicticus_potto ))));
+
+end ; 

@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Maiolino, S.</List>
+			<List>Boyer, D.M.</List>
+			<List>Bloch, J.I.</List>
+			<List>Gilbert, C.C.</List>
+			<List>Groenke, J.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Evidence for a grooming claw in a North American adapiform primate: implications for anthropoid origins</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>7</Volume>
+		<Pages>e29135</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List recon_name="Tupaioidea" recon_no="72233">Tupaioidea</List>
+		<List recon_name="Lemuroidea" recon_no="231656">Lemuroidea</List>
+		<List recon_name="Lorisoidea" recon_no="40776">Lorisoidea</List>
+		<List recon_name="Tarsiiformes" recon_no="95856">Tarsioidea</List>
+		<List recon_name="Callitrichidae,Cebidae,Aotidae,Pitheciidae,Atelidae" recon_no="66280;40844;385515;64835;40848">Ceboidea</List>
+		<List recon_name="Cercopithecoidea" recon_no="40859">Cercopithecoidea</List>
+		<List recon_name="Hominoidea" recon_no="40883">Hominoidea</List>
+		<List recon_name="Darwinius" recon_no="147599">Darwinius</List>
+		<List recon_name="Notharctus" recon_no="40764">Notharctus</List>
+		<List recon_name="Catopithecus" recon_no="92596">Catopithecus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="39">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Maiolino_etal_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

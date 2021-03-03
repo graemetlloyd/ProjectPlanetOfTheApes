@@ -1,0 +1,13 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Proteopithecus ,(Catopithecus ,((Tremacebus ,(Branisella ,(((Callimico ,(Saguinus ,(Leontopithecus ,(Cebuella ,Callithrix )))),(Lagonamico ,(Aotus_dindensi ,Mohanamico ))),((Callicebus ,(Aotus ,((Cebus ,Acrecebus ),((Proteropitheci ,((Pithecia ,(Cacajao ,Chiropotes )),(Nuciruptor ,Cebupithecia ))),(Ateles ,(Lagothrix ,(Brachyteles ,(Alouatta ,Stirtonia )))))))),((Saimiri ,Neosaimiri ),((((Mazzonicebus ,Soriacebus ),(Homunculus ,Carlocebus )),(Dolichocebus ,Chilecebus )),(Antillothrix ,(Paralouatta ,Xenothrix )))))))),((Aegyptopithecu ,(Hylobates ,(Miopithecus ,Presbytis ))),(Apidium ,Simonsius )))));
+tree tnt_2 = [&U] 
+(Proteopithecus ,(Catopithecus ,((Branisella ,(((Callimico ,(Saguinus ,(Leontopithecus ,(Cebuella ,Callithrix )))),(Lagonamico ,(Aotus_dindensi ,Mohanamico ))),((Callicebus ,(Aotus ,((Cebus ,Acrecebus ),((Proteropitheci ,((Pithecia ,(Cacajao ,Chiropotes )),(Nuciruptor ,Cebupithecia ))),(Ateles ,(Lagothrix ,(Brachyteles ,(Alouatta ,Stirtonia )))))))),((Saimiri ,Neosaimiri ),((Chilecebus ,(((Mazzonicebus ,Soriacebus ),(Homunculus ,Carlocebus )),(Dolichocebus ,Tremacebus ))),(Antillothrix ,(Paralouatta ,Xenothrix ))))))),((Aegyptopithecu ,(Hylobates ,(Miopithecus ,Presbytis ))),(Apidium ,Simonsius )))));
+tree tnt_3 = [&U] 
+(Proteopithecus ,(Catopithecus ,((Tremacebus ,(Branisella ,(((Callimico ,(Saguinus ,(Leontopithecus ,(Cebuella ,Callithrix )))),(Lagonamico ,(Aotus_dindensi ,Mohanamico ))),((Callicebus ,(Aotus ,((Cebus ,Acrecebus ),((Proteropitheci ,((Pithecia ,(Cacajao ,Chiropotes )),(Nuciruptor ,Cebupithecia ))),(Ateles ,(Lagothrix ,(Brachyteles ,(Alouatta ,Stirtonia )))))))),((Saimiri ,Neosaimiri ),((Chilecebus ,(Dolichocebus ,((Mazzonicebus ,Soriacebus ),(Homunculus ,Carlocebus )))),(Antillothrix ,(Paralouatta ,Xenothrix )))))))),((Aegyptopithecu ,(Hylobates ,(Miopithecus ,Presbytis ))),(Apidium ,Simonsius )))));
+tree tnt_4 = [&U] 
+(Proteopithecus ,(Catopithecus ,((Dolichocebus ,Branisella ,Tremacebus ,Chilecebus ,((Callimico ,(Saguinus ,(Leontopithecus ,(Cebuella ,Callithrix )))),(Lagonamico ,(Aotus_dindensi ,Mohanamico ))),(Callicebus ,(Aotus ,((Cebus ,Acrecebus ),((Proteropitheci ,((Pithecia ,(Cacajao ,Chiropotes )),(Nuciruptor ,Cebupithecia ))),(Ateles ,(Lagothrix ,(Brachyteles ,(Alouatta ,Stirtonia )))))))),(Saimiri ,Neosaimiri ),((Mazzonicebus ,Soriacebus ),(Homunculus ,Carlocebus )),(Antillothrix ,(Paralouatta ,Xenothrix ))),((Aegyptopithecu ,(Hylobates ,(Miopithecus ,Presbytis ))),(Apidium ,Simonsius )))));
+
+end ; 

@@ -1,0 +1,30 @@
+taxname=;
+mxram 4096;
+taxname +27;
+nstates num 32;
+xread
+''
+32 15
+& [numeric]
+Purgatorius                  00??000?0000000000??00?????00000
+Pronothodectes               010101101000001000??000000000100
+Elphidotarsius_florencae     0100011?111011010000100111011100
+Elphidotarsius_shotgunensis  01??011?111?110100001112211?????
+Elphidotarsius_russelli      ????????????1201??001?1?????????
+Elphidotarsius_wightoni      01110110111?11010000111121111100
+Carpodaptes_aulacodon        01??011?21111202120013??????????
+Carpocristes_hobackensis     0110011021111202101112??????????
+Carpodaptes_cygneus          0110011?2111120[234]1010121222222211
+Carpodaptes_hazelae          01??011?2111120[23]1000121221222111
+Carpomegodon_jepseni         11??111?211112032210132232322311
+Carpolestes_dubius           01200121211112052111132232332311
+Carpolestes_nigridens        012?0121211112052111132232432311
+Carpolestes_simpsoni         0120012122??12052111132232432311
+Carpocristes_oriens          01??011?111112041021121223322311
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 -[/1 20 -[/1 21 -[/1 22 -[/1 23 -[/1 24 -[/1 25 -[/1 26 -[/1 27 -[/1 28 -[/1 29 -[/1 30 -[/1 31 ;
+collapse [;
+ienum; nelsen*; export -Bloch_etal_2001atntmpts_plus_strict.nex; mrp;
+export Bloch_etal_2001amrp.nex; 
+proc/;
+

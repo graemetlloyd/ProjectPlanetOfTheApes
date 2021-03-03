@@ -1,0 +1,30 @@
+taxname=;
+mxram 4096;
+taxname +26;
+nstates num 32;
+xread
+''
+14 15
+& [numeric]
+Propliopithecus             00000000000000
+Pliopithecus                01000000100010
+Dendropithecus              01000010100000
+Otavipithecus               21011010100100
+Afropithecus                110000000100-1
+Proconsul                   11000000000000
+Kenyapithecus               11002010010101
+Griphopithecus              11002010010101
+Sivapithecus                21001011211001
+Pongo                       20110111011011
+Dryopithecus                21001010011110
+Ouranopithecus              21001010211011
+Gorilla                     21100111211010
+Pan                         20110111211010
+Australopithecus_afarensis  20102011211111
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 ;
+collapse [;
+ienum; nelsen*; export -Begun_1994atntmpts_plus_strict.nex; mrp;
+export Begun_1994amrp.nex; 
+proc/;
+

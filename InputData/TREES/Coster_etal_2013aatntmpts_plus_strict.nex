@@ -1,0 +1,19 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Scandentia ,(Purgatorius ,(Plesiolestes ,((Paromomys ,Ignacius ),(Plesiadapis ,((Notharctus ,(Cantius ,(Adapis ,Leptadapis ))),(Shoshonius ,((Absarokius ,(Xanthorhysis ,(Tarsius ,((Bahinia ,(Eosimias ,Phenacopithecu )),(((Catopithecus ,(Aegyptopithecu ,Moeripithecus )),((Proteopithecus ,(Biretia ,(Arsinoea ,(Qatrania ,(Simonsius ,(Apidium ,Parapithecus )))))),(Branisella ,(Dolichocebus ,((Aotus ,Callicebus ),(Saimiri ,Neosaimiri )))))),(Siamopithecus ,(Pondaungia ,(Myanmarpithecu ,Ganlea )))))))),(Hemiacodon ,Teilhardina_a )))))))));
+tree tnt_2 = [&U] 
+(Scandentia ,(Purgatorius ,(Plesiolestes ,((Paromomys ,Ignacius ),(Plesiadapis ,((Notharctus ,(Cantius ,(Adapis ,Leptadapis ))),(Shoshonius ,((Teilhardina_a ,(Absarokius ,Hemiacodon )),(((Bahinia ,(Eosimias ,Phenacopithecu )),(((Catopithecus ,(Aegyptopithecu ,Moeripithecus )),((Proteopithecus ,(Biretia ,(Arsinoea ,(Qatrania ,(Simonsius ,(Apidium ,Parapithecus )))))),(Branisella ,(Dolichocebus ,((Aotus ,Callicebus ),(Saimiri ,Neosaimiri )))))),(Siamopithecus ,(Pondaungia ,(Myanmarpithecu ,Ganlea ))))),(Tarsius ,Xanthorhysis ))))))))));
+tree tnt_3 = [&U] 
+(Scandentia ,(Purgatorius ,(Plesiolestes ,((Plesiadapis ,(Paromomys ,Ignacius )),((Cantius ,(Notharctus ,(Adapis ,Leptadapis ))),((Teilhardina_a ,(Shoshonius ,(Absarokius ,Hemiacodon ))),(((Bahinia ,(Eosimias ,Phenacopithecu )),(((Catopithecus ,(Aegyptopithecu ,Moeripithecus )),((Proteopithecus ,(Biretia ,(Arsinoea ,(Qatrania ,(Simonsius ,(Apidium ,Parapithecus )))))),(Branisella ,(Dolichocebus ,((Aotus ,Callicebus ),(Saimiri ,Neosaimiri )))))),(Siamopithecus ,(Pondaungia ,(Myanmarpithecu ,Ganlea ))))),(Tarsius ,Xanthorhysis ))))))));
+tree tnt_4 = [&U] 
+(Scandentia ,(Purgatorius ,(Plesiolestes ,((Paromomys ,Ignacius ),(Plesiadapis ,((Notharctus ,(Cantius ,(Adapis ,Leptadapis ))),((Teilhardina_a ,(Shoshonius ,(Absarokius ,Hemiacodon ))),(((Bahinia ,(Eosimias ,Phenacopithecu )),(((Catopithecus ,(Aegyptopithecu ,Moeripithecus )),((Proteopithecus ,(Biretia ,(Arsinoea ,(Qatrania ,(Simonsius ,(Apidium ,Parapithecus )))))),(Branisella ,(Dolichocebus ,((Aotus ,Callicebus ),(Saimiri ,Neosaimiri )))))),(Siamopithecus ,(Pondaungia ,(Myanmarpithecu ,Ganlea ))))),(Tarsius ,Xanthorhysis )))))))));
+tree tnt_5 = [&U] 
+(Scandentia ,(Purgatorius ,(Plesiolestes ,((Paromomys ,Ignacius ),(Plesiadapis ,((Cantius ,(Notharctus ,(Adapis ,Leptadapis ))),((Teilhardina_a ,(Shoshonius ,(Absarokius ,Hemiacodon ))),(((Bahinia ,(Eosimias ,Phenacopithecu )),(((Catopithecus ,(Aegyptopithecu ,Moeripithecus )),((Proteopithecus ,(Biretia ,(Arsinoea ,(Qatrania ,(Simonsius ,(Apidium ,Parapithecus )))))),(Branisella ,(Dolichocebus ,((Aotus ,Callicebus ),(Saimiri ,Neosaimiri )))))),(Siamopithecus ,(Pondaungia ,(Myanmarpithecu ,Ganlea ))))),(Tarsius ,Xanthorhysis )))))))));
+tree tnt_6 = [&U] 
+(Scandentia ,(Purgatorius ,((Paromomys ,Ignacius ),((Plesiadapis ,Plesiolestes ),(Teilhardina_a ,((Notharctus ,(Cantius ,(Adapis ,Leptadapis ))),((Shoshonius ,(Absarokius ,Hemiacodon )),(((Bahinia ,(Eosimias ,Phenacopithecu )),(((Catopithecus ,(Aegyptopithecu ,Moeripithecus )),((Proteopithecus ,(Biretia ,(Arsinoea ,(Qatrania ,(Simonsius ,(Apidium ,Parapithecus )))))),(Branisella ,(Dolichocebus ,((Aotus ,Callicebus ),(Saimiri ,Neosaimiri )))))),(Siamopithecus ,(Pondaungia ,(Myanmarpithecu ,Ganlea ))))),(Tarsius ,Xanthorhysis )))))))));
+tree tnt_7 = [&U] 
+(Scandentia ,(Purgatorius ,(Plesiadapis ,Plesiolestes ,(Paromomys ,Ignacius ),(Absarokius ,Hemiacodon ,Shoshonius ,Teilhardina_a ,(Notharctus ,Cantius ,(Adapis ,Leptadapis )),(Tarsius ,Xanthorhysis ,((Bahinia ,(Eosimias ,Phenacopithecu )),(((Catopithecus ,(Aegyptopithecu ,Moeripithecus )),((Proteopithecus ,(Biretia ,(Arsinoea ,(Qatrania ,(Simonsius ,(Apidium ,Parapithecus )))))),(Branisella ,(Dolichocebus ,((Aotus ,Callicebus ),(Saimiri ,Neosaimiri )))))),(Siamopithecus ,(Pondaungia ,(Myanmarpithecu ,Ganlea ))))))))));
+
+end ; 

@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Ancestor ,((Plesiadapidae ,Saxonella ),(Chronolestes_simul ,(Elphidotarsius_sp_cf_lorenca ,(Elphidotarsius_wightoni ,((Carpodaptes_hazelae ,(Carpodaptes_jepseni ,Carpolestes )),(Carpocristes_cygneus ,(Carpocristes_hobackensis ,Carpocristes_oriens ))))))));
+tree tnt_2 = [&U] 
+(Ancestor ,((Plesiadapidae ,Saxonella ),(Chronolestes_simul ,(Elphidotarsius_sp_cf_lorenca ,(Elphidotarsius_wightoni ,((Carpodaptes_hazelae ,(Carpodaptes_jepseni ,Carpolestes )),(Carpocristes_cygneus ,(Carpocristes_hobackensis ,Carpocristes_oriens ))))))));
+
+end ; 

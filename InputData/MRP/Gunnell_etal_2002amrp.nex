@@ -1,0 +1,31 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=17 NCHAR=19 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Teilhardina_belgica      0000000000000000000
+Copelemur_tutus          1111111111000000000
+Copelemur_australotutus  1111111111000000000
+Copelemur_praetutus      1111111110000000000
+Cantius_abditus          1111000000110000000
+Cantius_nunienus         1111000000111000000
+Cantius_torresi          1100000000000000000
+Cantius_ralstoni         1110000000000000000
+Cantius_mckennai         1111110000000000000
+Cantius_trigonodus       1111110000000000000
+Notharctus_venticolus    1111101000101110000
+Notharctus_robinsoni     1111101000101111000
+Notharctus_tenebrosus    1111101000101111000
+Smilodectes_gracilis     1111111100000100111
+Smilodectes_mcgrewi      1111111100000100110
+Smilodectes_sororis      1111111100000100101
+Pelycodus_jarrovii       1000000000000000000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

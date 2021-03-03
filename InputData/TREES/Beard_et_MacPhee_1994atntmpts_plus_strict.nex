@@ -1,0 +1,65 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Plesiadapidae ,((Paromomyidae ,Galeopithecida ),((Rooneyia ,(Lorisoidea ,(Callitrichidae ,Cebidae ,Catarrhini ))),(Adapiformes ,(Cheirogaleidae ,Lemuroidea )),(Necrolemur ,(Shoshonius ,Tetonius ,Tarsius )))));
+tree tnt_2 = [&U] 
+(Plesiadapidae ,((Paromomyidae ,Galeopithecida ),((Adapiformes ,(Lemuroidea ,(Lorisoidea ,Cheirogaleidae ))),(Necrolemur ,(Shoshonius ,Tetonius ,Tarsius )),(Rooneyia ,(Callitrichidae ,Cebidae ,Catarrhini )))));
+tree tnt_3 = [&U] 
+(Plesiadapidae ,(Paromomyidae ,(Galeopithecida ,(Lorisoidea ,((Adapiformes ,(Cheirogaleidae ,Lemuroidea )),(Rooneyia ,(Necrolemur ,(Shoshonius ,Tetonius ,Tarsius ))),(Callitrichidae ,Cebidae ,Catarrhini ))))));
+tree tnt_4 = [&U] 
+(Plesiadapidae ,((Paromomyidae ,Galeopithecida ),(Rooneyia ,((Adapiformes ,(Lemuroidea ,(Lorisoidea ,Cheirogaleidae ))),((Shoshonius ,Tetonius ,(Necrolemur ,Tarsius )),(Callitrichidae ,Cebidae ,Catarrhini ))))));
+tree tnt_5 = [&U] 
+(Plesiadapidae ,((Paromomyidae ,Galeopithecida ),(Rooneyia ,((Adapiformes ,(Lemuroidea ,(Lorisoidea ,Cheirogaleidae ))),((Shoshonius ,Tetonius ,Necrolemur ,Tarsius ),(Callitrichidae ,Cebidae ,Catarrhini ))))));
+tree tnt_6 = [&U] 
+(Plesiadapidae ,((Paromomyidae ,Galeopithecida ),(Rooneyia ,((Adapiformes ,(Lemuroidea ,(Lorisoidea ,Cheirogaleidae ))),((Shoshonius ,(Tetonius ,Necrolemur ,Tarsius )),(Callitrichidae ,Cebidae ,Catarrhini ))))));
+tree tnt_7 = [&U] 
+(Plesiadapidae ,((Paromomyidae ,Galeopithecida ),((Adapiformes ,(Lemuroidea ,(Lorisoidea ,Cheirogaleidae ))),(Rooneyia ,((Shoshonius ,Tetonius ,(Necrolemur ,Tarsius )),(Callitrichidae ,Cebidae ,Catarrhini ))))));
+tree tnt_8 = [&U] 
+(Plesiadapidae ,((Paromomyidae ,Galeopithecida ),((Adapiformes ,(Lemuroidea ,(Lorisoidea ,Cheirogaleidae ))),(Rooneyia ,((Shoshonius ,Tetonius ,Necrolemur ,Tarsius ),(Callitrichidae ,Cebidae ,Catarrhini ))))));
+tree tnt_9 = [&U] 
+(Plesiadapidae ,((Paromomyidae ,Galeopithecida ),((Adapiformes ,(Lemuroidea ,(Lorisoidea ,Cheirogaleidae ))),(Rooneyia ,((Shoshonius ,(Tetonius ,Necrolemur ,Tarsius )),(Callitrichidae ,Cebidae ,Catarrhini ))))));
+tree tnt_10 = [&U] 
+(Plesiadapidae ,(Paromomyidae ,(Galeopithecida ,(Rooneyia ,((Adapiformes ,(Lemuroidea ,(Lorisoidea ,Cheirogaleidae ))),((Shoshonius ,Tetonius ,(Necrolemur ,Tarsius )),(Callitrichidae ,Cebidae ,Catarrhini )))))));
+tree tnt_11 = [&U] 
+(Plesiadapidae ,(Paromomyidae ,(Galeopithecida ,(Rooneyia ,((Adapiformes ,(Lemuroidea ,(Lorisoidea ,Cheirogaleidae ))),((Shoshonius ,Tetonius ,Necrolemur ,Tarsius ),(Callitrichidae ,Cebidae ,Catarrhini )))))));
+tree tnt_12 = [&U] 
+(Plesiadapidae ,(Paromomyidae ,(Galeopithecida ,(Rooneyia ,((Adapiformes ,(Lemuroidea ,(Lorisoidea ,Cheirogaleidae ))),((Shoshonius ,(Tetonius ,Necrolemur ,Tarsius )),(Callitrichidae ,Cebidae ,Catarrhini )))))));
+tree tnt_13 = [&U] 
+(Plesiadapidae ,(Paromomyidae ,(Galeopithecida ,((Lorisoidea ,(Cheirogaleidae ,(Lemuroidea ,Adapiformes ))),((Rooneyia ,(Necrolemur ,(Shoshonius ,Tetonius ,Tarsius ))),(Callitrichidae ,Cebidae ,Catarrhini ))))));
+tree tnt_14 = [&U] 
+(Plesiadapidae ,((Paromomyidae ,Galeopithecida ),((Adapiformes ,(Lemuroidea ,(Lorisoidea ,Cheirogaleidae ))),(Rooneyia ,((Tetonius ,Necrolemur ,(Shoshonius ,Tarsius )),(Callitrichidae ,Cebidae ,Catarrhini ))))));
+tree tnt_15 = [&U] 
+(Plesiadapidae ,((Paromomyidae ,Galeopithecida ),((Adapiformes ,(Lemuroidea ,(Lorisoidea ,Cheirogaleidae ))),(Rooneyia ,(Shoshonius ,Tetonius ,Necrolemur ,Tarsius ),(Callitrichidae ,Cebidae ,Catarrhini )))));
+tree tnt_16 = [&U] 
+(Plesiadapidae ,((Paromomyidae ,Galeopithecida ),((Adapiformes ,(Lemuroidea ,(Lorisoidea ,Cheirogaleidae ))),(Rooneyia ,(Necrolemur ,(Shoshonius ,Tetonius ,Tarsius )),(Callitrichidae ,Cebidae ,Catarrhini )))));
+tree tnt_17 = [&U] 
+(Plesiadapidae ,((Paromomyidae ,Galeopithecida ),(Rooneyia ,(Adapiformes ,(Lemuroidea ,(Lorisoidea ,Cheirogaleidae ))),(Necrolemur ,(Shoshonius ,Tetonius ,Tarsius )),(Callitrichidae ,Cebidae ,Catarrhini ))));
+tree tnt_18 = [&U] 
+(Plesiadapidae ,((Paromomyidae ,Galeopithecida ),((Rooneyia ,(Lorisoidea ,(Callitrichidae ,Cebidae ,Catarrhini )),(Necrolemur ,(Shoshonius ,Tetonius ,Tarsius ))),(Adapiformes ,(Cheirogaleidae ,Lemuroidea )))));
+tree tnt_19 = [&U] 
+(Plesiadapidae ,((Paromomyidae ,Galeopithecida ),(Rooneyia ,(Lorisoidea ,(Callitrichidae ,Cebidae ,Catarrhini )),(Adapiformes ,(Cheirogaleidae ,Lemuroidea )),(Necrolemur ,(Shoshonius ,Tetonius ,Tarsius )))));
+tree tnt_20 = [&U] 
+(Plesiadapidae ,((Paromomyidae ,Galeopithecida ),(Rooneyia ,(Lorisoidea ,(Adapiformes ,(Cheirogaleidae ,Lemuroidea )),(Callitrichidae ,Cebidae ,Catarrhini )),(Necrolemur ,(Shoshonius ,Tetonius ,Tarsius )))));
+tree tnt_21 = [&U] 
+(Plesiadapidae ,((Paromomyidae ,Galeopithecida ),(Rooneyia ,(Lorisoidea ,(Cheirogaleidae ,Lemuroidea ,Adapiformes ),(Callitrichidae ,Cebidae ,Catarrhini )),(Necrolemur ,(Shoshonius ,Tetonius ,Tarsius )))));
+tree tnt_22 = [&U] 
+(Plesiadapidae ,((Paromomyidae ,Galeopithecida ),(Rooneyia ,((Lorisoidea ,(Cheirogaleidae ,Lemuroidea ,Adapiformes )),(Callitrichidae ,Cebidae ,Catarrhini )),(Necrolemur ,(Shoshonius ,Tetonius ,Tarsius )))));
+tree tnt_23 = [&U] 
+(Plesiadapidae ,((Paromomyidae ,Galeopithecida ),(Rooneyia ,((Adapiformes ,(Lemuroidea ,(Lorisoidea ,Cheirogaleidae ))),(Callitrichidae ,Cebidae ,Catarrhini )),(Necrolemur ,(Shoshonius ,Tetonius ,Tarsius )))));
+tree tnt_24 = [&U] 
+(Plesiadapidae ,(Paromomyidae ,(Galeopithecida ,(Rooneyia ,(Lorisoidea ,(Adapiformes ,(Cheirogaleidae ,Lemuroidea )),(Callitrichidae ,Cebidae ,Catarrhini )),(Necrolemur ,(Shoshonius ,Tetonius ,Tarsius ))))));
+tree tnt_25 = [&U] 
+(Plesiadapidae ,(Paromomyidae ,(Galeopithecida ,(Rooneyia ,(Lorisoidea ,(Cheirogaleidae ,Lemuroidea ,Adapiformes ),(Callitrichidae ,Cebidae ,Catarrhini )),(Necrolemur ,(Shoshonius ,Tetonius ,Tarsius ))))));
+tree tnt_26 = [&U] 
+(Plesiadapidae ,(Paromomyidae ,(Galeopithecida ,(Rooneyia ,((Lorisoidea ,(Cheirogaleidae ,Lemuroidea ,Adapiformes )),(Callitrichidae ,Cebidae ,Catarrhini )),(Necrolemur ,(Shoshonius ,Tetonius ,Tarsius ))))));
+tree tnt_27 = [&U] 
+(Plesiadapidae ,(Paromomyidae ,(Galeopithecida ,(Rooneyia ,((Adapiformes ,(Lemuroidea ,(Lorisoidea ,Cheirogaleidae ))),(Callitrichidae ,Cebidae ,Catarrhini )),(Necrolemur ,(Shoshonius ,Tetonius ,Tarsius ))))));
+tree tnt_28 = [&U] 
+(Plesiadapidae ,(Paromomyidae ,((Galeopithecida ,(Lorisoidea ,((Adapiformes ,(Cheirogaleidae ,Lemuroidea )),(Callitrichidae ,Cebidae ,Catarrhini )))),(Rooneyia ,(Necrolemur ,(Shoshonius ,Tetonius ,Tarsius ))))));
+tree tnt_29 = [&U] 
+(Plesiadapidae ,(Paromomyidae ,((Galeopithecida ,((Lorisoidea ,(Cheirogaleidae ,(Lemuroidea ,Adapiformes ))),(Callitrichidae ,Cebidae ,Catarrhini ))),(Rooneyia ,(Necrolemur ,(Shoshonius ,Tetonius ,Tarsius ))))));
+tree tnt_30 = [&U] 
+(Plesiadapidae ,(Paromomyidae ,Galeopithecida ,Lorisoidea ,Cheirogaleidae ,Lemuroidea ,Adapiformes ,Rooneyia ,(Shoshonius ,Tetonius ,Necrolemur ,Tarsius ),(Callitrichidae ,Cebidae ,Catarrhini )));
+
+end ; 

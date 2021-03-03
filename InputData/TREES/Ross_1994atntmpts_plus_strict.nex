@@ -1,0 +1,29 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Ignacius ,(Plesiadapis ,(Tupaia ,((Rooneyia ,((Necrolemur ,(Tetonius ,Shoshonius )),(Tarsius ,(Aegyptopithecus ,(Platyrrhines ,Catarrhines ))))),((Notharctus ,(Lemur ,(Adapis ,Mahgarita ))),(Galago_senegalensi ,Microcebus ))))));
+tree tnt_2 = [&U] 
+(Ignacius ,(Plesiadapis ,(Tupaia ,((Rooneyia ,((Necrolemur ,(Tetonius ,Shoshonius )),(Tarsius ,(Aegyptopithecus ,(Platyrrhines ,Catarrhines ))))),((Lemur ,(Notharctus ,(Adapis ,Mahgarita ))),(Galago_senegalensi ,Microcebus ))))));
+tree tnt_3 = [&U] 
+(Ignacius ,(Plesiadapis ,(Tupaia ,((((Rooneyia ,((Necrolemur ,(Tetonius ,Shoshonius )),(Tarsius ,(Aegyptopithecus ,(Platyrrhines ,Catarrhines ))))),(Notharctus ,Lemur )),(Galago_senegalensi ,Microcebus )),(Adapis ,Mahgarita )))));
+tree tnt_4 = [&U] 
+(Ignacius ,(Plesiadapis ,(Tupaia ,((Lemur ,(Notharctus ,(Adapis ,(Mahgarita ,(Rooneyia ,((Tetonius ,(Necrolemur ,Shoshonius )),(Tarsius ,(Aegyptopithecus ,(Platyrrhines ,Catarrhines ))))))))),(Galago_senegalensi ,Microcebus )))));
+tree tnt_5 = [&U] 
+(Ignacius ,(Plesiadapis ,(Tupaia ,((Lemur ,(Notharctus ,(Adapis ,(Mahgarita ,(Rooneyia ,((Necrolemur ,(Tetonius ,Shoshonius )),(Tarsius ,(Aegyptopithecus ,(Platyrrhines ,Catarrhines ))))))))),(Galago_senegalensi ,Microcebus )))));
+tree tnt_6 = [&U] 
+(Ignacius ,(Plesiadapis ,(Tupaia ,((((Rooneyia ,((Tetonius ,(Necrolemur ,Shoshonius )),(Tarsius ,(Aegyptopithecus ,(Platyrrhines ,Catarrhines ))))),(Adapis ,Mahgarita )),(Notharctus ,Lemur )),(Galago_senegalensi ,Microcebus )))));
+tree tnt_7 = [&U] 
+(Ignacius ,(Plesiadapis ,(Tupaia ,((((Rooneyia ,((Necrolemur ,(Tetonius ,Shoshonius )),(Tarsius ,(Aegyptopithecus ,(Platyrrhines ,Catarrhines ))))),(Adapis ,Mahgarita )),(Notharctus ,Lemur )),(Galago_senegalensi ,Microcebus )))));
+tree tnt_8 = [&U] 
+(Ignacius ,(Plesiadapis ,(Tupaia ,((Lemur ,((Rooneyia ,((Tetonius ,(Necrolemur ,Shoshonius )),(Tarsius ,(Aegyptopithecus ,(Platyrrhines ,Catarrhines ))))),(Mahgarita ,(Adapis ,Notharctus )))),(Galago_senegalensi ,Microcebus )))));
+tree tnt_9 = [&U] 
+(Ignacius ,(Plesiadapis ,(Tupaia ,((Lemur ,((Rooneyia ,((Necrolemur ,(Tetonius ,Shoshonius )),(Tarsius ,(Aegyptopithecus ,(Platyrrhines ,Catarrhines ))))),(Mahgarita ,(Adapis ,Notharctus )))),(Galago_senegalensi ,Microcebus )))));
+tree tnt_10 = [&U] 
+(Ignacius ,(Plesiadapis ,(Tupaia ,(((Rooneyia ,((Necrolemur ,(Tetonius ,Shoshonius )),(Tarsius ,(Aegyptopithecus ,(Platyrrhines ,Catarrhines ))))),(Notharctus ,(Lemur ,(Adapis ,Mahgarita )))),(Galago_senegalensi ,Microcebus )))));
+tree tnt_11 = [&U] 
+(Ignacius ,(Plesiadapis ,(Tupaia ,(((Rooneyia ,((Necrolemur ,(Tetonius ,Shoshonius )),(Tarsius ,(Aegyptopithecus ,(Platyrrhines ,Catarrhines ))))),(Lemur ,(Notharctus ,(Adapis ,Mahgarita )))),(Galago_senegalensi ,Microcebus )))));
+tree tnt_12 = [&U] 
+(Ignacius ,(Plesiadapis ,(Tupaia ,(Adapis ,Notharctus ,Mahgarita ,Lemur ,(Rooneyia ,((Tetonius ,Necrolemur ,Shoshonius ),(Tarsius ,(Aegyptopithecus ,(Platyrrhines ,Catarrhines ))))),(Galago_senegalensi ,Microcebus )))));
+
+end ; 

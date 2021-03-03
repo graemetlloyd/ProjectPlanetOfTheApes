@@ -1,0 +1,7 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Plesiopithecus ,((Tarsius ,(Bahinia ,(Eosimias ,(((Oligopithecus ,(catopithecus ,(Proteopithecus ,Arsinoea ))),(((Aegyptopithecu ,Propliopithecu ),(Moeripithecus ,(Siamopithecus ,(Pondaungia ,Amphipithecus )))),(Branisella ,Saimiri ))),(Serapia ,(Qatrania ,(Parapithecus ,Apidium ))))))),(Teilhardina ,Donrussellia )));
+
+end ; 

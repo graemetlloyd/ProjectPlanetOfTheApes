@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Victoriapithecus ,(Parapapio_lothagamensis ,(Parapapio_ado ,(Parapapio_jonesi ,(((Macaca ,(Pliopapio_alemui ,(Papio_izodi ,(((Papio ,((Lophocebus ,Lophocebus_cf_albigena ),(Dinopithecus_ingens ,Gorgopithecus ))),(Theropithecus_baringensis ,(Theropithecus_brumpti ,(Theropithecus ,Theropithecus_oswaldi_darti )))),(Mandrillus ,Soromandrillus_quadratirostri ))))),(Cercocebus ,Procercocebus_antiquus )),(Parapapio_broomi ,Parapapio_whitei ))))));
+tree tnt_2 = [&U] 
+(Victoriapithecus ,(Parapapio_lothagamensis ,(Parapapio_ado ,(Parapapio_jonesi ,(((Macaca ,(Pliopapio_alemui ,(Papio_izodi ,(((Papio ,((Lophocebus ,Lophocebus_cf_albigena ),(Dinopithecus_ingens ,Gorgopithecus ))),(Theropithecus_baringensis ,(Theropithecus_brumpti ,(Theropithecus ,Theropithecus_oswaldi_darti )))),(Mandrillus ,Soromandrillus_quadratirostri ))))),(Cercocebus ,Procercocebus_antiquus )),(Parapapio_broomi ,Parapapio_whitei ))))));
+
+end ; 

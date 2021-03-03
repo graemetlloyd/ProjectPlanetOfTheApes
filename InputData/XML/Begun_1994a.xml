@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Begun, D.R.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>The significance of Otavipithecus namibiensis to interpretations of hominoid evolution</Title>
+		<Journal>Journal of Human Evolution</Journal>
+		<Volume>27</Volume>
+		<Pages>385-394</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List recon_name="Propliopithecus" recon_no="40888">Propliopithecus</List>
+		<List recon_name="Pliopithecus" recon_no="40887">Pliopithecus</List>
+		<List recon_name="Dendropithecus" recon_no="40885">Dendropithecus</List>
+		<List recon_name="Otavipithecus" recon_no="133714">Otavipithecus</List>
+		<List recon_name="Afropithecus_turkanensis" recon_no="97222">Afropithecus</List>
+		<List recon_name="Proconsul" recon_no="40895">Proconsul</List>
+		<List recon_name="Kenyapithecus" recon_no="100574">Kenyapithecus</List>
+		<List recon_name="Griphopithecus" recon_no="133717">Griphopithecus</List>
+		<List recon_name="Sivapithecus" recon_no="40898">Sivapithecus</List>
+		<List recon_name="Pongo" recon_no="40897">Pongo</List>
+		<List recon_name="Dryopithecus" recon_no="40893">Dryopithecus</List>
+		<List recon_name="Ouranopithecus" recon_no="97181">Ouranopithecus</List>
+		<List recon_name="Gorilla" recon_no="97178">Gorilla</List>
+		<List recon_name="Pan" recon_no="97177">Pan</List>
+		<List recon_name="Australopithecus_afarensis" recon_no="83055">Australopithecus_afarensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="14">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Begun_1994a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

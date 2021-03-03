@@ -1,0 +1,24 @@
+taxname=;
+mxram 4096;
+taxname +16;
+nstates num 32;
+xread
+
+13 9
+& [numeric]
+Aegyptopithecus   00000001?1010
+Proconsul         00000110?0011
+Victoriapithecus  1111001101110
+AUH_1321          2212?22111100
+Macaca            2212021100111
+Cercocebus        2212001100111
+Allenopithecus    2212201110110
+Cercopithecus     2212212110100
+Chlorocebus       2212212111110
+;
+ccode +[/1 0 +[/1 1 +[/1 2 +[/1 3 +[/1 4 +[/1 5 +[/1 6 +[/1 7 +[/1 8 +[/1 9 +[/1 10 +[/1 11 +[/1 12 ;
+collapse [;
+ienum; nelsen*; export -Gilbert_etal_2014atntmpts_plus_strict.nex; mrp;
+export Gilbert_etal_2014amrp.nex; 
+proc/;
+

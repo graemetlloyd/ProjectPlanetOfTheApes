@@ -1,0 +1,34 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=20 NCHAR=18 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Colobus                     000000000000000000
+Papio                       110000000000000000
+Hylobates                   100000000000000000
+Pongo_pygmaeus              111000000000000000
+Gorilla_gorilla             111100000000000000
+Pan_troglodytes             111110000000000000
+Sahelanthropus_tchadensis   111111000000000000
+Ardipithecus_ramidus        111111100000000000
+Australopithecus_anamensis  111111110000000000
+Australopithecus_afarensis  111111111000000000
+Kenyanthropus_platyops      111111111111100000
+Australopithecus_garhi      111111111100000000
+Australopithecus_africanus  111111111110010000
+Paranthropus_aethiopicus    111111111110011000
+Paranthropus_robustus       111111111110011100
+Paranthropus_boisei         111111111110011100
+Homo_habilis                111111111111000010
+Homo_rudolfensis            111111111111100000
+Homo_ergaster               111111111111000011
+Homo_sapiens                111111111111000011
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

@@ -1,0 +1,11 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Plesiadapis ,(Plesiolestes ,((Paromomys ,Ignacius ),((Cantius ,(Adapis ,Leptadapis )),((Hemiacodon ,(Shoshonius ,((Absarokius ,Teilhardina_a ),(Xanthorhysis ,Tarsius )))),((Bahinia ,(Eosimias ,Phenacopithecu )),((Bugtipithecus ,((Catopithecus ,(Aegyptopithecu ,Moeripithecus )),((Dolichocebus ,Branisella ),(Siamopithecus ,(Pondaungia ,(Myanmarpithecu ,(Krabia ,Ganlea ))))))),(Proteopithecus ,(Biretia ,(Qatrania ,(Simonsius ,(Apidium ,Parapithecus ))))))))))));
+tree tnt_2 = [&U] 
+(Plesiadapis ,(Plesiolestes ,((Paromomys ,Ignacius ),((Cantius ,(Adapis ,Leptadapis )),((Hemiacodon ,(Shoshonius ,((Absarokius ,Teilhardina_a ),(Xanthorhysis ,Tarsius )))),((Bahinia ,(Eosimias ,Phenacopithecu )),((Bugtipithecus ,((Catopithecus ,(Aegyptopithecu ,Moeripithecus )),((Dolichocebus ,Branisella ),(Siamopithecus ,((Myanmarpithecu ,Pondaungia ),(Krabia ,Ganlea )))))),(Proteopithecus ,(Biretia ,(Qatrania ,(Simonsius ,(Apidium ,Parapithecus ))))))))))));
+tree tnt_3 = [&U] 
+(Plesiadapis ,(Plesiolestes ,((Paromomys ,Ignacius ),((Cantius ,(Adapis ,Leptadapis )),((Hemiacodon ,(Shoshonius ,((Absarokius ,Teilhardina_a ),(Xanthorhysis ,Tarsius )))),((Bahinia ,(Eosimias ,Phenacopithecu )),((Bugtipithecus ,((Catopithecus ,(Aegyptopithecu ,Moeripithecus )),((Dolichocebus ,Branisella ),(Siamopithecus ,(Myanmarpithecu ,Pondaungia ,(Krabia ,Ganlea )))))),(Proteopithecus ,(Biretia ,(Qatrania ,(Simonsius ,(Apidium ,Parapithecus ))))))))))));
+
+end ; 

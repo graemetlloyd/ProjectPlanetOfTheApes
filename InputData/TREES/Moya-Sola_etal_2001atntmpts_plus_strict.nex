@@ -1,0 +1,13 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Pliopithecus ,(Laccopithecus ,(Crouzelia ,Plesiopliopithecu ,(Anapithecus ,Egarapithecus ))));
+tree tnt_2 = [&U] 
+(Pliopithecus ,((Crouzelia ,Plesiopliopithecu ,Laccopithecus ),(Anapithecus ,Egarapithecus )));
+tree tnt_3 = [&U] 
+(Pliopithecus ,(Laccopithecus ,(Plesiopliopithecu ,(Anapithecus ,(Crouzelia ,Egarapithecus )))));
+tree tnt_4 = [&U] 
+(Pliopithecus ,(Crouzelia ,Plesiopliopithecu ,Anapithecus ,Laccopithecus ,Egarapithecus ));
+
+end ; 

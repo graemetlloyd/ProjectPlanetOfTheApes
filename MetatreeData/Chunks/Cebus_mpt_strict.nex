@@ -1,0 +1,37 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(Cebus_unicolor ,((Cebus_albifrons ,Cebus_olivaceus ),(Cebus_kaapori ,(Cebus_capucinus ,Cebus_versicolo )))));
+tree tnt_2 = [&U] 
+(allzero ,((Cebus_albifrons ,Cebus_olivaceus ),(Cebus_unicolor ,(Cebus_kaapori ,(Cebus_capucinus ,Cebus_versicolo )))));
+tree tnt_3 = [&U] 
+(allzero ,((Cebus_unicolor ,(Cebus_albifrons ,Cebus_olivaceus )),(Cebus_kaapori ,(Cebus_capucinus ,Cebus_versicolo ))));
+tree tnt_4 = [&U] 
+(allzero ,((Cebus_albifrons ,Cebus_olivaceus ),((Cebus_capucinus ,Cebus_versicolo ),(Cebus_kaapori ,Cebus_unicolor ))));
+tree tnt_5 = [&U] 
+(allzero ,((Cebus_albifrons ,Cebus_olivaceus ),(Cebus_kaapori ,(Cebus_unicolor ,(Cebus_capucinus ,Cebus_versicolo )))));
+tree tnt_6 = [&U] 
+(allzero ,(Cebus_unicolor ,((Cebus_kaapori ,(Cebus_albifrons ,Cebus_olivaceus )),(Cebus_capucinus ,Cebus_versicolo ))));
+tree tnt_7 = [&U] 
+(allzero ,((Cebus_kaapori ,(Cebus_albifrons ,Cebus_olivaceus )),(Cebus_unicolor ,(Cebus_capucinus ,Cebus_versicolo ))));
+tree tnt_8 = [&U] 
+(allzero ,((Cebus_unicolor ,(Cebus_kaapori ,(Cebus_albifrons ,Cebus_olivaceus ))),(Cebus_capucinus ,Cebus_versicolo )));
+tree tnt_9 = [&U] 
+(allzero ,(((Cebus_albifrons ,Cebus_olivaceus ),(Cebus_kaapori ,Cebus_unicolor )),(Cebus_capucinus ,Cebus_versicolo )));
+tree tnt_10 = [&U] 
+(allzero ,((Cebus_kaapori ,(Cebus_unicolor ,(Cebus_albifrons ,Cebus_olivaceus ))),(Cebus_capucinus ,Cebus_versicolo )));
+tree tnt_11 = [&U] 
+(allzero ,(Cebus_unicolor ,(Cebus_kaapori ,((Cebus_albifrons ,Cebus_olivaceus ),(Cebus_capucinus ,Cebus_versicolo )))));
+tree tnt_12 = [&U] 
+(allzero ,(((Cebus_albifrons ,Cebus_olivaceus ),(Cebus_capucinus ,Cebus_versicolo )),(Cebus_kaapori ,Cebus_unicolor )));
+tree tnt_13 = [&U] 
+(allzero ,(Cebus_kaapori ,(Cebus_unicolor ,((Cebus_albifrons ,Cebus_olivaceus ),(Cebus_capucinus ,Cebus_versicolo )))));
+tree tnt_14 = [&U] 
+(allzero ,(Cebus_kaapori ,((Cebus_albifrons ,Cebus_olivaceus ),(Cebus_unicolor ,(Cebus_capucinus ,Cebus_versicolo )))));
+tree tnt_15 = [&U] 
+(allzero ,(Cebus_kaapori ,((Cebus_unicolor ,(Cebus_albifrons ,Cebus_olivaceus )),(Cebus_capucinus ,Cebus_versicolo ))));
+tree tnt_16 = [&U] 
+(allzero ,(Cebus_kaapori ,Cebus_unicolor ,(Cebus_albifrons ,Cebus_olivaceus ),(Cebus_capucinus ,Cebus_versicolo )));
+
+end ; 

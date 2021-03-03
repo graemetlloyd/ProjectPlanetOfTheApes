@@ -1,0 +1,11 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Macaca_sinica ,((Macaca_fascicularis ,(Macaca_mulatta ,(Macaca_nemestrina ,Macaca_fuscata ))),(Mesopithecus_pentelici ,(Pygathrix_nemaeus ,(Rhinopithecus_tingianus ,(Rhinopithecus_avunculus ,((Rhinopithecus_bieti ,Rhinopithecus_brelichi ),(Rhinopithecus_roxellana ,Rhinopithecus_roxellana_tingianu ,Rhinopithecus_lantianensis ))))))));
+tree tnt_2 = [&U] 
+(Macaca_sinica ,((Macaca_fascicularis ,(Macaca_mulatta ,(Macaca_nemestrina ,Macaca_fuscata ))),(Mesopithecus_pentelici ,(Pygathrix_nemaeus ,(Rhinopithecus_avunculus ,(Rhinopithecus_tingianus ,((Rhinopithecus_bieti ,Rhinopithecus_brelichi ),(Rhinopithecus_roxellana ,Rhinopithecus_roxellana_tingianu ,Rhinopithecus_lantianensis ))))))));
+tree tnt_3 = [&U] 
+(Macaca_sinica ,((Macaca_fascicularis ,(Macaca_mulatta ,(Macaca_nemestrina ,Macaca_fuscata ))),(Mesopithecus_pentelici ,(Pygathrix_nemaeus ,(Rhinopithecus_avunculus ,Rhinopithecus_tingianus ,((Rhinopithecus_bieti ,Rhinopithecus_brelichi ),(Rhinopithecus_roxellana ,Rhinopithecus_roxellana_tingianu ,Rhinopithecus_lantianensis )))))));
+
+end ; 

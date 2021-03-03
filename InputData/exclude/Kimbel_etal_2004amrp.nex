@@ -1,0 +1,21 @@
+#NEXUS
+begin data;
+dimensions ntax=9 nchar=20;
+format missing=? symbols="0~1";
+matrix
+Chimp_gorilla    00000000000000000000
+Australopithecus_afarensis 10000001000000100000
+Australopithecus_africanus 11000001110000110000
+Australopithecus_aethiopicus 11110001111000111000
+Australopithecus_robustus 11111001111100111100
+Australopithecus_boisei 11111001111100111100
+Homo_habilis     11010111010011110011
+Homo_rudolfensis 11010011010001110001
+Homo_erectus     11010111010011110011
+;
+end;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ 	TYPESET * UNTITLED  = unord: 1-20;
+END;

@@ -1,0 +1,11 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Pongo_pygmaeus ,(Pan_troglodytes ,(Gorilla ,(Australopithecus_afarensi ,(Australopithecus_sediba ,(Australopithecus_africanu ,(Homo_rudolfensis ,(((Homo_habilis ,Homo_floresiensis ),(Homo_sapiens ,(Homo_ergaster ,Homo_erectus ))),(Homo_georgicus ,Homo_naledi )))))))));
+tree tnt_2 = [&U] 
+(Pongo_pygmaeus ,(Pan_troglodytes ,(Gorilla ,(Australopithecus_afarensi ,(Australopithecus_sediba ,(Australopithecus_africanu ,(Homo_rudolfensis ,(Homo_floresiensis ,(Homo_habilis ,((Homo_sapiens ,(Homo_ergaster ,Homo_erectus )),(Homo_georgicus ,Homo_naledi )))))))))));
+tree tnt_3 = [&U] 
+(Pongo_pygmaeus ,(Pan_troglodytes ,(Gorilla ,(Australopithecus_afarensi ,(Australopithecus_sediba ,(Australopithecus_africanu ,(Homo_rudolfensis ,(Homo_habilis ,Homo_floresiensis ,(Homo_sapiens ,(Homo_ergaster ,Homo_erectus )),(Homo_georgicus ,Homo_naledi )))))))));
+
+end ; 

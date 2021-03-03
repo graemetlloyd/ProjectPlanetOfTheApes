@@ -1,0 +1,11 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Chimp_gorilla ,(Australopithecus_afarensis ,(Australopithecus_africanus ,((Australopithecus_aethiopicu ,(Australopithecus_robustus ,Australopithecus_boisei )),(Homo_rudolfensis ,(Homo_habilis ,Homo_erectus ))))));
+tree tnt_2 = [&U] 
+(Chimp_gorilla ,(Australopithecus_afarensis ,((Australopithecus_africanus ,(Australopithecus_aethiopicu ,(Australopithecus_robustus ,Australopithecus_boisei ))),(Homo_rudolfensis ,(Homo_habilis ,Homo_erectus )))));
+tree tnt_3 = [&U] 
+(Chimp_gorilla ,(Australopithecus_afarensis ,(Australopithecus_africanus ,(Australopithecus_aethiopicu ,(Australopithecus_robustus ,Australopithecus_boisei )),(Homo_rudolfensis ,(Homo_habilis ,Homo_erectus )))));
+
+end ; 

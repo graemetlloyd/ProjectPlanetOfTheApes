@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Finarelli, J.A.</List>
+			<List>Clyde, W.C.</List>		
+		</Author>
+		<Year>2004</Year>
+		<Title>Reassessing hominoid phylogeny: evaluating congruence in the morphological and temporal data</Title>
+		<Journal>Paleobiology</Journal>
+		<Volume>30</Volume>
+		<Pages>614-651</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List recon_name="Proconsul" recon_no="40895">Proconsul</List>
+		<List recon_name="Australopithecus" recon_no="40900">Australopithecus</List>
+		<List recon_name="Pan" recon_no="97177">Pan</List>
+		<List recon_name="Gorilla" recon_no="97178">Gorilla</List>
+		<List recon_name="Pongo" recon_no="40897">Pongo</List>
+		<List recon_name="Hylobates" recon_no="40891">Hylobates</List>
+		<List recon_name="Turkanapithecus_kalakolensis" recon_no="97226">Turkanapithecus</List>
+		<List recon_name="Afropithecus_turkanensis" recon_no="97222">Afropithecus</List>
+		<List recon_name="Kenyapithecus_wickeri" recon_no="133716">Kenyapithecus</List>
+		<List recon_name="Equatorius_africanus" recon_no="185390">Equatorius</List>
+		<List recon_name="Griphopithecus" recon_no="133717">Griphopithecus</List>
+		<List recon_name="Dryopithecus" recon_no="40893">Dryopithecus</List>
+		<List recon_name="Sivapithecus" recon_no="40898">Sivapithecus</List>
+		<List recon_name="Oreopithecus_bambolii" recon_no="364970">Oreopithecus</List>
+		<List recon_name="Lufengpithecus" recon_no="89270">Lufengpithecus</List>
+		<List recon_name="Ouranopithecus_macedoniensis" recon_no="133685">Ouranopithecus</List>
+		<List recon_name="Morotopithecus_bishopi" recon_no="164184">Morotopithecus</List>
+		<List recon_name="Ankarapithecus_meteai" recon_no="133708">Ankarapithecus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="200">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Finarelli_et_Clyde_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

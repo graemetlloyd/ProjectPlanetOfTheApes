@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Strait, D.S.</List>
+			<List>Grine, F.E.</List>			
+		</Author>
+		<Year>2004</Year>
+		<Title>Inferring hominoid and early hominid phylogeny using craniodental characters: the role of fossil taxa</Title>
+		<Journal>Journal of Human Evolution</Journal>
+		<Volume>47</Volume>
+		<Pages>399-452</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List recon_name="Colobus_guereza,Papio_anubis,Papio_ursinus" recon_no="231533;232556;385206">Colobus_guereza_and_Papio</List>
+		<List recon_name="Hylobates_lar,Hylobates_hoolock" recon_no="231499;158830">Hylobates</List>
+		<List recon_name="Pongo_pygmaeus" recon_no="183261">Pongo_pygmaeus</List>
+		<List recon_name="Gorilla_gorilla" recon_no="231497">Gorilla_gorilla</List>
+		<List recon_name="Pan_troglodytes" recon_no="157891">Pan_troglodytes</List>
+		<List recon_name="Sahelanthropus_tchadensis" recon_no="77368">Sahelanthropus_tchadensis</List>
+		<List recon_name="Ardipithecus_ramidus" recon_no="83060">Ardipithecus_ramidus</List>
+		<List recon_name="Australopithecus_anamensis" recon_no="384433">Australopithecus_anamensis</List>
+		<List recon_name="Australopithecus_garhi" recon_no="384431">Australopithecus_garhi</List>
+		<List recon_name="Kenyanthropus_platyops" recon_no="83080">Kenyanthropus_platyops</List>
+		<List recon_name="Praeanthropus_afarensis" recon_no="386081">Praeanthropus_afarensis</List>
+		<List recon_name="Paranthropus_aethiopicus" recon_no="385302">Paranthropus_aethiopicus</List>
+		<List recon_name="Australopithecus_africanus" recon_no="83066">Australopithecus_africanus</List>
+		<List recon_name="Paranthropus_robustus" recon_no="385304">Paranthropus_robustus</List>
+		<List recon_name="Paranthropus_boisei" recon_no="385303">Paranthropus_boisei</List>
+		<List recon_name="Homo_habilis" recon_no="83082">Homo_habilis</List>
+		<List recon_name="Homo_rudolfensis" recon_no="83081">Homo_rudolfensis</List>
+		<List recon_name="Homo_ergaster" recon_no="83083">Homo_ergaster</List>
+		<List recon_name="Homo_sapiens" recon_no="83088">Homo_sapiens</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="109">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Strait_et_Grine_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

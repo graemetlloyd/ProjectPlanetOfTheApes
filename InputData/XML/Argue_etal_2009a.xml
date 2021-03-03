@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Argue, D.</List>
+			<List>Morwood, M.J.</List>
+			<List>Sutikna, T.</List>
+			<List>Jatmiko</List>
+			<List>Saptomo, E.W.</List>		
+		</Author>
+		<Year>2009</Year>
+		<Title>Homo floresiensis: a cladistic analysis</Title>
+		<Journal>Journal of Human Evolution</Journal>
+		<Volume>57</Volume>
+		<Pages>623-639</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List recon_name="Gorilla_gorilla,Gorilla_beringei" recon_no="231497;232980">Gorilla</List>
+		<List recon_name="Pan_troglodytes" recon_no="157891">Pan_troglodytes</List>
+		<List recon_name="Homo_rhodesiensis" recon_no="91597">Homo_rhodesiensis</List>
+		<List recon_name="Homo_erectus" recon_no="376854">Homo_erectus</List>
+		<List recon_name="Homo_cf_erectus_D2700_et_D2280_et_D2282" recon_no="40901">Dmanisi</List>
+		<List recon_name="Homo_ergaster" recon_no="83083">Homo_ergaster</List>
+		<List recon_name="Homo_habilis" recon_no="83082">Homo_habilis</List>
+		<List recon_name="Homo_floresiensis" recon_no="91487">Homo_floresiensis</List>
+		<List recon_name="Australopithecus_africanus" recon_no="83066">Australopithecus_africanus</List>
+		<List recon_name="Homo_sapiens" recon_no="83088">Homo_sapiens</List>
+		<List recon_name="Homo_rudolfensis" recon_no="83081">Homo_rudolfensis</List>
+		<List recon_name="Australopithecus_afarensis" recon_no="83055">Australopithecus_afarensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="105">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Argue_etal_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

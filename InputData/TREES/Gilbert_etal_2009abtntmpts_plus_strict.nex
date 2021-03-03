@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Allenopithecu ,((Cercocebus ,Mandrillus ),(Papio ,(Macaca ,(Lophocebus ,Theropithecus )))));
+tree tnt_2 = [&U] 
+(Allenopithecu ,((Cercocebus ,Mandrillus ),(Papio ,(Macaca ,(Lophocebus ,Theropithecus )))));
+
+end ; 

@@ -1,0 +1,23 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=9 NCHAR=7 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Daubentonia        0000000
+Hapalemur_griseus  1111100
+Hapalemur_simus    1111100
+Lemur_catta        1111000
+Lemur_fulvus       1110010
+Varecia_variegata  1110010
+Lepilemur          1000001
+Indriidae          1000001
+Cheirogaleidae     1100000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

@@ -1,0 +1,25 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Propliopithecu ,(Micropithecus ,(Proconsul ,((((Kalepithecus ,(Limnopithecus ,(Kenyapithecus ,(((Pan ,Pongo ),(Dryopithecus ,Sivapithecus )),(Gorilla ,(Lufengpithecus ,(Ouranopithecus ,Griphopithecus ))))))),(Simiolus ,(Rangwapithecus ,(Nyanzapithecus ,(Oreopithecus ,Turkanapithecu ))))),(Dendropithecus ,(Otavipithecus ,(Napak_Material ,Afropithecus )))),(Hylobates ,Aegyptopithecu )))));
+tree tnt_2 = [&U] 
+(Propliopithecu ,(Micropithecus ,(Proconsul ,((((Kalepithecus ,(Limnopithecus ,(Kenyapithecus ,(Pongo ,((Pan ,(Dryopithecus ,Sivapithecus )),(Gorilla ,(Ouranopithecus ,(Griphopithecus ,Lufengpithecus )))))))),(Simiolus ,(Rangwapithecus ,(Nyanzapithecus ,(Oreopithecus ,Turkanapithecu ))))),(Dendropithecus ,(Otavipithecus ,(Napak_Material ,Afropithecus )))),(Hylobates ,Aegyptopithecu )))));
+tree tnt_3 = [&U] 
+(Propliopithecu ,(Micropithecus ,(Proconsul ,((Dendropithecus ,((Kalepithecus ,(Limnopithecus ,(Kenyapithecus ,((Pan ,(Pongo ,(Dryopithecus ,Sivapithecus ))),(Gorilla ,(Griphopithecus ,(Ouranopithecus ,Lufengpithecus ))))))),((Simiolus ,(Rangwapithecus ,(Nyanzapithecus ,(Oreopithecus ,Turkanapithecu )))),(Otavipithecus ,(Napak_Material ,Afropithecus ))))),(Hylobates ,Aegyptopithecu )))));
+tree tnt_4 = [&U] 
+(Propliopithecu ,(Micropithecus ,(Proconsul ,((Dendropithecus ,((Kalepithecus ,(Limnopithecus ,(Kenyapithecus ,(Pongo ,((Pan ,(Dryopithecus ,Sivapithecus )),(Gorilla ,(Ouranopithecus ,(Griphopithecus ,Lufengpithecus )))))))),((Simiolus ,(Rangwapithecus ,(Nyanzapithecus ,(Oreopithecus ,Turkanapithecu )))),(Otavipithecus ,(Napak_Material ,Afropithecus ))))),(Hylobates ,Aegyptopithecu )))));
+tree tnt_5 = [&U] 
+(Propliopithecu ,(Micropithecus ,(Proconsul ,(Hylobates ,(Aegyptopithecu ,(Dendropithecus ,((Kalepithecus ,(Limnopithecus ,(Kenyapithecus ,((Pongo ,(Pan ,(Dryopithecus ,Sivapithecus ))),(Gorilla ,(Lufengpithecus ,(Ouranopithecus ,Griphopithecus ))))))),((Simiolus ,(Rangwapithecus ,(Nyanzapithecus ,(Oreopithecus ,Turkanapithecu )))),(Otavipithecus ,(Napak_Material ,Afropithecus ))))))))));
+tree tnt_6 = [&U] 
+(Propliopithecu ,(Micropithecus ,(Proconsul ,((Dendropithecus ,(((Kalepithecus ,(Limnopithecus ,(Kenyapithecus ,((Pongo ,(Pan ,(Dryopithecus ,Sivapithecus ))),(Gorilla ,(Ouranopithecus ,(Griphopithecus ,Lufengpithecus ))))))),(Simiolus ,(Rangwapithecus ,(Nyanzapithecus ,(Oreopithecus ,Turkanapithecu ))))),(Otavipithecus ,(Napak_Material ,Afropithecus )))),(Hylobates ,Aegyptopithecu )))));
+tree tnt_7 = [&U] 
+(Propliopithecu ,(Micropithecus ,(Proconsul ,(Aegyptopithecu ,(Hylobates ,(Dendropithecus ,(((Kalepithecus ,(Limnopithecus ,(Kenyapithecus ,(Pongo ,((Pan ,(Dryopithecus ,Sivapithecus )),(Gorilla ,(Lufengpithecus ,(Ouranopithecus ,Griphopithecus )))))))),(Simiolus ,(Rangwapithecus ,(Nyanzapithecus ,(Oreopithecus ,Turkanapithecu ))))),(Otavipithecus ,(Napak_Material ,Afropithecus )))))))));
+tree tnt_8 = [&U] 
+(Propliopithecu ,(Micropithecus ,(Proconsul ,(((Dendropithecus ,((Kalepithecus ,(Limnopithecus ,(Kenyapithecus ,((Pongo ,(Pan ,(Dryopithecus ,Sivapithecus ))),(Gorilla ,(Ouranopithecus ,(Griphopithecus ,Lufengpithecus ))))))),(Simiolus ,(Rangwapithecus ,(Nyanzapithecus ,(Oreopithecus ,Turkanapithecu )))))),(Otavipithecus ,(Napak_Material ,Afropithecus ))),(Hylobates ,Aegyptopithecu )))));
+tree tnt_9 = [&U] 
+(Propliopithecu ,(Micropithecus ,(Proconsul ,((Dendropithecus ,(((Kalepithecus ,(Limnopithecus ,(Kenyapithecus ,(((Pan ,Pongo ),(Dryopithecus ,Sivapithecus )),(Gorilla ,(Ouranopithecus ,(Griphopithecus ,Lufengpithecus ))))))),(Simiolus ,(Rangwapithecus ,(Nyanzapithecus ,(Oreopithecus ,Turkanapithecu ))))),(Otavipithecus ,(Napak_Material ,Afropithecus )))),(Hylobates ,Aegyptopithecu )))));
+tree tnt_10 = [&U] 
+(Propliopithecu ,(Micropithecus ,(Proconsul ,(Hylobates ,Aegyptopithecu ,(Dendropithecus ,(Kalepithecus ,(Limnopithecus ,(Kenyapithecus ,(Pan ,Pongo ,(Gorilla ,(Ouranopithecus ,Griphopithecus ,Lufengpithecus )),(Dryopithecus ,Sivapithecus ))))),(Simiolus ,(Rangwapithecus ,(Nyanzapithecus ,(Oreopithecus ,Turkanapithecu )))),(Otavipithecus ,(Napak_Material ,Afropithecus )))))));
+
+end ; 

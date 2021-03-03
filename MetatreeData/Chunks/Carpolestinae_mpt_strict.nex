@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(Elphidotarsius_florencae ,(Subengius_mengi ,((Elphidotarsius_wightoni ,(Carpocristes_oriens ,(Carpodaptes_hazelae ,(Carpodaptes_aulacodon ,(Carpodaptes_rosei ,(Carpodaptes_cygneus ,(Carpodaptes_stonleyi ,(Carpodaptes_jepseni ,(Carpodaptes_hobackensis ,(Carpolestes_dubius ,(Carpolestes_nigridens ,Carpolestes_simpsoni ))))))))))),(Elphidotarsius_russelli ,Elphidotarsius_shotgunensi )))));
+tree tnt_2 = [&U] 
+(allzero ,(Elphidotarsius_florencae ,(Subengius_mengi ,((Elphidotarsius_wightoni ,(Carpocristes_oriens ,(Carpodaptes_hazelae ,(Carpodaptes_aulacodon ,(Carpodaptes_rosei ,(Carpodaptes_cygneus ,(Carpodaptes_stonleyi ,(Carpodaptes_jepseni ,(Carpodaptes_hobackensis ,(Carpolestes_dubius ,(Carpolestes_nigridens ,Carpolestes_simpsoni ))))))))))),(Elphidotarsius_russelli ,Elphidotarsius_shotgunensi )))));
+
+end ; 

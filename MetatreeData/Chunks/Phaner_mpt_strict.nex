@@ -1,0 +1,15 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(Phaner_furcifer ,(Phaner_electromonti ,(Phaner_pallescens ,Phaner_parienti ))));
+tree tnt_2 = [&U] 
+(allzero ,(Phaner_furcifer ,(Phaner_pallescens ,(Phaner_electromonti ,Phaner_parienti ))));
+tree tnt_3 = [&U] 
+(allzero ,(Phaner_pallescens ,(Phaner_furcifer ,(Phaner_electromonti ,Phaner_parienti ))));
+tree tnt_4 = [&U] 
+(allzero ,((Phaner_electromonti ,Phaner_parienti ),(Phaner_furcifer ,Phaner_pallescens )));
+tree tnt_5 = [&U] 
+(allzero ,(Phaner_electromonti ,Phaner_furcifer ,Phaner_pallescens ,Phaner_parienti ));
+
+end ; 

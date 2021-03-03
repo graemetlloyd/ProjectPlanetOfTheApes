@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,((Sapajus_apella ,Sapajus_libidinosus ),(Sapajus_robustus ,Sapajus_xanthosterno )));
+tree tnt_2 = [&U] 
+(allzero ,((Sapajus_apella ,Sapajus_libidinosus ),(Sapajus_robustus ,Sapajus_xanthosterno )));
+
+end ; 

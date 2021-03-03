@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Beard, K.C.</List>
+			<List>Ni, X.</List>
+			<List>Wang, Y.</List>
+			<List>Meng, J.</List>
+			<List>Gebo, D.L.</List>
+		</Author>
+		<Year>2016</Year>
+		<Title>Dentition of Subengius mengi (Mammalia: Plesiadapoidea) and a reassessment of the phylogenetic relationships of Asian Carpolestidae</Title>
+		<Journal>Vertebrata Palasiatica</Journal>
+		<Volume>54</Volume>
+		<Pages>181−211</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List recon_name="Purgatorius_janisae" recon_no="51268">Purgatorius_janisae</List>
+		<List recon_name="Pandemonium_dis" recon_no="49731">Pandemonium_dis</List>
+		<List recon_name="Pronothodectes_matthewi" recon_no="50864">Pronothodectes_matthewi</List>
+		<List recon_name="Pronothodectes_jepi" recon_no="50863">Pronothodectes_jepi</List>
+		<List recon_name="Pronothodectes_gaoi" recon_no="50861">Pronothodectes_gaoi</List>
+		<List recon_name="Saxonella_crepaturae" recon_no="136762">Saxonella_crepaturae</List>
+		<List recon_name="Saxonella_naylori" recon_no="51402">Saxonella_naylori</List>
+		<List recon_name="Chronolestes_simul" recon_no="144290">Chronolestes_simul</List>
+		<List recon_name="Elphidotarsius_florencae" recon_no="46063">Elphidotarsius_florencae</List>
+		<List recon_name="Elphidotarsius_shotgunensis" recon_no="46065">Elphidotarsius_shotgunensis</List>
+		<List recon_name="Elphidotarsius_wightoni" recon_no="46066">Elphidotarsius_wightoni</List>
+		<List recon_name="Elphidotarsius_russelli" recon_no="46064">Elphidotarsius_russelli</List>
+		<List recon_name="Subengius_mengi" recon_no="143014">Subengius_mengi</List>
+		<List recon_name="Carpodaptes_hazelae" recon_no="44940">Carpodaptes_hazelae</List>
+		<List recon_name="Carpodaptes_aulacodon" recon_no="44937">Carpodaptes_aulacodon</List>
+		<List recon_name="Carpodaptes_cygneus" recon_no="44938">Carpodaptes_cygneus</List>
+		<List recon_name="Carpodaptes_stonleyi" recon_no="44945">Carpodaptes_stonleyi</List>
+		<List recon_name="Carpodaptes_hobackensis" recon_no="44941">Carpodaptes_hobackensis</List>
+		<List recon_name="Carpodaptes_jepseni" recon_no="44942">Carpodaptes_jepseni</List>
+		<List recon_name="Carpodaptes_rosei" recon_no="44944">Carpodaptes_rosei</List>
+		<List recon_name="Carpocristes_oriens" recon_no="144291">Carpocristes_oriens</List>
+		<List recon_name="Carpolestes_dubius" recon_no="44948">Carpolestes_dubius</List>
+		<List recon_name="Carpolestes_nigridens" recon_no="44950">Carpolestes_nigridens</List>
+		<List recon_name="Carpolestes_simpsoni" recon_no="44951">Carpolestes_simpsoni</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="77">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Beard_etal_2016b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

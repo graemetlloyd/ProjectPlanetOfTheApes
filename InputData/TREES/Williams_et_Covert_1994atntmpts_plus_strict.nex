@@ -1,0 +1,11 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Teilhardina_americana ,(Tetonoides_pearcei ,(Anemorhysis_savagei ,(Anemorhysis_pattersoni ,(Anemorhysis_natronensis ,(Trogolemur_myodes ,(Anemorhysis_sublettensi ,Anemorhysis_wortmani )))))));
+tree tnt_2 = [&U] 
+(Teilhardina_americana ,(Tetonoides_pearcei ,(Anemorhysis_savagei ,((Anemorhysis_sublettensi ,Anemorhysis_wortmani ),(Anemorhysis_pattersoni ,(Anemorhysis_natronensis ,Trogolemur_myodes ))))));
+tree tnt_3 = [&U] 
+(Teilhardina_americana ,(Tetonoides_pearcei ,(Anemorhysis_savagei ,(Anemorhysis_pattersoni ,Anemorhysis_natronensis ,Trogolemur_myodes ,(Anemorhysis_sublettensi ,Anemorhysis_wortmani )))));
+
+end ; 

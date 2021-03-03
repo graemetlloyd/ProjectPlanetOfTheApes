@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Moyà‐Solà S.</List>
+			<List>Köhler, M.</List>
+			<List>Alba, D.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Egarapithecus narcisoi, a new genus of Pliopithecidae (primates, catarrhini) from the Late Miocene of Spain</Title>
+		<Journal>American Journal of Physical Anthropology</Journal>
+		<Volume>114</Volume>
+		<Pages>312–324</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="6">
+		<List recon_name="Pliopithecus" recon_no="40887">Pliopithecus</List>
+		<List recon_name="Crouzelia_auscitanensis,Crouzelia_rhodanica" recon_no="385521;385522">Crouzelia</List>
+		<List recon_name="Plesiopliopithecus_lockeri" recon_no="385519">Plesiopliopithecus</List>
+		<List recon_name="Anapithecus_hernyaki" recon_no="384960">Anapithecus</List>
+		<List recon_name="Laccopithecus_robustus" recon_no="58366">Laccopithecus</List>
+		<List recon_name="Egarapithecus_narcisoi" recon_no="385051">Egarapithecus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="12">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Moya-Sola_etal_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

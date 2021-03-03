@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Victoriapithecus ,(Parapapio_lothagamensis ,(Parapapio_ado ,(Parapapio_jonesi ,(Parapapio_whitei ,(((Allenopithecus ,Macaca_sp ),((Cercocebus_torquatus ,(Cercocebus_atys ,(Cercocebus_agilis ,Cercocebus_chrysogaster ))),(Procercocebus ,(Soromandrillus ,(Mandrillus_leucophaeus ,Mandrillus_sphinx ))))),(Parapapio_broomi ,(Pliopapio ,(Dinopithecus ,(Papio_izodi ,(Gorgopithecus ,(Papio_robinsoni ,((Papio_papio ,(Papio_hamadryas ,((Papio_anubis ,(Papio_cynocephalus ,(Papio_ursinus ,(Lophocebus_sp_nov ,(Rungwecebus_kipunji ,(Lophocebus_albigena ,Lophocebus_aterrimus )))))),(Papio_kindae ,Papio_angusticeps )))),(Theropithecus_baringensis ,(Theropithecus_brumpti ,(Theropithecus_gelada ,Theropithecus_oswaldi_dart ))))))))))))))));
+tree tnt_2 = [&U] 
+(Victoriapithecus ,(Parapapio_lothagamensis ,(Parapapio_ado ,(Parapapio_jonesi ,(Parapapio_whitei ,(((Allenopithecus ,Macaca_sp ),((Cercocebus_torquatus ,(Cercocebus_atys ,(Cercocebus_agilis ,Cercocebus_chrysogaster ))),(Procercocebus ,(Soromandrillus ,(Mandrillus_leucophaeus ,Mandrillus_sphinx ))))),(Parapapio_broomi ,(Pliopapio ,(Dinopithecus ,(Papio_izodi ,(Gorgopithecus ,(Papio_robinsoni ,((Papio_papio ,(Papio_hamadryas ,((Papio_anubis ,(Papio_cynocephalus ,(Papio_ursinus ,(Lophocebus_sp_nov ,(Rungwecebus_kipunji ,(Lophocebus_albigena ,Lophocebus_aterrimus )))))),(Papio_kindae ,Papio_angusticeps )))),(Theropithecus_baringensis ,(Theropithecus_brumpti ,(Theropithecus_gelada ,Theropithecus_oswaldi_dart ))))))))))))))));
+
+end ; 

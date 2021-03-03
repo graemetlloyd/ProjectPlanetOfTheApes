@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Purgatorius_janisae ,(Purgatorius_unio ,(Pandemonium_dis ,(Chronolestes_simul ,(((Elphidotarsius_florencae ,(Elphidotarsius_wightoni ,(Elphidotarsius_shotgunensi ,(Elphidotarsius_russelli ,Carpodaptes_hazelae )))),(Pronothodectes_gaoi ,(Pronothodectes_matthewi ,Pronothodectes_jepi ))),(Saxonella_crepaturae ,Saxonella_naylori ))))));
+tree tnt_2 = [&U] 
+(Purgatorius_janisae ,(Purgatorius_unio ,(Pandemonium_dis ,(Chronolestes_simul ,(((Elphidotarsius_florencae ,(Elphidotarsius_wightoni ,(Elphidotarsius_shotgunensi ,(Elphidotarsius_russelli ,Carpodaptes_hazelae )))),(Pronothodectes_gaoi ,(Pronothodectes_matthewi ,Pronothodectes_jepi ))),(Saxonella_crepaturae ,Saxonella_naylori ))))));
+
+end ; 

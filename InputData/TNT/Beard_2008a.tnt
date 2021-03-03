@@ -1,0 +1,26 @@
+taxname=;
+mxram 4096;
+taxname +25;
+nstates num 32;
+xread
+''
+26 11
+& [numeric]
+Purgatorius_janisae        100000000?0010100000011000
+Donrussellia_provincialis  00000001011021210100101001
+Teilhardina_asiatica       00100011000000000000001000
+Teilhardina_belgica        01110111101011100110100101
+Teilhardina_brandti        ?????1111010121[012]0210100111
+Teilhardina_americana      1[12]120121111022121210111112
+Steinius_vespertinus       01110121111122121210111002
+Teilhardina_crassidens     12121131121103221311111112
+Tetonius_matthewi          22121131111023121211110112
+Teilhardina_magnoliana     ?????111000011100000000101
+Donrussellia_gallica       ????0100001020211100001001
+;
+ccode +[/1 0 +[/1 1 -[/1 2 +[/1 3 -[/1 4 -[/1 5 +[/1 6 -[/1 7 -[/1 8 +[/1 9 -[/1 10 +[/1 11 +[/1 12 +[/1 13 +[/1 14 +[/1 15 -[/1 16 +[/1 17 -[/1 18 -[/1 19 -[/1 20 -[/1 21 -[/1 22 -[/1 23 -[/1 24 +[/1 25 ;
+collapse [;
+ienum; nelsen*; export -Beard_2008atntmpts_plus_strict.nex; mrp;
+export Beard_2008amrp.nex; 
+proc/;
+

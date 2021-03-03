@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Alba, D.M.</List>
+			<List>Almécija, S.</List>
+			<List>DeMiguel, D.</List>
+			<List>Fortuny, J.</List>
+			<List>Pérez de los Ríos, M.</List>
+			<List>Pina, M.</List>
+			<List>Robles, J.M.</List>
+			<List>Moyà-Solà, S.</List>		
+		</Author>
+		<Year>2015</Year>
+		<Title>Miocene small-bodied ape from Eurasia sheds light on hominoid evolution</Title>
+		<Journal>Science</Journal>
+		<Volume>350</Volume>
+		<Pages>aab2625-1-aab2625-9</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List recon_name="Aegyptopithecus_zeuxis" recon_no="100577">Aegyptopithecus</List>
+		<List recon_name="Saadanius" recon_no="169687">Saadanius</List>
+		<List recon_name="Victoriapithecus_macinnesi" recon_no="135923">Victoriapithecus</List>
+		<List recon_name="Macaca" recon_no="40869">Macaca</List>
+		<List recon_name="Pliopithecus" recon_no="40887">Pliopithecus</List>
+		<List recon_name="Pliopithecus_(Epipliopithecus)" recon_no="385246">Epipliopithecus</List>
+		<List recon_name="Dionysopithecus" recon_no="143130">Dionysopithecus</List>
+		<List recon_name="Barberapithecus" recon_no="385299">Barberapithecus</List>
+		<List recon_name="Anapithecus" recon_no="143141">Anapithecus</List>
+		<List recon_name="Plesiopliopithecus" recon_no="143140">Plesiopliopithecus</List>
+		<List recon_name="Dendropithecus,Simiolus" recon_no="40885;132668">Dendropithecus_Simiolus</List>
+		<List recon_name="Micropithecus" recon_no="143126">Micropithecus</List>
+		<List recon_name="Proconsul" recon_no="40895">Proconsul</List>
+		<List recon_name="Hylobatidae" recon_no="40889">Hylobatidae</List>
+		<List recon_name="Pierolapithecus" recon_no="157888">Pierolapithecus</List>
+		<List recon_name="Hispanopithecus" recon_no="97186">Hispanopithecus</List>
+		<List recon_name="Pongo" recon_no="40897">Pongo</List>
+		<List recon_name="Gorilla" recon_no="97178">Gorilla</List>
+		<List recon_name="Pan" recon_no="97177">Pan</List>
+		<List recon_name="Pliobates_cataloniae" recon_no="384426">Pliobates</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="319">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Alba_etal_2015a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,26 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=12 NCHAR=10 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Ancestor                       0000000000
+Plesiadapidae                  1100000000
+Saxonella                      1100000000
+Chronolestes_simul             1010000000
+Elphidotarsius_sp_cf_lorencae  1011000000
+Elphidotarsius_wightoni        1011100000
+Carpodaptes_hazelae            1011111000
+Carpodaptes_jepseni            1011111100
+Carpolestes                    1011111100
+Carpocristes_cygneus           1011110010
+Carpocristes_hobackensis       1011110011
+Carpocristes_oriens            1011110011
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

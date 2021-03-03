@@ -1,0 +1,35 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=21 NCHAR=20 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Arctocebus_calabarensis  00000000000000000000
+Allocebus_trichotis      11111100000000000000
+Microcebus_murinus       11111110000000000000
+Microcebus_rufus         11111110000000000000
+Loris_tardigradus        10000000000000000000
+Nycticebus_coucang       11100000000000000000
+Nycticebus_pygmaeus      11000000000000000000
+Perodicticus_potto       11110000000000000000
+Galagoides_alleni        11111001111111100000
+Otolemur_crassicaudatus  11111001000000010000
+Galagoides_demidoff      11111001111111101100
+Galago_elegantulus       11111001110000000010
+Galago_gallarum          11111001111000000001
+Otolemur_garnettii       11111001100000010000
+Galagoides_granti        11111001111111101000
+Galago_matschiei         11111001111110000000
+Galago_moholi            11111001111101000000
+Galago_pallidus          11111001110000000010
+Galago_senegalensis      11111001111000000001
+Galagoides_thomasi       11111001111111101100
+Galagoides_zanzibaricus  11111001111111101000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

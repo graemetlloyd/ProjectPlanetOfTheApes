@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(Cercocebus_torquatus ,(Cercocebus_atys ,(Cercocebus_chrysogaste ,(Cercocebus_agilis ,Cercocebus_galeritus )))));
+tree tnt_2 = [&U] 
+(allzero ,(Cercocebus_torquatus ,(Cercocebus_atys ,(Cercocebus_chrysogaste ,(Cercocebus_agilis ,Cercocebus_galeritus )))));
+
+end ; 

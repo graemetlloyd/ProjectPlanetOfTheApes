@@ -1,0 +1,17 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(Notharctus_robustior ,(Notharctus_sp_SPECIMENNUMBE ,(Notharctus_venticolus ,(Notharctus_robinsoni ,Notharctus_tenebrosus )))));
+tree tnt_2 = [&U] 
+(allzero ,(Notharctus_sp_SPECIMENNUMBE ,(Notharctus_venticolus ,(Notharctus_robustior ,(Notharctus_robinsoni ,Notharctus_tenebrosus )))));
+tree tnt_3 = [&U] 
+(allzero ,(Notharctus_sp_SPECIMENNUMBE ,(Notharctus_venticolus ,(Notharctus_robinsoni ,(Notharctus_robustior ,Notharctus_tenebrosus )))));
+tree tnt_4 = [&U] 
+(allzero ,(Notharctus_robustior ,(Notharctus_venticolus ,(Notharctus_robinsoni ,(Notharctus_sp_SPECIMENNUMBE ,Notharctus_tenebrosus )))));
+tree tnt_5 = [&U] 
+(allzero ,(Notharctus_venticolus ,((Notharctus_robinsoni ,Notharctus_robustior ),(Notharctus_sp_SPECIMENNUMBE ,Notharctus_tenebrosus ))));
+tree tnt_6 = [&U] 
+(allzero ,(Notharctus_robinsoni ,Notharctus_robustior ,Notharctus_sp_SPECIMENNUMBE ,Notharctus_tenebrosus ,Notharctus_venticolus ));
+
+end ; 

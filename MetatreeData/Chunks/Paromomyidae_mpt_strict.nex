@@ -1,0 +1,19 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(((((Acidomomys_hebeticus ,(Ignacius_clarkforkensis ,(Ignacius_frugivorus ,(Ignacius_fremontensis ,Ignacius_graybullianus )))),(Phenacolemur_praecox ,(Phenacolemur_archus ,Phenacolemur_simonsi ))),(Simpsonlemur_citatus ,Simpsonlemur_jepseni )),(Arcius_zbyszewskii ,(Arcius_sp_MAM_6_STV_200 ,((Arcius_rougieri ,(Arcius_fuscus ,Arcius_lapparenti )),(Arcius_hookeri ,Arcius_ilerdensis ))))),(Edworthia_lerbekmoi ,(Paromomys_depressidens ,(Paromomys_farrandi ,Paromomys_maturus )))));
+tree tnt_2 = [&U] 
+(allzero ,(((((Acidomomys_hebeticus ,(Ignacius_clarkforkensis ,(Ignacius_frugivorus ,(Ignacius_fremontensis ,Ignacius_graybullianus )))),(Simpsonlemur_citatus ,Simpsonlemur_jepseni )),(Phenacolemur_praecox ,(Phenacolemur_archus ,Phenacolemur_simonsi ))),(Arcius_zbyszewskii ,(Arcius_sp_MAM_6_STV_200 ,((Arcius_rougieri ,(Arcius_fuscus ,Arcius_lapparenti )),(Arcius_hookeri ,Arcius_ilerdensis ))))),(Edworthia_lerbekmoi ,(Paromomys_depressidens ,(Paromomys_farrandi ,Paromomys_maturus )))));
+tree tnt_3 = [&U] 
+(allzero ,(((((Ignacius_clarkforkensis ,(Ignacius_frugivorus ,(Ignacius_fremontensis ,Ignacius_graybullianus ))),(Acidomomys_hebeticus ,(Simpsonlemur_citatus ,Simpsonlemur_jepseni ))),(Phenacolemur_praecox ,(Phenacolemur_archus ,Phenacolemur_simonsi ))),(Arcius_zbyszewskii ,(Arcius_sp_MAM_6_STV_200 ,((Arcius_rougieri ,(Arcius_fuscus ,Arcius_lapparenti )),(Arcius_hookeri ,Arcius_ilerdensis ))))),(Edworthia_lerbekmoi ,(Paromomys_depressidens ,(Paromomys_farrandi ,Paromomys_maturus )))));
+tree tnt_4 = [&U] 
+(allzero ,(((((Acidomomys_hebeticus ,(Ignacius_clarkforkensis ,(Ignacius_frugivorus ,(Ignacius_fremontensis ,Ignacius_graybullianus )))),(Phenacolemur_praecox ,(Phenacolemur_archus ,Phenacolemur_simonsi ))),(Simpsonlemur_citatus ,Simpsonlemur_jepseni )),(Arcius_zbyszewskii ,(Arcius_sp_MAM_6_STV_200 ,((Arcius_fuscus ,Arcius_lapparenti ),(Arcius_rougieri ,(Arcius_hookeri ,Arcius_ilerdensis )))))),(Edworthia_lerbekmoi ,(Paromomys_depressidens ,(Paromomys_farrandi ,Paromomys_maturus )))));
+tree tnt_5 = [&U] 
+(allzero ,(((((Acidomomys_hebeticus ,(Ignacius_clarkforkensis ,(Ignacius_frugivorus ,(Ignacius_fremontensis ,Ignacius_graybullianus )))),(Simpsonlemur_citatus ,Simpsonlemur_jepseni )),(Phenacolemur_praecox ,(Phenacolemur_archus ,Phenacolemur_simonsi ))),(Arcius_zbyszewskii ,(Arcius_sp_MAM_6_STV_200 ,((Arcius_fuscus ,Arcius_lapparenti ),(Arcius_rougieri ,(Arcius_hookeri ,Arcius_ilerdensis )))))),(Edworthia_lerbekmoi ,(Paromomys_depressidens ,(Paromomys_farrandi ,Paromomys_maturus )))));
+tree tnt_6 = [&U] 
+(allzero ,(((((Ignacius_clarkforkensis ,(Ignacius_frugivorus ,(Ignacius_fremontensis ,Ignacius_graybullianus ))),(Acidomomys_hebeticus ,(Simpsonlemur_citatus ,Simpsonlemur_jepseni ))),(Phenacolemur_praecox ,(Phenacolemur_archus ,Phenacolemur_simonsi ))),(Arcius_zbyszewskii ,(Arcius_sp_MAM_6_STV_200 ,((Arcius_fuscus ,Arcius_lapparenti ),(Arcius_rougieri ,(Arcius_hookeri ,Arcius_ilerdensis )))))),(Edworthia_lerbekmoi ,(Paromomys_depressidens ,(Paromomys_farrandi ,Paromomys_maturus )))));
+tree tnt_7 = [&U] 
+(allzero ,(((Acidomomys_hebeticus ,(Ignacius_clarkforkensis ,Ignacius_fremontensis ,Ignacius_frugivorus ,Ignacius_graybullianus ),(Phenacolemur_archus ,Phenacolemur_praecox ,Phenacolemur_simonsi ),(Simpsonlemur_citatus ,Simpsonlemur_jepseni )),(Arcius_zbyszewskii ,(Arcius_sp_MAM_6_STV_200 ,(Arcius_rougieri ,(Arcius_fuscus ,Arcius_lapparenti ),(Arcius_hookeri ,Arcius_ilerdensis ))))),(Edworthia_lerbekmoi ,(Paromomys_depressidens ,Paromomys_farrandi ,Paromomys_maturus ))));
+
+end ; 

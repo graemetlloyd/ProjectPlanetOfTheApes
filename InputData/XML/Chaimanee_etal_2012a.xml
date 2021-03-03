@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Chaimanee, Y.</List>
+			<List>Chavasseau, O.</List>
+			<List>Beard, K.C.</List>
+			<List>Kyaw, A.A.</List>
+			<List>Soe, A.N.</List>
+			<List>Sein, C.</List>
+			<List>Lazzari, V.</List>
+			<List>Marivaux, L.</List>
+			<List>Marandat, B.</List>
+			<List>Swe, M.</List>
+			<List>Rugbumrung, M.</List>
+			<List>Lwin, T.</List>
+			<List>Valentin, X.</List>
+			<List>Thein, Z.</List>
+			<List>Jaeger, J.</List>		
+		</Author>
+		<Year>2012</Year>
+		<Title>Late Middle Eocene primate from Myanmar and the initial anthropoid colonization of Africa</Title>
+		<Journal>Proceedings of the National Academy of Sciences</Journal>
+		<Volume>109</Volume>
+		<Pages>10293-10297</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="28">
+		<List recon_name="Adapis_parisiensis" recon_no="57922">Adapis</List>
+		<List recon_name="Cantius_eppsi" recon_no="347832">Cantius</List>
+		<List recon_name="Leptadapis_magnus" recon_no="127247">Leptadapis</List>
+		<List recon_name="Absarokius_sp_SPECIMENNUMBER,Absarokius_abbotti" recon_no="40794;43687">Absarokius</List>
+		<List recon_name="Hemiacodon_gracilis" recon_no="46847">Hemiacodon</List>
+		<List recon_name="Shoshonius_cooperi" recon_no="51543">Shoshonius</List>
+		<List recon_name="Teilhardina_americana" recon_no="52105">Teilhardina_a</List>
+		<List recon_name="Eosimias_sp_SPECIMENNUMBER,Eosimias_sinensis,Eosimias_centennicus" recon_no="92597;101397;105205">Eosimias</List>
+		<List recon_name="Phenacopithecus_krishtalkai,Phenacopithecus_xueshii" recon_no="105209;105208">Phenacopithecus</List>
+		<List recon_name="Bahinia_pondaungensis" recon_no="58155">Bahinia</List>
+		<List recon_name="Xanthorhysis_tabrumi" recon_no="89728">Xanthorhysis</List>
+		<List recon_name="Aegyptopithecus_zeuxis" recon_no="100577">Aegyptopithecus</List>
+		<List recon_name="Moeripithecus_markgrafi" recon_no="145160">Moeripithecus</List>
+		<List recon_name="Apidium_phiomense" recon_no="100576">Apidium</List>
+		<List recon_name="Catopithecus_browni" recon_no="97121">Catopithecus</List>
+		<List recon_name="Parapithecus_fraasi" recon_no="144353">Parapithecus</List>
+		<List recon_name="Proteopithecus_sylviae" recon_no="97123">Proteopithecus</List>
+		<List recon_name="Qatrania_wingi" recon_no="100570">Qatrania</List>
+		<List recon_name="Simonsius_grangeri" recon_no="144356">Simonsius</List>
+		<List recon_name="Biretia" recon_no="100639">Biretia</List>
+		<List recon_name="Dolichocebus_gaimanensis" recon_no="100572">Dolichocebus</List>
+		<List recon_name="Branisella_boliviana" recon_no="165990">Branisella</List>
+		<List recon_name="Myanmarpithecus_yarshensis" recon_no="106801">Myanmarpithecus</List>
+		<List recon_name="Pondaungia_cotteri" recon_no="100581">Pondaungia</List>
+		<List recon_name="Siamopithecus_eocaenus" recon_no="145178">Siamopithecus</List>
+		<List recon_name="Afrasia_djijidae" recon_no="308481">Afrasia_djijidae</List>
+		<List recon_name="Afrotarsius_libycus" recon_no="172405">Afrotarsius_libycus</List>
+		<List recon_name="Tarsius_sp_SPECIMENNUMBER,Tarsius_spectrum" recon_no="101390;232744">Tarsius</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="316">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Chaimanee_etal_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Biretia_megalopsis ,(Biretia_fayumensis ,Biretia_piveteaui ,((Simonsius_grangeri ,Parapithecus_fraasi ),(Qatrania_wingi ,Qatrania_basiodonto ,(Apidium_bowni ,(Apidium_moustafai ,(Apidium_zuetina ,Apidium_phiomense )))))));
+tree tnt_2 = [&U] 
+(Biretia_megalopsis ,(Biretia_fayumensis ,Biretia_piveteaui ,((Simonsius_grangeri ,Parapithecus_fraasi ),(Qatrania_wingi ,Qatrania_basiodonto ,(Apidium_bowni ,(Apidium_moustafai ,(Apidium_zuetina ,Apidium_phiomense )))))));
+
+end ; 

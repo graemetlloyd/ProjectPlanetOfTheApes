@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Dembo, M.</List>
+			<List>Matzke, N.J.</List>
+			<List>Mooers, A.O.</List>
+			<List>Collard, M.</List>	
+		</Author>
+		<Year>2015</Year>
+		<Title>Bayesian analysis of a morphological supermatrix sheds light on controversial fossil hominin relationships</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>282</Volume>
+		<Pages>20150943</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List recon_name="Gorilla_gorilla" recon_no="231497">Gorilla_gorilla</List>
+		<List recon_name="Pan_troglodytes" recon_no="157891">Pan_troglodytes</List>
+		<List recon_name="Sahelanthropus_tchadensis" recon_no="77368">Sahelanthropus_tchadensis</List>
+		<List recon_name="Ardipithecus_ramidus" recon_no="83060">Ardipithecus_ramidus</List>
+		<List recon_name="Australopithecus_anamensis" recon_no="384433">Australopithecus_anamensis</List>
+		<List recon_name="Australopithecus_afarensis" recon_no="83055">Australopithecus_afarensis</List>
+		<List recon_name="Australopithecus_africanus" recon_no="83066">Australopithecus_africanus</List>
+		<List recon_name="Australopithecus_garhi" recon_no="384431">Australopithecus_garhi</List>
+		<List recon_name="Kenyanthropus_platyops" recon_no="83080">Kenyanthropus_platyops</List>
+		<List recon_name="Paranthropus_robustus" recon_no="385304">Paranthropus_robustus</List>
+		<List recon_name="Paranthropus_boisei" recon_no="385303">Paranthropus_boisei</List>
+		<List recon_name="Paranthropus_aethiopicus" recon_no="385302">Paranthropus_aethiopicus</List>
+		<List recon_name="Australopithecus_sediba" recon_no="165364">Australopithecus_sediba</List>
+		<List recon_name="Homo_habilis" recon_no="83082">Homo_habilis</List>
+		<List recon_name="Homo_rudolfensis" recon_no="83081">Homo_rudolfensis</List>
+		<List recon_name="Homo_ergaster" recon_no="83083">Homo_ergaster</List>
+		<List recon_name="Homo_erectus" recon_no="376854">Homo_erectus</List>
+		<List recon_name="Homo_heidelbergensis" recon_no="83086">Homo_heidelbergensis</List>
+		<List recon_name="Homo_neanderthalensis" recon_no="83087">Homo_neanderthalensis</List>
+		<List recon_name="Homo_floresiensis" recon_no="91487">Homo_floresiensis</List>
+		<List recon_name="Homo_sapiens" recon_no="83088">Homo_sapiens</List>
+		<List recon_name="Homo_antecessor" recon_no="83085">Homo_antecessor</List>
+		<List recon_name="DELETE" recon_no="0">small_bodied_Dmanisi</List>
+		<List recon_name="Homo_erectus" recon_no="376854">D4500</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="380">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Dembo_etal_2015a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

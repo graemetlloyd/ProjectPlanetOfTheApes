@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Outgroup ,(Proconsul ,(Afropithecus ,(Kenyapithecus ,(Hylobates ,(Oreopithecus ,(Lufengpithecus ,((Ouranopithecus ,(Dryopithecus ,(Gorilla ,(Australopithecu ,Pan )))),(Pongo ,Sivapithecus )))))))));
+tree tnt_2 = [&U] 
+(Outgroup ,(Proconsul ,(Afropithecus ,(Kenyapithecus ,(Hylobates ,(Oreopithecus ,(Lufengpithecus ,((Ouranopithecus ,(Dryopithecus ,(Gorilla ,(Australopithecu ,Pan )))),(Pongo ,Sivapithecus )))))))));
+
+end ; 

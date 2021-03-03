@@ -1,0 +1,207 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(Plecturocebus_ornatus ,((Plecturocebus_cupreus ,(Plecturocebus_discolor ,(Plecturocebus_hoffmannsi ,(Plecturocebus_brunneus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu ))));
+tree tnt_2 = [&U] 
+(allzero ,((Plecturocebus_ornatus ,(Plecturocebus_cupreus ,(Plecturocebus_discolor ,(Plecturocebus_hoffmannsi ,(Plecturocebus_brunneus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_3 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_discolor ,(Plecturocebus_hoffmannsi ,(Plecturocebus_brunneus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )))))),(Plecturocebus_ornatus ,(Plecturocebus_caligatus ,Plecturocebus_donacophilu ))));
+tree tnt_4 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_ornatus ,(Plecturocebus_discolor ,(Plecturocebus_hoffmannsi ,(Plecturocebus_brunneus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_5 = [&U] 
+(allzero ,(((Plecturocebus_discolor ,(Plecturocebus_hoffmannsi ,(Plecturocebus_brunneus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))))),(Plecturocebus_cupreus ,Plecturocebus_ornatus )),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_6 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_discolor ,(Plecturocebus_hoffmannsi ,(Plecturocebus_brunneus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )))))),(Plecturocebus_caligatus ,(Plecturocebus_donacophilu ,Plecturocebus_ornatus ))));
+tree tnt_7 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_hoffmannsi ,(Plecturocebus_brunneus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )))),(Plecturocebus_discolor ,Plecturocebus_ornatus ))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_8 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_discolor ,(Plecturocebus_ornatus ,(Plecturocebus_hoffmannsi ,(Plecturocebus_brunneus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_9 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_discolor ,((Plecturocebus_brunneus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_hoffmannsi ,Plecturocebus_ornatus )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_10 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_discolor ,(Plecturocebus_hoffmannsi ,(Plecturocebus_ornatus ,(Plecturocebus_brunneus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_11 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_discolor ,(Plecturocebus_hoffmannsi ,(((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_brunneus ,Plecturocebus_ornatus ))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_12 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_discolor ,(Plecturocebus_hoffmannsi ,(Plecturocebus_brunneus ,(Plecturocebus_ornatus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_13 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_discolor ,(Plecturocebus_hoffmannsi ,(Plecturocebus_brunneus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_ornatus ,(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_14 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_discolor ,(Plecturocebus_hoffmannsi ,(Plecturocebus_brunneus ,((Plecturocebus_ornatus ,(Plecturocebus_bernhardi ,Plecturocebus_moloch )),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_15 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_discolor ,(Plecturocebus_hoffmannsi ,(Plecturocebus_brunneus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,(Plecturocebus_miltoni ,Plecturocebus_ornatus ))))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_16 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_discolor ,(Plecturocebus_hoffmannsi ,(Plecturocebus_brunneus ,((Plecturocebus_bernhardi ,(Plecturocebus_moloch ,Plecturocebus_ornatus )),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_17 = [&U] 
+(allzero ,(Plecturocebus_ornatus ,((Plecturocebus_cupreus ,((Plecturocebus_brunneus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_discolor ,Plecturocebus_hoffmannsi ))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu ))));
+tree tnt_18 = [&U] 
+(allzero ,((Plecturocebus_ornatus ,(Plecturocebus_cupreus ,((Plecturocebus_brunneus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_discolor ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_19 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_brunneus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_discolor ,Plecturocebus_hoffmannsi ))),(Plecturocebus_ornatus ,(Plecturocebus_caligatus ,Plecturocebus_donacophilu ))));
+tree tnt_20 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_ornatus ,((Plecturocebus_brunneus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_discolor ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_21 = [&U] 
+(allzero ,((((Plecturocebus_brunneus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_discolor ,Plecturocebus_hoffmannsi )),(Plecturocebus_cupreus ,Plecturocebus_ornatus )),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_22 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_brunneus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_discolor ,Plecturocebus_hoffmannsi ))),(Plecturocebus_caligatus ,(Plecturocebus_donacophilu ,Plecturocebus_ornatus ))));
+tree tnt_23 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_ornatus ,(Plecturocebus_brunneus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )))),(Plecturocebus_discolor ,Plecturocebus_hoffmannsi ))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_24 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_brunneus ,Plecturocebus_ornatus )),(Plecturocebus_discolor ,Plecturocebus_hoffmannsi ))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_25 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_brunneus ,(Plecturocebus_ornatus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )))),(Plecturocebus_discolor ,Plecturocebus_hoffmannsi ))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_26 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_brunneus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_discolor ,(Plecturocebus_hoffmannsi ,Plecturocebus_ornatus )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_27 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_brunneus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_ornatus ,(Plecturocebus_cinerascens ,Plecturocebus_miltoni )))),(Plecturocebus_discolor ,Plecturocebus_hoffmannsi ))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_28 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_brunneus ,((Plecturocebus_ornatus ,(Plecturocebus_bernhardi ,Plecturocebus_moloch )),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_discolor ,Plecturocebus_hoffmannsi ))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_29 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_brunneus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,(Plecturocebus_miltoni ,Plecturocebus_ornatus )))),(Plecturocebus_discolor ,Plecturocebus_hoffmannsi ))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_30 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_brunneus ,((Plecturocebus_bernhardi ,(Plecturocebus_moloch ,Plecturocebus_ornatus )),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_discolor ,Plecturocebus_hoffmannsi ))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_31 = [&U] 
+(allzero ,(Plecturocebus_ornatus ,((Plecturocebus_cupreus ,(Plecturocebus_discolor ,(((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu ))));
+tree tnt_32 = [&U] 
+(allzero ,((Plecturocebus_ornatus ,(Plecturocebus_cupreus ,(Plecturocebus_discolor ,(((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_33 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_discolor ,(((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_ornatus ,(Plecturocebus_caligatus ,Plecturocebus_donacophilu ))));
+tree tnt_34 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_ornatus ,(Plecturocebus_discolor ,(((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_35 = [&U] 
+(allzero ,(((Plecturocebus_discolor ,(((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ))),(Plecturocebus_cupreus ,Plecturocebus_ornatus )),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_36 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_discolor ,(((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,(Plecturocebus_donacophilu ,Plecturocebus_ornatus ))));
+tree tnt_37 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )),(Plecturocebus_discolor ,Plecturocebus_ornatus ))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_38 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_discolor ,(Plecturocebus_ornatus ,(((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_39 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_discolor ,((Plecturocebus_ornatus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_40 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_discolor ,(((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_hoffmannsi ,(Plecturocebus_brunneus ,Plecturocebus_ornatus ))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_41 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_discolor ,(((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_ornatus ,(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_42 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_discolor ,(((Plecturocebus_ornatus ,(Plecturocebus_bernhardi ,Plecturocebus_moloch )),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_43 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_discolor ,(((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,(Plecturocebus_miltoni ,Plecturocebus_ornatus ))),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_44 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_discolor ,(((Plecturocebus_bernhardi ,(Plecturocebus_moloch ,Plecturocebus_ornatus )),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_45 = [&U] 
+(allzero ,(Plecturocebus_ornatus ,((Plecturocebus_cupreus ,((Plecturocebus_discolor ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu ))));
+tree tnt_46 = [&U] 
+(allzero ,((Plecturocebus_ornatus ,(Plecturocebus_cupreus ,((Plecturocebus_discolor ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_47 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_discolor ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ))),(Plecturocebus_ornatus ,(Plecturocebus_caligatus ,Plecturocebus_donacophilu ))));
+tree tnt_48 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_ornatus ,((Plecturocebus_discolor ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_49 = [&U] 
+(allzero ,((((Plecturocebus_discolor ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )),(Plecturocebus_cupreus ,Plecturocebus_ornatus )),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_50 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_discolor ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ))),(Plecturocebus_caligatus ,(Plecturocebus_donacophilu ,Plecturocebus_ornatus ))));
+tree tnt_51 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_discolor ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_ornatus ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_52 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_discolor ,Plecturocebus_ornatus )),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_53 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_discolor ,(Plecturocebus_ornatus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )))),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_54 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_discolor ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_hoffmannsi ,(Plecturocebus_brunneus ,Plecturocebus_ornatus )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_55 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_discolor ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_ornatus ,(Plecturocebus_cinerascens ,Plecturocebus_miltoni )))),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_56 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_discolor ,((Plecturocebus_ornatus ,(Plecturocebus_bernhardi ,Plecturocebus_moloch )),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_57 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_discolor ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,(Plecturocebus_miltoni ,Plecturocebus_ornatus )))),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_58 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_discolor ,((Plecturocebus_bernhardi ,(Plecturocebus_moloch ,Plecturocebus_ornatus )),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_59 = [&U] 
+(allzero ,(Plecturocebus_ornatus ,((Plecturocebus_cupreus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),((Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu ))));
+tree tnt_60 = [&U] 
+(allzero ,((Plecturocebus_ornatus ,(Plecturocebus_cupreus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),((Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_61 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),((Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )))),(Plecturocebus_ornatus ,(Plecturocebus_caligatus ,Plecturocebus_donacophilu ))));
+tree tnt_62 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_ornatus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),((Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_63 = [&U] 
+(allzero ,((((Plecturocebus_bernhardi ,Plecturocebus_moloch ),((Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_cupreus ,Plecturocebus_ornatus )),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_64 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),((Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )))),(Plecturocebus_caligatus ,(Plecturocebus_donacophilu ,Plecturocebus_ornatus ))));
+tree tnt_65 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_ornatus ,((Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_66 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_ornatus ,(Plecturocebus_bernhardi ,Plecturocebus_moloch )),((Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_67 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),((Plecturocebus_ornatus ,(Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ))),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_68 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),((Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )),(Plecturocebus_ornatus ,(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_69 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_bernhardi ,(Plecturocebus_moloch ,Plecturocebus_ornatus )),((Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_70 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),((Plecturocebus_discolor ,(Plecturocebus_ornatus ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ))),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_71 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(((Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ),(Plecturocebus_discolor ,Plecturocebus_ornatus )),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_72 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),((Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )),(Plecturocebus_cinerascens ,(Plecturocebus_miltoni ,Plecturocebus_ornatus ))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_73 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),((Plecturocebus_discolor ,(Plecturocebus_brunneus ,(Plecturocebus_hoffmannsi ,Plecturocebus_ornatus ))),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_74 = [&U] 
+(allzero ,(Plecturocebus_ornatus ,((Plecturocebus_cupreus ,(((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu ))));
+tree tnt_75 = [&U] 
+(allzero ,((Plecturocebus_ornatus ,(Plecturocebus_cupreus ,(((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_76 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_ornatus ,(Plecturocebus_caligatus ,Plecturocebus_donacophilu ))));
+tree tnt_77 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(Plecturocebus_ornatus ,(((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_78 = [&U] 
+(allzero ,(((((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ))),(Plecturocebus_cupreus ,Plecturocebus_ornatus )),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_79 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,(Plecturocebus_donacophilu ,Plecturocebus_ornatus ))));
+tree tnt_80 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),((Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ),(Plecturocebus_discolor ,Plecturocebus_ornatus )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_81 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_discolor ,(Plecturocebus_ornatus ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_82 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_ornatus ,(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_83 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(((Plecturocebus_ornatus ,(Plecturocebus_bernhardi ,Plecturocebus_moloch )),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_84 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_discolor ,(Plecturocebus_hoffmannsi ,(Plecturocebus_brunneus ,Plecturocebus_ornatus ))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_85 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,(Plecturocebus_miltoni ,Plecturocebus_ornatus ))),(Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_86 = [&U] 
+(allzero ,((Plecturocebus_cupreus ,(((Plecturocebus_bernhardi ,(Plecturocebus_moloch ,Plecturocebus_ornatus )),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_87 = [&U] 
+(allzero ,(Plecturocebus_ornatus ,((((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_cupreus ,(Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu ))));
+tree tnt_88 = [&U] 
+(allzero ,((Plecturocebus_ornatus ,(((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_cupreus ,(Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_89 = [&U] 
+(allzero ,((((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_cupreus ,(Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_ornatus ,(Plecturocebus_caligatus ,Plecturocebus_donacophilu ))));
+tree tnt_90 = [&U] 
+(allzero ,(((Plecturocebus_ornatus ,((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_cupreus ,(Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_91 = [&U] 
+(allzero ,((((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_cupreus ,(Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,(Plecturocebus_donacophilu ,Plecturocebus_ornatus ))));
+tree tnt_92 = [&U] 
+(allzero ,((((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_ornatus ,(Plecturocebus_cinerascens ,Plecturocebus_miltoni ))),(Plecturocebus_cupreus ,(Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_93 = [&U] 
+(allzero ,((((Plecturocebus_ornatus ,(Plecturocebus_bernhardi ,Plecturocebus_moloch )),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_cupreus ,(Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_94 = [&U] 
+(allzero ,((((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_cupreus ,(Plecturocebus_ornatus ,(Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_95 = [&U] 
+(allzero ,((((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),((Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )),(Plecturocebus_cupreus ,Plecturocebus_ornatus ))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_96 = [&U] 
+(allzero ,((((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,(Plecturocebus_miltoni ,Plecturocebus_ornatus ))),(Plecturocebus_cupreus ,(Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_97 = [&U] 
+(allzero ,((((Plecturocebus_bernhardi ,(Plecturocebus_moloch ,Plecturocebus_ornatus )),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_cupreus ,(Plecturocebus_discolor ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_98 = [&U] 
+(allzero ,((((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_cupreus ,(Plecturocebus_discolor ,(Plecturocebus_ornatus ,(Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_99 = [&U] 
+(allzero ,((((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_cupreus ,((Plecturocebus_brunneus ,Plecturocebus_hoffmannsi ),(Plecturocebus_discolor ,Plecturocebus_ornatus )))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_100 = [&U] 
+(allzero ,((((Plecturocebus_bernhardi ,Plecturocebus_moloch ),(Plecturocebus_cinerascens ,Plecturocebus_miltoni )),(Plecturocebus_cupreus ,(Plecturocebus_discolor ,(Plecturocebus_brunneus ,(Plecturocebus_hoffmannsi ,Plecturocebus_ornatus ))))),(Plecturocebus_caligatus ,Plecturocebus_donacophilu )));
+tree tnt_101 = [&U] 
+(allzero ,(Plecturocebus_bernhardi ,Plecturocebus_brunneus ,Plecturocebus_caligatus ,Plecturocebus_cinerascens ,Plecturocebus_cupreus ,Plecturocebus_discolor ,Plecturocebus_donacophilu ,Plecturocebus_hoffmannsi ,Plecturocebus_miltoni ,Plecturocebus_moloch ,Plecturocebus_ornatus ));
+
+end ; 

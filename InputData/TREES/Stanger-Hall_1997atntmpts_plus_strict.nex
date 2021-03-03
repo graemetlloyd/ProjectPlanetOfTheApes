@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Tupaiids ,(Daubentonia_madagascariensis ,(Varecia_variegata ,(Phaner_furcifer ,(Mirza_coquereli ,(Microcebus_murinus ,(Galagos ,Cheirogaleus_medius ))))),(New_World_Monkeys ,((Lepilemur ,(Propithecus_diadema_Propithecus_tattersalli_Propithecus_verreaux ,(Avahi_laniger ,Indri_indri ))),((Eulemur_fulvus_Eulemur_macaco ,Eulemur_mongoz ,(Eulemur_coronatus ,Eulemur_rubriventer )),(Lemur_catta ,(Hapalemur_griseus ,Hapalemur_simus )))))));
+tree tnt_2 = [&U] 
+(Tupaiids ,(Daubentonia_madagascariensis ,(Varecia_variegata ,(Phaner_furcifer ,(Mirza_coquereli ,(Microcebus_murinus ,(Galagos ,Cheirogaleus_medius ))))),(New_World_Monkeys ,((Lepilemur ,(Propithecus_diadema_Propithecus_tattersalli_Propithecus_verreaux ,(Avahi_laniger ,Indri_indri ))),((Eulemur_fulvus_Eulemur_macaco ,Eulemur_mongoz ,(Eulemur_coronatus ,Eulemur_rubriventer )),(Lemur_catta ,(Hapalemur_griseus ,Hapalemur_simus )))))));
+
+end ; 

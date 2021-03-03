@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Yoder, A.D.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>Relative position of the cheirogaleidae in strepsirhine phylogeny: A comparison of morphological and molecular methods and results</Title>
+		<Journal>American Journal of Physical Anthropology</Journal>
+		<Volume>94</Volume>
+		<Pages>25-46</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="34">
+		<List recon_name="Cynocephalus" recon_no="236617">Cynocephalus</List>
+		<List recon_name="Tupaia" recon_no="40296">Tupaia</List>
+		<List recon_name="Eulemur_fulvus" recon_no="239189">Eulemur_fulvus</List>
+		<List recon_name="Eulemur_rubriventer" recon_no="239198">Eulemur_rubriventer</List>
+		<List recon_name="Eulemur_macaco" recon_no="232779">Eulemur_macao</List>
+		<List recon_name="Eulemur_mongoz" recon_no="239196">Eulemur_mongoz</List>
+		<List recon_name="Eulemur_coronatus" recon_no="239195">Eulemur_coronatus</List>
+		<List recon_name="Lemur_catta" recon_no="104138">Lemur_catta</List>
+		<List recon_name="Varecia_variegata" recon_no="237775">Varecia_variegata</List>
+		<List recon_name="Hapalemur_griseus" recon_no="385317">Hapalemur_griseus</List>
+		<List recon_name="Hapalemur_simus" recon_no="385072">Hapalemur_simus</List>
+		<List recon_name="Lepilemur_mustelinus" recon_no="385148">Lemur_mustelinus</List>
+		<List recon_name="Avahi_laniger" recon_no="232515">Allocebus_laniger</List>
+		<List recon_name="Propithecus_verreauxi" recon_no="385079">Propithecus_verreauxi</List>
+		<List recon_name="Indri_indri" recon_no="232456">Indri_indri</List>
+		<List recon_name="Daubentonia" recon_no="143026">Daubentonia</List>
+		<List recon_name="Cheirogaleus_major" recon_no="384941">Cheirogaleus_major</List>
+		<List recon_name="Microcebus_murinus" recon_no="232487">Microcebus_murinus</List>
+		<List recon_name="Phaner_furcifer" recon_no="385151">Phaner_furcifer</List>
+		<List recon_name="Mirza_coquereli" recon_no="385145">Mirza_coquereli</List>
+		<List recon_name="Allocebus_trichotis" recon_no="384944">Allocebus_trichotis</List>
+		<List recon_name="Galago_senegalensis" recon_no="232725">Galago_senegalensis</List>
+		<List recon_name="Galago_crassicaudatus" recon_no="385163">Galago_crassicaudatus</List>
+		<List recon_name="Galago_alleni" recon_no="232724">Galago_alleni</List>
+		<List recon_name="Galago_demidoff" recon_no="385150">Galago_demidovii</List>
+		<List recon_name="Perodicticus_potto" recon_no="232729">Perodicticus_potto</List>
+		<List recon_name="Arctocebus_calabarensis" recon_no="232736">Arctocebus_calabarensis</List>
+		<List recon_name="Nycticebus_coucang" recon_no="234313">Nycticebus_coucang</List>
+		<List recon_name="Loris_tardigradus" recon_no="206247">Loris_tardigradus</List>
+		<List recon_name="Tarsius_bancanus" recon_no="232742">Tarsius_bancanus</List>
+		<List recon_name="Saimiri_sciureus" recon_no="232446">Saimiri_sciureus</List>
+		<List recon_name="Cebus_apella" recon_no="232441">Cebus_apella</List>
+		<List recon_name="Colobus_polykomos" recon_no="236482">Colobus_polykomos</List>
+		<List recon_name="Chlorocebus_aethiops" recon_no="92704">Chlorocebus_aethiops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="86">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Yoder_1994a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,181 @@
+taxname=;
+mxram 4096;
+taxname +24;
+nstates num 32;
+xread
+'File downloaded from graemetlloyd.com'
+52 25
+& [numeric]
+SCANDENTIA                1000010301110100000000000011000100000000000100001010
+ANTHROPOIDEA              1011211320000100010101210201111111102111011010112111
+LEMUROIDEA                1000000101111102010101100111001100001000110100001010
+CHEIROGALEIDEA            1000000001100101010111000201000100001001110100001010
+LORISOIDEA                1001010000100100010110110201000200000011120100001010
+Omomys_carteri            110101030001011???101??10?0100100100???????00???101?
+Teilhardina_asiatica      ????????????????????0??0???1???010?1???????0???010??
+Tetonius_homunculus       110011131??1????1??011011201011210?1?1??0???0????01?
+Shoshonius_cooperi        1100010311210112101011011?01011210?1?11001?00110101?
+Necrolemur_antiquus       100120130121211210101001110101120111?110010001101011
+Eosimias_sinensis         ???121030????1?????10??0???????21??????????01???211?
+Rooneyia_viejaensis       10000113112121?2100?01200101011101?010001100?00???11
+Cantius_abditus           1000000101?1010001?10010010100010000???011000000101?
+Cantius_actius            100000010111010??10100100101000100?0???011000000101?
+Notharctus_tenebrosus     100000020111011001010010010100010000???011001000101?
+Smilodectes_gracilis      100000020111011001010010010100010000???01?0?1?????1?
+Pronycticebus_gaudryi     ???0000201110112110100010101000000?0???01?0?00?12111
+Mahgarita_stevensi        100100021110010201010001010100010000??1012001?00111?
+Adapis_parisiensis        100100010111010101010010010100010000??101?0010?0111?
+Leptadapis_magnus         10010001011?010001010111010100?10000??????0?1?????1?
+Ignacius_graybullianus    ?00000012???20000?000000000000000110??????0?0????000
+Plesiadapis_tricuspidens  ?00001002??011000?000000000000000110??100?0?00100001
+Megadelphus_lundeliusi    ???0????????????????0000000000000000????????00??????
+Palaechthon_nacimienti    ????????????????????00000000000000?0????????0????0??
+Tarsius                   1100201310002112101011011201211210112110011001111011
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 +[/1 7 +[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 +[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 -[/1 20 -[/1 21 +[/1 22 -[/1 23 -[/1 24 -[/1 25 -[/1 26 -[/1 27 +[/1 28 -[/1 29 -[/1 30 -[/1 31 -[/1 32 -[/1 33 -[/1 34 -[/1 35 +[/1 36 -[/1 37 -[/1 38 -[/1 39 -[/1 40 +[/1 41 -[/1 42 -[/1 43 -[/1 44 -[/1 45 -[/1 46 -[/1 47 +[/1 48 -[/1 49 -[/1 50 -[/1 51 ;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+rseed*;
+hold 999;
+xmult=rss fuse 50 drift 50 ratchet 50;
+mult 50 =tbr drift;
+tsave scratch.tre +;
+save;
+tsave /;
+hold 100000;
+shortread scratch.tre;
+bbreak=tbr; nelsen*; export -Burger_2010aatntmpts_plus_strict.nex; mrp;
+export Burger_2010aamrp.nex; 
+proc/;
+

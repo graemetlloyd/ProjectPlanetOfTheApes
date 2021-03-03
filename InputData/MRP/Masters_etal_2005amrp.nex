@@ -1,0 +1,23 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=9 NCHAR=7 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Microcebus_murinus       0000000
+Otolemur_crassicaudatus  1111000
+Galagoides_demidoff      1111000
+Arctocebus_aureus        1110100
+Arctocebus_calabarensis  1110100
+Loris_tardigradus        1100000
+Nycticebus_coucang       1000011
+Nycticebus_pygmaeus      1000010
+Perodicticus_potto       1000011
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

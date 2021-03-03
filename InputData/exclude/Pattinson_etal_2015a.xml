@@ -1,0 +1,148 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Pattinson, D. J.</List>
+			<List>Thompson, R. S.</List>
+			<List>Piotrowski, A. K.</List>
+			<List>Asher, R. J.</List>
+		</Author>
+		<Year>2015</Year>
+		<Title>Phylogeny, paleontology, and primates: do incomplete fossils bias the tree of life?</Title>
+		<Journal>Systematic Biology</Journal>
+		<Volume>64</Volume>
+		<Pages>169-186</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="111">
+		<List recon_name="Cynocephalus_volans,Galeopithecus_variegatus" recon_no="206240;206241">Dermoptera</List>
+		<List recon_name="Tupaia" recon_no="40296">Tupaia</List>
+		<List recon_name="Alouatta_caraya,Alouatta_palliata,Alouatta_belzebul,Alouatta_guariba,Alouatta_macconnelli,Alouatta_seniculus" recon_no="232533;235367;232535;385059;385060;232537">Alouatta</List>
+		<List recon_name="Aotus_sp_SPECIMENNUMBER,Aotus_lemurinus,Aotus_trivirgatus" recon_no="92614;384951;232711">Aotus</List>
+		<List recon_name="Arctocebus" recon_no="143089">Arctocebus</List>
+		<List recon_name="Callicebus" recon_no="92607">Callicebus</List>
+		<List recon_name="Cebus" recon_no="92615">Cebus</List>
+		<List recon_name="Cheirogaleus" recon_no="143022">Cheirogaleus</List>
+		<List recon_name="Chlorocebus" recon_no="92693">Chlorocebus</List>
+		<List recon_name="Colobus" recon_no="40864">Colobus</List>
+		<List recon_name="Daubentonia" recon_no="143026">Daubentonia</List>
+		<List recon_name="Galago" recon_no="103125">Galago</List>
+		<List recon_name="Hylobates" recon_no="40891">Hylobates</List>
+		<List recon_name="Lemur" recon_no="72262">Lemur</List>
+		<List recon_name="Lepilemur" recon_no="143025">Lepilemur</List>
+		<List recon_name="Loris" recon_no="103123">Loris</List>
+		<List recon_name="Macaca" recon_no="40869">Macaca</List>
+		<List recon_name="Microcebus" recon_no="143024">Microcebus</List>
+		<List recon_name="Nycticebus" recon_no="143091">Nycticebus</List>
+		<List recon_name="Otolemur" recon_no="121441">Otolemur</List>
+		<List recon_name="Pan" recon_no="97177">Pan</List>
+		<List recon_name="Perodicticus" recon_no="143090">Perodicticus</List>
+		<List recon_name="Propithecus" recon_no="143019">Propithecus</List>
+		<List recon_name="Saimiri" recon_no="92616">Saimiri</List>
+		<List recon_name="Tarsius" recon_no="101390">Tarsius</List>
+		<List recon_name="Varecia" recon_no="143018">Varecia</List>
+		<List recon_name="Absarokius" recon_no="40794">Absarokius</List>
+		<List recon_name="Abuqatrania" recon_no="100645">Abuqatrania</List>
+		<List recon_name="Adapis" recon_no="40750">Adapis</List>
+		<List recon_name="Aegyptopithecus_zeuxis" recon_no="100577">Aegyptopithecus</List>
+		<List recon_name="Afradapis" recon_no="156660">Afradapis</List>
+		<List recon_name="Aframonius" recon_no="143109">Aframonius</List>
+		<List recon_name="Afrotarsius" recon_no="40839">Afrotarsius</List>
+		<List recon_name="Altanius" recon_no="40796">Altanius</List>
+		<List recon_name="Altiatlasius" recon_no="92577">Altiatlasius</List>
+		<List recon_name="Amphipithecus" recon_no="40841">Amphipithecus</List>
+		<List recon_name="Anaptomorphus" recon_no="40797">Anaptomorphus</List>
+		<List recon_name="Anchomomys" recon_no="40752">Anchomomys</List>
+		<List recon_name="Anemorhysis" recon_no="40798">Anemorhysis</List>
+		<List recon_name="Apidium" recon_no="40857">Apidium</List>
+		<List recon_name="Arapahovius" recon_no="40799">Arapahovius</List>
+		<List recon_name="Arsinoea" recon_no="100644">Arsinoea</List>
+		<List recon_name="Asiadapis" recon_no="131094">Asiadapis</List>
+		<List recon_name="Aycrossia" recon_no="40801">Aycrossia</List>
+		<List recon_name="Bahinia" recon_no="58154">Bahinia</List>
+		<List recon_name="Barnesia" recon_no="384975">Barnesia</List>
+		<List recon_name="Biretia" recon_no="100639">Biretia</List>
+		<List recon_name="Branisella" recon_no="40845">Branisella</List>
+		<List recon_name="Bugtipithecus" recon_no="116947">Bugtipithecus</List>
+		<List recon_name="Caenopithecus" recon_no="40753">Caenopithecus</List>
+		<List recon_name="Cantius" recon_no="40754">Cantius</List>
+		<List recon_name="Catopithecus" recon_no="92596">Catopithecus</List>
+		<List recon_name="Darwinius" recon_no="147599">Darwinius</List>
+		<List recon_name="Djebelemur" recon_no="121443">Djebelemur</List>
+		<List recon_name="Dolichocebus" recon_no="40846">Dolichocebus</List>
+		<List recon_name="Donrussellia" recon_no="40805">Donrussellia</List>
+		<List recon_name="Dyseolemur" recon_no="40806">Dyseolemur</List>
+		<List recon_name="Eosimias" recon_no="92597">Eosimias</List>
+		<List recon_name="Europolemur" recon_no="40756">Europolemur</List>
+		<List recon_name="Godinotia_neglecta" recon_no="385411">Godinotia</List>
+		<List recon_name="Hemiacodon" recon_no="40808">Hemiacodon</List>
+		<List recon_name="Hoanghonius" recon_no="40809">Hoanghonius</List>
+		<List recon_name="Karanisia" recon_no="90337">Karanisia</List>
+		<List recon_name="Komba" recon_no="40778">Komba</List>
+		<List recon_name="Leptadapis" recon_no="40760">Leptadapis</List>
+		<List recon_name="Loveina" recon_no="40813">Loveina</List>
+		<List recon_name="Macrotarsius" recon_no="40814">Macrotarsius</List>
+		<List recon_name="Mahgarita" recon_no="40762">Mahgarita</List>
+		<List recon_name="Marcgodinotius" recon_no="98779">Marcgodinotius</List>
+		<List recon_name="Microadapis" recon_no="40763">Microadapis</List>
+		<List recon_name="Microchoerus" recon_no="40816">Microchoerus</List>
+		<List recon_name="Moeripithecus" recon_no="145159">Moeripithecus</List>
+		<List recon_name="Myanmarpithecus" recon_no="106800">Myanmarpithecus</List>
+		<List recon_name="Nannopithex" recon_no="40817">Nannopithex</List>
+		<List recon_name="Necrolemur" recon_no="40818">Necrolemur</List>
+		<List recon_name="Nycticeboides" recon_no="385131">Nycticeboides</List>
+		<List recon_name="Oligopithecus" recon_no="40896">Oligopithecus</List>
+		<List recon_name="Omomys" recon_no="40819">Omomys</List>
+		<List recon_name="Panobius" recon_no="67491">Panobius</List>
+		<List recon_name="Parapithecus" recon_no="40858">Parapithecus</List>
+		<List recon_name="Phenacopithecus" recon_no="105207">Phenacopithecus</List>
+		<List recon_name="Phileosimias" recon_no="116949">Phileosimias</List>
+		<List recon_name="Plesiadapis" recon_no="40738">Plesiadapis</List>
+		<List recon_name="Plesiolestes" recon_no="40729">Plesiolestes</List>
+		<List recon_name="Plesiopithecus" recon_no="121444">Plesiopithecus</List>
+		<List recon_name="Pondaungia" recon_no="40842">Pondaungia</List>
+		<List recon_name="Pronycticebus" recon_no="40768">Pronycticebus</List>
+		<List recon_name="Propliopithecus" recon_no="40888">Propliopithecus</List>
+		<List recon_name="Proteopithecus" recon_no="97122">Proteopithecus</List>
+		<List recon_name="Protoadapis" recon_no="40769">Protoadapis</List>
+		<List recon_name="Pseudoloris" recon_no="40821">Pseudoloris</List>
+		<List recon_name="Purgatorius" recon_no="40704">Purgatorius</List>
+		<List recon_name="Qatrania" recon_no="100569">Qatrania</List>
+		<List recon_name="Rencunius" recon_no="113503">Rencunius</List>
+		<List recon_name="Rooneyia" recon_no="40823">Rooneyia</List>
+		<List recon_name="Saharagalago" recon_no="90335">Saharagalago</List>
+		<List recon_name="Serapia" recon_no="100643">Serapia</List>
+		<List recon_name="Shoshonius" recon_no="40824">Shoshonius</List>
+		<List recon_name="Siamopithecus" recon_no="116955">Siamopithecus</List>
+		<List recon_name="Steinius" recon_no="40826">Steinius</List>
+		<List recon_name="Strigorhysis" recon_no="40828">Strigorhysis</List>
+		<List recon_name="Propliopithecus_ankeli" recon_no="97187">Taqah</List>
+		<List recon_name="Teilhardina" recon_no="40829">Teilhardina</List>
+		<List recon_name="Tetonius" recon_no="40830">Tetonius</List>
+		<List recon_name="Tetonoides" recon_no="52197">Tetonoides</List>
+		<List recon_name="Trogolemur" recon_no="40831">Trogolemur</List>
+		<List recon_name="Uintanius" recon_no="40833">Uintanius</List>
+		<List recon_name="Wadilemur" recon_no="121439">Wadilemur</List>
+		<List recon_name="Wailekia" recon_no="131778">Wailekia</List>
+		<List recon_name="Washakius" recon_no="40835">Washakius</List>
+		<List recon_name="Xanthorhysis" recon_no="89727">Xanthorhysis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="360">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Pattinson_etal_2015a</Filename>
+	<Parent>Seiffert_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

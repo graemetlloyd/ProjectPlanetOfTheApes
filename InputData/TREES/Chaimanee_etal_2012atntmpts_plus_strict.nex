@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Adapis ,(Leptadapis ,(Cantius ,((Hemiacodon ,(Shoshonius ,((Absarokius ,Teilhardina_a ),(Xanthorhysis ,Tarsius )))),(((Bahinia ,(Eosimias ,Phenacopithecus )),(Afrasia_djijidae ,Afrotarsius_libycu )),((((Catopithecus ,(Aegyptopithecus ,Moeripithecus )),(Myanmarpithecus ,(Pondaungia ,Siamopithecus ))),(Dolichocebus ,Branisella )),(Proteopithecus ,(Biretia ,(Qatrania ,(Simonsius ,(Apidium ,Parapithecus )))))))))));
+tree tnt_2 = [&U] 
+(Adapis ,(Leptadapis ,(Cantius ,((Hemiacodon ,(Shoshonius ,((Absarokius ,Teilhardina_a ),(Xanthorhysis ,Tarsius )))),(((Bahinia ,(Eosimias ,Phenacopithecus )),(Afrasia_djijidae ,Afrotarsius_libycu )),((((Catopithecus ,(Aegyptopithecus ,Moeripithecus )),(Myanmarpithecus ,(Pondaungia ,Siamopithecus ))),(Dolichocebus ,Branisella )),(Proteopithecus ,(Biretia ,(Qatrania ,(Simonsius ,(Apidium ,Parapithecus )))))))))));
+
+end ; 

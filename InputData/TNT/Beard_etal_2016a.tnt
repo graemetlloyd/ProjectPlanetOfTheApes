@@ -1,0 +1,26 @@
+taxname=;
+mxram 4096;
+taxname +20;
+nstates num 32;
+xread
+'Data written by write.nexus.data.R, Tue Dec 11 17:56:19 2018'
+34 11
+& [numeric]
+Biretia_megalopsis    ??100010100000000000000000??000000
+Simonsius_grangeri    1101011002121011110110010100100201
+Parapithecus_fraasi   10010100121211111101100101????????
+Apidium_bowni         00???10021111111001101101111111011
+Apidium_moustafai     ??12120021111111[01]111111111111[01]1101
+Apidium_zuetina       ?????21121???????????21???111?1111
+Apidium_phiomense     0012121121111111[01]11112111111111111
+Qatrania_wingi        ??????????1111110001[01]01011????????
+Qatrania_basiodontos  ??????????1111110001001011????????
+Biretia_fayumensis    ?????010100000000000[01]00[01]00??000000
+Biretia_piveteaui     ????????????????????000000???00000
+;
+ccode -[/1 0 -[/1 1 -[/1 2 +[/1 3 -[/1 4 +[/1 5 -[/1 6 -[/1 7 +[/1 8 +[/1 9 -[/1 10 +[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 -[/1 20 +[/1 21 -[/1 22 -[/1 23 -[/1 24 -[/1 25 -[/1 26 -[/1 27 -[/1 28 -[/1 29 -[/1 30 +[/1 31 -[/1 32 -[/1 33 ;
+collapse [;
+ienum; nelsen*; export -Beard_etal_2016atntmpts_plus_strict.nex; mrp;
+export Beard_etal_2016amrp.nex; 
+proc/;
+

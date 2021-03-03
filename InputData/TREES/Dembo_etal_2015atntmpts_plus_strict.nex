@@ -1,0 +1,11 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Gorilla_gorilla ,(Sahelanthropus_tchadensis ,(Pan_troglodytes ,(Ardipithecus_ramidus ,(Australopithecus_anamensi ,(Australopithecus_afarensi ,(Australopithecus_garhi ,((Australopithecus_africanu ,(Australopithecus_sediba ,((Homo_habilis ,(Kenyanthropus_platyops ,Homo_rudolfensis )),(small_bodied_Dmanisi ,((Homo_antecessor ,(Homo_ergaster ,((Homo_heidelbergensis ,Homo_neanderthalensis ),(Homo_sapiens ,D4500 )))),(Homo_erectus ,Homo_floresiensis )))))),(Paranthropus_aethiopicus ,(Paranthropus_robustus ,Paranthropus_boisei ))))))))));
+tree tnt_2 = [&U] 
+(Gorilla_gorilla ,(Pan_troglodytes ,(Ardipithecus_ramidus ,(Australopithecus_anamensi ,(Sahelanthropus_tchadensis ,(Australopithecus_afarensi ,(Australopithecus_garhi ,((Australopithecus_africanu ,(Australopithecus_sediba ,((Homo_habilis ,(Kenyanthropus_platyops ,Homo_rudolfensis )),(small_bodied_Dmanisi ,((Homo_antecessor ,(Homo_ergaster ,((Homo_heidelbergensis ,Homo_neanderthalensis ),(Homo_sapiens ,D4500 )))),(Homo_erectus ,Homo_floresiensis )))))),(Paranthropus_aethiopicus ,(Paranthropus_robustus ,Paranthropus_boisei ))))))))));
+tree tnt_3 = [&U] 
+(Gorilla_gorilla ,(Pan_troglodytes ,Sahelanthropus_tchadensis ,Ardipithecus_ramidus ,Australopithecus_anamensi ,(Australopithecus_afarensi ,(Australopithecus_garhi ,((Australopithecus_africanu ,(Australopithecus_sediba ,((Homo_habilis ,(Kenyanthropus_platyops ,Homo_rudolfensis )),(small_bodied_Dmanisi ,((Homo_antecessor ,(Homo_ergaster ,((Homo_heidelbergensis ,Homo_neanderthalensis ),(Homo_sapiens ,D4500 )))),(Homo_erectus ,Homo_floresiensis )))))),(Paranthropus_aethiopicus ,(Paranthropus_robustus ,Paranthropus_boisei )))))));
+
+end ; 

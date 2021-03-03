@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Groves, C.P.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>The Phylogeny of Cercopithecoidea</Title>
+		<Journal></Journal>
+		<Volume></Volume>
+		<Pages>77-98</Pages>
+		<Booktitle>Old World Monkeys</Booktitle>
+		<Publisher>Cambridge University Press</Publisher>
+		<City>UK</City>
+		<Editor>
+			<List>Whitehead, P.F.<List>
+			<List>Polly, C.J.<List>
+		</Editor>
+	</Source>
+	<Taxa number="16">
+		<List recon_name="DELETE" recon_no="0">outgroup</List>
+		<List recon_name="Macaca_sylvanus" recon_no="232422">Macaca_sylvanus</List>
+		<List recon_name="Macaca_nemestrina" recon_no="231528">Macaca_nemestrina</List>
+		<List recon_name="Papio" recon_no="40871">Papio</List>
+		<List recon_name="Mandrillus" recon_no="232545">Mandrillus</List>
+		<List recon_name="Theropithecus" recon_no="40879">Theropithecus</List>
+		<List recon_name="Cercocebus" recon_no="40861">Cercocebus</List>
+		<List recon_name="Lophocebus" recon_no="240333">Lophocebus</List>
+		<List recon_name="Allenopithecus_nigroviridis" recon_no="385063">Allenopithecus</List>
+		<List recon_name="Miopithecus_talapoin" recon_no="385144">Miopithecus</List>		
+		<List recon_name="Cercopithecus" recon_no="40862">Cercopithecus</List>
+		<List recon_name="Procynocephalus" recon_no="40876">Procynocephalus</List>
+		<List recon_name="Paradolichopithecus" recon_no="40873">Paradolichopithecus</List>
+		<List recon_name="Dinopithecus_ingens" recon_no="384937">Dinopithecus</List>
+		<List recon_name="Parapapio" recon_no="40874">Parapapio</List>
+		<List recon_name="Gorgopithecus" recon_no="40867">Gorgopithecus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="46">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Groves_2000aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

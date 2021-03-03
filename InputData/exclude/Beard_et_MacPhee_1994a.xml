@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Beard, C.K.</List>
+			<List>MacPhee, R.D.E.</List>		
+		</Author>
+		<Year>1994</Year>
+		<Title>Cranial anatomy of Shoshonius and the antiquity of Anthropoidea</Title>
+		<Journal></Journal>
+		<Volume></Volume>
+		<Pages>55-97</Pages>
+		<Booktitle>Anthropoid Origins<Booktitle/>
+		<Publisher>Plenum Press</Publisher>
+		<City>New York</City>
+		<Editor>
+			<List>Fleagle, J. G.</List>
+			<List>Kay, R. F.</List>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List recon_name="Plesiadapidae" recon_no="40733">Plesiadapidae</List>
+		<List recon_name="Paromomyidae" recon_no="40312">Paromomyidae</List>
+		<List recon_name="Galeopithecidae" recon_no="40330">Galeopithecidae</List>
+		<List recon_name="Lorisoidea" recon_no="40776">Lorisoidea</List>
+		<List recon_name="Cheirogaleidae" recon_no="40781">Cheirogaleidae</List>
+		<List recon_name="Lemuroidea" recon_no="231656">Lemuroidea</List>
+		<List recon_name="Notharctus,Smilodectes,Adapis,Leptadapis" recon_no="40764;40770;40750;40760">Adapiformes</List>
+		<List recon_name="Shoshonius_cooperi" recon_no="51543">Shoshonius</List>
+		<List recon_name="Tetonius_homunculus" recon_no="52190">Tetonius</List>
+		<List recon_name="Necrolemur" recon_no="40818">Necrolemur</List>
+		<List recon_name="Rooneyia_viejaensis" recon_no="51372">Rooneyia</List>
+		<List recon_name="Tarsius" recon_no="101390">Tarsius</List>
+		<List recon_name="Callitrichidae" recon_no="66280">Callitrichidae</List>
+		<List recon_name="Cebidae" recon_no="40844">Cebidae</List>
+		<List recon_name="Catarrhini" recon_no="40854">Catarrhini</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="18">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Beard_et_MacPhee_1994a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Tornow, M. A.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>Systematic analysis of the Eocene primate family Omomyidae using gnathic and postcranial data</Title>
+		<Journal>Bulletin of the Peabody Museum of Natural History</Journal>
+		<Volume>49</Volume>
+		<Pages>43-129</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="38">
+		<List recon_name="DELETE" recon_no="0">OUTGROUP</List>
+		<List recon_name="Shoshonius_cooperi" recon_no="51543">Shoshonius_cooperi</List>
+		<List recon_name="Loveina_zephyri" recon_no="47778">Loveina_zephyri</List>
+		<List recon_name="Omomys_carteri" recon_no="49314">Omomys_carteri</List>
+		<List recon_name="Microchoerus_edwardsi" recon_no="374334">Microchoerus_edwardsi</List>
+		<List recon_name="Arapahovius_gazini" recon_no="44207">Arapahovius_gazini</List>
+		<List recon_name="Uintanius_ameghini" recon_no="52567">Uintanius_ameghini</List>
+		<List recon_name="Anemorhysis_savagei" recon_no="384933">Anemorhysis_savagei</List>
+		<List recon_name="Utahia_carina" recon_no="52625">Utahia_carina</List>
+		<List recon_name="Tetonoides_pearcei" recon_no="52200">Tetonoides_pearcei</List>
+		<List recon_name="Aycrossia_lovei" recon_no="44399">Aycrossia_lovei</List>
+		<List recon_name="Macrotarsius_jepseni" recon_no="47852">Macrotarsius_jepseni</List>
+		<List recon_name="Necrolemur_antiquus" recon_no="347334">Necrolemur_antiquus</List>
+		<List recon_name="Ourayia_uintensis" recon_no="49508">Ourayia_uintensis</List>
+		<List recon_name="Absarokius_abbotti" recon_no="43687">Absarokius_abbotti</List>
+		<List recon_name="Utahia_kayi" recon_no="52626">Utahia_kayi</List>
+		<List recon_name="Anaptomorphus_westi" recon_no="44026">Anaptomorphus_westi</List>
+		<List recon_name="Teilhardina_belgica" recon_no="53408">Teilhardina_belgica</List>
+		<List recon_name="Omomys_lloydi" recon_no="49316">Omomys_lloydi</List>
+		<List recon_name="Trogolemur_myodes" recon_no="52522">Trogolemur_myodes</List>
+		<List recon_name="Washakius_insignis" recon_no="52699">Washakius_insignis</List>
+		<List recon_name="Steinius_vespertinus" recon_no="51772">Steinius_vespertinus</List>
+		<List recon_name="Hemiacodon_gracilis" recon_no="46847">Hemiacodon_gracilis</List>
+		<List recon_name="Jemezius_szalayi" recon_no="47419">Jemezius_szalayi</List>
+		<List recon_name="Teilhardina_americana" recon_no="52105">Teilhardina_americana</List>
+		<List recon_name="Macrotarsius_montanus" recon_no="47853">Macrotarsius_montanus</List>
+		<List recon_name="Tetonius_matthewi" recon_no="52191">Tetonius_matthewi</List>
+		<List recon_name="Tetonius_mckennai" recon_no="52192">Tetonius_mckennai</List>
+		<List recon_name="Teilhardina_crassidens" recon_no="52106">Teilhardina_crassidens</List>
+		<List recon_name="Cantius_mckennai" recon_no="44897">Cantius_mckennai</List>
+		<List recon_name="Cantius_ralstoni" recon_no="44899">Cantius_ralstoni</List>
+		<List recon_name="Cantius_torresi" recon_no="44901">Cantius_torresi</List>
+		<List recon_name="Donrussellia_provincialis" recon_no="145138">Donrussellia_provincialis</List>
+		<List recon_name="Donrussellia_gallica" recon_no="106869">Donrussellia_gallica</List>
+		<List recon_name="Purgatorius_unio" recon_no="51270">Purgatorius_unio</List>
+		<List recon_name="Cantius_UM_86543,Cantius_UM_81825" recon_no="40754;40754">Cantius_postcrania</List>
+		<List recon_name="Ptilocercus_lowii" recon_no="234229">Ptilocercus_lowii</List>
+		<List recon_name="Plesiadapis_tricuspidens" recon_no="50444">Plesiadapis_tricuspidens</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="100">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Tornow_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

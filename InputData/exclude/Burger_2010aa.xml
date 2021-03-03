@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Burger, B.J.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Skull of the Eocene primate Omomys carteri from western North America.</Title>
+		<Journal>Paleontological Contributions</Journal>
+		<Volume>2</Volume>
+		<Pages>1-19</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List recon_name="Scandentia" recon_no="40294">SCANDENTIA</List>
+		<List recon_name="Anthropoidea" recon_no="40840">ANTHROPOIDEA</List>
+		<List recon_name="Lemuroidea" recon_no="231656">LEMUROIDEA</List>
+		<List recon_name="Cheirogaleidae" recon_no="40781">CHEIROGALEIDEA</List>
+		<List recon_name="Lorisoidea" recon_no="40776">LORISOIDEA</List>
+		<List recon_name="Omomys_carteri" recon_no="49314">Omomys_carteri</List>
+		<List recon_name="Teilhardina_asiatica" recon_no="101085">Teilhardina_asiatica</List>
+		<List recon_name="Tetonius_homunculus" recon_no="52190">Tetonius_homunculus</List>
+		<List recon_name="Shoshonius_cooperi" recon_no="51543">Shoshonius_cooperi</List>
+		<List recon_name="Necrolemur_antiquus" recon_no="347334">Necrolemur_antiquus</List>
+		<List recon_name="Eosimias_sinensis" recon_no="101397">Eosimias_sinensis</List>
+		<List recon_name="Rooneyia_viejaensis" recon_no="51372">Rooneyia_viejaensis</List>
+		<List recon_name="Cantius_abditus" recon_no="44892">Cantius_abditus</List>
+		<List recon_name="Cantius_actius" recon_no="44893">Cantius_actius</List>
+		<List recon_name="Notharctus_tenebrosus" recon_no="49200">Notharctus_tenebrosus</List>
+		<List recon_name="Smilodectes_gracilis" recon_no="51609">Smilodectes_gracilis</List>
+		<List recon_name="Pronycticebus_gaudryi" recon_no="145090">Pronycticebus_gaudryi</List>
+		<List recon_name="Mahgarita_stevensi" recon_no="47857">Mahgarita_stevensi</List>
+		<List recon_name="Adapis_parisiensis" recon_no="57922">Adapis_parisiensis</List>
+		<List recon_name="Leptadapis_magnus" recon_no="127247">Leptadapis_magnus</List>
+		<List recon_name="Ignacius_graybullianus" recon_no="47354">Ignacius_graybullianus</List>
+		<List recon_name="Plesiadapis_tricuspidens" recon_no="50444">Plesiadapis_tricuspidens</List>
+		<List recon_name="Megadelphus_lundeliusi" recon_no="47998">Megadelphus_lundeliusi</List>
+		<List recon_name="Palaechthon_nacimienti" recon_no="49619">Palaechthon_nacimienti</List>
+		<List recon_name="Tarsius_sp_AMNH_MM_166856" recon_no="101390">Tarsius</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="52">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Burger_2010aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

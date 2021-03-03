@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Stanger-Hall, K.F.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>Phylogenetic Affinities Among the Extant Malagasy Lemurs (Lemuriformes) Based on Morphology and Behavior</Title>
+		<Journal>Journal of Mammalian Evolution</Journal>
+		<Volume>4</Volume>
+		<Pages>163-194</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List recon_name="Tupaiidae" recon_no="40295">Tupaiids</List>
+		<List recon_name="Galagidae" recon_no="90334">Galagos</List>
+		<List recon_name="Platyrrhini" recon_no="203516">New_World_Monkeys</List>
+		<List recon_name="Avahi_laniger" recon_no="232515">Avahi_laniger</List>
+		<List recon_name="Cheirogaleus_medius" recon_no="240281">Cheirogaleus_medius</List>
+		<List recon_name="Daubentonia_madagascariensis" recon_no="232753">Daubentonia_madagascariensis</List>
+		<List recon_name="Eulemur_coronatus" recon_no="239195">Eulemur_coronatus</List>
+		<List recon_name="Eulemur_fulvus,Eulemur_macaco" recon_no="239189;232779">Eulemur_fulvus_Eulemur_macaco</List>
+		<List recon_name="Eulemur_mongoz" recon_no="239196">Eulemur_mongoz</List>
+		<List recon_name="Eulemur_rubriventer" recon_no="239198">Eulemur_rubriventer</List>
+		<List recon_name="Hapalemur_griseus" recon_no="385317">Hapalemur_griseus</List>
+		<List recon_name="Hapalemur_simus" recon_no="385072">Hapalemur_simus</List>
+		<List recon_name="Indri_indri" recon_no="232456">Indri_indri</List>
+		<List recon_name="Lemur_catta" recon_no="104138">Lemur_catta</List>
+		<List recon_name="Lepilemur" recon_no="143025">Lepilemur</List>
+		<List recon_name="Mirza_coquereli" recon_no="385145">Mirza_coquereli</List>
+		<List recon_name="Microcebus_murinus" recon_no="232487">Microcebus_murinus</List>
+		<List recon_name="Phaner_furcifer" recon_no="385151">Phaner_furcifer</List>
+		<List recon_name="Propithecus_diadema,Propithecus_tattersalli,Propithecus_verreauxi" recon_no="385156;385076;385079">Propithecus_diadema_Propithecus_tattersalli_Propithecus_verreauxi</List>
+		<List recon_name="Varecia_variegata" recon_no="237775">Varecia_variegata</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="25">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Stanger-Hall_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

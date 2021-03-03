@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Bahinia ,(Eosimias ,(Perupithecus ,(Proteopithecus_sylviae ,(Catopithecus_browni ,((Branisella_boliviana ,((Dolichocebus_gaimanensis ,(Chilecebus_carrascoensis ,(((((Lagonamico_conclucatus ,(Callimico ,(Saguinus ,(Leontopithecus ,(Cebuella ,Callithrix ))))),(Aotus_dindensis ,Mohanamico_hershkovitzi )),(Aotus ,(Callicebus ,((Cebus ,Acrecebus_fraileyi ),((Proteropithecia ,((Pithecia ,(Cacajao ,Chiropotes )),(Nuciruptor ,Cebupithecia_sarmientoi ))),(Ateles ,(Lagothrix ,(Brachyteles ,(Alouatta ,Stirtonia ))))))))),(Saimiri ,Neosaimiri_fieldsi )),(Tremacebus_harringtoni ,(Antillothrix_and_Insulacebu ,(Paralouatta ,Xenothrix )))))),((Mazzonicebus ,Soriacebus_ameghinorum ),(Homunculus_patagonicus ,Carlocebus_carmeni )))),((Aegyptopithecus_zeuxis ,(Hylobates ,(Miopithecus_talapoin ,Presbytis_melalophos ))),(Apidium_phiomense ,Simonsius_grangeri ))))))));
+tree tnt_2 = [&U] 
+(Bahinia ,(Eosimias ,(Perupithecus ,(Proteopithecus_sylviae ,(Catopithecus_browni ,((Branisella_boliviana ,((Dolichocebus_gaimanensis ,(Chilecebus_carrascoensis ,(((((Lagonamico_conclucatus ,(Callimico ,(Saguinus ,(Leontopithecus ,(Cebuella ,Callithrix ))))),(Aotus_dindensis ,Mohanamico_hershkovitzi )),(Aotus ,(Callicebus ,((Cebus ,Acrecebus_fraileyi ),((Proteropithecia ,((Pithecia ,(Cacajao ,Chiropotes )),(Nuciruptor ,Cebupithecia_sarmientoi ))),(Ateles ,(Lagothrix ,(Brachyteles ,(Alouatta ,Stirtonia ))))))))),(Saimiri ,Neosaimiri_fieldsi )),(Tremacebus_harringtoni ,(Antillothrix_and_Insulacebu ,(Paralouatta ,Xenothrix )))))),((Mazzonicebus ,Soriacebus_ameghinorum ),(Homunculus_patagonicus ,Carlocebus_carmeni )))),((Aegyptopithecus_zeuxis ,(Hylobates ,(Miopithecus_talapoin ,Presbytis_melalophos ))),(Apidium_phiomense ,Simonsius_grangeri ))))))));
+
+end ; 

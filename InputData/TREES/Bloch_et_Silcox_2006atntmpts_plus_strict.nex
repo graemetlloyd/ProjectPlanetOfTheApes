@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Leptictidae ,((Palaechthon_nacimient ,(Microsyopidae ,(Ptilocercus_lowii ,Cynocephalidae ))),(Paromomyidae ,(Plesiadapidae ,Carpolestes_simpsoni ,(Adapidae ,(Tarsius_syrichta ,Shoshonius_cooperi ))))));
+tree tnt_2 = [&U] 
+(Leptictidae ,((Palaechthon_nacimient ,(Microsyopidae ,(Ptilocercus_lowii ,Cynocephalidae ))),(Paromomyidae ,(Plesiadapidae ,Carpolestes_simpsoni ,(Adapidae ,(Tarsius_syrichta ,Shoshonius_cooperi ))))));
+
+end ; 

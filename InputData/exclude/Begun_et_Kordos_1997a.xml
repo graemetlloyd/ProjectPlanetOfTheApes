@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Begun, D.R.</List>
+			<List>Kordos, L.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>Phyletic affinities and functional convergence in Dryopithecus and other Miocene and living hominids</Title>
+		<Journal></Journal>
+		<Volume></Volume>
+		<Pages>291-316</Pages>
+		<Booktitle>Function, Phylogeny, and Fossils: Miocene Hominoid Evolution and Adaptations</Booktitle>
+		<Publisher>Springer Science</Publisher>
+		<City>New York</City>
+		<Editor>
+			<List>Begun, D.R.<List>
+			<List>Ward, C.V.<List>
+			<List>Rose, M.D.<List>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List recon_name="Proconsul" recon_no="40895">East_African_early_Miocene_hominoid</List>
+		<List recon_name="Dryopithecus" recon_no="40893">Dryopithecus</List>
+		<List recon_name="Kenyapithecus" recon_no="100574">Kenyapithecus</List>
+		<List recon_name="Sivapithecus" recon_no="40898">Sivapithecus</List>
+		<List recon_name="Pongo" recon_no="40897">Pongo</List>
+		<List recon_name="Ouranopithecus" recon_no="97181">Ouranopithecus</List>
+		<List recon_name="Gorilla" recon_no="97178">Gorilla</List>
+		<List recon_name="Pan" recon_no="97177">Pan</List>
+		<List recon_name="Australopithecus_afarensis,Australopithecus_africanus" recon_no="83055;83066">Australopithecus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="79">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Begun_et_Kordos_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(Cheirogaleus_sibreei ,((Cheirogaleus_crossleyi ,Cheirogaleus_lavasoensi ),(Cheirogaleus_major ,Cheirogaleus_medius ))));
+tree tnt_2 = [&U] 
+(allzero ,(Cheirogaleus_sibreei ,((Cheirogaleus_crossleyi ,Cheirogaleus_lavasoensi ),(Cheirogaleus_major ,Cheirogaleus_medius ))));
+
+end ; 

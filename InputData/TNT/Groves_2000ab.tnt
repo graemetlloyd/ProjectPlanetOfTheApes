@@ -1,0 +1,26 @@
+taxname=;
+mxram 4096;
+taxname +23;
+nstates num 32;
+xread
+''
+23 11
+& [numeric]
+Allenopithecus           00000000000000000000000
+Miopithecus              10010011001100000200010
+Erythrocebus             00001200101010002011000
+Chlorocebus_aethiops     00001201001011102011111
+Cercopithecus_mitis      11110111011001101201111
+Cercopithecus_lhoesti    11010210010000002201100
+Cercopithecus_hamlyni    01010210010000002201110
+Cercopithecus_neglectus  11110111111001020201111
+Cercopithecus_diana      11110111011101122101100
+Cercopithecus_cephus     11110011011101111201101
+Cercopithecus_mona       11010011011101111201101
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 -[/1 20 -[/1 21 -[/1 22 ;
+collapse [;
+ienum; nelsen*; export -Groves_2000abtntmpts_plus_strict.nex; mrp;
+export Groves_2000abmrp.nex; 
+proc/;
+

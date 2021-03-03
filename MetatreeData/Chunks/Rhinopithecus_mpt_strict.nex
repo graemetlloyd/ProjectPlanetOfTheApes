@@ -1,0 +1,117 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(Rhinopithecus_lantianensi ,(Rhinopithecus_tingianus ,(Rhinopithecus_brelichi ,(Rhinopithecus_avunculus ,(Rhinopithecus_roxellana ,(Rhinopithecus_bieti ,Rhinopithecus_strykeri )))))));
+tree tnt_2 = [&U] 
+(allzero ,(Rhinopithecus_tingianus ,(Rhinopithecus_brelichi ,(Rhinopithecus_lantianensi ,(Rhinopithecus_avunculus ,(Rhinopithecus_roxellana ,(Rhinopithecus_bieti ,Rhinopithecus_strykeri )))))));
+tree tnt_3 = [&U] 
+(allzero ,(Rhinopithecus_tingianus ,(Rhinopithecus_brelichi ,(Rhinopithecus_avunculus ,(Rhinopithecus_lantianensi ,(Rhinopithecus_roxellana ,(Rhinopithecus_bieti ,Rhinopithecus_strykeri )))))));
+tree tnt_4 = [&U] 
+(allzero ,(Rhinopithecus_tingianus ,(Rhinopithecus_brelichi ,((Rhinopithecus_avunculus ,Rhinopithecus_lantianensi ),(Rhinopithecus_roxellana ,(Rhinopithecus_bieti ,Rhinopithecus_strykeri ))))));
+tree tnt_5 = [&U] 
+(allzero ,(Rhinopithecus_tingianus ,(Rhinopithecus_brelichi ,(Rhinopithecus_avunculus ,((Rhinopithecus_bieti ,Rhinopithecus_strykeri ),(Rhinopithecus_lantianensi ,Rhinopithecus_roxellana ))))));
+tree tnt_6 = [&U] 
+(allzero ,(Rhinopithecus_tingianus ,(Rhinopithecus_brelichi ,(Rhinopithecus_avunculus ,(Rhinopithecus_roxellana ,(Rhinopithecus_lantianensi ,(Rhinopithecus_bieti ,Rhinopithecus_strykeri )))))));
+tree tnt_7 = [&U] 
+(allzero ,(Rhinopithecus_tingianus ,(Rhinopithecus_brelichi ,(Rhinopithecus_avunculus ,(Rhinopithecus_roxellana ,(Rhinopithecus_bieti ,(Rhinopithecus_lantianensi ,Rhinopithecus_strykeri )))))));
+tree tnt_8 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,(Rhinopithecus_tingianus ,(Rhinopithecus_avunculus ,(Rhinopithecus_lantianensi ,(Rhinopithecus_roxellana ,(Rhinopithecus_bieti ,Rhinopithecus_strykeri )))))));
+tree tnt_9 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,(Rhinopithecus_tingianus ,(Rhinopithecus_avunculus ,((Rhinopithecus_bieti ,Rhinopithecus_strykeri ),(Rhinopithecus_lantianensi ,Rhinopithecus_roxellana ))))));
+tree tnt_10 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,(Rhinopithecus_tingianus ,(Rhinopithecus_avunculus ,(Rhinopithecus_roxellana ,(Rhinopithecus_lantianensi ,(Rhinopithecus_bieti ,Rhinopithecus_strykeri )))))));
+tree tnt_11 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,(Rhinopithecus_tingianus ,(Rhinopithecus_avunculus ,(Rhinopithecus_roxellana ,(Rhinopithecus_bieti ,(Rhinopithecus_lantianensi ,Rhinopithecus_strykeri )))))));
+tree tnt_12 = [&U] 
+(allzero ,(Rhinopithecus_lantianensi ,(Rhinopithecus_brelichi ,(Rhinopithecus_avunculus ,(Rhinopithecus_tingianus ,(Rhinopithecus_roxellana ,(Rhinopithecus_bieti ,Rhinopithecus_strykeri )))))));
+tree tnt_13 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,((Rhinopithecus_avunculus ,Rhinopithecus_lantianensi ),(Rhinopithecus_tingianus ,(Rhinopithecus_roxellana ,(Rhinopithecus_bieti ,Rhinopithecus_strykeri ))))));
+tree tnt_14 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,(Rhinopithecus_avunculus ,(Rhinopithecus_tingianus ,(Rhinopithecus_roxellana ,(Rhinopithecus_lantianensi ,(Rhinopithecus_bieti ,Rhinopithecus_strykeri )))))));
+tree tnt_15 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,(Rhinopithecus_avunculus ,(Rhinopithecus_tingianus ,(Rhinopithecus_roxellana ,(Rhinopithecus_strykeri ,(Rhinopithecus_bieti ,Rhinopithecus_lantianensi )))))));
+tree tnt_16 = [&U] 
+(allzero ,(Rhinopithecus_lantianensi ,(Rhinopithecus_brelichi ,((Rhinopithecus_avunculus ,Rhinopithecus_tingianus ),(Rhinopithecus_roxellana ,(Rhinopithecus_bieti ,Rhinopithecus_strykeri ))))));
+tree tnt_17 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,((Rhinopithecus_lantianensi ,(Rhinopithecus_avunculus ,Rhinopithecus_tingianus )),(Rhinopithecus_roxellana ,(Rhinopithecus_bieti ,Rhinopithecus_strykeri )))));
+tree tnt_18 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,((Rhinopithecus_avunculus ,Rhinopithecus_tingianus ),((Rhinopithecus_bieti ,Rhinopithecus_strykeri ),(Rhinopithecus_lantianensi ,Rhinopithecus_roxellana )))));
+tree tnt_19 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,((Rhinopithecus_avunculus ,Rhinopithecus_tingianus ),(Rhinopithecus_roxellana ,(Rhinopithecus_lantianensi ,(Rhinopithecus_bieti ,Rhinopithecus_strykeri ))))));
+tree tnt_20 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,((Rhinopithecus_avunculus ,Rhinopithecus_tingianus ),(Rhinopithecus_roxellana ,(Rhinopithecus_bieti ,(Rhinopithecus_lantianensi ,Rhinopithecus_strykeri ))))));
+tree tnt_21 = [&U] 
+(allzero ,(Rhinopithecus_lantianensi ,(Rhinopithecus_brelichi ,(Rhinopithecus_avunculus ,((Rhinopithecus_bieti ,Rhinopithecus_strykeri ),(Rhinopithecus_roxellana ,Rhinopithecus_tingianus ))))));
+tree tnt_22 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,(Rhinopithecus_lantianensi ,(Rhinopithecus_avunculus ,((Rhinopithecus_bieti ,Rhinopithecus_strykeri ),(Rhinopithecus_roxellana ,Rhinopithecus_tingianus ))))));
+tree tnt_23 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,((Rhinopithecus_avunculus ,Rhinopithecus_lantianensi ),((Rhinopithecus_bieti ,Rhinopithecus_strykeri ),(Rhinopithecus_roxellana ,Rhinopithecus_tingianus )))));
+tree tnt_24 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,(Rhinopithecus_avunculus ,((Rhinopithecus_lantianensi ,(Rhinopithecus_bieti ,Rhinopithecus_strykeri )),(Rhinopithecus_roxellana ,Rhinopithecus_tingianus )))));
+tree tnt_25 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,(Rhinopithecus_avunculus ,((Rhinopithecus_bieti ,Rhinopithecus_strykeri ),(Rhinopithecus_lantianensi ,(Rhinopithecus_roxellana ,Rhinopithecus_tingianus ))))));
+tree tnt_26 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,(Rhinopithecus_avunculus ,((Rhinopithecus_strykeri ,(Rhinopithecus_bieti ,Rhinopithecus_lantianensi )),(Rhinopithecus_roxellana ,Rhinopithecus_tingianus )))));
+tree tnt_27 = [&U] 
+(allzero ,(Rhinopithecus_lantianensi ,(Rhinopithecus_brelichi ,(Rhinopithecus_avunculus ,(Rhinopithecus_roxellana ,(Rhinopithecus_tingianus ,(Rhinopithecus_bieti ,Rhinopithecus_strykeri )))))));
+tree tnt_28 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,(Rhinopithecus_lantianensi ,(Rhinopithecus_avunculus ,(Rhinopithecus_roxellana ,(Rhinopithecus_tingianus ,(Rhinopithecus_bieti ,Rhinopithecus_strykeri )))))));
+tree tnt_29 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,((Rhinopithecus_avunculus ,Rhinopithecus_lantianensi ),(Rhinopithecus_roxellana ,(Rhinopithecus_tingianus ,(Rhinopithecus_bieti ,Rhinopithecus_strykeri ))))));
+tree tnt_30 = [&U] 
+(allzero ,(Rhinopithecus_lantianensi ,(Rhinopithecus_brelichi ,(Rhinopithecus_avunculus ,(Rhinopithecus_roxellana ,(Rhinopithecus_bieti ,(Rhinopithecus_strykeri ,Rhinopithecus_tingianus )))))));
+tree tnt_31 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,(Rhinopithecus_lantianensi ,(Rhinopithecus_avunculus ,(Rhinopithecus_roxellana ,(Rhinopithecus_bieti ,(Rhinopithecus_strykeri ,Rhinopithecus_tingianus )))))));
+tree tnt_32 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,((Rhinopithecus_avunculus ,Rhinopithecus_lantianensi ),(Rhinopithecus_roxellana ,(Rhinopithecus_bieti ,(Rhinopithecus_strykeri ,Rhinopithecus_tingianus ))))));
+tree tnt_33 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,(Rhinopithecus_avunculus ,(Rhinopithecus_lantianensi ,(Rhinopithecus_roxellana ,(Rhinopithecus_bieti ,(Rhinopithecus_strykeri ,Rhinopithecus_tingianus )))))));
+tree tnt_34 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,(Rhinopithecus_avunculus ,((Rhinopithecus_bieti ,(Rhinopithecus_strykeri ,Rhinopithecus_tingianus )),(Rhinopithecus_lantianensi ,Rhinopithecus_roxellana )))));
+tree tnt_35 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,(Rhinopithecus_avunculus ,(Rhinopithecus_roxellana ,((Rhinopithecus_bieti ,Rhinopithecus_lantianensi ),(Rhinopithecus_strykeri ,Rhinopithecus_tingianus ))))));
+tree tnt_36 = [&U] 
+(allzero ,(Rhinopithecus_lantianensi ,(Rhinopithecus_tingianus ,(Rhinopithecus_brelichi ,((Rhinopithecus_avunculus ,Rhinopithecus_roxellana ),(Rhinopithecus_bieti ,Rhinopithecus_strykeri ))))));
+tree tnt_37 = [&U] 
+(allzero ,(Rhinopithecus_tingianus ,(Rhinopithecus_brelichi ,(Rhinopithecus_lantianensi ,((Rhinopithecus_avunculus ,Rhinopithecus_roxellana ),(Rhinopithecus_bieti ,Rhinopithecus_strykeri ))))));
+tree tnt_38 = [&U] 
+(allzero ,(Rhinopithecus_tingianus ,(Rhinopithecus_brelichi ,((Rhinopithecus_avunculus ,Rhinopithecus_roxellana ),(Rhinopithecus_lantianensi ,(Rhinopithecus_bieti ,Rhinopithecus_strykeri ))))));
+tree tnt_39 = [&U] 
+(allzero ,(Rhinopithecus_tingianus ,(Rhinopithecus_brelichi ,((Rhinopithecus_avunculus ,Rhinopithecus_roxellana ),(Rhinopithecus_strykeri ,(Rhinopithecus_bieti ,Rhinopithecus_lantianensi ))))));
+tree tnt_40 = [&U] 
+(allzero ,(Rhinopithecus_tingianus ,(Rhinopithecus_brelichi ,((Rhinopithecus_avunculus ,(Rhinopithecus_lantianensi ,Rhinopithecus_roxellana )),(Rhinopithecus_bieti ,Rhinopithecus_strykeri )))));
+tree tnt_41 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,(Rhinopithecus_tingianus ,((Rhinopithecus_avunculus ,Rhinopithecus_roxellana ),(Rhinopithecus_lantianensi ,(Rhinopithecus_bieti ,Rhinopithecus_strykeri ))))));
+tree tnt_42 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,(Rhinopithecus_tingianus ,((Rhinopithecus_roxellana ,(Rhinopithecus_avunculus ,Rhinopithecus_lantianensi )),(Rhinopithecus_bieti ,Rhinopithecus_strykeri )))));
+tree tnt_43 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,(Rhinopithecus_tingianus ,((Rhinopithecus_avunculus ,Rhinopithecus_roxellana ),(Rhinopithecus_bieti ,(Rhinopithecus_lantianensi ,Rhinopithecus_strykeri ))))));
+tree tnt_44 = [&U] 
+(allzero ,(Rhinopithecus_lantianensi ,(Rhinopithecus_brelichi ,((Rhinopithecus_avunculus ,Rhinopithecus_roxellana ),(Rhinopithecus_tingianus ,(Rhinopithecus_bieti ,Rhinopithecus_strykeri ))))));
+tree tnt_45 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,((Rhinopithecus_avunculus ,Rhinopithecus_roxellana ),(Rhinopithecus_lantianensi ,(Rhinopithecus_tingianus ,(Rhinopithecus_bieti ,Rhinopithecus_strykeri ))))));
+tree tnt_46 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,((Rhinopithecus_roxellana ,(Rhinopithecus_avunculus ,Rhinopithecus_lantianensi )),(Rhinopithecus_tingianus ,(Rhinopithecus_bieti ,Rhinopithecus_strykeri )))));
+tree tnt_47 = [&U] 
+(allzero ,(Rhinopithecus_lantianensi ,(Rhinopithecus_brelichi ,((Rhinopithecus_avunculus ,Rhinopithecus_roxellana ),(Rhinopithecus_strykeri ,(Rhinopithecus_bieti ,Rhinopithecus_tingianus ))))));
+tree tnt_48 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,(Rhinopithecus_lantianensi ,((Rhinopithecus_avunculus ,Rhinopithecus_roxellana ),(Rhinopithecus_strykeri ,(Rhinopithecus_bieti ,Rhinopithecus_tingianus ))))));
+tree tnt_49 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,((Rhinopithecus_roxellana ,(Rhinopithecus_avunculus ,Rhinopithecus_lantianensi )),(Rhinopithecus_strykeri ,(Rhinopithecus_bieti ,Rhinopithecus_tingianus )))));
+tree tnt_50 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,((Rhinopithecus_avunculus ,Rhinopithecus_roxellana ),((Rhinopithecus_bieti ,Rhinopithecus_tingianus ),(Rhinopithecus_lantianensi ,Rhinopithecus_strykeri )))));
+tree tnt_51 = [&U] 
+(allzero ,(Rhinopithecus_lantianensi ,(Rhinopithecus_brelichi ,((Rhinopithecus_avunculus ,(Rhinopithecus_roxellana ,Rhinopithecus_tingianus )),(Rhinopithecus_bieti ,Rhinopithecus_strykeri )))));
+tree tnt_52 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,(Rhinopithecus_lantianensi ,((Rhinopithecus_avunculus ,(Rhinopithecus_roxellana ,Rhinopithecus_tingianus )),(Rhinopithecus_bieti ,Rhinopithecus_strykeri )))));
+tree tnt_53 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,((Rhinopithecus_avunculus ,(Rhinopithecus_roxellana ,Rhinopithecus_tingianus )),(Rhinopithecus_lantianensi ,(Rhinopithecus_bieti ,Rhinopithecus_strykeri )))));
+tree tnt_54 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,(((Rhinopithecus_avunculus ,Rhinopithecus_lantianensi ),(Rhinopithecus_roxellana ,Rhinopithecus_tingianus )),(Rhinopithecus_bieti ,Rhinopithecus_strykeri ))));
+tree tnt_55 = [&U] 
+(allzero ,(Rhinopithecus_brelichi ,((Rhinopithecus_avunculus ,(Rhinopithecus_roxellana ,Rhinopithecus_tingianus )),(Rhinopithecus_bieti ,(Rhinopithecus_lantianensi ,Rhinopithecus_strykeri )))));
+tree tnt_56 = [&U] 
+(allzero ,(Rhinopithecus_avunculus ,Rhinopithecus_bieti ,Rhinopithecus_brelichi ,Rhinopithecus_lantianensi ,Rhinopithecus_roxellana ,Rhinopithecus_strykeri ,Rhinopithecus_tingianus ));
+
+end ; 

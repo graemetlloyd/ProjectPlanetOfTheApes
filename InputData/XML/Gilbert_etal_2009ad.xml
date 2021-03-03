@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gilbert, C.C.</List>
+			<List>Frost, S.R.</List>
+			<List>Strait, D.S.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>Allometry, sexual dimorphism, and phylogeny: a cladistic analysis of extant African papionins using craniodental data</Title>
+		<Journal>Journal of Human Evolution</Journal>
+		<Volume>57</Volume>
+		<Pages>298-320</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="7">
+		<List recon_name="Allenopithecus_nigroviridis" recon_no="385063">Allenopithecus</List>
+		<List recon_name="Cercocebus_torquatus,Cercocebus_agilis" recon_no="233932;385316">Cercocebus</List>
+		<List recon_name="Lophocebus_albigena,Lophocebus_aterrimus" recon_no="240334;385202">Lophocebus</List>
+		<List recon_name="Macaca_mulatta,Macaca_fascicularis,Macaca_nemestrina,Macaca_sylvanus" recon_no="232541;231530;231528;232422">Macaca</List>
+		<List recon_name="Mandrillus_sphinx,Mandrillus_leucophaeus" recon_no="232550;232590">Mandrillus</List>
+		<List recon_name="Papio_ursinus,Papio_cynocephalus,Papio_kindae,Papio_anubis,Papio_hamadryas,Papio_papio" recon_no="385206;231526;386047;232556;232436;232560">Papio</List>
+		<List recon_name="Theropithecus_gelada" recon_no="233450">Theropithecus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="151">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gilbert_etal_2009ad</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

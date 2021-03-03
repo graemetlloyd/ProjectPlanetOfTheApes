@@ -1,0 +1,28 @@
+#NEXUS
+BEGIN DATA;
+DIMENSIONS NTAX=15 NCHAR=14;
+FORMAT DATATYPE=STANDARD MISSING=? GAP=-  symbols="0123456789";
+
+MATRIX		   
+Propliopithecus				00000000000000
+Pliopithecus				01000000100010
+Dendropithecus				01000010100000
+Otavipithecus				21011010100100
+Afropithecus				110000000100-1
+Proconsul					11000000000000
+Kenyapithecus				11002010010101
+Griphopithecus				11002010010101
+Sivapithecus				21001011211001
+Pongo						20110111011011
+Dryopithecus				21001010011110
+Ouranopithecus				21001010211011
+Gorilla						21100111211010
+Pan							20110111211010
+Australopithecus_afarensis	20102011211111
+;
+end;
+
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

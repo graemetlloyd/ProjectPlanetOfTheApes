@@ -1,0 +1,25 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=11 NCHAR=8 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Leptictidae             00000000
+Ptilocercus_lowii       11110000
+Cynocephalidae          11110000
+Tarsius_syrichta        10001111
+Shoshonius_cooperi      10001111
+Adapidae                10001110
+Palaechthon_nacimienti  11000000
+Microsyopidae           11100000
+Paromomyidae            10001000
+Plesiadapidae           10001100
+Carpolestes_simpsoni    10001100
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

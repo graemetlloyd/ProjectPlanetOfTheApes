@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bloch, J.I</List>
+			<List>Fisher, D.C.</List>
+			<List>Rose, K.D.</List>	
+			<List>Gingerich, P.D.</List>				
+		</Author>
+		<Year>2001</Year>
+		<Title>Stratocladistic analysis of Paleocene Carpolestidae (Mammalia, Plesiadapiformes) with description of a new late Tiffanian genus</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>21</Volume>
+		<Pages>119-131</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List recon_name="Purgatorius" recon_no="40704">Purgatorius</List>
+		<List recon_name="Pronothodectes" recon_no="40739">Pronothodectes</List>
+		<List recon_name="Elphidotarsius_florencae" recon_no="46063">Elphidotarsius_florencae</List>
+		<List recon_name="Elphidotarsius_shotgunensis" recon_no="46065">Elphidotarsius_shotgunensis</List>
+		<List recon_name="Elphidotarsius_russelli" recon_no="46064">Elphidotarsius_russelli</List>
+		<List recon_name="Elphidotarsius_wightoni" recon_no="46066">Elphidotarsius_wightoni</List>
+		<List recon_name="Carpodaptes_aulacodon" recon_no="44937">Carpodaptes_aulacodon</List>
+		<List recon_name="Carpocristes_hobackensis" recon_no="44930">Carpocristes_hobackensis</List>
+		<List recon_name="Carpodaptes_cygneus" recon_no="44938">Carpodaptes_cygneus</List>
+		<List recon_name="Carpodaptes_hazelae" recon_no="44940">Carpodaptes_hazelae</List>
+		<List recon_name="Carpomegodon_jepseni" recon_no="44952">Carpomegodon_jepseni</List>
+		<List recon_name="Carpolestes_dubius" recon_no="44948">Carpolestes_dubius</List>
+		<List recon_name="Carpolestes_nigridens" recon_no="44950">Carpolestes_nigridens</List>
+		<List recon_name="Carpolestes_simpsoni" recon_no="44951">Carpolestes_simpsoni</List>
+		<List recon_name="Carpocristes_oriens" recon_no="144291">Carpocristes_oriens</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="32">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bloch_etal_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

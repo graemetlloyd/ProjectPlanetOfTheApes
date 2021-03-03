@@ -1,0 +1,25 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=11 NCHAR=9 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Allenopithecus           000000000
+Miopithecus              110000000
+Erythrocebus             101000000
+Chlorocebus_aethiops     101000000
+Cercopithecus_mitis      110111000
+Cercopithecus_lhoesti    110100100
+Cercopithecus_hamlyni    110100100
+Cercopithecus_neglectus  110110000
+Cercopithecus_diana      110111010
+Cercopithecus_cephus     110111011
+Cercopithecus_mona       110111011
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

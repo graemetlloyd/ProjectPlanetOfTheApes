@@ -1,0 +1,24 @@
+taxname=;
+mxram 4096;
+taxname +23;
+nstates num 32;
+xread
+''
+36 9
+& [numeric]
+Microcebus_murinus       000000000000200010011000100000000000
+Otolemur_crassicaudatus  100121100000120110100010110101010211
+Galagoides_demidoff      210001000002020100000010000110110011
+Arctocebus_aureus        210001000001000000000110100011111200
+Arctocebus_calabarensis  210001100001000000000110100011111200
+Loris_tardigradus        200001100212010001011111000011111200
+Nycticebus_coucang       000120100010000010111111101011111200
+Nycticebus_pygmaeus      000010100010000010111111001011111200
+Perodicticus_potto       100120100010001010100111201001111200
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 -[/1 20 -[/1 21 -[/1 22 -[/1 23 -[/1 24 -[/1 25 -[/1 26 -[/1 27 -[/1 28 -[/1 29 -[/1 30 -[/1 31 -[/1 32 -[/1 33 -[/1 34 -[/1 35 ;
+collapse [;
+ienum; nelsen*; export -Masters_etal_2005atntmpts_plus_strict.nex; mrp;
+export Masters_etal_2005amrp.nex; 
+proc/;
+

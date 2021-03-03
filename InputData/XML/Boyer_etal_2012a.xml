@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Boyer, D.M.</List>
+			<List>Scott, C.S.</List>
+			<List>Fox, R.C.</List>		
+		</Author>
+		<Year>2012</Year>
+		<Title>New Craniodental Material of Pronothodectes gaoi Fox(Mammalia, ‘Plesiadapiformes’) and Relationships Among Members of Plesiadapidae</Title>
+		<Journal>American Journal of Physical Anthropology</Journal>
+		<Volume>147</Volume>
+		<Pages>511–550</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="31">
+		<List recon_name="Purgatorius_janisae" recon_no="51268">Purgatorius_sp</List>
+		<List recon_name="Elphidotarsius_florencae,Elphidotarsius_wightoni" recon_no="46063;46066">Elphidotarsius_sp</List>
+		<List recon_name="Carpolestes_simpsoni" recon_no="44951">Carpolestes_simpsoni</List>
+		<List recon_name="Pronothodectes_matthewi" recon_no="50864">Pronothodectes_matthewi</List>
+		<List recon_name="Pronothodectes_jepi" recon_no="50863">Pronothodectes_jepi</List>
+		<List recon_name="Pronothodectes_gaoi" recon_no="50861">Pronothodectes_gaoi</List>
+		<List recon_name="Plesiadapis_praecursor" recon_no="50440">Plesiadapis_praecursor</List>
+		<List recon_name="Plesiadapis_insignis" recon_no="144255">Plesiadapis_insignis</List>
+		<List recon_name="Plesiadapis_anceps" recon_no="50429">Plesiadapis_anceps</List>
+		<List recon_name="Plesiadapis_walbeckensis" recon_no="144256">Plesiadapis_walbeckensis</List>
+		<List recon_name="Plesiadapis_rex" recon_no="50441">Plesiadapis_rex</List>
+		<List recon_name="Nannodectes_intermedius" recon_no="48974">Nannodectes_intermedius</List>
+		<List recon_name="Nannodectes_gazini" recon_no="48972">Nannodectes_gazini</List>
+		<List recon_name="Nannodectes_simpsoni" recon_no="48975">Nannodectes_simpsoni</List>
+		<List recon_name="Nannodectes_gidleyi" recon_no="48973">Nannodectes_gidleyi</List>
+		<List recon_name="Chiromyoides_minor" recon_no="45059">Chiromyoides_minor</List>
+		<List recon_name="Chiromyoides_campanicus" recon_no="113801">Chiromyoides_campanicus</List>
+		<List recon_name="Chiromyoides_caesor" recon_no="45057">Chiromyoides_caesor</List>
+		<List recon_name="Chiromyoides_potior" recon_no="45060">Chiromyoides_potior</List>
+		<List recon_name="Chiromyoides_major" recon_no="45058">Chiromyoides_major</List>
+		<List recon_name="Plesiadapis_churchilli" recon_no="50430">Plesiadapis_churchilli</List>
+		<List recon_name="Plesiadapis_gingerichi" recon_no="50436">Plesiadapis_gingerichi</List>
+		<List recon_name="Plesiadapis_simonsi" recon_no="50443">Plesiadapis_simonsi</List>
+		<List recon_name="Plesiadapis_remensis" recon_no="144257">Plesiadapis_remensis</List>
+		<List recon_name="Plesiadapis_tricuspidens" recon_no="50444">Plesiadapis_tricuspidens</List>
+		<List recon_name="Plesiadapis_fodinatus" recon_no="50434">Plesiadapis_fodinatus</List>
+		<List recon_name="Plesiadapis_dubius" recon_no="50432">Plesiadapis_dubius</List>
+		<List recon_name="Plesiadapis_cookei" recon_no="50431">Plesiadapis_cookei</List>
+		<List recon_name="Plesiadapis_russelli" recon_no="144259">Plesiadapis_russelli</List>
+		<List recon_name="Platychoerops_daubrei" recon_no="144264">Platychoerops_daubrei</List>
+		<List recon_name="Platychoerops_richardsoni" recon_no="144240">Platychoerops_richardsoni</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="66">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Boyer_etal_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,21 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Gorilla ,(Pan_troglodytes ,(Australopithecus_africanu ,(Australopithecus_afarensi ,(Homo_rudolfensis ,(Homo_habilis ,(Homo_floresiensis ,((Homo_erectus ,(Homo_rhodesiensis ,Homo_sapiens )),(Dmanisi ,Homo_ergaster )))))))));
+tree tnt_2 = [&U] 
+(Gorilla ,(Pan_troglodytes ,(Australopithecus_afarensi ,(Homo_rudolfensis ,(Australopithecus_africanu ,(Homo_habilis ,(Homo_floresiensis ,(Dmanisi ,(Homo_ergaster ,(Homo_erectus ,(Homo_rhodesiensis ,Homo_sapiens )))))))))));
+tree tnt_3 = [&U] 
+(Gorilla ,(Pan_troglodytes ,(Australopithecus_afarensi ,(Australopithecus_africanu ,(Homo_rudolfensis ,(Homo_habilis ,(Homo_floresiensis ,(Dmanisi ,(Homo_ergaster ,(Homo_erectus ,(Homo_rhodesiensis ,Homo_sapiens )))))))))));
+tree tnt_4 = [&U] 
+(Gorilla ,(Pan_troglodytes ,(Australopithecus_afarensi ,(Homo_rudolfensis ,(Australopithecus_africanu ,(Homo_habilis ,(Homo_floresiensis ,((Homo_erectus ,(Homo_rhodesiensis ,Homo_sapiens )),(Dmanisi ,Homo_ergaster )))))))));
+tree tnt_5 = [&U] 
+(Gorilla ,(Pan_troglodytes ,(Australopithecus_afarensi ,(Australopithecus_africanu ,(Homo_rudolfensis ,(Homo_habilis ,(Homo_floresiensis ,((Homo_erectus ,(Homo_rhodesiensis ,Homo_sapiens )),(Dmanisi ,Homo_ergaster )))))))));
+tree tnt_6 = [&U] 
+(Gorilla ,(Pan_troglodytes ,(Australopithecus_afarensi ,(Homo_rudolfensis ,(Australopithecus_africanu ,(Homo_floresiensis ,(Homo_habilis ,((Homo_erectus ,(Homo_rhodesiensis ,Homo_sapiens )),(Dmanisi ,Homo_ergaster )))))))));
+tree tnt_7 = [&U] 
+(Gorilla ,(Pan_troglodytes ,(Australopithecus_afarensi ,(Australopithecus_africanu ,(Homo_rudolfensis ,(Homo_floresiensis ,(Homo_habilis ,((Homo_erectus ,(Homo_rhodesiensis ,Homo_sapiens )),(Dmanisi ,Homo_ergaster )))))))));
+tree tnt_8 = [&U] 
+(Gorilla ,(Pan_troglodytes ,(Australopithecus_africanu ,Homo_rudolfensis ,Australopithecus_afarensi ,(Homo_habilis ,Homo_floresiensis ,(Dmanisi ,Homo_ergaster ,(Homo_erectus ,(Homo_rhodesiensis ,Homo_sapiens )))))));
+
+end ; 

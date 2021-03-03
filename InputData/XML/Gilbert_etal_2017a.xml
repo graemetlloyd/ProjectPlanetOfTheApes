@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gilbert, C.C.</List>
+			<List>=Patel, B.A.</List>
+			<List>Singh, N.P.</List>
+			<List>Campisano, C.J.</List>
+			<List>Fleagle, J.G.</List>
+			<List>Rust, K.L.</List>
+			<List>Patnaik, R.</List>
+		</Author>
+		<Year>2017</Year>
+		<Title>New sivaladapid primate from Lower Siwalik deposits surrounding Ramnagar (Jammu and Kashmir State), India</Title>
+		<Journal>Journal of Human Evolution</Journal>
+		<Volume>102</Volume>
+		<Pages>21-41</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List recon_name="Donrussellia_provincialis" recon_no="145138">Donrussellia</List>
+		<List recon_name="Cantius_torresi,Cantius_ralstoni" recon_no="44901;44899">Cantius</List>
+		<List recon_name="Marcgodinotius_indicus" recon_no="98780">Marcgodinotius</List>
+		<List recon_name="Asiadapis_cambayensis" recon_no="131095">Asiadapis</List>
+		<List recon_name="Europolemur_klatti" recon_no="135231">Europolemur</List>
+		<List recon_name="Anchomomys_(Huerzeleris)_quercyi,Anchomomys" recon_no="145129;40752">Anchomomys</List>
+		<List recon_name="Periconodon_huerzeleri" recon_no="135240">Periconodon</List>
+		<List recon_name="Rencunius_zhoui" recon_no="113505">Rencunius</List>
+		<List recon_name="Hoanghonius_stehlini" recon_no="58316">Hoanghonius</List>
+		<List recon_name="Wailekia_orientale" recon_no="131779">Wailekia</List>
+		<List recon_name="Guangxilemur_tongi" recon_no="131770">Guangxilemur_tongi</List>
+		<List recon_name="Guangxilemur_singsilai" recon_no="131782">Guangxilemur_singsilai</List>
+		<List recon_name="Sivaladapis_palaeindicus" recon_no="101107">Sivaladapis_palaeindicus</List>
+		<List recon_name="Sivaladapis_nagrii" recon_no="101106">Sivaladapis_nagrii</List>
+		<List recon_name="Sinoadapis_carnosus" recon_no="58420">Sinoadapis_carnosus</List>
+		<List recon_name="Sinoadapis_shihuibaensis" recon_no="385053">Sinoadapis_shihuibaensis</List>
+		<List recon_name="Ramadapis_sahnii" recon_no="385431">Ramadapis_sahnii</List>
+		<List recon_name="Indraloris_himalayensis" recon_no="101105">Indraloris_himalayensis</List>
+		<List recon_name="Indraloris_kamlialensis" recon_no="384448">Indraloris_kamlialensis</List>
+		<List recon_name="Indraloris_sp_YGSP_32152" recon_no="40759">Indraloris_sp_Large</List>
+		<List recon_name="Lushius_qinlinensis" recon_no="40761">Lushius</List>
+		<List recon_name="Siamoadapis_maemohensis" recon_no="384932">Siamoadapis</List>
+		<List recon_name="Paukkaungia_parva" recon_no="131760">Paukkaungia</List>
+		<List recon_name="Kyitchaungia_takaii" recon_no="131762">Kyitchaungia</List>
+		<List recon_name="Yunnanadapis_folivorus" recon_no="343079">Yunnanadapis</List>
+		<List recon_name="Laomaki_yunnanensis" recon_no="343082">Laomaki</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="40">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gilbert_etal_2017a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

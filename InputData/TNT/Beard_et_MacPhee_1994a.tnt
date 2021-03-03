@@ -1,0 +1,30 @@
+taxname=;
+mxram 4096;
+taxname +15;
+nstates num 32;
+xread
+''
+18 15
+& [numeric]
+Plesiadapidae    10100002?000000000
+Paromomyidae     001000020001000000
+Galeopithecidae  001201021000000000
+Lorisoidea       100201011000000011
+Cheirogaleidae   110100011000000011
+Lemuroidea       110110001000000011
+Adapiformes      110110001000000001
+Shoshonius       100010000101101101
+Tetonius         1???1??0????101101
+Necrolemur       101011100100101001
+Rooneyia         101011?0?000000001
+Tarsius          101212100111101101
+Callitrichidae   100211001010010101
+Cebidae          100211001010010[01]01
+Catarrhini       10[01]211001010010[01]01
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 ;
+collapse [;
+ienum; nelsen*; export -Beard_et_MacPhee_1994atntmpts_plus_strict.nex; mrp;
+export Beard_et_MacPhee_1994amrp.nex; 
+proc/;
+

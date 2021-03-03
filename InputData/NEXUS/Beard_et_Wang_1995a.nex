@@ -1,0 +1,36 @@
+#NEXUS
+BEGIN DATA;
+	DIMENSIONS  NTAX=12 NCHAR=27;
+	FORMAT DATATYPE = STANDARD GAP = - MISSING = ? SYMBOLS = "  0 1 2 3 4 5 6";
+	
+
+MATRIX
+Ancestor						000000000000000000000000000
+Plesiadapidae					11111000010???000??????0011
+Saxonella						11111000010???000??????1011
+Chronolestes_simul				0000011110000000000?0?00011
+Elphidotarsius_sp_cf_lorencae	???201111??1110000000010011
+Elphidotarsius_wightoni			???2?1111??2110000000011111
+Carpodaptes_hazelae				???2?1111113121000000121111
+Carpodaptes_jepseni				??????111??????00000023?1??
+Carpolestes						???2?1111??3121000000251111
+Carpocristes_cygneus			???2?1111113221111001031111
+Carpocristes_hobackensis		?????1111??????1111110311??
+Carpocristes_oriens				???2?1111??4321111111040111
+;
+END;
+
+
+BEGIN ASSUMPTIONS;
+USERTYPE 'step_A' (STEPMATRIX) = 2
+	0 1 
+	. 1 
+	i . 
+	;
+
+OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+TYPESET * UNTITLED  = ord: 1-3 5-11 12-14 15-23 25-27, 'step_A': 24 , unord: 4 ;
+end;
+
+
+

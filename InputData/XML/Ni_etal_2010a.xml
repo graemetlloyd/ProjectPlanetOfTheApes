@@ -1,0 +1,98 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ni, X.-J.</List>
+			<List>Meng, J.</List>
+			<List>Beard, C.</List>
+			<List>Gebo, D. L.</List>
+			<List>Wang, Y.-Q.</List>
+			<List>Li, C.-K.</List>	
+		</Author>
+		<Year>2010</Year>
+		<Title>A new tarkadectine primate from the Eocene of Inner Mongolia, China: phylogenetic and biogeographic implications</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>227</Volume>
+		<Pages>247-256</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="59">
+		<List recon_name="Echinosorex_gymnura" recon_no="385327">Echinosorex_gymnura</List>
+		<List recon_name="Ptilocercus_lowii" recon_no="234229">Ptilocercus_lowii</List>
+		<List recon_name="Tupaia_glis" recon_no="234212">Tupaia_glis</List>
+		<List recon_name="Carpocristes_oriens" recon_no="144291">Carpocristes_oriens</List>
+		<List recon_name="Chronolestes_simul" recon_no="144290">Chronolestes_simul</List>
+		<List recon_name="Cynocephalus_volans" recon_no="206240">Cynocephalus_volans</List>
+		<List recon_name="Ellesmene_eureka" recon_no="46033">Ellesmene_eureka</List>
+		<List recon_name="Elphidotarsius_florencae" recon_no="46063">Elphidotarsius_florencae</List>
+		<List recon_name="Elpidophorus_elegans" recon_no="46067">Elpidophorus_elegans</List>
+		<List recon_name="Eudaemonema_cuspidata" recon_no="46385">Eudaemonema_cuspidata</List>
+		<List recon_name="Galeopterus_variegatus" recon_no="206242">Galeopterus_variegatus</List>
+		<List recon_name="Microsyops_latidens" recon_no="48554">Microsyops_latidens</List>
+		<List recon_name="Mixodectes_pungens" recon_no="48779">Mixodectes_pungens</List>
+		<List recon_name="Nannodectes_gidleyi" recon_no="48973">Nannodectes_gidleyi</List>
+		<List recon_name="Palaechthon_alticuspis" recon_no="49617">Palaechthon_alticuspis</List>
+		<List recon_name="Paromomys_maturus" recon_no="50016">Paromomys_maturus</List>
+		<List recon_name="Phenacolemur_jepseni" recon_no="50327">Phenacolemur_jepseni</List>
+		<List recon_name="Plagiomene_multicuspis" recon_no="50390">Plagiomene_multicuspis</List>
+		<List recon_name="Planetetherium_mirabile" recon_no="50393">Planetetherium_mirabile</List>
+		<List recon_name="Plesiolestes_problematicus" recon_no="50457">Plesiolestes_problematicus</List>
+		<List recon_name="Pronothodectes_matthewi" recon_no="50864">Pronothodectes_matthewi</List>
+		<List recon_name="Purgatorius_unio,Purgatorius_janisae" recon_no="51270;51268">Purgatorius_spp</List>
+		<List recon_name="Worlandia_inusitata" recon_no="52706">Worlandia_inusitata</List>
+		<List recon_name="Absarokius_abbotti" recon_no="43687">Absarokius_abbotti</List>
+		<List recon_name="Absarokius_noctivagus" recon_no="43693">Absarokius_noctivagus</List>
+		<List recon_name="Altanius_orlovi" recon_no="101080">Altanius_orlovi</List>
+		<List recon_name="Aycrossia_lovei" recon_no="44399">Aycrossia_lovei</List>
+		<List recon_name="Dyseolemur_pacificus" recon_no="45954">Dyseolemur_pacificus</List>
+		<List recon_name="Hemiacodon_gracilis" recon_no="46847">Hemiacodon_gracilis</List>
+		<List recon_name="Loveina_zephyri" recon_no="47778">Loveina_zephyri</List>
+		<List recon_name="Macrotarsius_jepseni" recon_no="47852">Macrotarsius_jepseni</List>
+		<List recon_name="Macrotarsius_montanus" recon_no="47853">Macrotarsius_montanus</List>
+		<List recon_name="Macrotarsius_siegerti" recon_no="47855">Macrotarsius_siegerti</List>
+		<List recon_name="Microchoerus_erinaceus" recon_no="57923">Microchoerus_erinaceus</List>
+		<List recon_name="Nannopithex_raabi" recon_no="352359">Nannopithex_raabi</List>
+		<List recon_name="Necrolemur_antiquus" recon_no="347334">Necrolemur_antiquus</List>
+		<List recon_name="Omomys_carteri" recon_no="49314">Omomys_carteri</List>
+		<List recon_name="Pseudoloris_parvulus" recon_no="67466">Pseudoloris_parvulus</List>
+		<List recon_name="Rooneyia_viejaensis" recon_no="51372">Rooneyia_viejaensis</List>
+		<List recon_name="Shoshonius_cooperi" recon_no="51543">Shoshonius_cooperi</List>
+		<List recon_name="Steinius_vespertinus" recon_no="51772">Steinius_vespertinus</List>
+		<List recon_name="Strigorhysis_bridgerensis" recon_no="51826">Strigorhysis_bridgerensis</List>
+		<List recon_name="Tarkadectes_montanensis" recon_no="52080">Tarkadectes_montanensis</List>
+		<List recon_name="Tarka_stylifera" recon_no="52078">Tarka_stylifera</List>
+		<List recon_name="Tarkops_mckennai" recon_no="146440">Tarkops_mckennai</List>
+		<List recon_name="Teilhardina_americana" recon_no="52105">Teilhardina_americana</List>
+		<List recon_name="Teilhardina_asiatica" recon_no="101085">Teilhardina_asiatica</List>
+		<List recon_name="Teilhardina_belgica" recon_no="53408">Teilhardina_belgica</List>
+		<List recon_name="Tetonius_homunculus" recon_no="52190">Tetonius_homunculus</List>
+		<List recon_name="Tetonoides_pearcei" recon_no="52200">Tetonoides_pearcei</List>
+		<List recon_name="Uintanius_ameghini" recon_no="52567">Uintanius_ameghini</List>
+		<List recon_name="Washakius_insignis" recon_no="52699">Washakius_insignis</List>
+		<List recon_name="Adapis_parisiensis" recon_no="57922">Adapis_parisiensis</List>
+		<List recon_name="Aframonius_dieides" recon_no="143110">Aframonius_dieides</List>
+		<List recon_name="Cantius_frugivorus" recon_no="44896">Cantius_frugivorus</List>
+		<List recon_name="Donrussellia_provincialis" recon_no="145138">Donrussellia_provincialis</List>
+		<List recon_name="Ekgmowechashala_philotau" recon_no="46013">Ekgmowechashala_philotau</List>
+		<List recon_name="Mahgarita_stevensi" recon_no="47857">Mahgarita_stevensi</List>
+		<List recon_name="Notharctus_tenebrosus" recon_no="49200">Notharctus_tenebrosus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="444">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ni_etal_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

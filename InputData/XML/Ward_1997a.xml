@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ward, C.V.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>Functional anatomy and phyletic implications of the hominoid trunk and hindlimb</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>101-130</Pages>
+		<Booktitle>Function, Phylogeny, and Fossils: Miocene Hominoid Evolution and Adaptations</Booktitle>
+		<Publisher>Springer Science</Publisher>
+		<City>New York</City>
+		<Editor>
+			<List>Begun, D.R.<List>
+			<List>Ward, C.V.<List>
+			<List>Rose, M.D.<List>
+			</Editor>
+	</Source>
+	<Taxa number="16">
+		<List recon_name="Propliopithecidae" recon_no="92593">Propliopithecidae</List>
+		<List recon_name="Hominidae" recon_no="40899">Hominidae</List>
+		<List recon_name="Pan" recon_no="97177">Pan</List>
+		<List recon_name="Gorilla" recon_no="97178">Gorilla</List>
+		<List recon_name="Pongo" recon_no="40897">Pongo</List>
+		<List recon_name="Hylobatidae" recon_no="40889">Hylobatidae</List>
+		<List recon_name="Proconsul_heseloni,Proconsul_nyanzae,Proconsul_major" recon_no="157735;157733;157734">Proconsul</List>
+		<List recon_name="Afropithecus_turkanensis" recon_no="97222">Afropithecus</List>
+		<List recon_name="Rangwapithecus_gordoni" recon_no="385295">Rangwapithecus</List>
+		<List recon_name="Kenyapithecus_africanus" recon_no="100575">Kenyapithecus</List>
+		<List recon_name="Turkanapithecus_kalakolensis" recon_no="97226">Turkanapithecus</List>
+		<List recon_name="Morotopithecus_bishopi" recon_no="164184">Moroto_hominoid</List>
+		<List recon_name="Dryopithecus_brancoi,Dryopithecus_laietanus,Dryopithecus_crusafonti" recon_no="143193;385518;385049">Dryopithecus</List>
+		<List recon_name="Pliopithecus_vindobonensis" recon_no="143183">Pliopithecus</List>
+		<List recon_name="Sivapithecus_indicus,Sivapithecus_parvada" recon_no="133688;385356">Sivapithecus</List>
+		<List recon_name="Oreopithecus_bambolii" recon_no="364970">Oreopithecus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="55">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ward_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

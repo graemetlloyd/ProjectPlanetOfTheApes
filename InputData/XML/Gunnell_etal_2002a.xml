@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gunnell, G.F</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>Notharctine primates (Adapiformes) from the early to middle Eocene (Wasatchian–Bridgerian) of Wyoming: transitional species and the origins of Notharctus and Smilodectes</Title>
+		<Journal>Journal of Human Evolution</Journal>
+		<Volume>43</Volume>
+		<Pages>353-380</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List recon_name="Teilhardina_belgica" recon_no="53408">Teilhardina_belgica</List>
+		<List recon_name="Copelemur_tutus" recon_no="45239">Copelemur_tutus</List>
+		<List recon_name="Copelemur_australotutus" recon_no="45235">Copelemur_australotutus</List>
+		<List recon_name="Copelemur_praetutus" recon_no="45238">Copelemur_praetutus</List>
+		<List recon_name="Cantius_abditus" recon_no="44892">Cantius_abditus</List>
+		<List recon_name="Cantius_nunienus" recon_no="44898">Cantius_nunienus</List>
+		<List recon_name="Cantius_torresi" recon_no="44901">Cantius_torresi</List>
+		<List recon_name="Cantius_ralstoni" recon_no="44899">Cantius_ralstoni</List>
+		<List recon_name="Cantius_mckennai" recon_no="44897">Cantius_mckennai</List>
+		<List recon_name="Cantius_trigonodus" recon_no="44902">Cantius_trigonodus</List>
+		<List recon_name="Notharctus_venticolus" recon_no="49204">Notharctus_venticolus</List>
+		<List recon_name="Notharctus_robinsoni" recon_no="49198">Notharctus_robinsoni</List>
+		<List recon_name="Notharctus_tenebrosus" recon_no="49200">Notharctus_tenebrosus</List>
+		<List recon_name="Smilodectes_gracilis" recon_no="51609">Smilodectes_gracilis</List>
+		<List recon_name="Smilodectes_mcgrewi" recon_no="51610">Smilodectes_mcgrewi</List>
+		<List recon_name="Smilodectes_sororis" recon_no="51611">Smilodectes_sororis</List>
+		<List recon_name="Pelycodus_jarrovii" recon_no="50084">Pelycodus_jarrovii</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="53">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gunnell_etal_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

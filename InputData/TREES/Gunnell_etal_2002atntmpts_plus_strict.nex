@@ -1,0 +1,13 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Teilhardina_belgica ,(Pelycodus_jarrovii ,(Cantius_torresi ,(Cantius_ralstoni ,((Cantius_mckennai ,Cantius_trigonodus ,((Copelemur_praetutus ,(Copelemur_tutus ,Copelemur_australotutu )),((Notharctus_venticolus ,(Notharctus_robinsoni ,Notharctus_tenebrosus )),(Smilodectes_sororis ,(Smilodectes_gracilis ,Smilodectes_mcgrewi ))))),(Cantius_abditus ,Cantius_nunienus ))))));
+tree tnt_2 = [&U] 
+(Teilhardina_belgica ,(Pelycodus_jarrovii ,(Cantius_torresi ,(Cantius_ralstoni ,((Cantius_mckennai ,Cantius_trigonodus ,((Copelemur_praetutus ,(Copelemur_tutus ,Copelemur_australotutu )),(Smilodectes_sororis ,(Smilodectes_gracilis ,Smilodectes_mcgrewi )))),(Cantius_abditus ,(Cantius_nunienus ,(Notharctus_venticolus ,(Notharctus_robinsoni ,Notharctus_tenebrosus )))))))));
+tree tnt_3 = [&U] 
+(Teilhardina_belgica ,(Pelycodus_jarrovii ,(Cantius_torresi ,(Cantius_ralstoni ,((Cantius_mckennai ,Cantius_trigonodus ,((Copelemur_praetutus ,(Copelemur_tutus ,Copelemur_australotutu )),(Smilodectes_mcgrewi ,(Smilodectes_gracilis ,Smilodectes_sororis )))),(Cantius_abditus ,(Cantius_nunienus ,(Notharctus_venticolus ,(Notharctus_robinsoni ,Notharctus_tenebrosus )))))))));
+tree tnt_4 = [&U] 
+(Teilhardina_belgica ,(Pelycodus_jarrovii ,(Cantius_torresi ,(Cantius_ralstoni ,(Cantius_abditus ,Cantius_nunienus ,Cantius_mckennai ,Cantius_trigonodus ,(Copelemur_praetutus ,(Copelemur_tutus ,Copelemur_australotutu )),(Notharctus_venticolus ,(Notharctus_robinsoni ,Notharctus_tenebrosus )),(Smilodectes_gracilis ,Smilodectes_mcgrewi ,Smilodectes_sororis ))))));
+
+end ; 

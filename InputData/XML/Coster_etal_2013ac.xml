@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Coster, P.</List>
+			<List>Beard, K.C.</List>
+			<List>Soe, A.N.</List>
+			<List>Sein, C.</List>
+			<List>Chaimanee, Y.</List>
+			<List>Lazzari, V.</List>
+			<List>Valentin, X.</List>
+			<List>Jaeger, J.</List>	
+		</Author>
+		<Year>2013</Year>
+		<Title>Uniquely derived upper molar morphology of Eocene Amphipithecidae (Primates: Anthropoidea): Homology and phylogeny</Title>
+		<Journal>Journal of Human Evolution</Journal>
+		<Volume>65</Volume>
+		<Pages>143-155</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List recon_name="Teilhardina" recon_no="40829">Teilhardina</List>
+		<List recon_name="Arsinoea" recon_no="100644">Arsinoea</List>
+		<List recon_name="Proteopithecus" recon_no="97122">Proteopithecus</List>
+		<List recon_name="Serapia" recon_no="100643">Serapia</List>
+		<List recon_name="Qatrania" recon_no="100569">Qatrania</List>
+		<List recon_name="Apidium" recon_no="40857">Apidium</List>
+		<List recon_name="Catopithecus" recon_no="92596">Catopithecus</List>
+		<List recon_name="Oligopithecus" recon_no="40896">Oligopithecus</List>
+		<List recon_name="Propliopithecus" recon_no="40888">Propliopithecus</List>
+		<List recon_name="Aegyptopithecus_zeuxis" recon_no="100577">Aegyptopithecus</List>
+		<List recon_name="Eosimias" recon_no="92597">Eosimias</List>
+		<List recon_name="Bahinia" recon_no="58154">Bahinia</List>
+		<List recon_name="Afrotarsius" recon_no="40839">Afrotarsius</List>
+		<List recon_name="Siamopithecus" recon_no="116955">Siamopithecus</List>
+		<List recon_name="Pondaungia" recon_no="40842">Pondaungia</List>
+		<List recon_name="Ganlea_megacanina" recon_no="148613">Ganlea</List>
+		<List recon_name="Myanmarpithecus_yarshensis" recon_no="106801">Myanmarpithecus</List>
+		<List recon_name="Hesperolemur" recon_no="40757">Hesperolemur</List>
+		<List recon_name="Cantius" recon_no="40754">Cantius</List>
+		<List recon_name="Notharctus" recon_no="40764">Notharctus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="23">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Coster_etal_2013ac</Filename>
+	<Parent>Gunnell_etal_2002b</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cameron, D.W.</List>
+			<List>Groves, C.P.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A Systematic Scheme for the Pliocene and Early Pleistocene Hominids</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>288-298</Pages>
+		<Booktitle>Bones, Stones and Molecules : “Out of Africa” and Human Origins</Booktitle>
+		<Publisher/>
+		<City>Burlington, MA</City>
+		<Editor>Academic Press</Editor>
+	</Source>
+	<Taxa number="20">
+		<List recon_name="Kenyapithecus" recon_no="100574">Kenyapithecus</List>
+		<List recon_name="Dryopithecus" recon_no="40893">Dryopithecus</List>
+		<List recon_name="Graecopithecus" recon_no="97180">Graecopithecus</List>
+		<List recon_name="Pongo" recon_no="40897">Pongo</List>
+		<List recon_name="Gorilla" recon_no="97178">Gorilla</List>
+		<List recon_name="Pan" recon_no="97177">Pan</List>
+		<List recon_name="Sahelanthropus" recon_no="77367">Sahelanthropus</List>
+		<List recon_name="Ardipithecus_ramidus" recon_no="83060">Ardipithecus_ramidus</List>
+		<List recon_name="Australopithecus_anamensis" recon_no="384433">Australopithecus_anamensis</List>
+		<List recon_name="Praeanthropus" recon_no="83051">Praeanthropus</List>
+		<List recon_name="Kenyanthropus_platyops" recon_no="83080">Kenyanthropus_platyops</List>
+		<List recon_name="Kenyanthropus_rudolfensis" recon_no="83092">Kenyanthropus_rudolfensis</List>
+		<List recon_name="Australopithecus_africanus" recon_no="83066">Australopithecus_Rak_1983</List>
+		<List recon_name="Australopithecus_garhi" recon_no="384431">Australopithecus_garhi</List>
+		<List recon_name="Paranthropus_aethiopicus" recon_no="385302">Paranthropus_walkeri</List>
+		<List recon_name="Paranthropus_boisei" recon_no="385303">Paranthropus_boisei</List>
+		<List recon_name="Paranthropus_robustus" recon_no="385304">Paranthropus_robutus</List>
+		<List recon_name="Homo_habilis" recon_no="83082">Homo_habilis</List>
+		<List recon_name="Homo_ergaster" recon_no="83083">Homo_ergaster</List>
+		<List recon_name="Homo_sapiens" recon_no="83088">Homo_sapiens</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="92">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cameron_et_Groves_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

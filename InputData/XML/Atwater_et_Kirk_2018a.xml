@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Atwater, A.L.</List>
+			<List>Kirk, E.C.</List>	
+		</Author>
+		<Year>2018</Year>
+		<Title>New middle Eocene omomyines (Primates, Haplorhini) from San Diego County, California</Title>
+		<Journal>Journal of Human Evolution</Journal>
+		<Volume>124</Volume>
+		<Pages>7-24</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+		<Taxa number="40">
+		<List recon_name="Teilhardina_asiatica" recon_no="101085">Teilhardina_asiatica</List>
+		<List recon_name="Ekwiiyemakius_walshi" recon_no="384460">Ekwiiyemakius</List>
+		<List recon_name="Gunnelltarsius_randalli" recon_no="384462">Gunnelltarsius</List>
+		<List recon_name="Brontomomys_cerutti" recon_no="384936">Brontomomys</List>
+		<List recon_name="Yaquius_travisi" recon_no="52724">Yaquius_travisi</List>
+		<List recon_name="Stockia_powayensis" recon_no="51820">Stockia_powayensis</List>
+		<List recon_name="Diablomomys_dalquesti" recon_no="144171">Diablomomys_dalquesti</List>
+		<List recon_name="Utahia_kayi" recon_no="52626">Utahia_kayi</List>
+		<List recon_name="Absarokius_abbotti" recon_no="43687">Absarokius_abbotti</List>
+		<List recon_name="Absarokius_noctivagus" recon_no="43693">Absarokius_noctivagus</List>
+		<List recon_name="Arapahovius_gazini" recon_no="44207">Arapahovius_gazini</List>
+		<List recon_name="Arapahovius_advena" recon_no="44206">Araphovius_advena</List>
+		<List recon_name="Aycrossia_lovei" recon_no="44399">Aycrossia_lovei</List>
+		<List recon_name="Chumashius_balchi" recon_no="45097">Chumashius_balchi</List>
+		<List recon_name="Dyseolemur_pacificus" recon_no="45954">Dyseolemur_pacificus</List>
+		<List recon_name="Ekgmowechashala_philotau" recon_no="46013">Ekgmowechashala_philotau</List>
+		<List recon_name="Hemiacodon_gracilis" recon_no="46847">Hemiacodon_gracilis</List>
+		<List recon_name="Loveina_zephyri" recon_no="47778">Loveina_zephyri</List>
+		<List recon_name="Macrotarsius_jepseni" recon_no="47852">Macrotarsius_jepseni</List>
+		<List recon_name="Macrotarsius_montanus" recon_no="47853">Macrotarsius_montanus</List>
+		<List recon_name="Macrotarsius_siegerti" recon_no="47855">Macrotarsius_siegerti</List>
+		<List recon_name="Omomys_carteri" recon_no="49314">Omomys_carteri</List>
+		<List recon_name="Ourayia_uintensis" recon_no="49508">Ourayia_uintensis</List>
+		<List recon_name="Rooneyia_viejaensis" recon_no="51372">Rooneyia_viejaensis</List>
+		<List recon_name="Shoshonius_cooperi" recon_no="51543">Shoshonius_cooperi</List>
+		<List recon_name="Steinius_vespertinus" recon_no="51772">Steinius_vespertinus</List>
+		<List recon_name="Strigorhysis_bridgerensis" recon_no="51826">Strigorhysis_bridgerensis</List>
+		<List recon_name="Teilhardina_americana" recon_no="52105">Teilhardina_americana</List>
+		<List recon_name="Tetonius_homunculus" recon_no="52190">Tetonius_homunculus</List>
+		<List recon_name="Tetonoides_pearcei" recon_no="52200">Tetonoides_pearcei</List>
+		<List recon_name="Uintanius_ameghini" recon_no="52567">Uintanius_ameghini</List>
+		<List recon_name="Washakius_insignis" recon_no="52699">Washakius_insignis</List>
+		<List recon_name="Anaptomorphus_aemulus,Anaptomorphus_westi" recon_no="44020;44026">Anaptomorphus_spp</List>
+		<List recon_name="Microchoerus_erinaceus" recon_no="57923">Microchoerus_erinaceus</List>
+		<List recon_name="Necrolemur_zitteli,Necrolemur_antiquus" recon_no="385351;347334">Necrolemur_spp</List>
+		<List recon_name="Nannopithex_zuccolae" recon_no="101081">Nannopithex_zuccolae</List>
+		<List recon_name="Pseudoloris_parvulus" recon_no="67466">Pseudoloris_parvulus</List>
+		<List recon_name="Teilhardina_belgica" recon_no="53408">Teilhardina_belgica</List>
+		<List recon_name="Teilhardina_brandti" recon_no="101424">Teilhardina_brandti</List>
+		<List recon_name="Teilhardina_magnoliana" recon_no="121670">Teilhardina_magnoliana</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="510">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Atwater_et_Kirk_2018a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

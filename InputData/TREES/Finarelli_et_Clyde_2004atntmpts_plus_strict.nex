@@ -1,0 +1,15 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Proconsul ,((Morotopithecus ,(Hylobates ,(Oreopithecus ,(Dryopithecus ,((Gorilla ,(Australopithecu ,Pan )),(Ouranopithecus ,(Lufengpithecus ,(Ankarapithecus ,(Pongo ,Sivapithecus ))))))))),(Afropithecus ,(Turkanapithecus ,(Equatorius ,(Kenyapithecus ,Griphopithecus ))))));
+tree tnt_2 = [&U] 
+(Proconsul ,((Morotopithecus ,(Hylobates ,(Oreopithecus ,(Dryopithecus ,(Ouranopithecus ,((Australopithecu ,(Pan ,Gorilla )),(Lufengpithecus ,(Ankarapithecus ,(Pongo ,Sivapithecus ))))))))),(Afropithecus ,(Turkanapithecus ,(Equatorius ,(Kenyapithecus ,Griphopithecus ))))));
+tree tnt_3 = [&U] 
+(Proconsul ,((Morotopithecus ,(Hylobates ,(Oreopithecus ,(Dryopithecus ,((Australopithecu ,(Pan ,Gorilla )),(Ouranopithecus ,(Lufengpithecus ,(Ankarapithecus ,(Pongo ,Sivapithecus ))))))))),(Afropithecus ,(Turkanapithecus ,(Equatorius ,(Kenyapithecus ,Griphopithecus ))))));
+tree tnt_4 = [&U] 
+(Proconsul ,((Morotopithecus ,(Hylobates ,(Oreopithecus ,(Dryopithecus ,((Ouranopithecus ,(Australopithecu ,(Pan ,Gorilla ))),(Lufengpithecus ,(Ankarapithecus ,(Pongo ,Sivapithecus )))))))),(Afropithecus ,(Turkanapithecus ,(Equatorius ,(Kenyapithecus ,Griphopithecus ))))));
+tree tnt_5 = [&U] 
+(Proconsul ,((Morotopithecus ,(Hylobates ,(Oreopithecus ,(Dryopithecus ,(Ouranopithecus ,(Australopithecu ,Pan ,Gorilla ),(Lufengpithecus ,(Ankarapithecus ,(Pongo ,Sivapithecus )))))))),(Afropithecus ,(Turkanapithecus ,(Equatorius ,(Kenyapithecus ,Griphopithecus ))))));
+
+end ; 

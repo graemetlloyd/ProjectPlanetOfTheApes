@@ -1,0 +1,33 @@
+#NEXUS
+
+[File downloaded from graemetlloyd.com]
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=16 NCHAR=19;
+	FORMAT SYMBOLS= " 0 1 2 3 4 5" MISSING=? GAP=- ;
+
+MATRIX
+
+Pan                          0000000000000000000
+Sahelanthropus_tchadensis    ???01002?01?0110?11
+Ardipithecus_ramidus         0???000000101110011
+Australopithecus_anamensis   ??00000000101111021
+Australopithecus_afarensis   0000000100111111120
+Australopithecus_garhi       000000??????1142?2?
+Australopithecus_deyiremeda  0002011120121210131
+Australopithecus_africanus   0002000111211122221
+Paranthropus_aethiopicus     1210012221??124323?
+Paranthropus_boisei          1212012221322253232
+Paranthropus_robustus        1210012221212232232
+Kenyanthropus_platyops       100211???????1?0?2?
+Homo_rudolfensis             1002111211211222220
+Homo_habilis                 0101000221211211220
+Homo_erectus                 0002100221211210220
+Homo_sapiens                 0302100221??220022?
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

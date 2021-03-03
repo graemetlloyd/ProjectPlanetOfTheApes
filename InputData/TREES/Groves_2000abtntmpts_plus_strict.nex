@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Allenopithecus ,((Miopithecus ,((Cercopithecus_neglectu ,(Cercopithecus_mitis ,(Cercopithecus_diana ,(Cercopithecus_cephus ,Cercopithecus_mona )))),(Cercopithecus_lhoesti ,Cercopithecus_hamlyni ))),(Erythrocebus ,Chlorocebus_aethiops )));
+tree tnt_2 = [&U] 
+(Allenopithecus ,((Miopithecus ,((Cercopithecus_neglectu ,(Cercopithecus_mitis ,(Cercopithecus_diana ,(Cercopithecus_cephus ,Cercopithecus_mona )))),(Cercopithecus_lhoesti ,Cercopithecus_hamlyni ))),(Erythrocebus ,Chlorocebus_aethiops )));
+
+end ; 

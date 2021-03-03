@@ -1,0 +1,89 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ni, X.-J.</List>
+			<List>Wang, Y.-Q.</List>
+			<List>Hu, Y.-M.</List>
+			<List>Li, C.-K.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A euprimate skull from the early Eocene of China</Title>
+		<Journal>Nature</Journal>
+		<Volume>427</Volume>
+		<Pages>65-68</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="52">
+		<List recon_name="Tupaia_glis,Ptilocercus_lowii" recon_no="234212;234229">Scandentia</List>
+		<List recon_name="Plesiadapis_tricuspidens,Pronothodectes_jepi" recon_no="50444;50863">Plesiadapis_slash_Pronothodectes</List>
+		<List recon_name="Purgatorius_unio" recon_no="51270">Purgatorius_unio</List>
+		<List recon_name="Plesiolestes_problematicus" recon_no="50457">Plesiolestes_problematicus</List>
+		<List recon_name="Chronolestes_simul" recon_no="144290">Chronolestes_simul</List>
+		<List recon_name="Adapis_parisiensis" recon_no="57922">Adapis_parisiensis</List>
+		<List recon_name="Notharctus" recon_no="40764">Notharctus_sp</List>
+		<List recon_name="Donrussellia" recon_no="40805">Donrussellia_sp</List>
+		<List recon_name="Leptadapis_magnus" recon_no="127247">Leptadapis_magnus</List>
+		<List recon_name="Mahgarita_stevensi" recon_no="47857">Mahgarita_stevensi</List>
+		<List recon_name="Pronycticebus_gaudryi" recon_no="145090">Pronycticebus_gaudryi</List>
+		<List recon_name="Galagoides_demidoff" recon_no="385152">Galagoides_demidoff</List>
+		<List recon_name="Lemur_catta" recon_no="104138">Lemur_catta</List>
+		<List recon_name="Microcebus_murinus" recon_no="232487">Microcebus_murinus</List>
+		<List recon_name="Absarokius" recon_no="40794">Absarokius_sp</List>
+		<List recon_name="Uintanius_ameghini" recon_no="52567">Uintanius_ameghini</List>
+		<List recon_name="Anaptomorphus" recon_no="40797">Anaptomorphus_sp</List>
+		<List recon_name="Anemorhysis_savagei" recon_no="384933">Anemorhysis_savagei</List>
+		<List recon_name="Arapahovius_gazini" recon_no="44207">Arapahovius_gazini</List>
+		<List recon_name="Aycrossia_lovei" recon_no="44399">Aycrossia_lovei</List>
+		<List recon_name="Dyseolemur_pacificus" recon_no="45954">Dyseolemur_pacificus</List>
+		<List recon_name="Hemiacodon_gracilis" recon_no="46847">Hemiacodon_gracilis</List>
+		<List recon_name="Loveina_zephyri" recon_no="47778">Loveina_zephyri</List>
+		<List recon_name="Macrotarsius_montanus" recon_no="47853">Macrotarsius_montanus</List>
+		<List recon_name="Microchoerus_erinaceus" recon_no="57923">Microchoerus_erinaceus</List>
+		<List recon_name="Nannopithex" recon_no="40817">Nannopithex_sp</List>
+		<List recon_name="Necrolemur_antiquus" recon_no="347334">Necrolemur_antiquus</List>
+		<List recon_name="Omomys" recon_no="40819">Omomys_sp</List>
+		<List recon_name="Pseudoloris_parvulus" recon_no="67466">Pseudoloris_parvulus</List>
+		<List recon_name="Rooneyia_viejaensis" recon_no="51372">Rooneyia_viejaensis</List>
+		<List recon_name="Shoshonius_cooperi" recon_no="51543">Shoshonius_cooperi</List>
+		<List recon_name="Steinius_vespertinus" recon_no="51772">Steinius_vespertinus</List>
+		<List recon_name="Teilhardina_americana" recon_no="52105">Teilhardina_americana</List>
+		<List recon_name="Teilhardina_belgica" recon_no="53408">Teilhardina_belgica</List>
+		<List recon_name="Teilhardina_asiatica" recon_no="101085">Teilhardina_asiatica</List>
+		<List recon_name="Altanius_orlovi" recon_no="101080">Altanius_orlovi</List>
+		<List recon_name="Tetonius_homunculus,Tetonius_matthewi" recon_no="52190;52191">Tetonius_sp</List>
+		<List recon_name="Tetonoides" recon_no="52197">Tetonoides_sp</List>
+		<List recon_name="Trogolemur_myodes" recon_no="52522">Trogolemur_myodes</List>
+		<List recon_name="Washakius_insignis" recon_no="52699">Washakius_insignis</List>
+		<List recon_name="Eosimias_centennicus,Eosimias_sp_SPECIMENNUMBER" recon_no="105205;92597">Eosimias_sp</List>
+		<List recon_name="Tarsius" recon_no="101390">Tarsius_sp</List>
+		<List recon_name="Aegyptopithecus_zeuxis" recon_no="100577">Aegyptopithecus_zeuxis</List>
+		<List recon_name="Apidium_phiomense" recon_no="100576">Apidium_phiomense</List>
+		<List recon_name="Catopithecus_browni" recon_no="97121">Catopithecus_browni</List>
+		<List recon_name="Parapithecus_grangeri" recon_no="144355">Parapithecus_grangeri</List>
+		<List recon_name="Aotus_trivirgatus" recon_no="232711">Aotus_trivirgatus</List>
+		<List recon_name="Callicebus_moloch" recon_no="384487">Callicebus_moloch</List>
+		<List recon_name="Dolichocebus_gaimanensis" recon_no="100572">Dolichocebus_gaimanensis</List>
+		<List recon_name="Saimiri_sciureus" recon_no="232446">Saimiri_sciureus</List>
+		<List recon_name="Proteopithecus_sylviae" recon_no="97123">Proteopithecus_sylviae</List>
+		<List recon_name="Strigorhysis" recon_no="40828">Strigorhysis_sp</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="303">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ni_etal_2004a</Filename>
+	<Parent>Ross_etal_1998a</Parent>
+	<Sibling/>
+</SourceTree>

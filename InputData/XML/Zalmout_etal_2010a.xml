@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> Zalmout, I. S.</List>
+			<List>Sanders, W. J.</List>
+			<List>MacLatchy, L. M.</List>
+			<List>Gunnell, G. F.</List>
+			<List>Al-Mufarreh, Y. A.</List>
+			<List>Ali, M. A.</List>
+			<List>Nasser, A.-A. H.</List>
+			<List>Al-Masari, A. M.</List>
+			<List>Al-Sobhi, S. A.</List>
+			<List>Nadhra, A. O.</List>
+			<List>Matari, A. H.</List>
+			<List>Wilson, J. A.</List>
+			<List>Gingerich, P. D.</List>	
+		</Author>
+		<Year>2010</Year>
+		<Title>New Oligocene primate from Saudi Arabia and the divergence of apes and Old World monkeys</Title>
+		<Journal>Nature</Journal>
+		<Volume>466</Volume>
+		<Pages>360-364</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List recon_name="Aegyptopithecus_zeuxis" recon_no="100577">Aegyptopithecus</List>
+		<List recon_name="Saadanius_hijazensis" recon_no="169688">Saadanius</List>
+		<List recon_name="Victoriapithecus_macinnesi" recon_no="135923">Victoriapithecus</List>
+		<List recon_name="Pliopithecoidea" recon_no="143128">Pliopithecoidea</List>
+		<List recon_name="Dendropithecus" recon_no="40885">Dendropithecus</List>
+		<List recon_name="Micropithecus" recon_no="143126">Micropithecus</List>
+		<List recon_name="Simiolus" recon_no="132668">Simiolus</List>
+		<List recon_name="Kamoyapithecus_hamiltoni" recon_no="331887">Kamoyapithecus</List>
+		<List recon_name="Afropithecus_turkanensis" recon_no="97222">Afropithecus</List>
+		<List recon_name="Heliopithecus" recon_no="133713">Heliopithecus</List>
+		<List recon_name="Morotopithecus_bishopi" recon_no="164184">Morotopithecus</List>
+		<List recon_name="Turkanapithecus_kalakolensis" recon_no="97226">Turkanapithecus</List>
+		<List recon_name="Proconsul_nyanzae,Proconsul_heseloni" recon_no="157733;157735">Proconsulnyanzae_heseloni</List>
+		<List recon_name="Nyanzapithecus" recon_no="133711">Nyanzapithecus</List>
+		<List recon_name="Rangwapithecus" recon_no="133703">Rangwapithecus</List>
+		<List recon_name="Nacholapithecus" recon_no="169698">Nacholapithecus</List>
+		<List recon_name="Equatorius_africanus" recon_no="185390">Equatorius</List>
+		<List recon_name="Pan" recon_no="97177">Pan</List>
+		<List recon_name="Hylobates" recon_no="40891">Hylobates</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="36">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zalmout_etal_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

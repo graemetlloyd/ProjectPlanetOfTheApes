@@ -1,0 +1,28 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=14 NCHAR=12 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Purgatorius_janisae          000000000000
+Purgatorius_unio             100000000000
+Pandemonium_dis              110000000000
+Chronolestes_simul           111000000000
+Elphidotarsius_florencae     111111000000
+Elphidotarsius_wightoni      111111100000
+Elphidotarsius_shotgunensis  111111110000
+Elphidotarsius_russelli      111111111000
+Carpodaptes_hazelae          111111111000
+Pronothodectes_matthewi      111110000110
+Pronothodectes_jepi          111110000110
+Pronothodectes_gaoi          111110000100
+Saxonella_crepaturae         111100000001
+Saxonella_naylori            111100000001
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

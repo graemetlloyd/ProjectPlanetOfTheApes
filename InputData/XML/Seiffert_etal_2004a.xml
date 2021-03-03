@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Seiffert, E.R.</List>
+			<List>Simons, E.L.</List>
+			<List>Simons, C.V.M.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Phylogenetic, biogeographic, and adaptive implications of new fossil evidence bearing on crown anthropoid origins and early stem catarrhine evolution</Title>
+		<Journal></Journal>
+		<Volume></Volume>
+		<Pages>157-181</Pages>
+		<Booktitle>Anthropoid Origins: New Visions</Booktitle>
+		<Publisher>Kluwer Academic</Publisher>
+		<City>New York</City>
+		<Editor>
+			<List>Ross, C.F.</List>
+			<List>Kay, R.F.</List>
+		<Editor/>
+		
+	</Source>
+	<Taxa number="41">
+		<List recon_name="Tupaia" recon_no="40296">Tupaia_spp</List>
+		<List recon_name="Purgatorius_unio" recon_no="51270">Purgatorius_unio</List>
+		<List recon_name="Abuqatrania_basiodontos" recon_no="166584">Abuqatrania_basiodontos</List>
+		<List recon_name="Adapis_parisiensis" recon_no="57922">Adapis_parisiensis</List>
+		<List recon_name="Aegyptopithecus_zeuxis" recon_no="100577">Aegyptopithecus_zeuxis</List>
+		<List recon_name="Amphipithecus_mogaungensis" recon_no="100571">Amphipithecus_mogaungensis</List>
+		<List recon_name="Anchomomys_milleri" recon_no="143990">Anchomomys_milleri</List>
+		<List recon_name="Aotus_trivirgatus" recon_no="232711">Aotus_trivirgatus</List>
+		<List recon_name="Apidium_moustafai" recon_no="172416">Apidium_moustafai</List>
+		<List recon_name="Apidium_phiomense" recon_no="100576">Apidium_phiomense</List>
+		<List recon_name="Arsinoea_kallimos" recon_no="133675">Arsinoea_kallimos</List>
+		<List recon_name="Bahinia_pondaungensis" recon_no="58155">Bahinia_pondaungensis</List>
+		<List recon_name="Branisella_boliviana" recon_no="165990">Branisella_boliviana</List>
+		<List recon_name="Cantius_abditus" recon_no="44892">Cantius_abditus</List>
+		<List recon_name="Catopithecus_browni" recon_no="97121">Catopithecus_browni</List>
+		<List recon_name="Cheirogaleus_medius" recon_no="240281">Cheirogaleus_medius</List>
+		<List recon_name="Djebelemur_martinezi" recon_no="144220">Djebelemur_martinezi</List>
+		<List recon_name="Eosimias_centennicus" recon_no="105205">Eosimias_centennicus</List>
+		<List recon_name="Eosimias_sinensis" recon_no="101397">Eosimias_sinensis</List>
+		<List recon_name="Galago_moholi" recon_no="232726">Galago_moholi</List>
+		<List recon_name="Lemur_catta" recon_no="104138">Lemur_catta</List>
+		<List recon_name="Loris_tardigradus" recon_no="206247">Loris_tardigradus</List>
+		<List recon_name="Necrolemur_antiquus" recon_no="347334">Necrolemur_antiquus</List>
+		<List recon_name="Nycticebus_coucang" recon_no="234313">Nycticebus_coucang</List>
+		<List recon_name="Oligopithecus_rogeri" recon_no="306557">Oligopithecus_rogeri</List>
+		<List recon_name="Oligopithecus_savagei" recon_no="172415">Oligopithecus_savagei</List>
+		<List recon_name="Omomys_carteri" recon_no="49314">Omomys_carteri</List>
+		<List recon_name="Otolemur_crassicaudatus" recon_no="385164">Otolemur_crassicaudatus</List>
+		<List recon_name="Parapithecus_fraasi" recon_no="144353">Parapithecus_fraasi</List>
+		<List recon_name="Parapithecus_grangeri" recon_no="144355">Parapithecus_grangeri</List>
+		<List recon_name="Pondaungia_cotteri" recon_no="100581">Pondaungia_cotteri</List>
+		<List recon_name="Pronycticebus_gaudryi" recon_no="145090">Pronycticebus_gaudryi</List>
+		<List recon_name="Propliopithecus_chirobates" recon_no="184209">Propliopithecus_chirobates</List>
+		<List recon_name="Proteopithecus_sylviae" recon_no="97123">Proteopithecus_sylviae</List>
+		<List recon_name="Qatrania_wingi" recon_no="100570">Qatrania_wingi</List>
+		<List recon_name="Saimiri_sciureus" recon_no="232446">Saimiri_sciureus</List>
+		<List recon_name="Serapia_eocaena" recon_no="133673">Serapia_eocaena</List>
+		<List recon_name="Shoshonius_cooperi" recon_no="51543">Shoshonius_cooperi</List>
+		<List recon_name="Siamopithecus_eocaenus" recon_no="145178">Siamopithecus_eocaenus</List>
+		<List recon_name="Propliopithecidae_SPECIMEN_NUMBER_Taqah" recon_no="92593">Taqah_propliopithecid</List>
+		<List recon_name="Tarsius_bancanus" recon_no="232742">Tarsius_bancanus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="273">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Seiffert_etal_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

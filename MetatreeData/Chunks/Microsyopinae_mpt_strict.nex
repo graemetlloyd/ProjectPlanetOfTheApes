@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(Megadelphus_lundeliusi ,(Microsyops_annectens ,(Microsyops_knightensis ,(Microsyops_latidens ,Microsyops_sp_SPECIMENNUMBE )))));
+tree tnt_2 = [&U] 
+(allzero ,(Megadelphus_lundeliusi ,(Microsyops_annectens ,Microsyops_knightensis ,Microsyops_latidens ,Microsyops_sp_SPECIMENNUMBE )));
+
+end ; 

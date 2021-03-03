@@ -1,0 +1,31 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Propliopithecus ,((Pliopithecus ,Dendropithecus ),(Proconsul ,(Afropithecus ,(Kenyapithecus ,Griphopithecus ,(Otavipithecus ,(Dryopithecus ,(Ouranopithecus ,(Sivapithecus ,(Gorilla ,(Australopithecus_afarensi ,(Pongo ,Pan ))))))))))));
+tree tnt_2 = [&U] 
+(Propliopithecus ,((Pliopithecus ,Dendropithecus ),(Proconsul ,(Afropithecus ,(Kenyapithecus ,Griphopithecus ,(Otavipithecus ,(Dryopithecus ,(Ouranopithecus ,(Sivapithecus ,(Australopithecus_afarensi ,(Gorilla ,(Pongo ,Pan ))))))))))));
+tree tnt_3 = [&U] 
+(Propliopithecus ,((Pliopithecus ,Dendropithecus ),(Proconsul ,(Afropithecus ,(Kenyapithecus ,Griphopithecus ,(Otavipithecus ,(Dryopithecus ,(Ouranopithecus ,(Sivapithecus ,(Australopithecus_afarensi ,(Pongo ,(Gorilla ,Pan ))))))))))));
+tree tnt_4 = [&U] 
+(Propliopithecus ,((Pliopithecus ,(Dendropithecus ,(Otavipithecus ,(Dryopithecus ,(Ouranopithecus ,(Sivapithecus ,(Gorilla ,(Australopithecus_afarensi ,(Pongo ,Pan ))))))))),(Proconsul ,(Afropithecus ,(Kenyapithecus ,Griphopithecus )))));
+tree tnt_5 = [&U] 
+(Propliopithecus ,((Pliopithecus ,(Dendropithecus ,(Otavipithecus ,(Dryopithecus ,(Ouranopithecus ,(Sivapithecus ,(Australopithecus_afarensi ,(Gorilla ,(Pongo ,Pan ))))))))),(Proconsul ,(Afropithecus ,(Kenyapithecus ,Griphopithecus )))));
+tree tnt_6 = [&U] 
+(Propliopithecus ,((Pliopithecus ,(Dendropithecus ,(Otavipithecus ,(Dryopithecus ,(Ouranopithecus ,(Sivapithecus ,(Australopithecus_afarensi ,(Pongo ,(Gorilla ,Pan ))))))))),(Proconsul ,(Afropithecus ,(Kenyapithecus ,Griphopithecus )))));
+tree tnt_7 = [&U] 
+(Propliopithecus ,((Pliopithecus ,(Dendropithecus ,(Otavipithecus ,((Kenyapithecus ,Griphopithecus ),(Dryopithecus ,(Ouranopithecus ,(Sivapithecus ,(Gorilla ,(Australopithecus_afarensi ,(Pongo ,Pan )))))))))),(Afropithecus ,Proconsul )));
+tree tnt_8 = [&U] 
+(Propliopithecus ,((Pliopithecus ,(Dendropithecus ,(Otavipithecus ,((Kenyapithecus ,Griphopithecus ),(Dryopithecus ,(Ouranopithecus ,(Sivapithecus ,(Australopithecus_afarensi ,(Gorilla ,(Pongo ,Pan )))))))))),(Afropithecus ,Proconsul )));
+tree tnt_9 = [&U] 
+(Propliopithecus ,((Pliopithecus ,(Dendropithecus ,(Otavipithecus ,((Kenyapithecus ,Griphopithecus ),(Dryopithecus ,(Ouranopithecus ,(Sivapithecus ,(Australopithecus_afarensi ,(Pongo ,(Gorilla ,Pan )))))))))),(Afropithecus ,Proconsul )));
+tree tnt_10 = [&U] 
+(Propliopithecus ,((Pliopithecus ,(Dendropithecus ,Otavipithecus )),(Proconsul ,(Afropithecus ,(Kenyapithecus ,Griphopithecus ,(Dryopithecus ,(Ouranopithecus ,(Sivapithecus ,(Gorilla ,(Australopithecus_afarensi ,(Pongo ,Pan )))))))))));
+tree tnt_11 = [&U] 
+(Propliopithecus ,((Pliopithecus ,(Dendropithecus ,Otavipithecus )),(Proconsul ,(Afropithecus ,(Kenyapithecus ,Griphopithecus ,(Dryopithecus ,(Ouranopithecus ,(Sivapithecus ,(Australopithecus_afarensi ,(Gorilla ,(Pongo ,Pan )))))))))));
+tree tnt_12 = [&U] 
+(Propliopithecus ,((Pliopithecus ,(Dendropithecus ,Otavipithecus )),(Proconsul ,(Afropithecus ,(Kenyapithecus ,Griphopithecus ,(Dryopithecus ,(Ouranopithecus ,(Sivapithecus ,(Australopithecus_afarensi ,(Pongo ,(Gorilla ,Pan )))))))))));
+tree tnt_13 = [&U] 
+(Propliopithecus ,(Pliopithecus ,Dendropithecus ,Otavipithecus ,Afropithecus ,Proconsul ,Kenyapithecus ,Griphopithecus ,(Dryopithecus ,(Ouranopithecus ,(Sivapithecus ,(Pongo ,Gorilla ,Pan ,Australopithecus_afarensi ))))));
+
+end ; 

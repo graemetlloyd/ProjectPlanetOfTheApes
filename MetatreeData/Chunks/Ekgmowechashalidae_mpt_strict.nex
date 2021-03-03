@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(Ekgmowechashala_philota ,(Gatanthropus_micros ,(Bugtilemur_mathesoni ,Muangthanhinius_siami ))));
+tree tnt_2 = [&U] 
+(allzero ,(Ekgmowechashala_philota ,(Gatanthropus_micros ,(Bugtilemur_mathesoni ,Muangthanhinius_siami ))));
+
+end ; 

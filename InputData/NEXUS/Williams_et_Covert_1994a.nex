@@ -1,0 +1,24 @@
+#NEXUS
+
+[File downloaded from graemetlloyd.com]
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=8 NCHAR=18 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1 2" MISSING=? GAP=- ;
+MATRIX
+
+Teilhardina_americana     {12}10-00000000000201
+Tetonoides_pearcei        211100011100001001
+Anemorhysis_savagei       210-00010010111101
+Anemorhysis_sublettensis  ??????011121111?0?
+Anemorhysis_wortmani      2010?1011011110?00
+Anemorhysis_pattersoni    ????10000011110?0?
+Anemorhysis_natronensis   1?0-20000011111?10
+Trogolemur_myodes         200-21100011111002
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ 	TYPESET * UNTITLED  = ord: 5 11, unord: 1-4 6-10 12-18;
+END;

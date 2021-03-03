@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(Colobus_satanas ,(Colobus_angolensi ,(Colobus_guereza ,(Colobus_polykomos ,Colobus_vellerosu )))));
+tree tnt_2 = [&U] 
+(allzero ,(Colobus_satanas ,(Colobus_angolensi ,(Colobus_guereza ,(Colobus_polykomos ,Colobus_vellerosu )))));
+
+end ; 

@@ -1,0 +1,23 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Indri ,(Propithecus ,(Lepilemur ,(Hapalemur ,(Lemur_catta ,((Varecia_variegata_variegat ,Varecia_variegata_rubra ),(Eulemur_coronatus ,(Eulemur_fulvus_fulvus ,(Eulemur_fulvus_albocollari ,Eulemur_fulvus_sanfordi ,(Eulemur_fulvus_collaris ,(Eulemur_fulvus_rufus ,(Eulemur_fulvus_albifrons ,(Eulemur_macaco ,(Eulemur_mongoz ,Eulemur_rubriventer ))))))))))))));
+tree tnt_2 = [&U] 
+(Indri ,(Propithecus ,(Lepilemur ,(Hapalemur ,(Lemur_catta ,((Varecia_variegata_variegat ,Varecia_variegata_rubra ),(Eulemur_coronatus ,((Eulemur_fulvus_sanfordi ,(Eulemur_fulvus_collaris ,(Eulemur_fulvus_rufus ,(Eulemur_fulvus_albifrons ,(Eulemur_macaco ,(Eulemur_mongoz ,Eulemur_rubriventer )))))),(Eulemur_fulvus_fulvus ,Eulemur_fulvus_albocollari )))))))));
+tree tnt_3 = [&U] 
+(Indri ,(Propithecus ,(Lepilemur ,(Hapalemur ,(Lemur_catta ,((Varecia_variegata_variegat ,Varecia_variegata_rubra ),(Eulemur_coronatus ,(Eulemur_fulvus_fulvus ,(Eulemur_fulvus_albocollari ,Eulemur_fulvus_sanfordi ,(Eulemur_fulvus_rufus ,(Eulemur_fulvus_collaris ,(Eulemur_fulvus_albifrons ,(Eulemur_macaco ,(Eulemur_mongoz ,Eulemur_rubriventer ))))))))))))));
+tree tnt_4 = [&U] 
+(Indri ,(Propithecus ,(Lepilemur ,(Hapalemur ,(Lemur_catta ,((Varecia_variegata_variegat ,Varecia_variegata_rubra ),(Eulemur_coronatus ,((Eulemur_fulvus_sanfordi ,(Eulemur_fulvus_rufus ,(Eulemur_fulvus_collaris ,(Eulemur_fulvus_albifrons ,(Eulemur_macaco ,(Eulemur_mongoz ,Eulemur_rubriventer )))))),(Eulemur_fulvus_fulvus ,Eulemur_fulvus_albocollari )))))))));
+tree tnt_5 = [&U] 
+(Indri ,(Propithecus ,(Lepilemur ,(Hapalemur ,(Lemur_catta ,((Varecia_variegata_variegat ,Varecia_variegata_rubra ),(Eulemur_coronatus ,(Eulemur_fulvus_sanfordi ,(Eulemur_fulvus_fulvus ,(Eulemur_fulvus_albocollari ,(Eulemur_fulvus_rufus ,(Eulemur_fulvus_collaris ,(Eulemur_fulvus_albifrons ,(Eulemur_macaco ,(Eulemur_mongoz ,Eulemur_rubriventer )))))))))))))));
+tree tnt_6 = [&U] 
+(Indri ,(Propithecus ,(Lepilemur ,(Hapalemur ,(Lemur_catta ,((Varecia_variegata_variegat ,Varecia_variegata_rubra ),(Eulemur_coronatus ,(Eulemur_fulvus_fulvus ,(Eulemur_fulvus_albocollari ,(Eulemur_fulvus_rufus ,(Eulemur_fulvus_collaris ,(Eulemur_fulvus_sanfordi ,(Eulemur_fulvus_albifrons ,(Eulemur_macaco ,(Eulemur_mongoz ,Eulemur_rubriventer )))))))))))))));
+tree tnt_7 = [&U] 
+(Indri ,(Propithecus ,(Lepilemur ,(Hapalemur ,(Lemur_catta ,((Varecia_variegata_variegat ,Varecia_variegata_rubra ),(Eulemur_coronatus ,(Eulemur_fulvus_fulvus ,(Eulemur_fulvus_albocollari ,(Eulemur_fulvus_sanfordi ,(Eulemur_fulvus_albifrons ,(Eulemur_macaco ,(Eulemur_mongoz ,Eulemur_rubriventer )))),(Eulemur_fulvus_rufus ,Eulemur_fulvus_collaris ))))))))));
+tree tnt_8 = [&U] 
+(Indri ,(Propithecus ,(Lepilemur ,(Hapalemur ,(Lemur_catta ,((Varecia_variegata_variegat ,Varecia_variegata_rubra ),(Eulemur_coronatus ,(((Eulemur_fulvus_sanfordi ,(Eulemur_fulvus_albifrons ,(Eulemur_macaco ,(Eulemur_mongoz ,Eulemur_rubriventer )))),(Eulemur_fulvus_rufus ,Eulemur_fulvus_collaris )),(Eulemur_fulvus_fulvus ,Eulemur_fulvus_albocollari )))))))));
+tree tnt_9 = [&U] 
+(Indri ,(Propithecus ,(Lepilemur ,(Hapalemur ,(Lemur_catta ,((Varecia_variegata_variegat ,Varecia_variegata_rubra ),(Eulemur_coronatus ,(Eulemur_fulvus_fulvus ,Eulemur_fulvus_rufus ,Eulemur_fulvus_collaris ,Eulemur_fulvus_albocollari ,Eulemur_fulvus_sanfordi ,(Eulemur_fulvus_albifrons ,(Eulemur_macaco ,(Eulemur_mongoz ,Eulemur_rubriventer )))))))))));
+
+end ; 

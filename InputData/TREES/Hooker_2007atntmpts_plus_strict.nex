@@ -1,0 +1,15 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Purgatorius ,(Teilhardina_asiatica ,(Teilhardina_belgica ,((Altanius ,(Jemezius ,Uintanius )),((Teilhardina_american ,Tetonius ),(Steinius ,(Loveina ,Omomys )))),(Melaneremia ,(Nannopithex_zuccolae ,Nannopithex_raabi )))));
+tree tnt_2 = [&U] 
+(Purgatorius ,((Altanius ,(Uintanius ,(Jemezius ,((Teilhardina_american ,Tetonius ),(Loveina ,(Steinius ,Omomys )))))),(Teilhardina_asiatica ,(Teilhardina_belgica ,(Melaneremia ,(Nannopithex_zuccolae ,Nannopithex_raabi ))))));
+tree tnt_3 = [&U] 
+(Purgatorius ,((Altanius ,(Uintanius ,(Jemezius ,((Teilhardina_american ,Tetonius ),(Steinius ,(Loveina ,Omomys )))))),(Teilhardina_asiatica ,(Teilhardina_belgica ,(Melaneremia ,(Nannopithex_zuccolae ,Nannopithex_raabi ))))));
+tree tnt_4 = [&U] 
+(Purgatorius ,(((Altanius ,(Jemezius ,Uintanius )),((Teilhardina_american ,Tetonius ),(Steinius ,(Loveina ,Omomys )))),(Teilhardina_asiatica ,(Teilhardina_belgica ,(Melaneremia ,(Nannopithex_zuccolae ,Nannopithex_raabi ))))));
+tree tnt_5 = [&U] 
+(Purgatorius ,(Teilhardina_asiatica ,Teilhardina_belgica ,(Altanius ,Jemezius ,Uintanius ,((Teilhardina_american ,Tetonius ),(Loveina ,Steinius ,Omomys ))),(Melaneremia ,(Nannopithex_zuccolae ,Nannopithex_raabi ))));
+
+end ; 

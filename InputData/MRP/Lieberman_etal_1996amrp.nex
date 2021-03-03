@@ -1,0 +1,23 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=9 NCHAR=7 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Pan                          0000000
+Australopithecus_afarensis   1000000
+Australopithecus_africanus   1111100
+Paranthropus_aethiopithecus  1100000
+Paranthropus_robustus        1110010
+Paranthropus_boisei          1110010
+Homo_rudolfensis             1111000
+Homo_habilis                 1111101
+Homo_erectus                 1111101
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Diogo, R.</List>
+			<List>Wood, B.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Soft-tissue anatomy of the primates: phylogenetic analyses based on the muscles of the head, neck, pectoral region and upper limb, with notes on the evolution of these muscles</Title>
+		<Journal>Journal of Anatomy</Journal>
+		<Volume>219</Volume>
+		<Pages>273-359</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List recon_name="Rattus_norvegicus" recon_no="231469">Rattus</List>
+		<List recon_name="Cynocephalus_volans" recon_no="206240">Cynocephalus</List>
+		<List recon_name="Tupaia_sp_UNSM_87244" recon_no="40296">Tupaia</List>
+		<List recon_name="Lemur_catta" recon_no="104138">Lemur</List>
+		<List recon_name="Propithecus_verreauxi" recon_no="385079">Propithecus</List>
+		<List recon_name="Loris_tardigradus" recon_no="206247">Loris</List>
+		<List recon_name="Nycticebus_coucang" recon_no="234313">Nycticebus</List>
+		<List recon_name="Carlito_syrichta" recon_no="238737">Tarsius</List>
+		<List recon_name="Aotus_nancymaae" recon_no="236606">Aotus</List>
+		<List recon_name="Callithrix_jacchus" recon_no="232437">Callithrix</List>
+		<List recon_name="Pithecia_pithecia" recon_no="384930">Pithecia</List>
+		<List recon_name="Saimiri_sciureus" recon_no="232446">Saimiri</List>
+		<List recon_name="Macaca_fascicularis,Macaca_mulatta,Macaca_silenus" recon_no="231530;232541;232427">Macaca</List>
+		<List recon_name="Papio_anubis" recon_no="232556">Papio</List>
+		<List recon_name="Cercopithecus_diana" recon_no="232429">Cercopithecus</List>
+		<List recon_name="Colobus_guereza" recon_no="231533">Colobus</List>
+		<List recon_name="Nomascus_gabriellae,Hylobates_lar" recon_no="238886;231499">Hylobates</List>
+		<List recon_name="Pongo_pygmaeus" recon_no="183261">Pongo</List>
+		<List recon_name="Gorilla_gorilla" recon_no="231497">Gorilla</List>
+		<List recon_name="Pan_troglodytes" recon_no="157891">Pan</List>
+		<List recon_name="Homo_sapiens" recon_no="83088">Homo</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="166">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Diogo_et_Wood_2011a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

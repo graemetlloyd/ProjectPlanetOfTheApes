@@ -1,0 +1,85 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,Australopithecus_garhi ,(Australopithecus_afarensis ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,(Homo_erectus ,Homo_sapiens ,(Kenyanthropus_platyops ,Homo_rudolfensis ,(Paranthropus_aethiopicus ,(Paranthropus_boisei ,Paranthropus_robustus ))))))))))));
+tree tnt_2 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,Australopithecus_afarensis ,Australopithecus_garhi ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,(Homo_erectus ,Homo_sapiens ,(Kenyanthropus_platyops ,Homo_rudolfensis ,(Paranthropus_aethiopicus ,(Paranthropus_boisei ,Paranthropus_robustus )))))))))));
+tree tnt_3 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,Australopithecus_garhi ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,(Homo_erectus ,Homo_sapiens ,(Kenyanthropus_platyops ,Homo_rudolfensis ,(Paranthropus_aethiopicus ,(Paranthropus_boisei ,Paranthropus_robustus ))))))))))));
+tree tnt_4 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,(Australopithecus_deyiremed ,((Australopithecus_garhi ,Australopithecus_africanus ),(Homo_habilis ,(Homo_erectus ,Homo_sapiens ,(Kenyanthropus_platyops ,Homo_rudolfensis ,(Paranthropus_aethiopicus ,(Paranthropus_boisei ,Paranthropus_robustus ))))))))))));
+tree tnt_5 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,Australopithecus_garhi ,(Australopithecus_afarensis ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,Homo_erectus ,Homo_sapiens ,(Kenyanthropus_platyops ,Homo_rudolfensis ,(Paranthropus_aethiopicus ,(Paranthropus_boisei ,Paranthropus_robustus )))))))))));
+tree tnt_6 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,Australopithecus_afarensis ,Australopithecus_garhi ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,Homo_erectus ,Homo_sapiens ,(Kenyanthropus_platyops ,Homo_rudolfensis ,(Paranthropus_aethiopicus ,(Paranthropus_boisei ,Paranthropus_robustus ))))))))));
+tree tnt_7 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,(Australopithecus_garhi ,((Australopithecus_deyiremed ,Kenyanthropus_platyops ),(Australopithecus_africanus ,(Homo_habilis ,(Homo_rudolfensis ,(Paranthropus_aethiopicus ,(Paranthropus_boisei ,Paranthropus_robustus ))),(Homo_erectus ,Homo_sapiens ))))))))));
+tree tnt_8 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,Australopithecus_garhi ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,Homo_erectus ,Homo_sapiens ,(Kenyanthropus_platyops ,Homo_rudolfensis ,(Paranthropus_aethiopicus ,(Paranthropus_boisei ,Paranthropus_robustus )))))))))));
+tree tnt_9 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,(Australopithecus_deyiremed ,((Australopithecus_garhi ,Australopithecus_africanus ),(Homo_habilis ,Homo_erectus ,Homo_sapiens ,(Kenyanthropus_platyops ,Homo_rudolfensis ,(Paranthropus_aethiopicus ,(Paranthropus_boisei ,Paranthropus_robustus )))))))))));
+tree tnt_10 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,Australopithecus_garhi ,(Australopithecus_afarensis ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,((Paranthropus_aethiopicus ,(Paranthropus_boisei ,Paranthropus_robustus )),(Kenyanthropus_platyops ,Homo_rudolfensis )),(Homo_erectus ,Homo_sapiens )))))))));
+tree tnt_11 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,Australopithecus_afarensis ,Australopithecus_garhi ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,((Paranthropus_aethiopicus ,(Paranthropus_boisei ,Paranthropus_robustus )),(Kenyanthropus_platyops ,Homo_rudolfensis )),(Homo_erectus ,Homo_sapiens ))))))));
+tree tnt_12 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,Australopithecus_garhi ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,((Paranthropus_aethiopicus ,(Paranthropus_boisei ,Paranthropus_robustus )),(Kenyanthropus_platyops ,Homo_rudolfensis )),(Homo_erectus ,Homo_sapiens )))))))));
+tree tnt_13 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,(Australopithecus_deyiremed ,((Australopithecus_garhi ,Australopithecus_africanus ),(Homo_habilis ,((Paranthropus_aethiopicus ,(Paranthropus_boisei ,Paranthropus_robustus )),(Kenyanthropus_platyops ,Homo_rudolfensis )),(Homo_erectus ,Homo_sapiens )))))))));
+tree tnt_14 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,Australopithecus_garhi ,(Australopithecus_afarensis ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,(Homo_erectus ,Homo_sapiens ,(Kenyanthropus_platyops ,(Homo_rudolfensis ,(Paranthropus_robustus ,(Paranthropus_aethiopicus ,Paranthropus_boisei )))))))))))));
+tree tnt_15 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,Australopithecus_afarensis ,Australopithecus_garhi ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,(Homo_erectus ,Homo_sapiens ,(Kenyanthropus_platyops ,(Homo_rudolfensis ,(Paranthropus_robustus ,(Paranthropus_aethiopicus ,Paranthropus_boisei ))))))))))));
+tree tnt_16 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,Australopithecus_garhi ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,(Homo_erectus ,Homo_sapiens ,(Kenyanthropus_platyops ,(Homo_rudolfensis ,(Paranthropus_robustus ,(Paranthropus_aethiopicus ,Paranthropus_boisei )))))))))))));
+tree tnt_17 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,(Australopithecus_deyiremed ,((Australopithecus_garhi ,Australopithecus_africanus ),(Homo_habilis ,(Homo_erectus ,Homo_sapiens ,(Kenyanthropus_platyops ,(Homo_rudolfensis ,(Paranthropus_robustus ,(Paranthropus_aethiopicus ,Paranthropus_boisei )))))))))))));
+tree tnt_18 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,(Australopithecus_garhi ,((Australopithecus_deyiremed ,Kenyanthropus_platyops ),(Australopithecus_africanus ,(Homo_habilis ,(Homo_rudolfensis ,(Paranthropus_robustus ,(Paranthropus_aethiopicus ,Paranthropus_boisei ))),(Homo_erectus ,Homo_sapiens ))))))))));
+tree tnt_19 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,Australopithecus_garhi ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,(Homo_erectus ,Homo_sapiens ,(Kenyanthropus_platyops ,Homo_rudolfensis ,(Paranthropus_robustus ,(Paranthropus_aethiopicus ,Paranthropus_boisei ))))))))))));
+tree tnt_20 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,(Australopithecus_garhi ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,((Kenyanthropus_platyops ,Homo_rudolfensis ,(Paranthropus_robustus ,(Paranthropus_aethiopicus ,Paranthropus_boisei ))),(Homo_erectus ,Homo_sapiens )))))))))));
+tree tnt_21 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,(Australopithecus_garhi ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,(Kenyanthropus_platyops ,Homo_rudolfensis ,(Paranthropus_robustus ,(Paranthropus_aethiopicus ,Paranthropus_boisei ))),(Homo_erectus ,Homo_sapiens ))))))))));
+tree tnt_22 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,(Australopithecus_garhi ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,((Paranthropus_robustus ,(Paranthropus_aethiopicus ,Paranthropus_boisei )),(Kenyanthropus_platyops ,Homo_rudolfensis )),(Homo_erectus ,Homo_sapiens ))))))))));
+tree tnt_23 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,Australopithecus_garhi ,(Australopithecus_afarensis ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,(Homo_erectus ,Homo_sapiens ,(Kenyanthropus_platyops ,Homo_rudolfensis ,(Paranthropus_boisei ,(Paranthropus_aethiopicus ,Paranthropus_robustus ))))))))))));
+tree tnt_24 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,Australopithecus_afarensis ,Australopithecus_garhi ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,(Homo_erectus ,Homo_sapiens ,(Kenyanthropus_platyops ,Homo_rudolfensis ,(Paranthropus_boisei ,(Paranthropus_aethiopicus ,Paranthropus_robustus )))))))))));
+tree tnt_25 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,Australopithecus_garhi ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,(Homo_erectus ,Homo_sapiens ,(Kenyanthropus_platyops ,Homo_rudolfensis ,(Paranthropus_boisei ,(Paranthropus_aethiopicus ,Paranthropus_robustus ))))))))))));
+tree tnt_26 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,(Australopithecus_deyiremed ,((Australopithecus_garhi ,Australopithecus_africanus ),(Homo_habilis ,(Homo_erectus ,Homo_sapiens ,(Kenyanthropus_platyops ,Homo_rudolfensis ,(Paranthropus_boisei ,(Paranthropus_aethiopicus ,Paranthropus_robustus ))))))))))));
+tree tnt_27 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,Australopithecus_garhi ,(Australopithecus_afarensis ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,Homo_erectus ,Homo_sapiens ,(Kenyanthropus_platyops ,Homo_rudolfensis ,(Paranthropus_boisei ,(Paranthropus_aethiopicus ,Paranthropus_robustus )))))))))));
+tree tnt_28 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,Australopithecus_afarensis ,Australopithecus_garhi ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,Homo_erectus ,Homo_sapiens ,(Kenyanthropus_platyops ,Homo_rudolfensis ,(Paranthropus_boisei ,(Paranthropus_aethiopicus ,Paranthropus_robustus ))))))))));
+tree tnt_29 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,(Australopithecus_garhi ,((Australopithecus_deyiremed ,Kenyanthropus_platyops ),(Australopithecus_africanus ,(Homo_habilis ,(Homo_rudolfensis ,(Paranthropus_boisei ,(Paranthropus_aethiopicus ,Paranthropus_robustus ))),(Homo_erectus ,Homo_sapiens ))))))))));
+tree tnt_30 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,Australopithecus_garhi ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,Homo_erectus ,Homo_sapiens ,(Kenyanthropus_platyops ,Homo_rudolfensis ,(Paranthropus_boisei ,(Paranthropus_aethiopicus ,Paranthropus_robustus )))))))))));
+tree tnt_31 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,(Australopithecus_deyiremed ,((Australopithecus_garhi ,Australopithecus_africanus ),(Homo_habilis ,Homo_erectus ,Homo_sapiens ,(Kenyanthropus_platyops ,Homo_rudolfensis ,(Paranthropus_boisei ,(Paranthropus_aethiopicus ,Paranthropus_robustus )))))))))));
+tree tnt_32 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,Australopithecus_garhi ,(Australopithecus_afarensis ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,((Paranthropus_boisei ,(Paranthropus_aethiopicus ,Paranthropus_robustus )),(Kenyanthropus_platyops ,Homo_rudolfensis )),(Homo_erectus ,Homo_sapiens )))))))));
+tree tnt_33 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,Australopithecus_afarensis ,Australopithecus_garhi ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,((Paranthropus_boisei ,(Paranthropus_aethiopicus ,Paranthropus_robustus )),(Kenyanthropus_platyops ,Homo_rudolfensis )),(Homo_erectus ,Homo_sapiens ))))))));
+tree tnt_34 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,Australopithecus_garhi ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,((Paranthropus_boisei ,(Paranthropus_aethiopicus ,Paranthropus_robustus )),(Kenyanthropus_platyops ,Homo_rudolfensis )),(Homo_erectus ,Homo_sapiens )))))))));
+tree tnt_35 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,(Australopithecus_deyiremed ,((Australopithecus_garhi ,Australopithecus_africanus ),(Homo_habilis ,((Paranthropus_boisei ,(Paranthropus_aethiopicus ,Paranthropus_robustus )),(Kenyanthropus_platyops ,Homo_rudolfensis )),(Homo_erectus ,Homo_sapiens )))))))));
+tree tnt_36 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,(Australopithecus_garhi ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,(Homo_rudolfensis ,(Homo_erectus ,(Homo_sapiens ,(Kenyanthropus_platyops ,(Paranthropus_boisei ,(Paranthropus_aethiopicus ,Paranthropus_robustus )))))))))))))));
+tree tnt_37 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,(Australopithecus_garhi ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,((Paranthropus_aethiopicus ,(Paranthropus_boisei ,Paranthropus_robustus )),(Homo_rudolfensis ,(Kenyanthropus_platyops ,(Homo_erectus ,Homo_sapiens )))))))))))));
+tree tnt_38 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,(Australopithecus_garhi ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,((Paranthropus_boisei ,(Paranthropus_aethiopicus ,Paranthropus_robustus )),(Homo_rudolfensis ,(Kenyanthropus_platyops ,(Homo_erectus ,Homo_sapiens )))))))))))));
+tree tnt_39 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,(Australopithecus_afarensis ,(Australopithecus_garhi ,(Australopithecus_deyiremed ,(Australopithecus_africanus ,(Homo_habilis ,((Paranthropus_robustus ,(Paranthropus_aethiopicus ,Paranthropus_boisei )),(Homo_rudolfensis ,(Kenyanthropus_platyops ,(Homo_erectus ,Homo_sapiens )))))))))))));
+tree tnt_40 = [&U] 
+(Pan ,(Sahelanthropus_tchadensis ,(Ardipithecus_ramidus ,(Australopithecus_anamensis ,Australopithecus_afarensis ,Australopithecus_garhi ,Australopithecus_deyiremed ,Australopithecus_africanus ,Kenyanthropus_platyops ,Homo_rudolfensis ,Homo_habilis ,Homo_erectus ,Homo_sapiens ,(Paranthropus_aethiopicus ,Paranthropus_boisei ,Paranthropus_robustus )))));
+
+end ; 

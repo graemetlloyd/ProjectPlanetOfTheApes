@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cameron, D.W.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>A revised systematic scheme for the Eurasian Miocene fossil Hominidae</Title>
+		<Journal>Journal of Human Evolution</Journal>
+		<Volume>33</Volume>
+		<Pages>449-477</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List recon_name="Proconsul,Cercopithecoidea" recon_no="40895;40859">Outgroup</List>
+		<List recon_name="Pongo" recon_no="40897">Pongo</List>
+		<List recon_name="Sivapithecus" recon_no="40898">Sivapithecus</List>
+		<List recon_name="Rangwapithecus_sp_RUD_12_et_44_et_77" recon_no="133703">Hungary</List>
+		<List recon_name="Hispanopithecus_sp_CL1_dash_18000" recon_no="97186">Spain</List>
+		<List recon_name="Graecopithecus_sp_XIR_dash_1_et_RPI_dash_128" recon_no="97180">Greece</List>
+		<List recon_name="Gorilla" recon_no="97178">Gorilla</List>
+		<List recon_name="Pan" recon_no="97177">Pan</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="40">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cameron_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

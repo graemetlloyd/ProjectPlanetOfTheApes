@@ -1,0 +1,21 @@
+#NEXUS
+begin data;
+dimensions ntax=9 nchar=14;
+format missing=? symbols="0~1";
+matrix
+East_African_early_Miocene_hominoid 00000000000000
+Dryopithecus     11110001111000
+Kenyapithecus    00010000001000
+Sivapithecus     00111000011100
+Pongo            00111000011100
+Ouranopithecus   01110000111000
+Gorilla          11110101111010
+Pan              11110111111011
+Australopithecus 11110111111011
+;
+end;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ 	TYPESET * UNTITLED  = unord: 1-14;
+END;

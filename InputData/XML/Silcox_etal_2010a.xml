@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Silcox, M.T.</List>
+			<List>Bloch, J.I.</List>
+			<List>Boyer, D.M.</List>		
+			<List>Houde, P.</List>			
+		</Author>
+		<Year>2010</Year>
+		<Title>Cranial anatomy of Paleocene and Eocene Labidolemur kayi (Mammalia: Apatotheria), and the relationships of the Apatemyidae to other mammals</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>160</Volume>
+		<Pages>773–825</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="34">
+		<List recon_name="Ukhaatherium_nessovi" recon_no="137753">Ukhaatherium_nessovi</List>
+		<List recon_name="Labidolemur_kayi" recon_no="47455">Labidolemur_kayi</List>
+		<List recon_name="Jepsenella_praepropera" recon_no="47420">Jepsenella_praepropera</List>
+		<List recon_name="Apatemys_chardini" recon_no="44143">Apatemys_sp</List>
+		<List recon_name="Heterohyus_nanus" recon_no="92326">Heterohyus_nanus</List>
+		<List recon_name="Sinclairella_dakotensis" recon_no="51581">Sinclairella_dakotensis</List>
+		<List recon_name="Carcinella_sigei" recon_no="385514">Carcinella_sigei</List>
+		<List recon_name="Erinaceus_europaeus" recon_no="104181">Erinaceus_europaeus</List>
+		<List recon_name="Echinosorex_gymnura" recon_no="385327">Echinosorex_gymnura</List>
+		<List recon_name="Hemiechinus_auritus" recon_no="385511">Hemiechinus_auritus</List>
+		<List recon_name="Solenodon_paradoxus" recon_no="385513">Solenodon_paradoxus</List>
+		<List recon_name="Suncus_murinus" recon_no="231476">Suncus_murinus</List>
+		<List recon_name="Sorex_longirostris,Sorex_palustris,Sorex_cinereus,Sorex_sp_SPECIMENNUMBER" recon_no="51649;51657;51634;40486">Sorex_sp</List>
+		<List recon_name="Vulpavus_profectus" recon_no="52682">Vulpavus_profectus</List>
+		<List recon_name="Uintacyon_rudis" recon_no="52561">Uintacyon_rudis</List>
+		<List recon_name="Genetta_genetta,Genetta_tigrina" recon_no="232013;232092">Genetta_sp</List>
+		<List recon_name="Pararyctes_pattersoni" recon_no="49944">Pararyctes_pattersoni</List>
+		<List recon_name="Palaeoryctes_puercensis,Palaeoryctes_punctatus" recon_no="49678;49679">Paleoryctes_sp</List>
+		<List recon_name="Ottoryctes_winkleri" recon_no="385512">Ottoryctes_winkleri</List>
+		<List recon_name="Gypsonictops" recon_no="40255">Gypsonictops_sp</List>
+		<List recon_name="Leptictidae_indet_UF_216692,Leptictis_dakotensis,Leptictidae_indet_PU_14526,Prodiacodon_concordiarcensis" recon_no="40257;47557;40257;50745">Leptictidae</List>
+		<List recon_name="Rhombomylus_turpanensis" recon_no="333090">Rhombomylus_turpanensis</List>
+		<List recon_name="Ptilocercus_lowii" recon_no="234229">Ptilocercus_lowii</List>
+		<List recon_name="Tupaia_glis" recon_no="234212">Tupaia_glis</List>
+		<List recon_name="Cynocephalus_volans" recon_no="206240">Cynocephalus_volans</List>
+		<List recon_name="Purgatorius_janisae" recon_no="51268">Purgatorius_sp</List>
+		<List recon_name="Navajovius_kohlhaasae,Microsyops_knightensis,Megadelphus_lundeliusi,Microsyops_annectens" recon_no="49006;48552;47998;48548">Microsyopidae</List>
+		<List recon_name="Micromomys_fremdi,Dryomomys_szalayi" recon_no="48517;92582">Micromomyidae</List>
+		<List recon_name="Paromomys_maturus,Ignacius_clarkforkensis,Ignacius_graybullianus" recon_no="50016;92580;47354">Paromomyidae</List>
+		<List recon_name="Elphidotarsius_florencae,Carpolestes_simpsoni" recon_no="46063;44951">Carpolestidae</List>
+		<List recon_name="Pronothodectes_matthewi,Plesiadapis_cookei" recon_no="50864;50431">Plesiadapidae</List>
+		<List recon_name="Altanius_orlovi" recon_no="101080">Altanius_orlovi</List>
+		<List recon_name="Omomyidae" recon_no="40793">Omomyidae</List>
+		<List recon_name="Donrussellia_gallica,Leptadapis_leenhardti,Smilodectes_gracilis,Notharctus_tenebrosus" recon_no="106869;127249;51609;49200">Adapidae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="240">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Silcox_etal_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

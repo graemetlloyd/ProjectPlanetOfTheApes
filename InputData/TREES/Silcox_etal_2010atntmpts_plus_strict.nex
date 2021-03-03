@@ -1,0 +1,13 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Ukhaatherium_nessovi ,((((Rhombomylus_turpanensi ,(Jepsenella_praepropera ,(Labidolemur_kayi ,(Apatemys_sp ,(Carcinella_sigei ,(Heterohyus_nanus ,Sinclairella_dakotensi )))))),((Cynocephalus_volans ,(Ptilocercus_lowii ,Tupaia_glis )),(Purgatorius_sp ,((Microsyopidae ,Micromomyidae ),(Paromomyidae ,((Carpolestidae ,Plesiadapidae ),(Altanius_orlovi ,(Omomyidae ,Adapidae )))))))),((Pararyctes_pattersoni ,(Paleoryctes_sp ,Ottoryctes_winkleri )),(Gypsonictops_sp ,Leptictidae ))),(((Echinosorex_gymnura ,(Erinaceus_europaeus ,Hemiechinus_auritus )),(Solenodon_paradoxus ,(Suncus_murinus ,Sorex_sp ))),(Genetta_sp ,(Vulpavus_profectus ,Uintacyon_rudis )))));
+tree tnt_2 = [&U] 
+(Ukhaatherium_nessovi ,((((Rhombomylus_turpanensi ,(Jepsenella_praepropera ,(Labidolemur_kayi ,(Apatemys_sp ,(Carcinella_sigei ,(Heterohyus_nanus ,Sinclairella_dakotensi )))))),((Cynocephalus_volans ,(Ptilocercus_lowii ,Tupaia_glis )),(Purgatorius_sp ,((Microsyopidae ,Micromomyidae ),(Paromomyidae ,((Carpolestidae ,Plesiadapidae ),(Altanius_orlovi ,(Omomyidae ,Adapidae )))))))),(((Echinosorex_gymnura ,(Erinaceus_europaeus ,Hemiechinus_auritus )),(Solenodon_paradoxus ,(Suncus_murinus ,Sorex_sp ))),(Genetta_sp ,(Vulpavus_profectus ,Uintacyon_rudis )))),((Paleoryctes_sp ,(Pararyctes_pattersoni ,Ottoryctes_winkleri )),(Gypsonictops_sp ,Leptictidae ))));
+tree tnt_3 = [&U] 
+(Ukhaatherium_nessovi ,((((Rhombomylus_turpanensi ,(Jepsenella_praepropera ,(Labidolemur_kayi ,(Apatemys_sp ,(Carcinella_sigei ,(Heterohyus_nanus ,Sinclairella_dakotensi )))))),((Cynocephalus_volans ,(Ptilocercus_lowii ,Tupaia_glis )),(Purgatorius_sp ,((Microsyopidae ,Micromomyidae ),(Paromomyidae ,((Carpolestidae ,Plesiadapidae ),(Altanius_orlovi ,(Omomyidae ,Adapidae )))))))),(((Echinosorex_gymnura ,(Erinaceus_europaeus ,Hemiechinus_auritus )),(Solenodon_paradoxus ,(Suncus_murinus ,Sorex_sp ))),(Genetta_sp ,(Vulpavus_profectus ,Uintacyon_rudis )))),((Pararyctes_pattersoni ,(Paleoryctes_sp ,Ottoryctes_winkleri )),(Gypsonictops_sp ,Leptictidae ))));
+tree tnt_4 = [&U] 
+(Ukhaatherium_nessovi ,(((Rhombomylus_turpanensi ,(Jepsenella_praepropera ,(Labidolemur_kayi ,(Apatemys_sp ,(Carcinella_sigei ,(Heterohyus_nanus ,Sinclairella_dakotensi )))))),((Cynocephalus_volans ,(Ptilocercus_lowii ,Tupaia_glis )),(Purgatorius_sp ,((Microsyopidae ,Micromomyidae ),(Paromomyidae ,((Carpolestidae ,Plesiadapidae ),(Altanius_orlovi ,(Omomyidae ,Adapidae )))))))),(((Echinosorex_gymnura ,(Erinaceus_europaeus ,Hemiechinus_auritus )),(Solenodon_paradoxus ,(Suncus_murinus ,Sorex_sp ))),(Genetta_sp ,(Vulpavus_profectus ,Uintacyon_rudis ))),((Pararyctes_pattersoni ,Paleoryctes_sp ,Ottoryctes_winkleri ),(Gypsonictops_sp ,Leptictidae ))));
+
+end ; 

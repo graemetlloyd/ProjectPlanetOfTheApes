@@ -1,0 +1,11 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Aegyptopithecus ,(Proconsul ,(Victoriapithecu ,((Allenopithecus ,(Chlorocebus ,(AUH_1321 ,Cercopithecus ))),(Macaca ,Cercocebus )))));
+tree tnt_2 = [&U] 
+(Aegyptopithecus ,(Proconsul ,(Victoriapithecu ,((Allenopithecus ,(Cercopithecus ,(AUH_1321 ,Chlorocebus ))),(Macaca ,Cercocebus )))));
+tree tnt_3 = [&U] 
+(Aegyptopithecus ,(Proconsul ,(Victoriapithecu ,((Allenopithecus ,(AUH_1321 ,Cercopithecus ,Chlorocebus )),(Macaca ,Cercocebus )))));
+
+end ; 

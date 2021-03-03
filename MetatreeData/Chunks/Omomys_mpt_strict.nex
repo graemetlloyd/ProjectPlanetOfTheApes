@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(Omomys_carteri ,(Omomys_lloydi ,(Omomys_sp ,Omomys_sp_SPECIMENNUMBE ))));
+tree tnt_2 = [&U] 
+(allzero ,(Omomys_carteri ,Omomys_lloydi ,Omomys_sp ,Omomys_sp_SPECIMENNUMBE ));
+
+end ; 

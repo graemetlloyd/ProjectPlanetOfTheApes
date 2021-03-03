@@ -1,0 +1,13 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Purgatorius_janisae ,(Pandemonium_dis ,(((Pronothodectes_gaoi ,(Pronothodectes_matthewi ,Pronothodectes_jepi )),(Saxonella_crepaturae ,Saxonella_naylori )),(Chronolestes_simul ,(Elphidotarsius_florencae ,(Subengius_mengi ,((Elphidotarsius_shotgunensi ,Elphidotarsius_russelli ),(Elphidotarsius_wightoni ,(Carpocristes_oriens ,(Carpodaptes_hazelae ,Carpodaptes_aulacodon ,(Carpodaptes_rosei ,(Carpodaptes_cygneus ,(Carpodaptes_stonleyi ,(Carpodaptes_jepseni ,(Carpodaptes_hobackensis ,(Carpolestes_dubius ,(Carpolestes_nigridens ,Carpolestes_simpsoni )))))))))))))))));
+tree tnt_2 = [&U] 
+(Purgatorius_janisae ,(Pandemonium_dis ,(((Pronothodectes_gaoi ,(Pronothodectes_matthewi ,Pronothodectes_jepi )),(Saxonella_crepaturae ,Saxonella_naylori )),(Chronolestes_simul ,(Elphidotarsius_florencae ,(Subengius_mengi ,((Elphidotarsius_shotgunensi ,Elphidotarsius_russelli ),(Elphidotarsius_wightoni ,(Carpocristes_oriens ,(Carpodaptes_hazelae ,Carpodaptes_aulacodon ,(Carpodaptes_cygneus ,Carpodaptes_rosei ,(Carpodaptes_stonleyi ,(Carpodaptes_jepseni ,(Carpodaptes_hobackensis ,(Carpolestes_dubius ,(Carpolestes_nigridens ,Carpolestes_simpsoni ))))))))))))))));
+tree tnt_3 = [&U] 
+(Purgatorius_janisae ,(Pandemonium_dis ,(((Pronothodectes_gaoi ,(Pronothodectes_matthewi ,Pronothodectes_jepi )),(Saxonella_crepaturae ,Saxonella_naylori )),(Chronolestes_simul ,(Elphidotarsius_florencae ,(Subengius_mengi ,((Elphidotarsius_shotgunensi ,Elphidotarsius_russelli ),(Elphidotarsius_wightoni ,(Carpocristes_oriens ,(Carpodaptes_hazelae ,(Carpodaptes_aulacodon ,(Carpodaptes_cygneus ,Carpodaptes_rosei ,(Carpodaptes_stonleyi ,(Carpodaptes_jepseni ,(Carpodaptes_hobackensis ,(Carpolestes_dubius ,(Carpolestes_nigridens ,Carpolestes_simpsoni )))))))))))))))));
+tree tnt_4 = [&U] 
+(Purgatorius_janisae ,(Pandemonium_dis ,(((Pronothodectes_gaoi ,(Pronothodectes_matthewi ,Pronothodectes_jepi )),(Saxonella_crepaturae ,Saxonella_naylori )),(Chronolestes_simul ,(Elphidotarsius_florencae ,(Subengius_mengi ,((Elphidotarsius_shotgunensi ,Elphidotarsius_russelli ),(Elphidotarsius_wightoni ,(Carpocristes_oriens ,(Carpodaptes_hazelae ,Carpodaptes_aulacodon ,(Carpodaptes_cygneus ,Carpodaptes_rosei ,(Carpodaptes_stonleyi ,(Carpodaptes_jepseni ,(Carpodaptes_hobackensis ,(Carpolestes_dubius ,(Carpolestes_nigridens ,Carpolestes_simpsoni ))))))))))))))));
+
+end ; 

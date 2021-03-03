@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gilbert, C.C.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Cladistic analysis of extant and fossil African papionins using craniodental data</Title>
+		<Journal>Journal of Human Evolution</Journal>
+		<Volume>64</Volume>
+		<Pages>399-433</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List recon_name="Victoriapithecus_macinnesi" recon_no="135923">Victoriapithecus</List>
+		<List recon_name="Parapapio_lothagamensis" recon_no="385489">Parapapio_lothagamensis</List>
+		<List recon_name="Macaca_mulatta,Macaca_fascicularis,Macaca_nemestrina,Macaca_sylvanus" recon_no="232541;231530;231528;232422">Macaca</List>
+		<List recon_name="Cercocebus_torquatus,Cercocebus_agilis,Cercocebus_atys" recon_no="233932;385316;385110">Cercocebus</List>
+		<List recon_name="Lophocebus_albigena,Lophocebus_aterrimus" recon_no="240334;385202">Lophocebus</List>
+		<List recon_name="Mandrillus_sphinx,Mandrillus_leucophaeus" recon_no="232550;232590">Mandrillus</List>
+		<List recon_name="Papio_ursinus,Papio_cynocephalus,Papio_kindae,Papio_anubis,Papio_hamadryas,Papio_papio" recon_no="385206;231526;386047;232556;232436;232560">Papio</List>
+		<List recon_name="Theropithecus_gelada" recon_no="233450">Theropithecus</List>
+		<List recon_name="Dinopithecus_ingens" recon_no="384937">Dinopithecus_ingens</List>
+		<List recon_name="Gorgopithecus_major" recon_no="385082">Gorgopithecus</List>
+		<List recon_name="Papio_quadratirostris" recon_no="385507">Soromandrillus_quadratirostris</List>
+		<List recon_name="Parapapio_ado" recon_no="385490">Parapapio_ado</List>
+		<List recon_name="Parapapio_broomi" recon_no="385491">Parapapio_broomi</List>
+		<List recon_name="Parapapio_jonesi" recon_no="385492">Parapapio_jonesi</List>
+		<List recon_name="Parapapio_whitei" recon_no="385493">Parapapio_whitei</List>
+		<List recon_name="Pliopapio_alemui" recon_no="385499">Pliopapio_alemui</List>
+		<List recon_name="Procercocebus_antiquus" recon_no="385435">Procercocebus_antiquus</List>
+		<List recon_name="Theropithecus_(Omopithecus)_brumpti" recon_no="385503">Theropithecus_brumpti</List>
+		<List recon_name="Theropithecus_sp_M2974_et_MP44_et_MP217_et_MP222_et_NME_AL_58_dash_23_et_134_dash_5_et_142_dash_19_et_144_dash_1_et_153_dash_14_et_163_dash_11_et_186_dash_17_et_187_dash_10_et_196_dash_3_et_205_dash_1_et_208_dash_10_et_321_dash_12_et_416_dash_2" recon_no="40879">Theropithecus_oswaldi_darti</List>
+		<List recon_name="Theropithecus_(Omopithecus)_baringensis" recon_no="385504">Theropithecus_baringensis</List>
+		<List recon_name="Lophocebus_sp_KNM_dash_ER_594_et_595_et_827_et_898_et_965_et_1661_et_3090_et_6014_et_6063_et_18922_et_40476_et_44260_et_44262_et_44317" recon_no="240333">Lophocebus_cf_albigena</List>
+		<List recon_name="Papio_izodi" recon_no="385298">Papio_izodi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="318">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gilbert_2013ac</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

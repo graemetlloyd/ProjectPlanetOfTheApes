@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(allzero ,(((Propithecus_candidus ,(Propithecus_verreauxi ,(Propithecus_coronatus ,Propithecus_deckenii ))),(Propithecus_coquereli ,Propithecus_tattersall )),(Propithecus_perrieri ,(Propithecus_diadema ,Propithecus_edwardsi ))));
+tree tnt_2 = [&U] 
+(allzero ,(((Propithecus_candidus ,(Propithecus_verreauxi ,(Propithecus_coronatus ,Propithecus_deckenii ))),(Propithecus_coquereli ,Propithecus_tattersall )),(Propithecus_perrieri ,(Propithecus_diadema ,Propithecus_edwardsi ))));
+
+end ; 

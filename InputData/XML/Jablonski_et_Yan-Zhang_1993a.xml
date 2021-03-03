@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Jablonski, N.G.</List>
+			<List>Peng, Y-.Z.</List>		
+		</Author>
+		<Year>1993</Year>
+		<Title>The Phylogenetic Relationships and Classification of the Doucs and Snub-Nosed Langurs of China and Vietnam</Title>
+		<Journal>Folia Primatologica</Journal>
+		<Volume>60</Volume>
+		<Pages>36-55</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List recon_name="Macaca_sinica" recon_no="238677">Macaca_sinica</List>
+		<List recon_name="Macaca_mulatta" recon_no="232541">Macaca_mulatta</List>
+		<List recon_name="Macaca_nemestrina" recon_no="231528">Macaca_nemestrina</List>
+		<List recon_name="Macaca_fuscata" recon_no="385071">Macaca_fuscata</List>
+		<List recon_name="Macaca_fascicularis" recon_no="231530">Macaca_fascicularis</List>
+		<List recon_name="Mesopithecus_pentelicus" recon_no="97758">Mesopithecus_pentelici</List>
+		<List recon_name="Pygathrix_nemaeus" recon_no="232433">Pygathrix_nemaeus</List>
+		<List recon_name="Rhinopithecus_avunculus" recon_no="240789">Rhinopithecus_avunculus</List>
+		<List recon_name="Rhinopithecus_bieti" recon_no="236472">Rhinopithecus_bieti</List>
+		<List recon_name="Rhinopithecus_brelichi" recon_no="236485">Rhinopithecus_brelichi</List>
+		<List recon_name="Rhinopithecus_roxellana" recon_no="236470">Rhinopithecus_roxellana</List>
+		<List recon_name="Rhinopithecus_tingianus" recon_no="386553">Rhinopithecus_tingianus</List>
+		<List recon_name="Rhinopithecus_roxellana_tingianus" recon_no="386562">Rhinopithecus_roxellana_tingianus</List>
+		<List recon_name="Rhinopithecus_lantianensis" recon_no="386552">Rhinopithecus_lantianensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="178">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Jablonski_et_Yan-Zhang_1993a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Purgatorius_janisae ,((Donrussellia_provinciali ,Donrussellia_gallica ),(Teilhardina_asiatica ,(Teilhardina_magnoliana ,(Teilhardina_belgica ,(Teilhardina_brandti ,(Steinius_vespertinus ,(Teilhardina_americana ,(Teilhardina_crassidens ,Tetonius_matthewi )))))))));
+tree tnt_2 = [&U] 
+(Purgatorius_janisae ,((Donrussellia_provinciali ,Donrussellia_gallica ),(Teilhardina_asiatica ,(Teilhardina_magnoliana ,(Teilhardina_belgica ,(Teilhardina_brandti ,(Steinius_vespertinus ,(Teilhardina_americana ,(Teilhardina_crassidens ,Tetonius_matthewi )))))))));
+
+end ; 

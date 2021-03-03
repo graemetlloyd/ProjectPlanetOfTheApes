@@ -1,0 +1,25 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=11 NCHAR=8 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Adapidae           00000000
+Cheirogalidae      11000000
+Indriidae          10111100
+Hapalemur_griseus  10111110
+Hapalemur_simus    10111110
+Lemur_catta        10111000
+Lemur_macaco       10110001
+Lemur_rubriventer  10110001
+Lemur_variegatus   10100000
+Lemur_mongoz       10110001
+Lepilemur          11000000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

@@ -1,0 +1,13 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Macaca ,((Cercocebus ,(Mandrillus ,UCMP_56693 )),(Lophocebus ,(UCMP_125868 ,(Papio ,Theropithecu )))));
+tree tnt_2 = [&U] 
+(Macaca ,((Cercocebus ,(Mandrillus ,UCMP_56693 )),(Lophocebus ,(Theropithecu ,(Papio ,UCMP_125868 )))));
+tree tnt_3 = [&U] 
+(Macaca ,((Cercocebus ,(Mandrillus ,UCMP_56693 )),(Lophocebus ,(Papio ,(Theropithecu ,UCMP_125868 )))));
+tree tnt_4 = [&U] 
+(Macaca ,((Cercocebus ,(Mandrillus ,UCMP_56693 )),(Lophocebus ,(Papio ,Theropithecu ,UCMP_125868 ))));
+
+end ; 

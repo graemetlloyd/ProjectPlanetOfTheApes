@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Argue, D.</List>
+			<List>Groves, C.P.</List>
+			<List>Lee, M.S.Y.</List>
+			<List>Jungers, W.L.</List>
+		</Author>
+		<Year>2017</Year>
+		<Title>The affinities of Homo floresiensis based on phylogenetic analyses of cranial, dental, and postcranial characters</Title>
+		<Journal>Journal of Human Evolution</Journal>
+		<Volume>107</Volume>
+		<Pages>107-133</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List recon_name="Pongo_pygmaeus" recon_no="183261">Pongo_pygmaeus</List>
+		<List recon_name="Pan_troglodytes" recon_no="157891">Pan_troglodytes</List>
+		<List recon_name="Australopithecus_afarensis" recon_no="83055">Australopithecus_afarensis</List>
+		<List recon_name="Australopithecus_africanus" recon_no="83066">Australopithecus_africanus</List>
+		<List recon_name="Australopithecus_sediba" recon_no="165364">Australopithecus_sediba</List>
+		<List recon_name="Homo_rudolfensis" recon_no="83081">Homo_rudolfensis</List>
+		<List recon_name="Homo_habilis" recon_no="83082">Homo_habilis</List>
+		<List recon_name="Homo_ergaster" recon_no="83083">Homo_ergaster</List>
+		<List recon_name="Homo_erectus" recon_no="376854">Homo_erectus</List>
+		<List recon_name="Homo_floresiensis" recon_no="91487">Homo_floresiensis</List>
+		<List recon_name="Homo_sapiens" recon_no="83088">Homo_sapiens</List>
+		<List recon_name="Gorilla" recon_no="97178">Gorilla</List>
+		<List recon_name="Homo_georgicus" recon_no="108454">Homo_georgicus</List>
+		<List recon_name="Homo_naledi" recon_no="384458">Homo_naledi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="133">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Argue_etal_2017a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>
