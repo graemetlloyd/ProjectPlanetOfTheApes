@@ -3,3 +3,6 @@
 
 # PDFs we cannot publicly share:
 /InputData/PDF
+
+# Too large BEAST output files:
+/timetree/BeastOutput
