@@ -6,3 +6,6 @@
 
 # Too large BEAST output files:
 /timetree/BeastOutput
+
+# Other stuff:
+.Rapp.history
