@@ -1,4 +1,4 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
@@ -7,7 +7,7 @@
 			<List>Smith, T.</List>
 		</Author>
 		<Year>2018</Year>
-		<Title>Plesiadapid mammals from the latest Paleocene of France offer new insights on the evolution of Plesiadapis during the Paleocene-Eocene transition</Title>
+		<Title>Plesiadapid mammals from the latest Paleocene of France offer new insights on the evolution of <em>Plesiadapis</em> during the Paleocene-Eocene transition</Title>
 		<Journal>Journal of Vertebrate Paleontology</Journal>
 		<Volume>38</Volume>
 		<Pages>e1460602</Pages>

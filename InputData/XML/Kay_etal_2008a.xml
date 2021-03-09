@@ -1,4 +1,4 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
@@ -10,7 +10,7 @@
 			<List>Powers, D. W.</List>
 		</Author>
 		<Year>2008</Year>
-		<Title>The anatomy of Dolichocebus gaimanensis, a stem platyrrhine monkey from Argentina</Title>
+		<Title>The anatomy of <em>Dolichocebus gaimanensis</em>, a stem platyrrhine monkey from Argentina</Title>
 		<Journal>Journal of Human Evolution</Journal>
 		<Volume>54</Volume>
 		<Pages>323-382</Pages>

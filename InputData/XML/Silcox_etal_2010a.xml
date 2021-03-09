@@ -1,14 +1,14 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List>Silcox, M.T.</List>
-			<List>Bloch, J.I.</List>
-			<List>Boyer, D.M.</List>		
-			<List>Houde, P.</List>			
+			<List>Silcox, M. T.</List>
+			<List>Bloch, J. I.</List>
+			<List>Boyer, D. M.</List>
+			<List>Houde, P.</List>
 		</Author>
 		<Year>2010</Year>
-		<Title>Cranial anatomy of Paleocene and Eocene Labidolemur kayi (Mammalia: Apatotheria), and the relationships of the Apatemyidae to other mammals</Title>
+		<Title>Cranial anatomy of Paleocene and Eocene <em>Labidolemur kayi</em> (Mammalia: Apatotheria), and the relationships of the Apatemyidae to other mammals</Title>
 		<Journal>Zoological Journal of the Linnean Society</Journal>
 		<Volume>160</Volume>
 		<Pages>773–825</Pages>

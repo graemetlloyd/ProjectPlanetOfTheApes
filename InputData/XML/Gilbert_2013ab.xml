@@ -1,8 +1,8 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List>Gilbert, C.C.</List>
+			<List>Gilbert, C. C.</List>
 		</Author>
 		<Year>2013</Year>
 		<Title>Cladistic analysis of extant and fossil African papionins using craniodental data</Title>
@@ -38,7 +38,7 @@
 		<List recon_name="Lophocebus_sp_KNM_dash_ER_594_et_595_et_827_et_898_et_965_et_1661_et_3090_et_6014_et_6063_et_18922_et_40476_et_44260_et_44262_et_44317" recon_no="240333">Lophocebus_cf_albigena</List>
 		<List recon_name="Papio_izodi" recon_no="385298">Papio_izodi</List>
 		<List recon_name="Papio_angusticeps" recon_no="385297">Papio_angusticeps</List>
-		<List recon_name="Rungwecebus_kipunji" recon_no="385291">Rungwecebus</List>	
+		<List recon_name="Rungwecebus_kipunji" recon_no="385291">Rungwecebus</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

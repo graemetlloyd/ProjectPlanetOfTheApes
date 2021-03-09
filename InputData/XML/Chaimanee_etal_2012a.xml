@@ -1,12 +1,12 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
 			<List>Chaimanee, Y.</List>
 			<List>Chavasseau, O.</List>
-			<List>Beard, K.C.</List>
-			<List>Kyaw, A.A.</List>
-			<List>Soe, A.N.</List>
+			<List>Beard, K. C.</List>
+			<List>Kyaw, A. A.</List>
+			<List>Soe, A. N.</List>
 			<List>Sein, C.</List>
 			<List>Lazzari, V.</List>
 			<List>Marivaux, L.</List>
@@ -16,7 +16,7 @@
 			<List>Lwin, T.</List>
 			<List>Valentin, X.</List>
 			<List>Thein, Z.</List>
-			<List>Jaeger, J.</List>		
+			<List>Jaeger, J.</List>
 		</Author>
 		<Year>2012</Year>
 		<Title>Late Middle Eocene primate from Myanmar and the initial anthropoid colonization of Africa</Title>

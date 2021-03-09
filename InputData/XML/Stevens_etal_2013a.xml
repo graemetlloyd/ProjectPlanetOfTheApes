@@ -1,21 +1,21 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List>Stevens, N.J.</List>
-			<List>Seiffert, E.R.</List>
-			<List>O'Connor, P.M.</List>
-			<List>Roberts, E.M.</List>
-			<List>Schmitz, M.D.</List>
+			<List>Stevens, N. J.</List>
+			<List>Seiffert, E. R.</List>
+			<List>O'Connor, P. M.</List>
+			<List>Roberts, E. M.</List>
+			<List>Schmitz, M. D.</List>
 			<List>Krause, C.</List>
 			<List>Gorscak, E.</List>
 			<List>Ngasala, S.</List>
-			<List>Hieronymus, T.L.</List>
+			<List>Hieronymus, T. L.</List>
 			<List>Temu, J.</List>
 		</Author>
 		<Year>2013</Year>
 		<Title>Palaeontological evidence for an Oligocene divergence between Old World monkeys and apes</Title>
-		<Journal>Insert_journal_here</Journal>
+		<Journal/>
 		<Volume>497</Volume>
 		<Pages>611-614</Pages>
 		<Booktitle/>

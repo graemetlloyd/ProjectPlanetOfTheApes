@@ -1,14 +1,14 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List>Silcox, M.T.</List>
-			<List>Krause, D.W.</List>
-			<List>Mass, M.C.</List>
-			<List>Fox, R.C.</List>
+			<List>Silcox, M. T.</List>
+			<List>Krause, D. W.</List>
+			<List>Mass, M. C.</List>
+			<List>Fox, R. C.</List>
 		</Author>
 		<Year>2001</Year>
-		<Title>New Specimens of Elphidotarsius russelli (Mammalia, ?Primates, Carpolestidae) and a Revision of Plesiadapoid Relationships</Title>
+		<Title>New Specimens of <em>Elphidotarsius russelli</em> (Mammalia, ?Primates, Carpolestidae) and a Revision of Plesiadapoid Relationships</Title>
 		<Journal>Journal of Vertebrate Paleontology</Journal>
 		<Volume>21</Volume>
 		<Pages>132-152</Pages>

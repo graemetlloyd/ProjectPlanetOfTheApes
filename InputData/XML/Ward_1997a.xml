@@ -1,21 +1,21 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List>Ward, C.V.</List>
+			<List>Ward, C. V.</List>
 		</Author>
 		<Year>1997</Year>
 		<Title>Functional anatomy and phyletic implications of the hominoid trunk and hindlimb</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
+		<Journal/>
+		<Volume/>
 		<Pages>101-130</Pages>
 		<Booktitle>Function, Phylogeny, and Fossils: Miocene Hominoid Evolution and Adaptations</Booktitle>
 		<Publisher>Springer Science</Publisher>
 		<City>New York</City>
 		<Editor>
-			<List>Begun, D.R.<List>
-			<List>Ward, C.V.<List>
-			<List>Rose, M.D.<List>
+			<List>Begun, D. R.<List>
+			<List>Ward, C. V.<List>
+			<List>Rose, M. D.<List>
 			</Editor>
 	</Source>
 	<Taxa number="16">

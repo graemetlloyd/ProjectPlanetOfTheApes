@@ -1,8 +1,10 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List>Rossie, J. B., Gilbert, G. C. and Hill, A., USA, ,</List>
+	<List>Rossie, J. B.</List>
+	<List>Gilbert, G. C.</List>
+	<List>Hill, A.</List>
 		</Author>
 		<Year>2013</Year>
 		<Title>Early cercopithecid monkeys from the Tugen Hills, Kenya</Title>

@@ -1,14 +1,25 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List>Springer, M. S.</List>
+			<List>Meredith, R. W.</List>
+			<List>Gatesy, J.</List>
+			<List>Emerling, C. A.</List>
+			<List>Park, J.</List>
+			<List>Rabosky, D. J.</List>
+			<List>Stadler, T.</List>
+			<List>Steiner, C.</List>
+			<List>Ryder, O. A.</List>
+			<List>Janečka, J. E.</List>
+			<List>Fisher, C. A.</List>
+			<List>Murphy, W. J.</List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2012</Year>
+		<Title>Macroevolutionary Dynamics and Historical Biogeography of Primate Diversification Inferred from a Species Supermatrix</Title>
+		<Journal>PLoS ONE</Journal>
+		<Volume>7</Volume>
+		<Pages>e49521</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -451,6 +462,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Springer_etal_2012a</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent/>
 	<Sibling/>
 </SourceTree>

@@ -1,14 +1,14 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List>Seiffert, E.R.</List>
-			<List>Simons, E.L.</List>
-			<List>Ryan, T.M.</List>
-			<List>Attia, Y.</List>	
+			<List>Seiffert, E. R.</List>
+			<List>Simons, E. L.</List>
+			<List>Ryan, T. M.</List>
+			<List>Attia, Y.</List>
 		</Author>
 		<Year>2005</Year>
-		<Title>Additional remains of Wadilemur elegans, a primitive stem galagid from the late Eocene of Egypt</Title>
+		<Title>Additional remains of <em>Wadilemur elegans</em>, a primitive stem galagid from the late Eocene of Egypt</Title>
 		<Journal>Proceedings of the National Academy of Sciences USA</Journal>
 		<Volume>102</Volume>
 		<Pages>11396–11401</Pages>

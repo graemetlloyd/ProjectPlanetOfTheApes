@@ -1,4 +1,4 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
@@ -7,7 +7,7 @@
 			<List>Alba, D.</List>
 		</Author>
 		<Year>2001</Year>
-		<Title>Egarapithecus narcisoi, a new genus of Pliopithecidae (primates, catarrhini) from the Late Miocene of Spain</Title>
+		<Title><em>Egarapithecus narcisoi</em>, a new genus of Pliopithecidae (Primates, Catarrhini) from the Late Miocene of Spain</Title>
 		<Journal>American Journal of Physical Anthropology</Journal>
 		<Volume>114</Volume>
 		<Pages>312–324</Pages>

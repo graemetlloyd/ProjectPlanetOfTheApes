@@ -1,4 +1,4 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
@@ -14,7 +14,7 @@
 			<List>Vianey-Liaud, M.</List>
 		</Author>
 		<Year>2013</Year>
-		<Title>Djebelemur, a tiny pre-tooth-combed primate from the Eocene of Tunisia: a glimpse into the origin of crown strepsirhines</Title>
+		<Title><em>Djebelemur</em>, a tiny pre-tooth-combed primate from the Eocene of Tunisia: a glimpse into the origin of crown strepsirhines</Title>
 		<Journal>PLOS ONE</Journal>
 		<Volume>8</Volume>
 		<Pages>e80778</Pages>

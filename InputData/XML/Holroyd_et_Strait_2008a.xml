@@ -1,21 +1,21 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List>Holroyd, P.A.</List>
-			<List>Strait, S.G.</List>
+			<List>Holroyd, P. A.</List>
+			<List>Strait, S. G.</List>
 		</Author>
 		<Year>2008</Year>
-		<Title>New data on Loveina (Primates: Omomyidae) from the early Eocene Wasatch Formation and implications for washakiin relationships</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
+		<Title>New data on <em>Loveina</em> (Primates: Omomyidae) from the early Eocene Wasatch Formation and implications for washakiin relationships</Title>
+		<Journal/>
+		<Volume/>
 		<Pages>243-257</Pages>
 		<Booktitle>Elwyn Simons: A Search for Origins</Booktitle>
 		<Publisher>Springer Science+Business Media</Publisher>
 		<City>New York</City>
 		<Editor>
-			<List>Fleagle, J.G.</List>
-			<List>Gilbert, C.C.</List>
+			<List>Fleagle, J. G.</List>
+			<List>Gilbert, C. C.</List>
 		</Editor>
 	</Source>
 	<Taxa number="55">

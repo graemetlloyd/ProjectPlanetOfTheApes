@@ -1,19 +1,19 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List>Silcox, M.T.</List>
+			<List>Silcox, M. T.</List>
 		</Author>
 		<Year>2008</Year>
 		<Title>The biogeographic origins of primates and euprimates: East, West, North, or South of Eden?</Title>
-		<Journal></Journal>
-		<Volume>VOl_Num</Volume>
+		<Journal/>
+		<Volume/>
 		<Pages>199-231</Pages>
 		<Booktitle>Mammalian Evolutionary Morphology</Booktitle>
 		<Publisher>Springer</Publisher>
 		<City>Netherlands, Dordrecht</City>
 		<Editor>
-				<List>Sargis, E.J.</List>
+				<List>Sargis, E. J.</List>
 				<List>Dagosto, M.</List>
 		</Editor>
 	</Source>

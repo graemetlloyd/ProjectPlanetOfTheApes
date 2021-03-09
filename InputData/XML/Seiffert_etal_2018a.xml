@@ -1,14 +1,14 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List>Seiffert, E.R.</List>
-			<List>Boyer, D.M.</List>
-			<List>Fleagle, J.G.</List>
-			<List>Gunnell, G.F.</List>
-			<List>Heesy, C.P.</List>
-			<List>Perry, J.M.G.</List>
-			<List>Sallam, H.M.</List>
+			<List>Seiffert, E. R.</List>
+			<List>Boyer, D. M.</List>
+			<List>Fleagle, J. G.</List>
+			<List>Gunnell, G. F.</List>
+			<List>Heesy, C. P.</List>
+			<List>Perry, J. M. G.</List>
+			<List>Sallam, H. M.</List>
 		</Author>
 		<Year>2018</Year>
 		<Title>New adapiform primate fossils from the late Eocene of Egypt</Title>
@@ -157,6 +157,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Seiffert_etal_2018a</Filename>
-	<Parent></Parent>
+	<Parent/>
 	<Sibling/>
 </SourceTree>

@@ -1,15 +1,15 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List>Beard, K.C.</List>
+			<List>Beard, K. C.</List>
 			<List>Ni, X.</List>
 			<List>Wang, Y.</List>
 			<List>Meng, J.</List>
-			<List>Gebo, D.L.</List>
+			<List>Gebo, D. L.</List>
 		</Author>
 		<Year>2016</Year>
-		<Title>Dentition of Subengius mengi (Mammalia: Plesiadapoidea) and a reassessment of the phylogenetic relationships of Asian Carpolestidae</Title>
+    <Title>Dentition of <em>Subengius mengi</em> (Mammalia: Plesiadapoidea) and a reassessment of the phylogenetic relationships of Asian Carpolestidae</Title>
 		<Journal>Vertebrata Palasiatica</Journal>
 		<Volume>54</Volume>
 		<Pages>181−211</Pages>

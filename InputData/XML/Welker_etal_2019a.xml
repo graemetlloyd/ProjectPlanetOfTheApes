@@ -1,31 +1,31 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List>Welker, F.</List> 
+			<List>Welker, F.</List>
 			<List>Ramos-Madrigal, J.</List>
 			<List>Kuhlwilm, M.</List>
-			<List>Liao, W.</List> 
+			<List>Liao, W.</List>
 			<List>Gutenbrunner, P.</List>
-			<List>Manuel, M.</List> 
+			<List>Manuel, M.</List>
 			<List>Samodova, D.</List>
 			<List>Mackie, M.</List>
-			<List>Allentoft, M.E.</List>
-			<List>Bacon, A.</List> 
-			<List>Collins, M.J.</List>
+			<List>Allentoft, M. E.</List>
+			<List>Bacon, A.</List>
+			<List>Collins, M. J.</List>
 			<List>Cox, J.</List>
-			<List>Lalueza-Fox, C.</List> 
-			<List>Olsen, J.V.</List> 
-			<List>Demeter, F.</List> 
-			<List>Wang, W.</List> 
+			<List>Lalueza-Fox, C.</List>
+			<List>Olsen, J. V.</List>
+			<List>Demeter, F.</List>
+			<List>Wang, W.</List>
 			<List>Marques-Bonet, T.</List>
 			<List>Cappellini, E.</List>
 		</Author>
 		<Year>2019</Year>
-		<Title>Enamel proteome shows that Gigantopithecus was an early diverging pongine</Title>
+		<Title>Enamel proteome shows that <em>Gigantopithecus</em> was an early diverging pongine</Title>
 		<Journal>Nature</Journal>
-		<Volume></Volume>
-		<Pages></Pages>
+		<Volume>576</Volume>
+		<Pages>262–265</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>

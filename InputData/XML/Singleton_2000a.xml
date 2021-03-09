@@ -1,11 +1,11 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
 			<List>Singleton, M.</List>
 		</Author>
 		<Year>2000</Year>
-		<Title>The phylogenetic affinities of Otavipithecus namibiensis</Title>
+		<Title>The phylogenetic affinities of <em>Otavipithecus namibiensis</em></Title>
 		<Journal>Journal of Human Evolution</Journal>
 		<Volume>38</Volume>
 		<Pages>537–573</Pages>

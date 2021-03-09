@@ -1,15 +1,15 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List>Gilbert, C.C.</List>
-			<List>Stanley, W.T.</List>
-			<List>Olson, L.E.</List>
-			<List>Davenport, T.R.B.</List>
-			<List>Sargis, E.J.</List>	
+			<List>Gilbert, C. C.</List>
+			<List>Stanley, W. T.</List>
+			<List>Olson, L. E.</List>
+			<List>Davenport, T. R. B.</List>
+			<List>Sargis, E. J.</List>
 		</Author>
 		<Year>2011</Year>
-		<Title>Morphological systematics of the kipunji (Rungwecebus kipunji)and the ontogenetic development of phylogenetically informativecharacters in the Papionini</Title>
+		<Title>Morphological systematics of the kipunji (<em>Rungwecebus kipunji</em>) and the ontogenetic development of phylogenetically informative characters in the Papionini</Title>
 		<Journal>Journal of Human Evolution</Journal>
 		<Volume>60</Volume>
 		<Pages>731-745</Pages>

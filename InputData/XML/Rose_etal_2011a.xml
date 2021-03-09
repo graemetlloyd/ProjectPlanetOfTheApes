@@ -1,15 +1,15 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List>Rose, K.D.</List>
-			<List>Chester, S.G.B.</List>
-			<List>Dunn, R.H.</List>
-			<List>Boyer, D.M.</List>
-			<List>Bloch, J.I.</List>
+			<List>Rose, K. D.</List>
+			<List>Chester, S. G. B.</List>
+			<List>Dunn, R. H.</List>
+			<List>Boyer, D. M.</List>
+			<List>Bloch, J. I.</List>
 		</Author>
 		<Year>2011</Year>
-		<Title>New fossils of the oldest North American euprimate Teilhardina brandti (Omomyidae) from the Paleocene-Eocene Thermal Maximum</Title>
+		<Title>New fossils of the oldest North American euprimate <em>Teilhardina brandti</em> (Omomyidae) from the Paleocene-Eocene Thermal Maximum</Title>
 		<Journal>American Journal of Physical Anthropology</Journal>
 		<Volume>146</Volume>
 		<Pages>281-305</Pages>

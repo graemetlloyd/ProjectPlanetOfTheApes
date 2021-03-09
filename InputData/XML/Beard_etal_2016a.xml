@@ -1,15 +1,15 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List>Beard, K.C.</List>
-			<List>Coster, P.M.C.</List>
-			<List>Salem, M.J.</List>
+			<List>Beard, K. C.</List>
+			<List>Coster, P. M. C.</List>
+			<List>Salem, M. J.</List>
 			<List>Chaimanee, Y.</List>
-			<List>Jaeger, J.</List>
+			<List>Jaeger, J.-J.</List>
 		</Author>
 		<Year>2016</Year>
-		<Title>A new species of Apidium (Anthropoidea, Parapithecidae) from the Sirt Basin, central Libya: First record of Oligocene primates from Libya</Title>
+		<Title>A new species of <em>Apidium</em> (Anthropoidea, Parapithecidae) from the Sirt Basin, central Libya: First record of Oligocene primates from Libya</Title>
 		<Journal>Journal of Human Evolution</Journal>
 		<Volume>90</Volume>
 		<Pages>29-37</Pages>

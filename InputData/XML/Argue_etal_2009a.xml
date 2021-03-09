@@ -1,15 +1,15 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
 			<List>Argue, D.</List>
-			<List>Morwood, M.J.</List>
+			<List>Morwood, M. J.</List>
 			<List>Sutikna, T.</List>
 			<List>Jatmiko</List>
-			<List>Saptomo, E.W.</List>		
+			<List>Saptomo, E. W.</List>
 		</Author>
 		<Year>2009</Year>
-		<Title>Homo floresiensis: a cladistic analysis</Title>
+		<Title><em>Homo floresiensis</em>: a cladistic analysis</Title>
 		<Journal>Journal of Human Evolution</Journal>
 		<Volume>57</Volume>
 		<Pages>623-639</Pages>

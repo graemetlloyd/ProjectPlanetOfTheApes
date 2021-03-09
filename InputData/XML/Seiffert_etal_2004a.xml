@@ -1,24 +1,24 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List>Seiffert, E.R.</List>
-			<List>Simons, E.L.</List>
-			<List>Simons, C.V.M.</List>
+			<List>Seiffert, E. R.</List>
+			<List>Simons, E. L.</List>
+			<List>Simons, C. V. M.</List>
 		</Author>
 		<Year>2004</Year>
 		<Title>Phylogenetic, biogeographic, and adaptive implications of new fossil evidence bearing on crown anthropoid origins and early stem catarrhine evolution</Title>
-		<Journal></Journal>
-		<Volume></Volume>
+		<Journal/>
+		<Volume/>
 		<Pages>157-181</Pages>
 		<Booktitle>Anthropoid Origins: New Visions</Booktitle>
 		<Publisher>Kluwer Academic</Publisher>
 		<City>New York</City>
 		<Editor>
-			<List>Ross, C.F.</List>
-			<List>Kay, R.F.</List>
+			<List>Ross, C. F.</List>
+			<List>Kay, R. F.</List>
 		<Editor/>
-		
+
 	</Source>
 	<Taxa number="41">
 		<List recon_name="Tupaia" recon_no="40296">Tupaia_spp</List>

@@ -1,11 +1,11 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List>Eaglen, R.H.</List>
+			<List>Eaglen, R. H.</List>
 		</Author>
 		<Year>1983</Year>
-		<Title>Parallelism, Parsimony and the Phylogeny of the Lemuridae</Title>
+		<Title>Parallelism, parsimony, and the phylogeny of the Lemuridae</Title>
 		<Journal>International Journal of Primatology</Journal>
 		<Volume>4</Volume>
 		<Pages>249-273</Pages>
@@ -14,7 +14,7 @@
 		<City/>
 		<Editor/>
 	</Source>
-	<Taxa number="11">	
+	<Taxa number="11">
 		<List recon_name="Adapidae" recon_no="40749">Adapidae</List>
 		<List recon_name="Cheirogaleidae" recon_no="40781">Cheirogalidae</List>
 		<List recon_name="Indriidae" recon_no="40783">Indriidae</List>

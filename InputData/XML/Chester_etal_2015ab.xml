@@ -1,14 +1,14 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List>Chester, S.G.B.</List>
-			<List>Bloch, J.I.</List>
-			<List>Boyer, D.M.</List>
-			<List>Clemens, W.A.</List>	
+			<List>Chester, S. G. B.</List>
+			<List>Bloch, J. I.</List>
+			<List>Boyer, D. M.</List>
+			<List>Clemens, W. A.</List>
 		</Author>
 		<Year>2015</Year>
-		<Title>Oldest known euarchontan tarsals and affinities of Paleocene Purgatorius to Primates</Title>
+		<Title>Oldest known euarchontan tarsals and affinities of Paleocene <em>Purgatorius</em> to Primates</Title>
 		<Journal>Proceedings of the National Academy of Sciences</Journal>
 		<Volume>112</Volume>
 		<Pages>1487-1492</Pages>

@@ -1,21 +1,21 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List>Kay, R.F.</List>
-			<List>Williams, B.A.</List>
+			<List>Kay, R. F.</List>
+			<List>Williams, B. A.</List>
 		</Author>
 		<Year>1994</Year>
 		<Title>Dental evidence for anthropoid origins</Title>
-		<Journal></Journal>
-		<Volume></Volume>
+		<Journal/>
+		<Volume/>
 		<Pages>361-445</Pages>
 		<Booktitle>Anthropoid Origins</Booktitle>
 		<Publisher>Plenum Press</Publisher>
 		<City>New York</City>
 		<Editor>
-			<List>Fleagle, J.G.</List>
-			<List>Kay, R.F.</List>
+			<List>Fleagle, J. G.</List>
+			<List>Kay, R. F.</List>
 		<Editor/>
 	</Source>
 	<Taxa number="33">

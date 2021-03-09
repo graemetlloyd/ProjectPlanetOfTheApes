@@ -1,14 +1,14 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
 			<List>Argue, D.</List>
-			<List>Groves, C.P.</List>
-			<List>Lee, M.S.Y.</List>
-			<List>Jungers, W.L.</List>
+			<List>Groves, C. P.</List>
+			<List>Lee, M. S. Y.</List>
+			<List>Jungers, W. L.</List>
 		</Author>
 		<Year>2017</Year>
-		<Title>The affinities of Homo floresiensis based on phylogenetic analyses of cranial, dental, and postcranial characters</Title>
+		<Title>The affinities of <em>Homo floresiensis</em> based on phylogenetic analyses of cranial, dental, and postcranial characters</Title>
 		<Journal>Journal of Human Evolution</Journal>
 		<Volume>107</Volume>
 		<Pages>107-133</Pages>

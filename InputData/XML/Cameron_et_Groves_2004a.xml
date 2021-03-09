@@ -1,19 +1,22 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
-		<Author>
-			<List>Cameron, D.W.</List>
-			<List>Groves, C.P.</List>
-		</Author>
-		<Year>2004</Year>
-		<Title>A Systematic Scheme for the Pliocene and Early Pleistocene Hominids</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>288-298</Pages>
-		<Booktitle>Bones, Stones and Molecules : “Out of Africa” and Human Origins</Booktitle>
-		<Publisher/>
-		<City>Burlington, MA</City>
-		<Editor>Academic Press</Editor>
+    <Author>
+      <List>Cameron, D. W.</List>
+      <List>Groves, C. P.</List>
+    </Author>
+    <Year>2004</Year>
+    <Title>A systematic scheme for the Pliocene and early Pleistocene hominids</Title>
+    <Journal/>
+    <Volume/>
+    <Pages>105-155</Pages>
+    <Booktitle>Bones, stone and molecules: &quot;out of Africa&quot; and human origins</Booktitle>
+    <Publisher>Elsevier</Publisher>
+    <City>Amsterdam</City>
+    <Editor>
+      <List>Cameron, D. W.</List>
+      <List>Groves, C. P.</List>
+    </Editor>
 	</Source>
 	<Taxa number="20">
 		<List recon_name="Kenyapithecus" recon_no="100574">Kenyapithecus</List>

@@ -1,12 +1,12 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List>Rossie, J.B.</List>
-			<List>Hill, A.</List>			
+			<List>Rossie, J. B.</List>
+			<List>Hill, A.</List>
 		</Author>
 		<Year>2018</Year>
-		<Title>A new species of Simiolus from the middle Miocene of the Tugen Hills, Kenya</Title>
+		<Title>A new species of <em>Simiolus</em> from the middle Miocene of the Tugen Hills, Kenya</Title>
 		<Journal>Journal of Human Evolution</Journal>
 		<Volume>125</Volume>
 		<Pages>50-58</Pages>

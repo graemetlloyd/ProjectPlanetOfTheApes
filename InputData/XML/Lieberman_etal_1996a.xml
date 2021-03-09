@@ -1,13 +1,13 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List>Lieberman D.E.</List>
-			<List>Pilbeam D.R.</List>
-			<List>Wood B.A.</List>
+			<List>Lieberman D. E.</List>
+			<List>Pilbeam D. R.</List>
+			<List>Wood B. A.</List>
 		</Author>
 		<Year>1996</Year>
-		<Title>Homoplasy and early Homo: An analysis of the evolutionary relationships of H. habilis sensu stricto and H. rudolfensis</Title>
+		<Title>Homoplasy and early <em>Homo</em>: An analysis of the evolutionary relationships of <em>H. habilis</em> <em>sensu stricto</em> and <em>H. rudolfensis</em></Title>
 		<Journal>Journal of Human Evolution</Journal>
 		<Volume>30</Volume>
 		<Pages>97-120</Pages>

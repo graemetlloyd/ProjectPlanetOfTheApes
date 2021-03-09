@@ -1,10 +1,10 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List>Seiffert E.R.</List>
-			<List>Simons E.L.</List>
-			<List>Attia Y.</List>		
+			<List>Seiffert E. R.</List>
+			<List>Simons E. L.</List>
+			<List>Attia Y.</List>
 		</Author>
 		<Year>2003</Year>
 		<Title>Fossil evidence for an ancient divergence of lorises and galagos</Title>
@@ -69,6 +69,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Seiffert_etal_2003a</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent/>
 	<Sibling/>
 </SourceTree>

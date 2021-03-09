@@ -1,13 +1,13 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List>Groves, C.P.</List>
+			<List>Groves, C. P.</List>
 		</Author>
 		<Year>2000</Year>
-		<Title>The Phylogeny of Cercopithecoidea</Title>
-		<Journal></Journal>
-		<Volume></Volume>
+		<Title>The phylogeny of the Cercopithecoidea</Title>
+		<Journal/>
+		<Volume/>
 		<Pages>77-98</Pages>
 		<Booktitle>Old World Monkeys</Booktitle>
 		<Publisher>Cambridge University Press</Publisher>
@@ -27,7 +27,7 @@
 		<List recon_name="Cercocebus" recon_no="40861">Cercocebus</List>
 		<List recon_name="Lophocebus" recon_no="240333">Lophocebus</List>
 		<List recon_name="Allenopithecus_nigroviridis" recon_no="385063">Allenopithecus</List>
-		<List recon_name="Miopithecus_talapoin" recon_no="385144">Miopithecus</List>		
+		<List recon_name="Miopithecus_talapoin" recon_no="385144">Miopithecus</List>
 		<List recon_name="Cercopithecus" recon_no="40862">Cercopithecus</List>
 		<List recon_name="Procynocephalus" recon_no="40876">Procynocephalus</List>
 		<List recon_name="Paradolichopithecus" recon_no="40873">Paradolichopithecus</List>
