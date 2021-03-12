@@ -3,9 +3,8 @@ library(ape);
 library(geiger)
 library(paleotree)
 #<<<<<<< HEAD
-source("~/Dropbox/Mammal_Supertree/ProjectBlackFish/TimeTreeInference/BuildBeastXML.R")
+source("ProjectPlanetOfTheApes/BuildBeastXML.R")
 
-setwd("~/Dropbox/workingScripts/")
 
 ### read in constraint tree (MRP consensus, MRL tree etc )
 ### then read in stratigraphic data in csv format

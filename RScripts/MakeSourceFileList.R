@@ -1,7 +1,7 @@
 # SCRIPT TO GENERATE WORD FILE OF SOURCE REFERENCES
 
 # Read in list of source files:
-SourceFiles <- gsub(".xml", "", list.files(path = "~/Dropbox/Mammal_Supertree/ProjectPlanetOfTheApes/InputData/XML"))
+SourceFiles <- gsub(".xml", "", list.files(path = "ProjectPlanetOfTheApes/InputData/XML"))
 
 # Read in primates HTML:
 PrimatesHTML <- c(readLines("http://www.graemetlloyd.com/matrprim.html"), "<p class=\"hangingindent\">Silcox, M. T., Bloch, J. I., Boyer, D. M. and Houde, P., 2010.", "Cranial anatomy of Paleocene and Eocene <em>Labidolemur kayi</em> (Mammalia: Apatotheria), and the relationships of the Apatemyidae to other mammals.", "<em>Zoological Journal of the Linnean Society</em>, <b>160</b>, 773-825.<br><font size=\"-1\">", "<a href=\"nexus/Silcox_etal_2010a.nex\" target=\"_blank\">NEXUS</a> | <a href=\"tnt/Silcox_etal_2010a.tnt\" target=\"_blank\">TNT</a> | <a href=\"mpts/Silcox_etal_2010a.tre\" target=\"_blank\">MPT(s)</a> <a href=\"firstmpt/Silcox_etal_2010a.tre\" target=\"_blank\">(1)</a> | <a href=\"sc/Silcox_etal_2010a.tre\" target=\"_blank\">SC</a> <a href=\"schtml/Silcox_etal_2010a.html\" target=\"_blank\">(HTML)</a> | <a href=\"mrp/Silcox_etal_2010amrp.nex\" target=\"_blank\">MRP</a> | <a href=\"xml/Silcox_etal_2010a.xml\" target=\"_blank\">XML</a></font></p>")

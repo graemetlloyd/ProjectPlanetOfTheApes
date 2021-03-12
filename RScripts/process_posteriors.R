@@ -1,6 +1,6 @@
 ### Primate Bayes processing ##
 
-setwd("~/Dropbox/workingScripts/primate_beast/")
+setwd("ProjectPlanetOfTheApes/timetree/BeastOutput")
 log_1 <- read.table("Primate_BEAST-1602558368884.log", header = T, stringsAsFactors = F)
 log_2 <- read.table("Primate_BEAST-1602988762555.log", header = T, stringsAsFactors = F)
 log_3 <- read.table("Primate_BEAST-1602988693513.log", header = T, stringsAsFactors = F)
