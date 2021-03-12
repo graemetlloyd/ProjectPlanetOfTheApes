@@ -1,0 +1,1211 @@
+Optimizing (simplex) -ln likelihood.
+dis: 0.00138977 ext: 1.23286e-05
+final -ln likelihood: 53.2014
+Ancestral states for:	1
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	2
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	3
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	4
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	5
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	6
+	Eurasia	0.999998	(53.2014)
+
+Ancestral states for:	7
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	8
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	9
+	Eurasia	0.999998	(53.2014)
+
+Ancestral states for:	10
+	Eurasia	0.999994	(53.2014)
+
+Ancestral states for:	11
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	12
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	13
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	14
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	15
+	Eurasia	0.999999	(53.2014)
+
+Ancestral states for:	16
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	17
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	18
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	19
+	Eurasia	0.999999	(53.2014)
+
+Ancestral states for:	20
+	Eurasia	0.999993	(53.2014)
+
+Ancestral states for:	21
+	Eurasia	0.999935	(53.2015)
+
+Ancestral states for:	22
+	Eurasia_Africa	0.999863	(53.2015)
+
+Ancestral states for:	23
+	Africa	1	(53.2014)
+
+Ancestral states for:	24
+	Africa	1	(53.2014)
+
+Ancestral states for:	25
+	Africa	1	(53.2014)
+
+Ancestral states for:	26
+	Africa	1	(53.2014)
+
+Ancestral states for:	27
+	Africa	0.947746	(53.2551)
+
+Ancestral states for:	28
+	Africa	0.955528	(53.2469)
+
+Ancestral states for:	29
+	Africa	1	(53.2014)
+
+Ancestral states for:	30
+	Africa	0.996757	(53.2046)
+
+Ancestral states for:	31
+	Africa	0.99805	(53.2034)
+
+Ancestral states for:	32
+	Africa	1	(53.2014)
+
+Ancestral states for:	33
+	Africa	1	(53.2014)
+
+Ancestral states for:	34
+	Africa	1	(53.2014)
+
+Ancestral states for:	35
+	Africa	1	(53.2014)
+
+Ancestral states for:	36
+	Africa	1	(53.2014)
+
+Ancestral states for:	37
+	Africa	1	(53.2014)
+
+Ancestral states for:	38
+	Africa	0.99982	(53.2016)
+
+Ancestral states for:	39
+	Eurasia_Africa	0.501393	(53.8918)
+	Africa	0.498607	(53.8973)
+
+Ancestral states for:	40
+	Africa	1	(53.2014)
+
+Ancestral states for:	41
+	Africa	1	(53.2014)
+
+Ancestral states for:	42
+	Africa	1	(53.2014)
+
+Ancestral states for:	43
+	Africa	1	(53.2014)
+
+Ancestral states for:	44
+	Africa	1	(53.2014)
+
+Ancestral states for:	45
+	Africa	1	(53.2014)
+
+Ancestral states for:	46
+	Africa	1	(53.2014)
+
+Ancestral states for:	47
+	Africa	1	(53.2014)
+
+Ancestral states for:	48
+	Africa	1	(53.2014)
+
+Ancestral states for:	49
+	Africa	1	(53.2014)
+
+Ancestral states for:	50
+	Africa	1	(53.2014)
+
+Ancestral states for:	51
+	Africa	1	(53.2014)
+
+Ancestral states for:	52
+	Africa	1	(53.2014)
+
+Ancestral states for:	53
+	Africa	1	(53.2014)
+
+Ancestral states for:	54
+	Africa	1	(53.2014)
+
+Ancestral states for:	55
+	Africa	1	(53.2014)
+
+Ancestral states for:	56
+	Africa	1	(53.2014)
+
+Ancestral states for:	57
+	Africa	1	(53.2014)
+
+Ancestral states for:	58
+	Africa	1	(53.2014)
+
+Ancestral states for:	59
+	Africa	1	(53.2014)
+
+Ancestral states for:	60
+	Africa	1	(53.2014)
+
+Ancestral states for:	61
+	Africa	1	(53.2014)
+
+Ancestral states for:	62
+	Africa	1	(53.2014)
+
+Ancestral states for:	63
+	Africa	1	(53.2014)
+
+Ancestral states for:	64
+	Africa	1	(53.2014)
+
+Ancestral states for:	65
+	Africa	1	(53.2014)
+
+Ancestral states for:	66
+	Africa	1	(53.2014)
+
+Ancestral states for:	67
+	Africa	1	(53.2014)
+
+Ancestral states for:	68
+	Africa	1	(53.2014)
+
+Ancestral states for:	69
+	Africa	1	(53.2014)
+
+Ancestral states for:	70
+	Africa	1	(53.2014)
+
+Ancestral states for:	71
+	Africa	0.648057	(53.6352)
+	Eurasia_Africa	0.351942	(54.2457)
+
+Ancestral states for:	72
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	73
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	74
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	75
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	76
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	77
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	78
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	79
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	80
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	81
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	82
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	83
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	84
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	85
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	86
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	87
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	88
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	89
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	90
+	Eurasia	0.999999	(53.2014)
+
+Ancestral states for:	91
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	92
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	93
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	94
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	95
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	96
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	97
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	98
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	99
+	Eurasia	0.999999	(53.2014)
+
+Ancestral states for:	100
+	Eurasia	0.999997	(53.2014)
+
+Ancestral states for:	101
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	102
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	103
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	104
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	105
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	106
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	107
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	108
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	109
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	110
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	111
+	Eurasia	0.999995	(53.2014)
+
+Ancestral states for:	112
+	Eurasia	0.999984	(53.2014)
+
+Ancestral states for:	113
+	Africa	1	(53.2014)
+
+Ancestral states for:	114
+	Africa	1	(53.2014)
+
+Ancestral states for:	115
+	Africa	1	(53.2014)
+
+Ancestral states for:	116
+	Africa	1	(53.2014)
+
+Ancestral states for:	117
+	Africa	1	(53.2014)
+
+Ancestral states for:	118
+	Africa	1	(53.2014)
+
+Ancestral states for:	119
+	Africa	1	(53.2014)
+
+Ancestral states for:	120
+	Africa	0.999999	(53.2014)
+
+Ancestral states for:	121
+	Africa	0.999993	(53.2014)
+
+Ancestral states for:	122
+	Africa	1	(53.2014)
+
+Ancestral states for:	123
+	Africa	1	(53.2014)
+
+Ancestral states for:	124
+	Africa	0.999999	(53.2014)
+
+Ancestral states for:	125
+	Africa	0.999997	(53.2014)
+
+Ancestral states for:	126
+	Africa	0.99996	(53.2014)
+
+Ancestral states for:	127
+	Eurasia_Africa	0.999937	(53.2015)
+
+Ancestral states for:	128
+	Eurasia_Africa	0.894901	(53.3124)
+
+Ancestral states for:	129
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	130
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	131
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	132
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	133
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	134
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	135
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	136
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	137
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	138
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	139
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	140
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	141
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	142
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	143
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	144
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	145
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	146
+	Eurasia	0.999998	(53.2014)
+
+Ancestral states for:	147
+	Africa	0.999999	(53.2014)
+
+Ancestral states for:	148
+	Eurasia_Africa	0.932975	(53.2708)
+
+Ancestral states for:	149
+	Africa	1	(53.2014)
+
+Ancestral states for:	150
+	Eurasia_Africa	0.93209	(53.2717)
+
+Ancestral states for:	151
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	152
+	Eurasia	0.999999	(53.2014)
+
+Ancestral states for:	153
+	Eurasia	0.783249	(53.4457)
+	Eurasia_Africa	0.21675	(54.7304)
+
+Ancestral states for:	154
+	Eurasia	0.894778	(53.3126)
+
+Ancestral states for:	155
+	Eurasia	0.814507	(53.4066)
+	Eurasia_Africa	0.183039	(54.8995)
+
+Ancestral states for:	156
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	157
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	158
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	159
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	160
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	161
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	162
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	163
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	164
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	165
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	166
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	167
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	168
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	169
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	170
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	171
+	Neotropics	0.999999	(53.2014)
+
+Ancestral states for:	172
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	173
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	174
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	175
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	176
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	177
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	178
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	179
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	180
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	181
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	182
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	183
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	184
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	185
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	186
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	187
+	Neotropics	0.999999	(53.2014)
+
+Ancestral states for:	188
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	189
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	190
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	191
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	192
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	193
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	194
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	195
+	Neotropics	0.999998	(53.2014)
+
+Ancestral states for:	196
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	197
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	198
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	199
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	200
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	201
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	202
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	203
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	204
+	Neotropics	0.999999	(53.2014)
+
+Ancestral states for:	205
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	206
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	207
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	208
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	209
+	Neotropics	0.999997	(53.2014)
+
+Ancestral states for:	210
+	Neotropics	0.999994	(53.2014)
+
+Ancestral states for:	211
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	212
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	213
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	214
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	215
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	216
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	217
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	218
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	219
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	220
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	221
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	222
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	223
+	Neotropics	0.999998	(53.2014)
+
+Ancestral states for:	224
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	225
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	226
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	227
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	228
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	229
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	230
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	231
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	232
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	233
+	Neotropics	0.999988	(53.2014)
+
+Ancestral states for:	234
+	Neotropics	0.999969	(53.2014)
+
+Ancestral states for:	235
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	236
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	237
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	238
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	239
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	240
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	241
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	242
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	243
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	244
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	245
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	246
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	247
+	Neotropics	0.999998	(53.2014)
+
+Ancestral states for:	248
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	249
+	Neotropics	0.999997	(53.2014)
+
+Ancestral states for:	250
+	Neotropics	0.99999	(53.2014)
+
+Ancestral states for:	251
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	252
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	253
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	254
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	255
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	256
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	257
+	Neotropics	0.999999	(53.2014)
+
+Ancestral states for:	258
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	259
+	Neotropics	1	(53.2014)
+
+Ancestral states for:	260
+	Neotropics	0.999992	(53.2014)
+
+Ancestral states for:	261
+	Neotropics	0.99995	(53.2014)
+
+Ancestral states for:	262
+	Neotropics	0.999844	(53.2016)
+
+Ancestral states for:	263
+	Neotropics_Eurasia	0.991728	(53.2097)
+
+Ancestral states for:	264
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	265
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	266
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	267
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	268
+	Eurasia	0.999999	(53.2014)
+
+Ancestral states for:	269
+	Eurasia	0.99999	(53.2014)
+
+Ancestral states for:	270
+	Eurasia	0.999972	(53.2014)
+
+Ancestral states for:	271
+	Eurasia	0.86948	(53.3413)
+	Neotropics_Eurasia	0.123943	(55.2893)
+
+Ancestral states for:	272
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	273
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	274
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	275
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	276
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	277
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	278
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	279
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	280
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	281
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	282
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	283
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	284
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	285
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	286
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	287
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	288
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	289
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	290
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	291
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	292
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	293
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	294
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	295
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	296
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	297
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	298
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	299
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	300
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	301
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	302
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	303
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	304
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	305
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	306
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	307
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	308
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	309
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	310
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	311
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	312
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	313
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	314
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	315
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	316
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	317
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	318
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	319
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	320
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	321
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	322
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	323
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	324
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	325
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	326
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	327
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	328
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	329
+	Madagascar	0.999999	(53.2014)
+
+Ancestral states for:	330
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	331
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	332
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	333
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	334
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	335
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	336
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	337
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	338
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	339
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	340
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	341
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	342
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	343
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	344
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	345
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	346
+	Madagascar	0.999999	(53.2014)
+
+Ancestral states for:	347
+	Madagascar	0.999997	(53.2014)
+
+Ancestral states for:	348
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	349
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	350
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	351
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	352
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	353
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	354
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	355
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	356
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	357
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	358
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	359
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	360
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	361
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	362
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	363
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	364
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	365
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	366
+	Madagascar	1	(53.2014)
+
+Ancestral states for:	367
+	Madagascar	0.999995	(53.2014)
+
+Ancestral states for:	368
+	Madagascar	0.999977	(53.2014)
+
+Ancestral states for:	369
+	Madagascar	0.999612	(53.2018)
+
+Ancestral states for:	370
+	Africa	1	(53.2014)
+
+Ancestral states for:	371
+	Africa	1	(53.2014)
+
+Ancestral states for:	372
+	Africa	1	(53.2014)
+
+Ancestral states for:	373
+	Africa	1	(53.2014)
+
+Ancestral states for:	374
+	Africa	1	(53.2014)
+
+Ancestral states for:	375
+	Africa	1	(53.2014)
+
+Ancestral states for:	376
+	Africa	1	(53.2014)
+
+Ancestral states for:	377
+	Africa	1	(53.2014)
+
+Ancestral states for:	378
+	Africa	1	(53.2014)
+
+Ancestral states for:	379
+	Africa	1	(53.2014)
+
+Ancestral states for:	380
+	Africa	1	(53.2014)
+
+Ancestral states for:	381
+	Africa	1	(53.2014)
+
+Ancestral states for:	382
+	Africa	1	(53.2014)
+
+Ancestral states for:	383
+	Africa	1	(53.2014)
+
+Ancestral states for:	384
+	Africa	0.999999	(53.2014)
+
+Ancestral states for:	385
+	Africa	0.999998	(53.2014)
+
+Ancestral states for:	386
+	Africa	0.999995	(53.2014)
+
+Ancestral states for:	387
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	388
+	Eurasia	1	(53.2014)
+
+Ancestral states for:	389
+	Eurasia	0.999999	(53.2014)
+
+Ancestral states for:	390
+	Eurasia	0.999988	(53.2014)
+
+Ancestral states for:	391
+	Eurasia	0.999997	(53.2014)
+
+Ancestral states for:	392
+	Eurasia	0.999845	(53.2016)
+
+Ancestral states for:	393
+	Africa	1	(53.2014)
+
+Ancestral states for:	394
+	Africa	0.999998	(53.2014)
+
+Ancestral states for:	395
+	Africa	0.999998	(53.2014)
+
+Ancestral states for:	396
+	Africa	0.999961	(53.2014)
+
+Ancestral states for:	397
+	Eurasia_Africa	0.999797	(53.2016)
+
+Ancestral states for:	398
+	Eurasia_Africa	0.788735	(53.4387)
+	Africa	0.211174	(54.7565)
+
+Ancestral states for:	399
+	Eurasia_Madagascar	0.759077	(53.4771)
+	Africa_Madagascar	0.240544	(54.6263)
+
+Ancestral states for:	400
+	Eurasia_Madagascar	0.685084	(53.5796)
+	Eurasia_Africa	0.121399	(55.3101)
+	Neotropics_Eurasia	0.103965	(55.4651)

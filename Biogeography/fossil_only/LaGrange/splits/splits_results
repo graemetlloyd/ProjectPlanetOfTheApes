@@ -1,0 +1,1423 @@
+Optimizing (simplex) -ln likelihood.
+dis: 0.00185257 ext: 0.000429527
+final -ln likelihood: 355.458
+Ancestral splits for:	1
+	Eurasia|Eurasia	0.610615	(355.951)
+	Eurasia_Africa|Eurasia	0.389191	(356.402)
+
+Ancestral splits for:	2
+	Eurasia|Eurasia	0.690367	(355.829)
+	Eurasia_Africa|Eurasia	0.309512	(356.631)
+
+Ancestral splits for:	3
+	Eurasia|Eurasia	0.780616	(355.706)
+	Eurasia_Africa|Eurasia	0.218803	(356.978)
+
+Ancestral splits for:	4
+	Eurasia|Africa	0.998794	(355.459)
+
+Ancestral splits for:	5
+	Eurasia_Africa|Eurasia	0.937346	(355.523)
+
+Ancestral splits for:	6
+	Eurasia|Eurasia_Africa	0.759167	(355.734)
+	Africa|Africa	0.149628	(357.358)
+
+Ancestral splits for:	7
+	Eurasia_Africa|Africa	0.601674	(355.966)
+	Africa|Africa	0.370357	(356.451)
+
+Ancestral splits for:	8
+	Africa|Africa	0.999997	(355.458)
+
+Ancestral splits for:	9
+	Africa|Africa	0.922081	(355.539)
+
+Ancestral splits for:	10
+	Africa|Africa	0.989468	(355.469)
+
+Ancestral splits for:	11
+	Africa|Africa	1	(355.458)
+
+Ancestral splits for:	12
+	Africa|Africa	0.999999	(355.458)
+
+Ancestral splits for:	13
+	Africa|Africa	0.999995	(355.458)
+
+Ancestral splits for:	14
+	Africa|Africa	0.992288	(355.466)
+
+Ancestral splits for:	15
+	Africa|Africa	0.999459	(355.459)
+
+Ancestral splits for:	16
+	Africa|Africa	0.999869	(355.458)
+
+Ancestral splits for:	17
+	Africa|Africa	0.999924	(355.458)
+
+Ancestral splits for:	18
+	Africa|Africa	0.999891	(355.458)
+
+Ancestral splits for:	19
+	Africa|Africa	0.999675	(355.458)
+
+Ancestral splits for:	20
+	Africa|Africa	0.998403	(355.46)
+
+Ancestral splits for:	21
+	Eurasia|Eurasia	0.999967	(355.458)
+
+Ancestral splits for:	22
+	Africa|Eurasia	0.991875	(355.466)
+
+Ancestral splits for:	23
+	Eurasia|Eurasia	0.999998	(355.458)
+
+Ancestral splits for:	24
+	Eurasia|Eurasia	0.999995	(355.458)
+
+Ancestral splits for:	25
+	Eurasia|Eurasia	0.999969	(355.458)
+
+Ancestral splits for:	26
+	Eurasia_Africa|Eurasia	0.823175	(355.653)
+	Eurasia|Eurasia	0.172386	(357.216)
+
+Ancestral splits for:	27
+	Eurasia|Eurasia	0.999985	(355.458)
+
+Ancestral splits for:	28
+	Eurasia|Eurasia	0.999991	(355.458)
+
+Ancestral splits for:	29
+	Eurasia|Eurasia	0.999987	(355.458)
+
+Ancestral splits for:	30
+	Eurasia|Eurasia	0.999995	(355.458)
+
+Ancestral splits for:	31
+	Eurasia|Eurasia	0.999975	(355.458)
+
+Ancestral splits for:	32
+	Eurasia|Eurasia	0.999959	(355.458)
+
+Ancestral splits for:	33
+	Eurasia|Africa	0.998608	(355.459)
+
+Ancestral splits for:	34
+	Eurasia|Eurasia	0.777682	(355.709)
+	Eurasia|Eurasia_Africa	0.217115	(356.985)
+
+Ancestral splits for:	35
+	Eurasia_Africa|Eurasia	0.772286	(355.716)
+	Eurasia|Eurasia_Africa	0.179087	(357.178)
+
+Ancestral splits for:	36
+	Africa|Africa	0.999999	(355.458)
+
+Ancestral splits for:	37
+	Africa|Africa	0.999872	(355.458)
+
+Ancestral splits for:	38
+	Africa|Africa	0.918058	(355.544)
+
+Ancestral splits for:	39
+	Africa|Africa	0.978546	(355.48)
+
+Ancestral splits for:	40
+	Africa|Africa	0.999999	(355.458)
+
+Ancestral splits for:	41
+	Africa|Africa	0.999987	(355.458)
+
+Ancestral splits for:	42
+	Africa|Africa	0.999976	(355.458)
+
+Ancestral splits for:	43
+	Africa|Africa	0.999882	(355.458)
+
+Ancestral splits for:	44
+	Africa|Africa	0.998663	(355.459)
+
+Ancestral splits for:	45
+	Africa|Africa	0.999989	(355.458)
+
+Ancestral splits for:	46
+	Africa|Africa	0.999953	(355.458)
+
+Ancestral splits for:	47
+	Eurasia|Africa	0.524526	(356.103)
+	Africa|Africa	0.467785	(356.218)
+
+Ancestral splits for:	48
+	Africa|Africa	0.813221	(355.665)
+	Africa|Eurasia_Africa	0.186514	(357.137)
+
+Ancestral splits for:	49
+	Africa|Africa	0.994981	(355.463)
+
+Ancestral splits for:	50
+	Africa|Africa	0.99799	(355.46)
+
+Ancestral splits for:	51
+	Africa|Africa	0.998243	(355.46)
+
+Ancestral splits for:	52
+	Africa|Africa	0.999908	(355.458)
+
+Ancestral splits for:	53
+	Africa|Africa	0.999567	(355.458)
+
+Ancestral splits for:	54
+	Africa|Africa	0.999961	(355.458)
+
+Ancestral splits for:	55
+	Africa|Africa	0.999515	(355.459)
+
+Ancestral splits for:	56
+	Africa|Africa	0.998912	(355.459)
+
+Ancestral splits for:	57
+	Africa|Africa	0.999997	(355.458)
+
+Ancestral splits for:	58
+	Africa|Africa	0.999999	(355.458)
+
+Ancestral splits for:	59
+	Africa|Africa	0.999999	(355.458)
+
+Ancestral splits for:	60
+	Africa|Africa	0.999998	(355.458)
+
+Ancestral splits for:	61
+	Africa|Africa	1	(355.458)
+
+Ancestral splits for:	62
+	Africa|Africa	0.999999	(355.458)
+
+Ancestral splits for:	63
+	Africa|Africa	0.999998	(355.458)
+
+Ancestral splits for:	64
+	Africa|Africa	0.999996	(355.458)
+
+Ancestral splits for:	65
+	Africa|Africa	0.999998	(355.458)
+
+Ancestral splits for:	66
+	Africa|Africa	0.999997	(355.458)
+
+Ancestral splits for:	67
+	Africa|Africa	0.999997	(355.458)
+
+Ancestral splits for:	68
+	Africa|Africa	0.999995	(355.458)
+
+Ancestral splits for:	69
+	Africa|Africa	0.999988	(355.458)
+
+Ancestral splits for:	70
+	Africa|Africa	0.999981	(355.458)
+
+Ancestral splits for:	71
+	Africa|Africa	0.999998	(355.458)
+
+Ancestral splits for:	72
+	Africa|Africa	0.999991	(355.458)
+
+Ancestral splits for:	73
+	Africa|Africa	0.999988	(355.458)
+
+Ancestral splits for:	74
+	Africa|Africa	0.999972	(355.458)
+
+Ancestral splits for:	75
+	Africa|Eurasia	0.994261	(355.464)
+
+Ancestral splits for:	76
+	Eurasia|Eurasia	0.999968	(355.458)
+
+Ancestral splits for:	77
+	Eurasia_Africa|Eurasia	0.973543	(355.485)
+
+Ancestral splits for:	78
+	Africa|Africa	0.999945	(355.458)
+
+Ancestral splits for:	79
+	Africa|Africa	0.826811	(355.648)
+	Eurasia_Africa|Africa	0.161146	(357.283)
+
+Ancestral splits for:	80
+	Africa|Africa	0.949609	(355.51)
+
+Ancestral splits for:	81
+	Africa|Africa	0.961849	(355.497)
+
+Ancestral splits for:	82
+	Africa|Africa	0.99996	(355.458)
+
+Ancestral splits for:	83
+	Africa|Africa	0.998442	(355.46)
+
+Ancestral splits for:	84
+	Africa|Africa	0.999935	(355.458)
+
+Ancestral splits for:	85
+	Africa|Africa	0.999974	(355.458)
+
+Ancestral splits for:	86
+	Africa|Africa	0.99996	(355.458)
+
+Ancestral splits for:	87
+	Africa|Africa	0.999927	(355.458)
+
+Ancestral splits for:	88
+	Africa|Africa	0.99889	(355.459)
+
+Ancestral splits for:	89
+	Africa|Africa	0.999908	(355.458)
+
+Ancestral splits for:	90
+	Africa|Africa	0.999679	(355.458)
+
+Ancestral splits for:	91
+	Africa|Africa	0.998234	(355.46)
+
+Ancestral splits for:	92
+	Eurasia|Eurasia	0.999999	(355.458)
+
+Ancestral splits for:	93
+	Eurasia|Eurasia	0.999998	(355.458)
+
+Ancestral splits for:	94
+	Eurasia|Eurasia	0.999996	(355.458)
+
+Ancestral splits for:	95
+	Eurasia|Eurasia	0.999983	(355.458)
+
+Ancestral splits for:	96
+	Eurasia|Eurasia	0.999873	(355.458)
+
+Ancestral splits for:	97
+	Eurasia|Eurasia	0.999361	(355.459)
+
+Ancestral splits for:	98
+	Eurasia|Africa	0.963247	(355.495)
+
+Ancestral splits for:	99
+	Eurasia_Africa|Eurasia	0.623697	(355.93)
+	Eurasia|Eurasia	0.373816	(356.442)
+
+Ancestral splits for:	100
+	Eurasia_Africa|Eurasia	0.605674	(355.959)
+	Eurasia|Eurasia	0.393376	(356.391)
+
+Ancestral splits for:	101
+	Eurasia_Africa|Eurasia	0.58007	(356.003)
+	Eurasia|Eurasia	0.414184	(356.339)
+
+Ancestral splits for:	102
+	Africa|Eurasia_Africa	0.478915	(356.194)
+	Africa|Eurasia	0.419277	(356.327)
+	Africa|Africa	0.0998822	(357.762)
+
+Ancestral splits for:	103
+	Eurasia_Africa|Eurasia	0.866534	(355.601)
+
+Ancestral splits for:	104
+	Eurasia_Africa|Africa	0.631272	(355.918)
+	Africa|Africa	0.345179	(356.522)
+
+Ancestral splits for:	105
+	Africa|Africa	0.99998	(355.458)
+
+Ancestral splits for:	106
+	Africa|Africa	0.999856	(355.458)
+
+Ancestral splits for:	107
+	Eurasia_Africa|Africa	0.595397	(355.977)
+	Africa|Africa	0.403367	(356.366)
+
+Ancestral splits for:	108
+	Eurasia|Africa	0.998376	(355.46)
+
+Ancestral splits for:	109
+	Africa|Africa	0.882528	(355.583)
+
+Ancestral splits for:	110
+	Africa|Neotropics	0.914556	(355.547)
+
+Ancestral splits for:	111
+	Eurasia_Africa|Africa	0.380879	(356.423)
+	Africa|Africa	0.296965	(356.672)
+	Africa|Neotropics_Africa	0.179407	(357.176)
+
+Ancestral splits for:	112
+	Eurasia|Eurasia	0.999949	(355.458)
+
+Ancestral splits for:	113
+	Eurasia|Eurasia	0.999697	(355.458)
+
+Ancestral splits for:	114
+	Eurasia|Eurasia	0.998062	(355.46)
+
+Ancestral splits for:	115
+	Eurasia|Eurasia	0.974357	(355.484)
+
+Ancestral splits for:	116
+	Eurasia_Africa|Eurasia	0.34291	(356.528)
+	Africa|Africa	0.169677	(357.232)
+	Africa|Eurasia	0.101721	(357.744)
+	Eurasia|Eurasia	0.0934705	(357.828)
+	Neotropics_Africa|Africa	0.0845444	(357.929)
+	Neotropics_Africa|Neotropics	0.0845444	(357.929)
+	Neotropics_Eurasia|Eurasia	0.0725561	(358.081)
+
+Ancestral splits for:	117
+	Neotropics|Neotropics	0.999991	(355.458)
+
+Ancestral splits for:	118
+	Neotropics|Neotropics	0.999992	(355.458)
+
+Ancestral splits for:	119
+	Neotropics|Neotropics	0.99998	(355.458)
+
+Ancestral splits for:	120
+	Neotropics|Neotropics	0.99997	(355.458)
+
+Ancestral splits for:	121
+	Neotropics|Neotropics	0.999987	(355.458)
+
+Ancestral splits for:	122
+	Neotropics|Neotropics	0.999985	(355.458)
+
+Ancestral splits for:	123
+	Neotropics|Neotropics	0.99993	(355.458)
+
+Ancestral splits for:	124
+	Neotropics|Neotropics	0.999998	(355.458)
+
+Ancestral splits for:	125
+	Neotropics|Neotropics	0.999998	(355.458)
+
+Ancestral splits for:	126
+	Neotropics|Neotropics	0.999993	(355.458)
+
+Ancestral splits for:	127
+	Neotropics|Neotropics	0.999964	(355.458)
+
+Ancestral splits for:	128
+	Neotropics|Neotropics	0.999998	(355.458)
+
+Ancestral splits for:	129
+	Neotropics|Neotropics	0.999969	(355.458)
+
+Ancestral splits for:	130
+	Neotropics|Neotropics	0.999977	(355.458)
+
+Ancestral splits for:	131
+	Neotropics|Neotropics	0.999995	(355.458)
+
+Ancestral splits for:	132
+	Neotropics|Neotropics	0.999977	(355.458)
+
+Ancestral splits for:	133
+	Neotropics|Neotropics	0.999964	(355.458)
+
+Ancestral splits for:	134
+	Neotropics|Neotropics	0.999998	(355.458)
+
+Ancestral splits for:	135
+	Neotropics|Neotropics	0.999933	(355.458)
+
+Ancestral splits for:	136
+	Neotropics|Neotropics	0.999984	(355.458)
+
+Ancestral splits for:	137
+	Neotropics|Neotropics	0.999994	(355.458)
+
+Ancestral splits for:	138
+	Neotropics|Neotropics	0.999984	(355.458)
+
+Ancestral splits for:	139
+	Neotropics|Neotropics	0.999918	(355.458)
+
+Ancestral splits for:	140
+	Neotropics|Neotropics	0.999949	(355.458)
+
+Ancestral splits for:	141
+	Neotropics|Neotropics	0.999663	(355.458)
+
+Ancestral splits for:	142
+	Neotropics|Neotropics	0.997929	(355.46)
+
+Ancestral splits for:	143
+	Neotropics|Neotropics	0.983078	(355.475)
+
+Ancestral splits for:	144
+	Africa|Neotropics	0.58895	(355.987)
+	Neotropics_Africa|Neotropics	0.19552	(357.09)
+	Eurasia|Neotropics	0.0997163	(357.763)
+
+Ancestral splits for:	145
+	Eurasia|Eurasia	0.998842	(355.459)
+
+Ancestral splits for:	146
+	Eurasia|Africa	0.99326	(355.465)
+
+Ancestral splits for:	147
+	Neotropics_Africa|Africa	0.679842	(355.844)
+	Africa|Africa	0.116293	(357.61)
+	Neotropics_Eurasia|Eurasia	0.110545	(357.66)
+
+Ancestral splits for:	148
+	Africa|Africa	0.999997	(355.458)
+
+Ancestral splits for:	149
+	Africa|Africa	0.999997	(355.458)
+
+Ancestral splits for:	150
+	Africa|Africa	0.999995	(355.458)
+
+Ancestral splits for:	151
+	Africa|Africa	0.999979	(355.458)
+
+Ancestral splits for:	152
+	Africa|Africa	0.999961	(355.458)
+
+Ancestral splits for:	153
+	Africa|Neotropics	0.998265	(355.46)
+
+Ancestral splits for:	154
+	Africa|Africa	0.784905	(355.7)
+	Neotropics_Africa|Africa	0.212555	(357.007)
+
+Ancestral splits for:	155
+	Africa|Africa	0.845174	(355.626)
+	Africa|Neotropics_Africa	0.153949	(357.329)
+
+Ancestral splits for:	156
+	Africa|Africa	0.999989	(355.458)
+
+Ancestral splits for:	157
+	Africa|Africa	0.999888	(355.458)
+
+Ancestral splits for:	158
+	Africa|Africa	0.850391	(355.62)
+	Neotropics_Africa|Africa	0.148401	(357.366)
+
+Ancestral splits for:	159
+	Neotropics_Africa|Africa	0.714015	(355.795)
+	Africa|Africa	0.116003	(357.612)
+	Neotropics_Eurasia|Neotropics	0.10438	(357.718)
+
+Ancestral splits for:	160
+	Neotropics|Neotropics	0.987545	(355.471)
+
+Ancestral splits for:	161
+	Neotropics_Africa|Neotropics	0.740489	(355.758)
+	Neotropics_Eurasia|Neotropics	0.107846	(357.685)
+
+Ancestral splits for:	162
+	Africa|Africa	0.994059	(355.464)
+
+Ancestral splits for:	163
+	Africa|Africa	0.785108	(355.7)
+
+Ancestral splits for:	164
+	Eurasia|Eurasia	0.998452	(355.46)
+
+Ancestral splits for:	165
+	Africa|Eurasia	0.770043	(355.719)
+
+Ancestral splits for:	166
+	Eurasia|Africa	0.989589	(355.468)
+
+Ancestral splits for:	167
+	Eurasia_Africa|Eurasia	0.695942	(355.821)
+	Eurasia|Eurasia	0.297208	(356.671)
+
+Ancestral splits for:	168
+	Eurasia_Africa|Eurasia	0.40508	(356.362)
+	Eurasia|Eurasia	0.271292	(356.763)
+	Eurasia_Africa|Africa	0.231521	(356.921)
+
+Ancestral splits for:	169
+	North_America|North_America	0.999992	(355.458)
+
+Ancestral splits for:	170
+	North_America|North_America	0.999968	(355.458)
+
+Ancestral splits for:	171
+	North_America|North_America	0.999976	(355.458)
+
+Ancestral splits for:	172
+	North_America|North_America	0.999945	(355.458)
+
+Ancestral splits for:	173
+	North_America|North_America	0.999807	(355.458)
+
+Ancestral splits for:	174
+	North_America|North_America	0.998786	(355.459)
+
+Ancestral splits for:	175
+	Eurasia|Eurasia	0.999707	(355.458)
+
+Ancestral splits for:	176
+	Eurasia|Eurasia	0.995633	(355.462)
+
+Ancestral splits for:	177
+	Eurasia|Eurasia	0.999526	(355.458)
+
+Ancestral splits for:	178
+	Eurasia|Eurasia	0.975747	(355.483)
+
+Ancestral splits for:	179
+	North_America|Eurasia	0.939111	(355.521)
+
+Ancestral splits for:	180
+	North_America|North_America	0.999996	(355.458)
+
+Ancestral splits for:	181
+	North_America|North_America	0.999996	(355.458)
+
+Ancestral splits for:	182
+	North_America|North_America	0.999994	(355.458)
+
+Ancestral splits for:	183
+	North_America|North_America	0.999992	(355.458)
+
+Ancestral splits for:	184
+	North_America|North_America	0.999996	(355.458)
+
+Ancestral splits for:	185
+	North_America|North_America	0.999997	(355.458)
+
+Ancestral splits for:	186
+	North_America|North_America	0.999993	(355.458)
+
+Ancestral splits for:	187
+	North_America|North_America	0.99999	(355.458)
+
+Ancestral splits for:	188
+	North_America|North_America	0.999964	(355.458)
+
+Ancestral splits for:	189
+	North_America|North_America	0.975698	(355.483)
+
+Ancestral splits for:	190
+	North_America|North_America	0.999995	(355.458)
+
+Ancestral splits for:	191
+	North_America|North_America	0.999991	(355.458)
+
+Ancestral splits for:	192
+	North_America|North_America	1	(355.458)
+
+Ancestral splits for:	193
+	North_America|North_America	0.999988	(355.458)
+
+Ancestral splits for:	194
+	North_America|North_America	0.999987	(355.458)
+
+Ancestral splits for:	195
+	North_America|North_America	0.999985	(355.458)
+
+Ancestral splits for:	196
+	North_America|North_America	0.999987	(355.458)
+
+Ancestral splits for:	197
+	North_America|North_America	0.999993	(355.458)
+
+Ancestral splits for:	198
+	North_America|North_America	0.999997	(355.458)
+
+Ancestral splits for:	199
+	North_America|North_America	0.999977	(355.458)
+
+Ancestral splits for:	200
+	North_America|North_America	0.999969	(355.458)
+
+Ancestral splits for:	201
+	North_America|North_America	0.985643	(355.472)
+
+Ancestral splits for:	202
+	North_America|North_America	0.999994	(355.458)
+
+Ancestral splits for:	203
+	North_America|North_America	0.999991	(355.458)
+
+Ancestral splits for:	204
+	North_America|North_America	0.99996	(355.458)
+
+Ancestral splits for:	205
+	North_America|North_America	0.992507	(355.466)
+
+Ancestral splits for:	206
+	North_America|North_America	0.99262	(355.465)
+
+Ancestral splits for:	207
+	North_America|North_America	0.992365	(355.466)
+
+Ancestral splits for:	208
+	Eurasia|Eurasia	0.999996	(355.458)
+
+Ancestral splits for:	209
+	Eurasia|Eurasia	0.999984	(355.458)
+
+Ancestral splits for:	210
+	Eurasia|Eurasia	0.999962	(355.458)
+
+Ancestral splits for:	211
+	Eurasia|Eurasia	0.999999	(355.458)
+
+Ancestral splits for:	212
+	Eurasia|Eurasia	0.999987	(355.458)
+
+Ancestral splits for:	213
+	Eurasia|Eurasia	0.999838	(355.458)
+
+Ancestral splits for:	214
+	Eurasia|Eurasia	0.998828	(355.459)
+
+Ancestral splits for:	215
+	Eurasia|Africa	0.985151	(355.473)
+
+Ancestral splits for:	216
+	Eurasia|Eurasia	0.999523	(355.459)
+
+Ancestral splits for:	217
+	Eurasia|Eurasia	0.909946	(355.552)
+
+Ancestral splits for:	218
+	Eurasia|Eurasia	0.983713	(355.474)
+
+Ancestral splits for:	219
+	Eurasia|North_America	0.967436	(355.491)
+
+Ancestral splits for:	220
+	North_America|North_America	0.999975	(355.458)
+
+Ancestral splits for:	221
+	North_America|North_America	0.999954	(355.458)
+
+Ancestral splits for:	222
+	North_America|North_America	0.999768	(355.458)
+
+Ancestral splits for:	223
+	North_America|North_America	0.875877	(355.591)
+	North_America_Eurasia|North_America	0.122635	(357.557)
+
+Ancestral splits for:	224
+	North_America|North_America	0.999998	(355.458)
+
+Ancestral splits for:	225
+	North_America|North_America	0.999999	(355.458)
+
+Ancestral splits for:	226
+	North_America|North_America	0.999993	(355.458)
+
+Ancestral splits for:	227
+	North_America|North_America	0.999971	(355.458)
+
+Ancestral splits for:	228
+	North_America|North_America	0.999995	(355.458)
+
+Ancestral splits for:	229
+	North_America|North_America	0.999981	(355.458)
+
+Ancestral splits for:	230
+	North_America|North_America	0.999974	(355.458)
+
+Ancestral splits for:	231
+	North_America|North_America	0.999992	(355.458)
+
+Ancestral splits for:	232
+	North_America|North_America	0.999995	(355.458)
+
+Ancestral splits for:	233
+	North_America|North_America	0.999985	(355.458)
+
+Ancestral splits for:	234
+	North_America|North_America	0.999989	(355.458)
+
+Ancestral splits for:	235
+	North_America|North_America	0.999955	(355.458)
+
+Ancestral splits for:	236
+	North_America|North_America	0.999967	(355.458)
+
+Ancestral splits for:	237
+	North_America|North_America	0.999704	(355.458)
+
+Ancestral splits for:	238
+	North_America|North_America	0.910792	(355.551)
+
+Ancestral splits for:	239
+	North_America|North_America	0.935374	(355.525)
+
+Ancestral splits for:	240
+	Eurasia|North_America	0.993527	(355.465)
+
+Ancestral splits for:	241
+	North_America_Eurasia|Eurasia	0.992415	(355.466)
+
+Ancestral splits for:	242
+	North_America|North_America_Eurasia	0.661072	(355.872)
+	North_America|North_America	0.230728	(356.925)
+
+Ancestral splits for:	243
+	North_America_Eurasia|Eurasia	0.709504	(355.801)
+	North_America|Eurasia	0.222795	(356.96)
+
+Ancestral splits for:	244
+	Eurasia|North_America_Eurasia	0.357412	(356.487)
+	Eurasia|Eurasia	0.289953	(356.696)
+	Eurasia_Africa|Eurasia	0.281189	(356.727)
+	Africa|North_America	0.0510395	(358.433)
+
+Ancestral splits for:	245
+	Eurasia_Africa|Africa	0.287694	(356.704)
+	Eurasia|Eurasia	0.208264	(357.027)
+	North_America_Eurasia|Eurasia	0.179039	(357.178)
+	North_America_Eurasia|North_America	0.179039	(357.178)
+	Eurasia|Africa	0.0537099	(358.382)
+	North_America_Africa|Africa	0.0519887	(358.415)
+
+Ancestral splits for:	246
+	North_America|North_America	0.999999	(355.458)
+
+Ancestral splits for:	247
+	North_America|North_America	0.999989	(355.458)
+
+Ancestral splits for:	248
+	North_America|North_America	0.999993	(355.458)
+
+Ancestral splits for:	249
+	North_America|North_America	0.999991	(355.458)
+
+Ancestral splits for:	250
+	North_America|North_America	0.999979	(355.458)
+
+Ancestral splits for:	251
+	North_America|North_America	0.999994	(355.458)
+
+Ancestral splits for:	252
+	North_America|North_America	0.999994	(355.458)
+
+Ancestral splits for:	253
+	North_America|North_America	0.999985	(355.458)
+
+Ancestral splits for:	254
+	North_America|North_America	0.999911	(355.458)
+
+Ancestral splits for:	255
+	North_America|North_America	0.999912	(355.458)
+
+Ancestral splits for:	256
+	North_America|North_America	0.99944	(355.459)
+
+Ancestral splits for:	257
+	Eurasia|Eurasia	0.999838	(355.458)
+
+Ancestral splits for:	258
+	Eurasia|Eurasia	0.99935	(355.459)
+
+Ancestral splits for:	259
+	Eurasia|North_America	0.990738	(355.467)
+
+Ancestral splits for:	260
+	North_America_Eurasia|Eurasia	0.801328	(355.68)
+	Eurasia|Eurasia	0.194085	(357.097)
+
+Ancestral splits for:	261
+	Eurasia|North_America	0.983509	(355.475)
+
+Ancestral splits for:	262
+	Eurasia|North_America_Eurasia	0.296977	(356.672)
+	North_America|North_America	0.255962	(356.821)
+	North_America|North_America_Eurasia	0.132385	(357.48)
+	North_America_Eurasia|North_America	0.12921	(357.504)
+	North_America_Eurasia|Eurasia	0.12921	(357.504)
+	Eurasia|Eurasia	0.0458772	(358.54)
+
+Ancestral splits for:	263
+	North_America|North_America_Eurasia	0.675953	(355.85)
+	North_America|North_America	0.276255	(356.744)
+
+Ancestral splits for:	264
+	Africa|Eurasia	0.99164	(355.466)
+
+Ancestral splits for:	265
+	Eurasia_Africa|Africa	0.970488	(355.488)
+
+Ancestral splits for:	266
+	Eurasia_Africa|Africa	0.959154	(355.5)
+
+Ancestral splits for:	267
+	Eurasia|Eurasia	0.999989	(355.458)
+
+Ancestral splits for:	268
+	Eurasia|Eurasia	0.999955	(355.458)
+
+Ancestral splits for:	269
+	Eurasia|Eurasia	0.752156	(355.743)
+	Eurasia_Africa|Eurasia	0.213439	(357.002)
+
+Ancestral splits for:	270
+	Eurasia|Eurasia	0.99923	(355.459)
+
+Ancestral splits for:	271
+	North_America|North_America	0.999209	(355.459)
+
+Ancestral splits for:	272
+	Eurasia|North_America	0.99495	(355.463)
+
+Ancestral splits for:	273
+	Eurasia|Eurasia	0.693552	(355.824)
+	Eurasia|North_America_Eurasia	0.228967	(356.932)
+
+Ancestral splits for:	274
+	Eurasia|Eurasia	0.81525	(355.662)
+	North_America_Eurasia|Eurasia	0.173085	(357.212)
+
+Ancestral splits for:	275
+	North_America_Eurasia|Eurasia	0.70956	(355.801)
+	North_America|North_America_Eurasia	0.158344	(357.301)
+	North_America|Eurasia	0.1178	(357.597)
+
+Ancestral splits for:	276
+	Madagascar|Madagascar	0.999999	(355.458)
+
+Ancestral splits for:	277
+	Madagascar|Madagascar	0.999999	(355.458)
+
+Ancestral splits for:	278
+	Madagascar|Madagascar	1	(355.458)
+
+Ancestral splits for:	279
+	Madagascar|Madagascar	0.999996	(355.458)
+
+Ancestral splits for:	280
+	Madagascar|Madagascar	0.999979	(355.458)
+
+Ancestral splits for:	281
+	Madagascar|Madagascar	0.999995	(355.458)
+
+Ancestral splits for:	282
+	Madagascar|Madagascar	0.999971	(355.458)
+
+Ancestral splits for:	283
+	Madagascar|Madagascar	0.999858	(355.458)
+
+Ancestral splits for:	284
+	Madagascar|Madagascar	1	(355.458)
+
+Ancestral splits for:	285
+	Madagascar|Madagascar	0.999954	(355.458)
+
+Ancestral splits for:	286
+	Madagascar|Madagascar	0.999956	(355.458)
+
+Ancestral splits for:	287
+	Madagascar|Madagascar	0.999894	(355.458)
+
+Ancestral splits for:	288
+	Madagascar|Madagascar	0.999586	(355.458)
+
+Ancestral splits for:	289
+	Africa|Africa	0.997678	(355.46)
+
+Ancestral splits for:	290
+	Africa|Madagascar	0.9702	(355.488)
+
+Ancestral splits for:	291
+	Madagascar|Africa_Madagascar	0.991358	(355.467)
+
+Ancestral splits for:	292
+	Africa|Africa	0.999663	(355.458)
+
+Ancestral splits for:	293
+	Africa|Africa	0.998387	(355.46)
+
+Ancestral splits for:	294
+	Africa|Eurasia	0.899341	(355.564)
+
+Ancestral splits for:	295
+	Eurasia_Africa|Africa	0.665418	(355.865)
+	Africa|Africa	0.330285	(356.566)
+
+Ancestral splits for:	296
+	Africa|Africa	0.513441	(356.125)
+	Africa|Eurasia_Africa	0.453235	(356.249)
+
+Ancestral splits for:	297
+	Africa|Africa	0.527292	(356.098)
+	Eurasia_Africa|Africa	0.458997	(356.237)
+
+Ancestral splits for:	298
+	Eurasia|Eurasia	0.999998	(355.458)
+
+Ancestral splits for:	299
+	Eurasia|Eurasia	0.999931	(355.458)
+
+Ancestral splits for:	300
+	Eurasia|Eurasia	0.999511	(355.459)
+
+Ancestral splits for:	301
+	Africa|Eurasia	0.521044	(356.11)
+	Eurasia_Africa|Eurasia	0.251442	(356.839)
+	Eurasia|Eurasia	0.212568	(357.007)
+
+Ancestral splits for:	302
+	Eurasia|Eurasia	0.978495	(355.48)
+
+Ancestral splits for:	303
+	Eurasia|Eurasia	0.999989	(355.458)
+
+Ancestral splits for:	304
+	Eurasia|Eurasia	0.999987	(355.458)
+
+Ancestral splits for:	305
+	Eurasia|Eurasia	0.999988	(355.458)
+
+Ancestral splits for:	306
+	Eurasia|Eurasia	0.999995	(355.458)
+
+Ancestral splits for:	307
+	Eurasia|Eurasia	0.999997	(355.458)
+
+Ancestral splits for:	308
+	Eurasia|Eurasia	0.999994	(355.458)
+
+Ancestral splits for:	309
+	Eurasia|Eurasia	0.999965	(355.458)
+
+Ancestral splits for:	310
+	Eurasia|Eurasia	0.99982	(355.458)
+
+Ancestral splits for:	311
+	Eurasia|Eurasia	0.999995	(355.458)
+
+Ancestral splits for:	312
+	Eurasia|Eurasia	0.999988	(355.458)
+
+Ancestral splits for:	313
+	Eurasia|Eurasia	0.999978	(355.458)
+
+Ancestral splits for:	314
+	Eurasia|Eurasia	0.99992	(355.458)
+
+Ancestral splits for:	315
+	Eurasia|Eurasia	0.999909	(355.458)
+
+Ancestral splits for:	316
+	Eurasia|Eurasia	0.999948	(355.458)
+
+Ancestral splits for:	317
+	Eurasia|Eurasia	0.999895	(355.458)
+
+Ancestral splits for:	318
+	Eurasia|Eurasia	0.999816	(355.458)
+
+Ancestral splits for:	319
+	Eurasia|Eurasia	0.999983	(355.458)
+
+Ancestral splits for:	320
+	Eurasia|Eurasia	0.999927	(355.458)
+
+Ancestral splits for:	321
+	Eurasia|Eurasia	0.99984	(355.458)
+
+Ancestral splits for:	322
+	Eurasia|Eurasia	0.999634	(355.458)
+
+Ancestral splits for:	323
+	Eurasia|Eurasia	0.982847	(355.475)
+
+Ancestral splits for:	324
+	Eurasia|Eurasia	0.982317	(355.476)
+
+Ancestral splits for:	325
+	Eurasia|Eurasia	0.99965	(355.458)
+
+Ancestral splits for:	326
+	Eurasia|Eurasia	0.977523	(355.481)
+
+Ancestral splits for:	327
+	North_America|North_America	0.999841	(355.458)
+
+Ancestral splits for:	328
+	North_America|North_America	0.998972	(355.459)
+
+Ancestral splits for:	329
+	Eurasia|North_America	0.927862	(355.533)
+
+Ancestral splits for:	330
+	North_America|North_America	0.99964	(355.458)
+
+Ancestral splits for:	331
+	North_America|Eurasia	0.998527	(355.459)
+
+Ancestral splits for:	332
+	North_America_Eurasia|Eurasia	0.905604	(355.557)
+
+Ancestral splits for:	333
+	North_America_Eurasia|Eurasia	0.857348	(355.612)
+	Eurasia|Eurasia	0.138869	(357.432)
+
+Ancestral splits for:	334
+	North_America|North_America	0.442804	(356.273)
+	North_America_Eurasia|Eurasia	0.332526	(356.559)
+	North_America_Eurasia|North_America	0.196057	(357.087)
+
+Ancestral splits for:	335
+	North_America|North_America	0.869463	(355.598)
+	North_America_Eurasia|North_America	0.126192	(357.528)
+
+Ancestral splits for:	336
+	North_America|North_America	0.871	(355.596)
+	North_America_Eurasia|North_America	0.128649	(357.509)
+
+Ancestral splits for:	337
+	North_America|North_America	0.883957	(355.581)
+
+Ancestral splits for:	338
+	North_America|North_America	0.883416	(355.582)
+
+Ancestral splits for:	339
+	Eurasia|North_America	0.438288	(356.283)
+	North_America_Eurasia|North_America	0.38011	(356.425)
+	Eurasia|North_America_Eurasia	0.104617	(357.715)
+
+Ancestral splits for:	340
+	North_America_Eurasia|Eurasia	0.906165	(355.557)
+
+Ancestral splits for:	341
+	North_America_Eurasia|Eurasia	0.957733	(355.501)
+
+Ancestral splits for:	342
+	North_America|North_America	0.78564	(355.699)
+	North_America_Eurasia|North_America	0.184284	(357.149)
+
+Ancestral splits for:	343
+	Eurasia|Eurasia	0.999998	(355.458)
+
+Ancestral splits for:	344
+	Eurasia|Eurasia	0.99999	(355.458)
+
+Ancestral splits for:	345
+	Eurasia|Eurasia	0.999946	(355.458)
+
+Ancestral splits for:	346
+	Eurasia|Eurasia	0.999394	(355.459)
+
+Ancestral splits for:	347
+	Eurasia|North_America	0.994354	(355.464)
+
+Ancestral splits for:	348
+	North_America_Eurasia|Eurasia	0.992148	(355.466)
+
+Ancestral splits for:	349
+	North_America_Eurasia|Eurasia	0.990147	(355.468)
+
+Ancestral splits for:	350
+	North_America|North_America	0.999989	(355.458)
+
+Ancestral splits for:	351
+	North_America_Eurasia|North_America	0.675698	(355.85)
+	North_America|North_America	0.313408	(356.618)
+
+Ancestral splits for:	352
+	North_America_Eurasia|North_America	0.669072	(355.86)
+	North_America|North_America	0.330401	(356.565)
+
+Ancestral splits for:	353
+	North_America_Eurasia|North_America	0.668163	(355.861)
+	North_America|North_America	0.331415	(356.562)
+
+Ancestral splits for:	354
+	Eurasia|Eurasia	0.9997	(355.458)
+
+Ancestral splits for:	355
+	North_America_Eurasia|Eurasia	0.666095	(355.864)
+	North_America|Eurasia	0.329061	(356.57)
+
+Ancestral splits for:	356
+	North_America_Eurasia|North_America	0.966696	(355.492)
+
+Ancestral splits for:	357
+	North_America_Eurasia|North_America	0.964268	(355.494)
+
+Ancestral splits for:	358
+	North_America_Eurasia|Eurasia	0.960043	(355.499)
+
+Ancestral splits for:	359
+	Eurasia|North_America	0.999553	(355.458)
+
+Ancestral splits for:	360
+	North_America_Eurasia|Eurasia	0.998851	(355.459)
+
+Ancestral splits for:	361
+	North_America|North_America	0.862153	(355.606)
+	North_America_Eurasia|North_America	0.13657	(357.449)
+
+Ancestral splits for:	362
+	North_America|North_America	0.999992	(355.458)
+
+Ancestral splits for:	363
+	North_America|North_America	0.937448	(355.523)
+
+Ancestral splits for:	364
+	North_America|North_America	0.899335	(355.564)
+
+Ancestral splits for:	365
+	North_America|North_America	0.992459	(355.466)
+
+Ancestral splits for:	366
+	North_America|North_America	0.998105	(355.46)
+
+Ancestral splits for:	367
+	Eurasia|North_America	0.99872	(355.459)
+
+Ancestral splits for:	368
+	North_America_Eurasia|North_America	0.540324	(356.074)
+	North_America|North_America	0.458054	(356.239)
+
+Ancestral splits for:	369
+	North_America|North_America	0.994434	(355.464)
+
+Ancestral splits for:	370
+	North_America|North_America	0.999962	(355.458)
+
+Ancestral splits for:	371
+	North_America|North_America	0.996661	(355.461)
+
+Ancestral splits for:	372
+	North_America|North_America	0.999995	(355.458)
+
+Ancestral splits for:	373
+	North_America|North_America	0.999957	(355.458)
+
+Ancestral splits for:	374
+	North_America|North_America	0.998418	(355.46)
+
+Ancestral splits for:	375
+	North_America|North_America	0.999999	(355.458)
+
+Ancestral splits for:	376
+	North_America|North_America	1	(355.458)
+
+Ancestral splits for:	377
+	North_America|North_America	1	(355.458)
+
+Ancestral splits for:	378
+	North_America|North_America	0.999999	(355.458)
+
+Ancestral splits for:	379
+	North_America|North_America	0.999999	(355.458)
+
+Ancestral splits for:	380
+	North_America|North_America	0.999998	(355.458)
+
+Ancestral splits for:	381
+	North_America|North_America	0.99999	(355.458)
+
+Ancestral splits for:	382
+	North_America|North_America	0.999943	(355.458)
+
+Ancestral splits for:	383
+	North_America|North_America	0.999636	(355.458)
+
+Ancestral splits for:	384
+	North_America|Eurasia	0.994789	(355.463)
+
+Ancestral splits for:	385
+	North_America_Eurasia|North_America	0.974714	(355.484)
+
+Ancestral splits for:	386
+	North_America|North_America	0.999988	(355.458)
+
+Ancestral splits for:	387
+	North_America_Eurasia|North_America	0.970924	(355.488)
+
+Ancestral splits for:	388
+	North_America_Eurasia|Eurasia	0.958075	(355.501)
+
+Ancestral splits for:	389
+	North_America_Eurasia|North_America	0.985358	(355.473)
+
+Ancestral splits for:	390
+	North_America_Eurasia|Eurasia	0.895427	(355.568)
+
+Ancestral splits for:	391
+	Eurasia|North_America	0.996328	(355.462)
+
+Ancestral splits for:	392
+	North_America_Eurasia|Eurasia	0.346822	(356.517)
+	North_America_Eurasia|North_America	0.346822	(356.517)
+	Eurasia|North_America_Eurasia	0.140497	(357.421)
+	North_America|North_America	0.120855	(357.571)
+
+Ancestral splits for:	393
+	North_America|North_America	0.80318	(355.677)
+	North_America|North_America_Eurasia	0.191076	(357.113)
+
+Ancestral splits for:	394
+	North_America|North_America	0.999998	(355.458)
+
+Ancestral splits for:	395
+	North_America|North_America	0.999995	(355.458)
+
+Ancestral splits for:	396
+	North_America|North_America	0.999981	(355.458)
+
+Ancestral splits for:	397
+	North_America|North_America	0.999994	(355.458)
+
+Ancestral splits for:	398
+	North_America|North_America	0.999978	(355.458)
+
+Ancestral splits for:	399
+	North_America|North_America	0.999926	(355.458)
+
+Ancestral splits for:	400
+	North_America|North_America	0.999951	(355.458)
+
+Ancestral splits for:	401
+	North_America|North_America	0.999783	(355.458)
+
+Ancestral splits for:	402
+	North_America|North_America	0.999374	(355.459)
+
+Ancestral splits for:	403
+	Eurasia|Eurasia	0.999919	(355.458)
+
+Ancestral splits for:	404
+	Eurasia|Eurasia	0.999306	(355.459)
+
+Ancestral splits for:	405
+	Eurasia|Eurasia	0.999623	(355.458)
+
+Ancestral splits for:	406
+	Eurasia|Eurasia	0.996433	(355.462)
+
+Ancestral splits for:	407
+	Eurasia|Eurasia	0.974815	(355.484)
+
+Ancestral splits for:	408
+	North_America|Eurasia	0.86155	(355.607)
+	North_America|North_America	0.134124	(357.467)
+
+Ancestral splits for:	409
+	North_America|North_America	1	(355.458)
+
+Ancestral splits for:	410
+	North_America|North_America	0.999999	(355.458)
+
+Ancestral splits for:	411
+	North_America|North_America	0.99999	(355.458)
+
+Ancestral splits for:	412
+	North_America|North_America	0.869727	(355.598)
+	North_America_Eurasia|North_America	0.130112	(357.497)
+
+Ancestral splits for:	413
+	North_America|North_America	0.980245	(355.478)
+
+Ancestral splits for:	414
+	North_America|North_America	0.993985	(355.464)
+
+Ancestral splits for:	415
+	North_America|North_America	0.998894	(355.459)
+
+Ancestral splits for:	416
+	North_America|North_America	0.999709	(355.458)
+
+Ancestral splits for:	417
+	North_America|North_America	0.999993	(355.458)
+
+Ancestral splits for:	418
+	North_America|Eurasia	0.991563	(355.466)
+
+Ancestral splits for:	419
+	North_America|North_America	0.840406	(355.632)
+	North_America|North_America_Eurasia	0.158858	(357.298)
+
+Ancestral splits for:	420
+	North_America|North_America	1	(355.458)
+
+Ancestral splits for:	421
+	North_America|North_America	0.999992	(355.458)
+
+Ancestral splits for:	422
+	North_America|North_America	0.962137	(355.497)
+
+Ancestral splits for:	423
+	North_America|North_America	0.999997	(355.458)
+
+Ancestral splits for:	424
+	North_America|North_America	0.999991	(355.458)
+
+Ancestral splits for:	425
+	North_America|North_America	0.999984	(355.458)
+
+Ancestral splits for:	426
+	North_America|North_America	0.989882	(355.468)
+
+Ancestral splits for:	427
+	North_America|North_America	0.999081	(355.459)
+
+Ancestral splits for:	428
+	North_America|North_America	0.999992	(355.458)
+
+Ancestral splits for:	429
+	North_America|North_America	0.999979	(355.458)
+
+Ancestral splits for:	430
+	North_America|North_America	0.999921	(355.458)
+
+Ancestral splits for:	431
+	North_America|North_America	0.999378	(355.459)
+
+Ancestral splits for:	432
+	North_America|North_America	0.825935	(355.649)
+	North_America_Eurasia|North_America	0.172878	(357.213)
+
+Ancestral splits for:	433
+	North_America|North_America	0.924462	(355.537)
+
+Ancestral splits for:	434
+	North_America|North_America	0.999982	(355.458)
+
+Ancestral splits for:	435
+	North_America|North_America	0.999866	(355.458)
+
+Ancestral splits for:	436
+	North_America|North_America	0.999179	(355.459)
+
+Ancestral splits for:	437
+	North_America|Eurasia	0.993425	(355.465)
+
+Ancestral splits for:	438
+	North_America|North_America	0.895633	(355.568)
+
+Ancestral splits for:	439
+	North_America|North_America	0.999371	(355.459)
+
+Ancestral splits for:	440
+	North_America|North_America	0.896404	(355.567)
+
+Ancestral splits for:	441
+	North_America|North_America	0.999994	(355.458)
+
+Ancestral splits for:	442
+	North_America|North_America	0.999948	(355.458)
+
+Ancestral splits for:	443
+	North_America|North_America	0.999637	(355.458)
+
+Ancestral splits for:	444
+	North_America|North_America	0.872538	(355.594)

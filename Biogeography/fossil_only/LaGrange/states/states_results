@@ -1,0 +1,1400 @@
+Optimizing (simplex) -ln likelihood.
+dis: 0.00185257 ext: 0.000429527
+final -ln likelihood: 355.458
+Ancestral states for:	1
+	Eurasia	0.610615	(355.951)
+	Eurasia_Africa	0.389385	(356.401)
+
+Ancestral states for:	2
+	Eurasia	0.690367	(355.829)
+	Eurasia_Africa	0.309633	(356.63)
+
+Ancestral states for:	3
+	Eurasia	0.780616	(355.706)
+	Eurasia_Africa	0.21938	(356.975)
+
+Ancestral states for:	4
+	Eurasia_Africa	0.999818	(355.458)
+
+Ancestral states for:	5
+	Eurasia_Africa	0.938435	(355.522)
+
+Ancestral states for:	6
+	Eurasia_Africa	0.822474	(355.653)
+	Africa	0.149628	(357.358)
+
+Ancestral states for:	7
+	Eurasia_Africa	0.629642	(355.921)
+	Africa	0.370357	(356.451)
+
+Ancestral states for:	8
+	Africa	0.999997	(355.458)
+
+Ancestral states for:	9
+	Africa	0.922081	(355.539)
+
+Ancestral states for:	10
+	Africa	0.989468	(355.469)
+
+Ancestral states for:	11
+	Africa	1	(355.458)
+
+Ancestral states for:	12
+	Africa	0.999999	(355.458)
+
+Ancestral states for:	13
+	Africa	0.999995	(355.458)
+
+Ancestral states for:	14
+	Africa	0.992288	(355.466)
+
+Ancestral states for:	15
+	Africa	0.999459	(355.459)
+
+Ancestral states for:	16
+	Africa	0.999869	(355.458)
+
+Ancestral states for:	17
+	Africa	0.999924	(355.458)
+
+Ancestral states for:	18
+	Africa	0.999891	(355.458)
+
+Ancestral states for:	19
+	Africa	0.999675	(355.458)
+
+Ancestral states for:	20
+	Africa	0.998403	(355.46)
+
+Ancestral states for:	21
+	Eurasia	0.999967	(355.458)
+
+Ancestral states for:	22
+	Eurasia_Africa	0.998635	(355.459)
+
+Ancestral states for:	23
+	Eurasia	0.999998	(355.458)
+
+Ancestral states for:	24
+	Eurasia	0.999995	(355.458)
+
+Ancestral states for:	25
+	Eurasia	0.999969	(355.458)
+
+Ancestral states for:	26
+	Eurasia_Africa	0.827594	(355.647)
+	Eurasia	0.172386	(357.216)
+
+Ancestral states for:	27
+	Eurasia	0.999985	(355.458)
+
+Ancestral states for:	28
+	Eurasia	0.999991	(355.458)
+
+Ancestral states for:	29
+	Eurasia	0.999987	(355.458)
+
+Ancestral states for:	30
+	Eurasia	0.999995	(355.458)
+
+Ancestral states for:	31
+	Eurasia	0.999975	(355.458)
+
+Ancestral states for:	32
+	Eurasia	0.999959	(355.458)
+
+Ancestral states for:	33
+	Eurasia_Africa	0.999849	(355.458)
+
+Ancestral states for:	34
+	Eurasia	0.777682	(355.709)
+	Eurasia_Africa	0.222301	(356.962)
+
+Ancestral states for:	35
+	Eurasia_Africa	0.978134	(355.48)
+
+Ancestral states for:	36
+	Africa	0.999999	(355.458)
+
+Ancestral states for:	37
+	Africa	0.999872	(355.458)
+
+Ancestral states for:	38
+	Africa	0.918058	(355.544)
+
+Ancestral states for:	39
+	Africa	0.978546	(355.48)
+
+Ancestral states for:	40
+	Africa	0.999999	(355.458)
+
+Ancestral states for:	41
+	Africa	0.999987	(355.458)
+
+Ancestral states for:	42
+	Africa	0.999976	(355.458)
+
+Ancestral states for:	43
+	Africa	0.999882	(355.458)
+
+Ancestral states for:	44
+	Africa	0.998663	(355.459)
+
+Ancestral states for:	45
+	Africa	0.999989	(355.458)
+
+Ancestral states for:	46
+	Africa	0.999953	(355.458)
+
+Ancestral states for:	47
+	Eurasia_Africa	0.531943	(356.089)
+	Africa	0.467785	(356.218)
+
+Ancestral states for:	48
+	Africa	0.813221	(355.665)
+	Eurasia_Africa	0.18672	(357.136)
+
+Ancestral states for:	49
+	Africa	0.994981	(355.463)
+
+Ancestral states for:	50
+	Africa	0.99799	(355.46)
+
+Ancestral states for:	51
+	Africa	0.998243	(355.46)
+
+Ancestral states for:	52
+	Africa	0.999908	(355.458)
+
+Ancestral states for:	53
+	Africa	0.999567	(355.458)
+
+Ancestral states for:	54
+	Africa	0.999961	(355.458)
+
+Ancestral states for:	55
+	Africa	0.999515	(355.459)
+
+Ancestral states for:	56
+	Africa	0.998912	(355.459)
+
+Ancestral states for:	57
+	Africa	0.999997	(355.458)
+
+Ancestral states for:	58
+	Africa	0.999999	(355.458)
+
+Ancestral states for:	59
+	Africa	0.999999	(355.458)
+
+Ancestral states for:	60
+	Africa	0.999998	(355.458)
+
+Ancestral states for:	61
+	Africa	1	(355.458)
+
+Ancestral states for:	62
+	Africa	0.999999	(355.458)
+
+Ancestral states for:	63
+	Africa	0.999998	(355.458)
+
+Ancestral states for:	64
+	Africa	0.999996	(355.458)
+
+Ancestral states for:	65
+	Africa	0.999998	(355.458)
+
+Ancestral states for:	66
+	Africa	0.999997	(355.458)
+
+Ancestral states for:	67
+	Africa	0.999997	(355.458)
+
+Ancestral states for:	68
+	Africa	0.999995	(355.458)
+
+Ancestral states for:	69
+	Africa	0.999988	(355.458)
+
+Ancestral states for:	70
+	Africa	0.999981	(355.458)
+
+Ancestral states for:	71
+	Africa	0.999998	(355.458)
+
+Ancestral states for:	72
+	Africa	0.999991	(355.458)
+
+Ancestral states for:	73
+	Africa	0.999988	(355.458)
+
+Ancestral states for:	74
+	Africa	0.999972	(355.458)
+
+Ancestral states for:	75
+	Eurasia_Africa	0.9998	(355.458)
+
+Ancestral states for:	76
+	Eurasia	0.999968	(355.458)
+
+Ancestral states for:	77
+	Eurasia_Africa	0.985752	(355.472)
+
+Ancestral states for:	78
+	Africa	0.999945	(355.458)
+
+Ancestral states for:	79
+	Africa	0.826811	(355.648)
+	Eurasia_Africa	0.173183	(357.211)
+
+Ancestral states for:	80
+	Africa	0.949609	(355.51)
+
+Ancestral states for:	81
+	Africa	0.961849	(355.497)
+
+Ancestral states for:	82
+	Africa	0.99996	(355.458)
+
+Ancestral states for:	83
+	Africa	0.998442	(355.46)
+
+Ancestral states for:	84
+	Africa	0.999935	(355.458)
+
+Ancestral states for:	85
+	Africa	0.999974	(355.458)
+
+Ancestral states for:	86
+	Africa	0.99996	(355.458)
+
+Ancestral states for:	87
+	Africa	0.999927	(355.458)
+
+Ancestral states for:	88
+	Africa	0.99889	(355.459)
+
+Ancestral states for:	89
+	Africa	0.999908	(355.458)
+
+Ancestral states for:	90
+	Africa	0.999679	(355.458)
+
+Ancestral states for:	91
+	Africa	0.998234	(355.46)
+
+Ancestral states for:	92
+	Eurasia	0.999999	(355.458)
+
+Ancestral states for:	93
+	Eurasia	0.999998	(355.458)
+
+Ancestral states for:	94
+	Eurasia	0.999996	(355.458)
+
+Ancestral states for:	95
+	Eurasia	0.999983	(355.458)
+
+Ancestral states for:	96
+	Eurasia	0.999873	(355.458)
+
+Ancestral states for:	97
+	Eurasia	0.999361	(355.459)
+
+Ancestral states for:	98
+	Eurasia_Africa	0.970933	(355.488)
+
+Ancestral states for:	99
+	Eurasia_Africa	0.626171	(355.926)
+	Eurasia	0.373816	(356.442)
+
+Ancestral states for:	100
+	Eurasia_Africa	0.6066	(355.958)
+	Eurasia	0.393376	(356.391)
+
+Ancestral states for:	101
+	Eurasia_Africa	0.585729	(355.993)
+	Eurasia	0.414184	(356.339)
+
+Ancestral states for:	102
+	Eurasia_Africa	0.900046	(355.563)
+
+Ancestral states for:	103
+	Eurasia_Africa	0.924369	(355.537)
+
+Ancestral states for:	104
+	Eurasia_Africa	0.654698	(355.882)
+	Africa	0.345179	(356.522)
+
+Ancestral states for:	105
+	Africa	0.99998	(355.458)
+
+Ancestral states for:	106
+	Africa	0.999856	(355.458)
+
+Ancestral states for:	107
+	Eurasia_Africa	0.596409	(355.975)
+	Africa	0.403367	(356.366)
+
+Ancestral states for:	108
+	Eurasia_Africa	0.999244	(355.459)
+
+Ancestral states for:	109
+	Africa	0.882528	(355.583)
+
+Ancestral states for:	110
+	Neotropics_Africa	0.916093	(355.546)
+
+Ancestral states for:	111
+	Eurasia_Africa	0.39958	(356.375)
+	Africa	0.296965	(356.672)
+	Neotropics_Africa	0.19042	(357.117)
+	Neotropics_Eurasia	0.0736595	(358.066)
+
+Ancestral states for:	112
+	Eurasia	0.999949	(355.458)
+
+Ancestral states for:	113
+	Eurasia	0.999697	(355.458)
+
+Ancestral states for:	114
+	Eurasia	0.998062	(355.46)
+
+Ancestral states for:	115
+	Eurasia	0.974357	(355.484)
+
+Ancestral states for:	116
+	Eurasia_Africa	0.446689	(356.264)
+	Neotropics_Africa	0.197837	(357.078)
+	Africa	0.169677	(357.232)
+	Eurasia	0.0934705	(357.828)
+	Neotropics_Eurasia	0.0852347	(357.92)
+
+Ancestral states for:	117
+	Neotropics	0.999991	(355.458)
+
+Ancestral states for:	118
+	Neotropics	0.999992	(355.458)
+
+Ancestral states for:	119
+	Neotropics	0.99998	(355.458)
+
+Ancestral states for:	120
+	Neotropics	0.99997	(355.458)
+
+Ancestral states for:	121
+	Neotropics	0.999987	(355.458)
+
+Ancestral states for:	122
+	Neotropics	0.999985	(355.458)
+
+Ancestral states for:	123
+	Neotropics	0.99993	(355.458)
+
+Ancestral states for:	124
+	Neotropics	0.999998	(355.458)
+
+Ancestral states for:	125
+	Neotropics	0.999998	(355.458)
+
+Ancestral states for:	126
+	Neotropics	0.999993	(355.458)
+
+Ancestral states for:	127
+	Neotropics	0.999964	(355.458)
+
+Ancestral states for:	128
+	Neotropics	0.999998	(355.458)
+
+Ancestral states for:	129
+	Neotropics	0.999969	(355.458)
+
+Ancestral states for:	130
+	Neotropics	0.999977	(355.458)
+
+Ancestral states for:	131
+	Neotropics	0.999995	(355.458)
+
+Ancestral states for:	132
+	Neotropics	0.999977	(355.458)
+
+Ancestral states for:	133
+	Neotropics	0.999964	(355.458)
+
+Ancestral states for:	134
+	Neotropics	0.999998	(355.458)
+
+Ancestral states for:	135
+	Neotropics	0.999933	(355.458)
+
+Ancestral states for:	136
+	Neotropics	0.999984	(355.458)
+
+Ancestral states for:	137
+	Neotropics	0.999994	(355.458)
+
+Ancestral states for:	138
+	Neotropics	0.999984	(355.458)
+
+Ancestral states for:	139
+	Neotropics	0.999918	(355.458)
+
+Ancestral states for:	140
+	Neotropics	0.999949	(355.458)
+
+Ancestral states for:	141
+	Neotropics	0.999663	(355.458)
+
+Ancestral states for:	142
+	Neotropics	0.997929	(355.46)
+
+Ancestral states for:	143
+	Neotropics	0.983078	(355.475)
+
+Ancestral states for:	144
+	Neotropics_Africa	0.788403	(355.696)
+	Neotropics_Eurasia	0.156812	(357.311)
+
+Ancestral states for:	145
+	Eurasia	0.998842	(355.459)
+
+Ancestral states for:	146
+	Eurasia_Africa	0.999044	(355.459)
+
+Ancestral states for:	147
+	Neotropics_Africa	0.73511	(355.766)
+	Africa	0.116293	(357.61)
+	Neotropics_Eurasia	0.111529	(357.651)
+
+Ancestral states for:	148
+	Africa	0.999997	(355.458)
+
+Ancestral states for:	149
+	Africa	0.999997	(355.458)
+
+Ancestral states for:	150
+	Africa	0.999995	(355.458)
+
+Ancestral states for:	151
+	Africa	0.999979	(355.458)
+
+Ancestral states for:	152
+	Africa	0.999961	(355.458)
+
+Ancestral states for:	153
+	Neotropics_Africa	0.999619	(355.458)
+
+Ancestral states for:	154
+	Africa	0.784905	(355.7)
+	Neotropics_Africa	0.215072	(356.995)
+
+Ancestral states for:	155
+	Africa	0.845174	(355.626)
+	Neotropics_Africa	0.154774	(357.324)
+
+Ancestral states for:	156
+	Africa	0.999989	(355.458)
+
+Ancestral states for:	157
+	Africa	0.999888	(355.458)
+
+Ancestral states for:	158
+	Africa	0.850391	(355.62)
+	Neotropics_Africa	0.149148	(357.361)
+
+Ancestral states for:	159
+	Neotropics_Africa	0.74191	(355.757)
+	Africa	0.116003	(357.612)
+	Neotropics_Eurasia	0.108079	(357.683)
+
+Ancestral states for:	160
+	Neotropics	0.987545	(355.471)
+
+Ancestral states for:	161
+	Neotropics_Africa	0.812121	(355.666)
+
+Ancestral states for:	162
+	Africa	0.994059	(355.464)
+
+Ancestral states for:	163
+	Africa	0.785108	(355.7)
+
+Ancestral states for:	164
+	Eurasia	0.998452	(355.46)
+
+Ancestral states for:	165
+	Eurasia_Africa	0.831162	(355.643)
+
+Ancestral states for:	166
+	Eurasia_Africa	0.995967	(355.462)
+
+Ancestral states for:	167
+	Eurasia_Africa	0.70267	(355.811)
+	Eurasia	0.297208	(356.671)
+
+Ancestral states for:	168
+	Eurasia_Africa	0.686694	(355.834)
+	Eurasia	0.271292	(356.763)
+
+Ancestral states for:	169
+	North_America	0.999992	(355.458)
+
+Ancestral states for:	170
+	North_America	0.999968	(355.458)
+
+Ancestral states for:	171
+	North_America	0.999976	(355.458)
+
+Ancestral states for:	172
+	North_America	0.999945	(355.458)
+
+Ancestral states for:	173
+	North_America	0.999807	(355.458)
+
+Ancestral states for:	174
+	North_America	0.998786	(355.459)
+
+Ancestral states for:	175
+	Eurasia	0.999707	(355.458)
+
+Ancestral states for:	176
+	Eurasia	0.995633	(355.462)
+
+Ancestral states for:	177
+	Eurasia	0.999526	(355.458)
+
+Ancestral states for:	178
+	Eurasia	0.975747	(355.483)
+
+Ancestral states for:	179
+	North_America_Eurasia	0.943948	(355.516)
+
+Ancestral states for:	180
+	North_America	0.999996	(355.458)
+
+Ancestral states for:	181
+	North_America	0.999996	(355.458)
+
+Ancestral states for:	182
+	North_America	0.999994	(355.458)
+
+Ancestral states for:	183
+	North_America	0.999992	(355.458)
+
+Ancestral states for:	184
+	North_America	0.999996	(355.458)
+
+Ancestral states for:	185
+	North_America	0.999997	(355.458)
+
+Ancestral states for:	186
+	North_America	0.999993	(355.458)
+
+Ancestral states for:	187
+	North_America	0.99999	(355.458)
+
+Ancestral states for:	188
+	North_America	0.999964	(355.458)
+
+Ancestral states for:	189
+	North_America	0.975698	(355.483)
+
+Ancestral states for:	190
+	North_America	0.999995	(355.458)
+
+Ancestral states for:	191
+	North_America	0.999991	(355.458)
+
+Ancestral states for:	192
+	North_America	1	(355.458)
+
+Ancestral states for:	193
+	North_America	0.999988	(355.458)
+
+Ancestral states for:	194
+	North_America	0.999987	(355.458)
+
+Ancestral states for:	195
+	North_America	0.999985	(355.458)
+
+Ancestral states for:	196
+	North_America	0.999987	(355.458)
+
+Ancestral states for:	197
+	North_America	0.999993	(355.458)
+
+Ancestral states for:	198
+	North_America	0.999997	(355.458)
+
+Ancestral states for:	199
+	North_America	0.999977	(355.458)
+
+Ancestral states for:	200
+	North_America	0.999969	(355.458)
+
+Ancestral states for:	201
+	North_America	0.985643	(355.472)
+
+Ancestral states for:	202
+	North_America	0.999994	(355.458)
+
+Ancestral states for:	203
+	North_America	0.999991	(355.458)
+
+Ancestral states for:	204
+	North_America	0.99996	(355.458)
+
+Ancestral states for:	205
+	North_America	0.992507	(355.466)
+
+Ancestral states for:	206
+	North_America	0.99262	(355.465)
+
+Ancestral states for:	207
+	North_America	0.992365	(355.466)
+
+Ancestral states for:	208
+	Eurasia	0.999996	(355.458)
+
+Ancestral states for:	209
+	Eurasia	0.999984	(355.458)
+
+Ancestral states for:	210
+	Eurasia	0.999962	(355.458)
+
+Ancestral states for:	211
+	Eurasia	0.999999	(355.458)
+
+Ancestral states for:	212
+	Eurasia	0.999987	(355.458)
+
+Ancestral states for:	213
+	Eurasia	0.999838	(355.458)
+
+Ancestral states for:	214
+	Eurasia	0.998828	(355.459)
+
+Ancestral states for:	215
+	Eurasia_Africa	0.993587	(355.464)
+
+Ancestral states for:	216
+	Eurasia	0.999523	(355.459)
+
+Ancestral states for:	217
+	Eurasia	0.909946	(355.552)
+
+Ancestral states for:	218
+	Eurasia	0.983713	(355.474)
+
+Ancestral states for:	219
+	North_America_Eurasia	0.988239	(355.47)
+
+Ancestral states for:	220
+	North_America	0.999975	(355.458)
+
+Ancestral states for:	221
+	North_America	0.999954	(355.458)
+
+Ancestral states for:	222
+	North_America	0.999768	(355.458)
+
+Ancestral states for:	223
+	North_America	0.875877	(355.591)
+	North_America_Eurasia	0.123907	(357.546)
+
+Ancestral states for:	224
+	North_America	0.999998	(355.458)
+
+Ancestral states for:	225
+	North_America	0.999999	(355.458)
+
+Ancestral states for:	226
+	North_America	0.999993	(355.458)
+
+Ancestral states for:	227
+	North_America	0.999971	(355.458)
+
+Ancestral states for:	228
+	North_America	0.999995	(355.458)
+
+Ancestral states for:	229
+	North_America	0.999981	(355.458)
+
+Ancestral states for:	230
+	North_America	0.999974	(355.458)
+
+Ancestral states for:	231
+	North_America	0.999992	(355.458)
+
+Ancestral states for:	232
+	North_America	0.999995	(355.458)
+
+Ancestral states for:	233
+	North_America	0.999985	(355.458)
+
+Ancestral states for:	234
+	North_America	0.999989	(355.458)
+
+Ancestral states for:	235
+	North_America	0.999955	(355.458)
+
+Ancestral states for:	236
+	North_America	0.999967	(355.458)
+
+Ancestral states for:	237
+	North_America	0.999704	(355.458)
+
+Ancestral states for:	238
+	North_America	0.910792	(355.551)
+
+Ancestral states for:	239
+	North_America	0.935374	(355.525)
+
+Ancestral states for:	240
+	North_America_Eurasia	0.999302	(355.459)
+
+Ancestral states for:	241
+	North_America_Eurasia	0.993578	(355.464)
+
+Ancestral states for:	242
+	North_America_Eurasia	0.765647	(355.725)
+	North_America	0.230728	(356.925)
+
+Ancestral states for:	243
+	North_America_Eurasia	0.937941	(355.522)
+
+Ancestral states for:	244
+	North_America_Eurasia	0.366665	(356.461)
+	Eurasia_Africa	0.290575	(356.694)
+	Eurasia	0.289953	(356.696)
+	North_America_Africa	0.0522925	(358.409)
+
+Ancestral states for:	245
+	North_America_Eurasia	0.387117	(356.407)
+	Eurasia_Africa	0.343537	(356.526)
+	Eurasia	0.208264	(357.027)
+	North_America_Africa	0.0538842	(358.379)
+
+Ancestral states for:	246
+	North_America	0.999999	(355.458)
+
+Ancestral states for:	247
+	North_America	0.999989	(355.458)
+
+Ancestral states for:	248
+	North_America	0.999993	(355.458)
+
+Ancestral states for:	249
+	North_America	0.999991	(355.458)
+
+Ancestral states for:	250
+	North_America	0.999979	(355.458)
+
+Ancestral states for:	251
+	North_America	0.999994	(355.458)
+
+Ancestral states for:	252
+	North_America	0.999994	(355.458)
+
+Ancestral states for:	253
+	North_America	0.999985	(355.458)
+
+Ancestral states for:	254
+	North_America	0.999911	(355.458)
+
+Ancestral states for:	255
+	North_America	0.999912	(355.458)
+
+Ancestral states for:	256
+	North_America	0.99944	(355.459)
+
+Ancestral states for:	257
+	Eurasia	0.999838	(355.458)
+
+Ancestral states for:	258
+	Eurasia	0.99935	(355.459)
+
+Ancestral states for:	259
+	North_America_Eurasia	0.995225	(355.463)
+
+Ancestral states for:	260
+	North_America_Eurasia	0.805866	(355.674)
+	Eurasia	0.194085	(357.097)
+
+Ancestral states for:	261
+	North_America_Eurasia	0.993359	(355.465)
+
+Ancestral states for:	262
+	North_America_Eurasia	0.698158	(355.817)
+	North_America	0.255962	(356.821)
+
+Ancestral states for:	263
+	North_America_Eurasia	0.719469	(355.787)
+	North_America	0.276255	(356.744)
+
+Ancestral states for:	264
+	Eurasia_Africa	0.998694	(355.459)
+
+Ancestral states for:	265
+	Eurasia_Africa	0.973951	(355.484)
+
+Ancestral states for:	266
+	Eurasia_Africa	0.965421	(355.493)
+
+Ancestral states for:	267
+	Eurasia	0.999989	(355.458)
+
+Ancestral states for:	268
+	Eurasia	0.999955	(355.458)
+
+Ancestral states for:	269
+	Eurasia	0.752156	(355.743)
+	Eurasia_Africa	0.247822	(356.853)
+
+Ancestral states for:	270
+	Eurasia	0.99923	(355.459)
+
+Ancestral states for:	271
+	North_America	0.999209	(355.459)
+
+Ancestral states for:	272
+	North_America_Eurasia	0.998057	(355.46)
+
+Ancestral states for:	273
+	Eurasia	0.693552	(355.824)
+	North_America_Eurasia	0.233304	(356.913)
+
+Ancestral states for:	274
+	Eurasia	0.81525	(355.662)
+	North_America_Eurasia	0.174937	(357.201)
+
+Ancestral states for:	275
+	North_America_Eurasia	0.993425	(355.465)
+
+Ancestral states for:	276
+	Madagascar	0.999999	(355.458)
+
+Ancestral states for:	277
+	Madagascar	0.999999	(355.458)
+
+Ancestral states for:	278
+	Madagascar	1	(355.458)
+
+Ancestral states for:	279
+	Madagascar	0.999996	(355.458)
+
+Ancestral states for:	280
+	Madagascar	0.999979	(355.458)
+
+Ancestral states for:	281
+	Madagascar	0.999995	(355.458)
+
+Ancestral states for:	282
+	Madagascar	0.999971	(355.458)
+
+Ancestral states for:	283
+	Madagascar	0.999858	(355.458)
+
+Ancestral states for:	284
+	Madagascar	1	(355.458)
+
+Ancestral states for:	285
+	Madagascar	0.999954	(355.458)
+
+Ancestral states for:	286
+	Madagascar	0.999956	(355.458)
+
+Ancestral states for:	287
+	Madagascar	0.999894	(355.458)
+
+Ancestral states for:	288
+	Madagascar	0.999586	(355.458)
+
+Ancestral states for:	289
+	Africa	0.997678	(355.46)
+
+Ancestral states for:	290
+	Africa_Madagascar	0.996772	(355.461)
+
+Ancestral states for:	291
+	Africa_Madagascar	0.998372	(355.46)
+
+Ancestral states for:	292
+	Africa	0.999663	(355.458)
+
+Ancestral states for:	293
+	Africa	0.998387	(355.46)
+
+Ancestral states for:	294
+	Eurasia_Africa	0.917065	(355.545)
+
+Ancestral states for:	295
+	Eurasia_Africa	0.669461	(355.859)
+	Africa	0.330285	(356.566)
+
+Ancestral states for:	296
+	Africa	0.513441	(356.125)
+	Eurasia_Africa	0.463598	(356.227)
+
+Ancestral states for:	297
+	Africa	0.527292	(356.098)
+	Eurasia_Africa	0.463836	(356.226)
+
+Ancestral states for:	298
+	Eurasia	0.999998	(355.458)
+
+Ancestral states for:	299
+	Eurasia	0.999931	(355.458)
+
+Ancestral states for:	300
+	Eurasia	0.999511	(355.459)
+
+Ancestral states for:	301
+	Eurasia_Africa	0.783236	(355.702)
+	Eurasia	0.212568	(357.007)
+
+Ancestral states for:	302
+	Eurasia	0.978495	(355.48)
+
+Ancestral states for:	303
+	Eurasia	0.999989	(355.458)
+
+Ancestral states for:	304
+	Eurasia	0.999987	(355.458)
+
+Ancestral states for:	305
+	Eurasia	0.999988	(355.458)
+
+Ancestral states for:	306
+	Eurasia	0.999995	(355.458)
+
+Ancestral states for:	307
+	Eurasia	0.999997	(355.458)
+
+Ancestral states for:	308
+	Eurasia	0.999994	(355.458)
+
+Ancestral states for:	309
+	Eurasia	0.999965	(355.458)
+
+Ancestral states for:	310
+	Eurasia	0.99982	(355.458)
+
+Ancestral states for:	311
+	Eurasia	0.999995	(355.458)
+
+Ancestral states for:	312
+	Eurasia	0.999988	(355.458)
+
+Ancestral states for:	313
+	Eurasia	0.999978	(355.458)
+
+Ancestral states for:	314
+	Eurasia	0.99992	(355.458)
+
+Ancestral states for:	315
+	Eurasia	0.999909	(355.458)
+
+Ancestral states for:	316
+	Eurasia	0.999948	(355.458)
+
+Ancestral states for:	317
+	Eurasia	0.999895	(355.458)
+
+Ancestral states for:	318
+	Eurasia	0.999816	(355.458)
+
+Ancestral states for:	319
+	Eurasia	0.999983	(355.458)
+
+Ancestral states for:	320
+	Eurasia	0.999927	(355.458)
+
+Ancestral states for:	321
+	Eurasia	0.99984	(355.458)
+
+Ancestral states for:	322
+	Eurasia	0.999634	(355.458)
+
+Ancestral states for:	323
+	Eurasia	0.982847	(355.475)
+
+Ancestral states for:	324
+	Eurasia	0.982317	(355.476)
+
+Ancestral states for:	325
+	Eurasia	0.99965	(355.458)
+
+Ancestral states for:	326
+	Eurasia	0.977523	(355.481)
+
+Ancestral states for:	327
+	North_America	0.999841	(355.458)
+
+Ancestral states for:	328
+	North_America	0.998972	(355.459)
+
+Ancestral states for:	329
+	North_America_Eurasia	0.974619	(355.484)
+
+Ancestral states for:	330
+	North_America	0.99964	(355.458)
+
+Ancestral states for:	331
+	North_America_Eurasia	0.999957	(355.458)
+
+Ancestral states for:	332
+	North_America_Eurasia	0.90697	(355.556)
+
+Ancestral states for:	333
+	North_America_Eurasia	0.861102	(355.608)
+	Eurasia	0.138869	(357.432)
+
+Ancestral states for:	334
+	North_America_Eurasia	0.553271	(356.05)
+	North_America	0.442804	(356.273)
+
+Ancestral states for:	335
+	North_America	0.869463	(355.598)
+	North_America_Eurasia	0.130495	(357.494)
+
+Ancestral states for:	336
+	North_America	0.871	(355.596)
+	North_America_Eurasia	0.128963	(357.506)
+
+Ancestral states for:	337
+	North_America	0.883957	(355.581)
+
+Ancestral states for:	338
+	North_America	0.883416	(355.582)
+
+Ancestral states for:	339
+	North_America_Eurasia	0.925348	(355.536)
+
+Ancestral states for:	340
+	North_America_Eurasia	0.973479	(355.485)
+
+Ancestral states for:	341
+	North_America_Eurasia	0.964941	(355.494)
+
+Ancestral states for:	342
+	North_America	0.78564	(355.699)
+	North_America_Eurasia	0.213375	(357.003)
+
+Ancestral states for:	343
+	Eurasia	0.999998	(355.458)
+
+Ancestral states for:	344
+	Eurasia	0.99999	(355.458)
+
+Ancestral states for:	345
+	Eurasia	0.999946	(355.458)
+
+Ancestral states for:	346
+	Eurasia	0.999394	(355.459)
+
+Ancestral states for:	347
+	North_America_Eurasia	0.997872	(355.46)
+
+Ancestral states for:	348
+	North_America_Eurasia	0.992395	(355.466)
+
+Ancestral states for:	349
+	North_America_Eurasia	0.990609	(355.467)
+
+Ancestral states for:	350
+	North_America	0.999989	(355.458)
+
+Ancestral states for:	351
+	North_America_Eurasia	0.68659	(355.834)
+	North_America	0.313408	(356.618)
+
+Ancestral states for:	352
+	North_America_Eurasia	0.669598	(355.859)
+	North_America	0.330401	(356.565)
+
+Ancestral states for:	353
+	North_America_Eurasia	0.668584	(355.861)
+	North_America	0.331415	(356.562)
+
+Ancestral states for:	354
+	Eurasia	0.9997	(355.458)
+
+Ancestral states for:	355
+	North_America_Eurasia	0.996248	(355.462)
+
+Ancestral states for:	356
+	North_America_Eurasia	0.969634	(355.489)
+
+Ancestral states for:	357
+	North_America_Eurasia	0.965051	(355.494)
+
+Ancestral states for:	358
+	North_America_Eurasia	0.994025	(355.464)
+
+Ancestral states for:	359
+	North_America_Eurasia	0.999999	(355.458)
+
+Ancestral states for:	360
+	North_America_Eurasia	0.999486	(355.459)
+
+Ancestral states for:	361
+	North_America	0.862153	(355.606)
+	North_America_Eurasia	0.137842	(357.44)
+
+Ancestral states for:	362
+	North_America	0.999992	(355.458)
+
+Ancestral states for:	363
+	North_America	0.937448	(355.523)
+
+Ancestral states for:	364
+	North_America	0.899335	(355.564)
+
+Ancestral states for:	365
+	North_America	0.992459	(355.466)
+
+Ancestral states for:	366
+	North_America	0.998105	(355.46)
+
+Ancestral states for:	367
+	North_America_Eurasia	0.999609	(355.458)
+
+Ancestral states for:	368
+	North_America_Eurasia	0.541938	(356.071)
+	North_America	0.458054	(356.239)
+
+Ancestral states for:	369
+	North_America	0.994434	(355.464)
+
+Ancestral states for:	370
+	North_America	0.999962	(355.458)
+
+Ancestral states for:	371
+	North_America	0.996661	(355.461)
+
+Ancestral states for:	372
+	North_America	0.999995	(355.458)
+
+Ancestral states for:	373
+	North_America	0.999957	(355.458)
+
+Ancestral states for:	374
+	North_America	0.998418	(355.46)
+
+Ancestral states for:	375
+	North_America	0.999999	(355.458)
+
+Ancestral states for:	376
+	North_America	1	(355.458)
+
+Ancestral states for:	377
+	North_America	1	(355.458)
+
+Ancestral states for:	378
+	North_America	0.999999	(355.458)
+
+Ancestral states for:	379
+	North_America	0.999999	(355.458)
+
+Ancestral states for:	380
+	North_America	0.999998	(355.458)
+
+Ancestral states for:	381
+	North_America	0.99999	(355.458)
+
+Ancestral states for:	382
+	North_America	0.999943	(355.458)
+
+Ancestral states for:	383
+	North_America	0.999636	(355.458)
+
+Ancestral states for:	384
+	North_America_Eurasia	0.997862	(355.46)
+
+Ancestral states for:	385
+	North_America_Eurasia	0.975377	(355.483)
+
+Ancestral states for:	386
+	North_America	0.999988	(355.458)
+
+Ancestral states for:	387
+	North_America_Eurasia	0.971587	(355.487)
+
+Ancestral states for:	388
+	North_America_Eurasia	0.988374	(355.47)
+
+Ancestral states for:	389
+	North_America_Eurasia	0.997144	(355.461)
+
+Ancestral states for:	390
+	North_America_Eurasia	0.898358	(355.565)
+
+Ancestral states for:	391
+	North_America_Eurasia	0.998623	(355.459)
+
+Ancestral states for:	392
+	North_America_Eurasia	0.877187	(355.589)
+	North_America	0.120855	(357.571)
+
+Ancestral states for:	393
+	North_America	0.80318	(355.677)
+	North_America_Eurasia	0.196776	(357.084)
+
+Ancestral states for:	394
+	North_America	0.999998	(355.458)
+
+Ancestral states for:	395
+	North_America	0.999995	(355.458)
+
+Ancestral states for:	396
+	North_America	0.999981	(355.458)
+
+Ancestral states for:	397
+	North_America	0.999994	(355.458)
+
+Ancestral states for:	398
+	North_America	0.999978	(355.458)
+
+Ancestral states for:	399
+	North_America	0.999926	(355.458)
+
+Ancestral states for:	400
+	North_America	0.999951	(355.458)
+
+Ancestral states for:	401
+	North_America	0.999783	(355.458)
+
+Ancestral states for:	402
+	North_America	0.999374	(355.459)
+
+Ancestral states for:	403
+	Eurasia	0.999919	(355.458)
+
+Ancestral states for:	404
+	Eurasia	0.999306	(355.459)
+
+Ancestral states for:	405
+	Eurasia	0.999623	(355.458)
+
+Ancestral states for:	406
+	Eurasia	0.996433	(355.462)
+
+Ancestral states for:	407
+	Eurasia	0.974815	(355.484)
+
+Ancestral states for:	408
+	North_America_Eurasia	0.865793	(355.602)
+	North_America	0.134124	(357.467)
+
+Ancestral states for:	409
+	North_America	1	(355.458)
+
+Ancestral states for:	410
+	North_America	0.999999	(355.458)
+
+Ancestral states for:	411
+	North_America	0.99999	(355.458)
+
+Ancestral states for:	412
+	North_America	0.869727	(355.598)
+	North_America_Eurasia	0.130258	(357.496)
+
+Ancestral states for:	413
+	North_America	0.980245	(355.478)
+
+Ancestral states for:	414
+	North_America	0.993985	(355.464)
+
+Ancestral states for:	415
+	North_America	0.998894	(355.459)
+
+Ancestral states for:	416
+	North_America	0.999709	(355.458)
+
+Ancestral states for:	417
+	North_America	0.999993	(355.458)
+
+Ancestral states for:	418
+	North_America_Eurasia	0.994594	(355.463)
+
+Ancestral states for:	419
+	North_America	0.840406	(355.632)
+	North_America_Eurasia	0.159585	(357.293)
+
+Ancestral states for:	420
+	North_America	1	(355.458)
+
+Ancestral states for:	421
+	North_America	0.999992	(355.458)
+
+Ancestral states for:	422
+	North_America	0.962137	(355.497)
+
+Ancestral states for:	423
+	North_America	0.999997	(355.458)
+
+Ancestral states for:	424
+	North_America	0.999991	(355.458)
+
+Ancestral states for:	425
+	North_America	0.999984	(355.458)
+
+Ancestral states for:	426
+	North_America	0.989882	(355.468)
+
+Ancestral states for:	427
+	North_America	0.999081	(355.459)
+
+Ancestral states for:	428
+	North_America	0.999992	(355.458)
+
+Ancestral states for:	429
+	North_America	0.999979	(355.458)
+
+Ancestral states for:	430
+	North_America	0.999921	(355.458)
+
+Ancestral states for:	431
+	North_America	0.999378	(355.459)
+
+Ancestral states for:	432
+	North_America	0.825935	(355.649)
+	North_America_Eurasia	0.173942	(357.207)
+
+Ancestral states for:	433
+	North_America	0.924462	(355.537)
+
+Ancestral states for:	434
+	North_America	0.999982	(355.458)
+
+Ancestral states for:	435
+	North_America	0.999866	(355.458)
+
+Ancestral states for:	436
+	North_America	0.999179	(355.459)
+
+Ancestral states for:	437
+	North_America_Eurasia	0.998711	(355.459)
+
+Ancestral states for:	438
+	North_America	0.895633	(355.568)
+
+Ancestral states for:	439
+	North_America	0.999371	(355.459)
+
+Ancestral states for:	440
+	North_America	0.896404	(355.567)
+
+Ancestral states for:	441
+	North_America	0.999994	(355.458)
+
+Ancestral states for:	442
+	North_America	0.999948	(355.458)
+
+Ancestral states for:	443
+	North_America	0.999637	(355.458)
+
+Ancestral states for:	444
+	North_America	0.872538	(355.594)

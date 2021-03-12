@@ -1,0 +1,1214 @@
+Optimizing (simplex) -ln likelihood.
+dis: 0.00138977 ext: 1.23286e-05
+final -ln likelihood: 53.2014
+Ancestral splits for:	1
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	2
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	3
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	4
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	5
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	6
+	Eurasia|Eurasia	0.999998	(53.2014)
+
+Ancestral splits for:	7
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	8
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	9
+	Eurasia|Eurasia	0.999998	(53.2014)
+
+Ancestral splits for:	10
+	Eurasia|Eurasia	0.999994	(53.2014)
+
+Ancestral splits for:	11
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	12
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	13
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	14
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	15
+	Eurasia|Eurasia	0.999999	(53.2014)
+
+Ancestral splits for:	16
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	17
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	18
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	19
+	Eurasia|Eurasia	0.999999	(53.2014)
+
+Ancestral splits for:	20
+	Eurasia|Eurasia	0.999993	(53.2014)
+
+Ancestral splits for:	21
+	Eurasia|Eurasia	0.999935	(53.2015)
+
+Ancestral splits for:	22
+	Eurasia|Africa	0.999744	(53.2017)
+
+Ancestral splits for:	23
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	24
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	25
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	26
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	27
+	Africa|Africa	0.947746	(53.2551)
+
+Ancestral splits for:	28
+	Africa|Africa	0.955528	(53.2469)
+
+Ancestral splits for:	29
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	30
+	Africa|Africa	0.996757	(53.2046)
+
+Ancestral splits for:	31
+	Africa|Africa	0.99805	(53.2034)
+
+Ancestral splits for:	32
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	33
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	34
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	35
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	36
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	37
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	38
+	Africa|Africa	0.99982	(53.2016)
+
+Ancestral splits for:	39
+	Eurasia_Africa|Africa	0.50064	(53.8933)
+	Africa|Africa	0.498607	(53.8973)
+
+Ancestral splits for:	40
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	41
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	42
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	43
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	44
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	45
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	46
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	47
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	48
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	49
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	50
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	51
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	52
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	53
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	54
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	55
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	56
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	57
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	58
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	59
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	60
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	61
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	62
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	63
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	64
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	65
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	66
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	67
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	68
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	69
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	70
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	71
+	Africa|Africa	0.648057	(53.6352)
+	Eurasia_Africa|Africa	0.351148	(54.2479)
+
+Ancestral splits for:	72
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	73
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	74
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	75
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	76
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	77
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	78
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	79
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	80
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	81
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	82
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	83
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	84
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	85
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	86
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	87
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	88
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	89
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	90
+	Eurasia|Eurasia	0.999999	(53.2014)
+
+Ancestral splits for:	91
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	92
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	93
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	94
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	95
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	96
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	97
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	98
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	99
+	Eurasia|Eurasia	0.999999	(53.2014)
+
+Ancestral splits for:	100
+	Eurasia|Eurasia	0.999997	(53.2014)
+
+Ancestral splits for:	101
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	102
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	103
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	104
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	105
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	106
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	107
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	108
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	109
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	110
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	111
+	Eurasia|Eurasia	0.999995	(53.2014)
+
+Ancestral splits for:	112
+	Eurasia|Eurasia	0.999984	(53.2014)
+
+Ancestral splits for:	113
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	114
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	115
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	116
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	117
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	118
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	119
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	120
+	Africa|Africa	0.999999	(53.2014)
+
+Ancestral splits for:	121
+	Africa|Africa	0.999993	(53.2014)
+
+Ancestral splits for:	122
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	123
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	124
+	Africa|Africa	0.999999	(53.2014)
+
+Ancestral splits for:	125
+	Africa|Africa	0.999997	(53.2014)
+
+Ancestral splits for:	126
+	Africa|Africa	0.99996	(53.2014)
+
+Ancestral splits for:	127
+	Eurasia|Africa	0.999818	(53.2016)
+
+Ancestral splits for:	128
+	Africa|Eurasia_Africa	0.720112	(53.5297)
+
+Ancestral splits for:	129
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	130
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	131
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	132
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	133
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	134
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	135
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	136
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	137
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	138
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	139
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	140
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	141
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	142
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	143
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	144
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	145
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	146
+	Eurasia|Eurasia	0.999998	(53.2014)
+
+Ancestral splits for:	147
+	Africa|Africa	0.999999	(53.2014)
+
+Ancestral splits for:	148
+	Africa|Eurasia_Africa	0.920914	(53.2838)
+
+Ancestral splits for:	149
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	150
+	Eurasia_Africa|Africa	0.931119	(53.2728)
+
+Ancestral splits for:	151
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	152
+	Eurasia|Eurasia	0.999999	(53.2014)
+
+Ancestral splits for:	153
+	Eurasia|Eurasia	0.783249	(53.4457)
+	Eurasia_Africa|Eurasia	0.147779	(55.1134)
+
+Ancestral splits for:	154
+	Eurasia|Eurasia	0.894778	(53.3126)
+
+Ancestral splits for:	155
+	Eurasia|Eurasia	0.814507	(53.4066)
+	Eurasia_Africa|Eurasia	0.134469	(55.2078)
+
+Ancestral splits for:	156
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	157
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	158
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	159
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	160
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	161
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	162
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	163
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	164
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	165
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	166
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	167
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	168
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	169
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	170
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	171
+	Neotropics|Neotropics	0.999999	(53.2014)
+
+Ancestral splits for:	172
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	173
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	174
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	175
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	176
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	177
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	178
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	179
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	180
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	181
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	182
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	183
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	184
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	185
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	186
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	187
+	Neotropics|Neotropics	0.999999	(53.2014)
+
+Ancestral splits for:	188
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	189
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	190
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	191
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	192
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	193
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	194
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	195
+	Neotropics|Neotropics	0.999998	(53.2014)
+
+Ancestral splits for:	196
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	197
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	198
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	199
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	200
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	201
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	202
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	203
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	204
+	Neotropics|Neotropics	0.999999	(53.2014)
+
+Ancestral splits for:	205
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	206
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	207
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	208
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	209
+	Neotropics|Neotropics	0.999997	(53.2014)
+
+Ancestral splits for:	210
+	Neotropics|Neotropics	0.999994	(53.2014)
+
+Ancestral splits for:	211
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	212
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	213
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	214
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	215
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	216
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	217
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	218
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	219
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	220
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	221
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	222
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	223
+	Neotropics|Neotropics	0.999998	(53.2014)
+
+Ancestral splits for:	224
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	225
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	226
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	227
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	228
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	229
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	230
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	231
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	232
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	233
+	Neotropics|Neotropics	0.999988	(53.2014)
+
+Ancestral splits for:	234
+	Neotropics|Neotropics	0.999969	(53.2014)
+
+Ancestral splits for:	235
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	236
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	237
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	238
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	239
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	240
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	241
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	242
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	243
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	244
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	245
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	246
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	247
+	Neotropics|Neotropics	0.999998	(53.2014)
+
+Ancestral splits for:	248
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	249
+	Neotropics|Neotropics	0.999997	(53.2014)
+
+Ancestral splits for:	250
+	Neotropics|Neotropics	0.99999	(53.2014)
+
+Ancestral splits for:	251
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	252
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	253
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	254
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	255
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	256
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	257
+	Neotropics|Neotropics	0.999999	(53.2014)
+
+Ancestral splits for:	258
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	259
+	Neotropics|Neotropics	1	(53.2014)
+
+Ancestral splits for:	260
+	Neotropics|Neotropics	0.999992	(53.2014)
+
+Ancestral splits for:	261
+	Neotropics|Neotropics	0.99995	(53.2014)
+
+Ancestral splits for:	262
+	Neotropics|Neotropics	0.999844	(53.2016)
+
+Ancestral splits for:	263
+	Eurasia|Neotropics	0.991262	(53.2102)
+
+Ancestral splits for:	264
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	265
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	266
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	267
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	268
+	Eurasia|Eurasia	0.999999	(53.2014)
+
+Ancestral splits for:	269
+	Eurasia|Eurasia	0.99999	(53.2014)
+
+Ancestral splits for:	270
+	Eurasia|Eurasia	0.999972	(53.2014)
+
+Ancestral splits for:	271
+	Eurasia|Eurasia	0.86948	(53.3413)
+	Neotropics_Eurasia|Eurasia	0.120412	(55.3182)
+
+Ancestral splits for:	272
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	273
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	274
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	275
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	276
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	277
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	278
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	279
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	280
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	281
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	282
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	283
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	284
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	285
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	286
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	287
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	288
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	289
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	290
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	291
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	292
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	293
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	294
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	295
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	296
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	297
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	298
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	299
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	300
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	301
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	302
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	303
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	304
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	305
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	306
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	307
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	308
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	309
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	310
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	311
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	312
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	313
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	314
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	315
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	316
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	317
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	318
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	319
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	320
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	321
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	322
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	323
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	324
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	325
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	326
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	327
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	328
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	329
+	Madagascar|Madagascar	0.999999	(53.2014)
+
+Ancestral splits for:	330
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	331
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	332
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	333
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	334
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	335
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	336
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	337
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	338
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	339
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	340
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	341
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	342
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	343
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	344
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	345
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	346
+	Madagascar|Madagascar	0.999999	(53.2014)
+
+Ancestral splits for:	347
+	Madagascar|Madagascar	0.999997	(53.2014)
+
+Ancestral splits for:	348
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	349
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	350
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	351
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	352
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	353
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	354
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	355
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	356
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	357
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	358
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	359
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	360
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	361
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	362
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	363
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	364
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	365
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	366
+	Madagascar|Madagascar	1	(53.2014)
+
+Ancestral splits for:	367
+	Madagascar|Madagascar	0.999995	(53.2014)
+
+Ancestral splits for:	368
+	Madagascar|Madagascar	0.999977	(53.2014)
+
+Ancestral splits for:	369
+	Madagascar|Madagascar	0.999612	(53.2018)
+
+Ancestral splits for:	370
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	371
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	372
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	373
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	374
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	375
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	376
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	377
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	378
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	379
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	380
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	381
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	382
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	383
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	384
+	Africa|Africa	0.999999	(53.2014)
+
+Ancestral splits for:	385
+	Africa|Africa	0.999998	(53.2014)
+
+Ancestral splits for:	386
+	Africa|Africa	0.999995	(53.2014)
+
+Ancestral splits for:	387
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	388
+	Eurasia|Eurasia	1	(53.2014)
+
+Ancestral splits for:	389
+	Eurasia|Eurasia	0.999999	(53.2014)
+
+Ancestral splits for:	390
+	Eurasia|Eurasia	0.999988	(53.2014)
+
+Ancestral splits for:	391
+	Eurasia|Eurasia	0.999997	(53.2014)
+
+Ancestral splits for:	392
+	Eurasia|Eurasia	0.999845	(53.2016)
+
+Ancestral splits for:	393
+	Africa|Africa	1	(53.2014)
+
+Ancestral splits for:	394
+	Africa|Africa	0.999998	(53.2014)
+
+Ancestral splits for:	395
+	Africa|Africa	0.999998	(53.2014)
+
+Ancestral splits for:	396
+	Africa|Africa	0.999961	(53.2014)
+
+Ancestral splits for:	397
+	Eurasia|Africa	0.999359	(53.202)
+
+Ancestral splits for:	398
+	Africa|Eurasia_Africa	0.779795	(53.4501)
+	Africa|Africa	0.211174	(54.7565)
+
+Ancestral splits for:	399
+	Madagascar|Eurasia	0.758885	(53.4773)
+	Madagascar|Africa	0.240455	(54.6266)
+
+Ancestral splits for:	400
+	Eurasia|Eurasia_Madagascar	0.555642	(53.789)
+	Eurasia|Madagascar	0.129422	(55.2461)
+	Eurasia|Africa	0.115338	(55.3613)
+	Neotropics_Eurasia|Eurasia	0.103708	(55.4676)
+	Eurasia|Eurasia	0.0846215	(55.671)
+
